@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests/engine.test.js && node tests/learning.test.js && node tests/anatomy.test.js"
+  }
+}

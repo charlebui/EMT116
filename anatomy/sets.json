@@ -1,0 +1,954 @@
+[
+  {
+    "id": "skull",
+    "title": "The Skull",
+    "image": "./anatomy/skull-redrawn.png",
+    "rotate": false,
+    "parts": [
+      {
+        "letter": "A",
+        "name": "Parietal bone",
+        "description": "Forms the upper sides and roof of the cranium, which protects the brain."
+      },
+      {
+        "letter": "B",
+        "name": "Frontal bone",
+        "description": "The bone at the front of the skull over the forehead."
+      },
+      {
+        "letter": "C",
+        "name": "Maxilla (upper jaw)",
+        "description": "Upper jaw bone shown from beneath the skull; supports the upper teeth."
+      },
+      {
+        "letter": "D",
+        "name": "Temporal bone",
+        "description": "Bone on the lateral side of the skull near the ear."
+      },
+      {
+        "letter": "E",
+        "name": "Nasal bones",
+        "description": "The bones forming the bridge of the nose."
+      },
+      {
+        "letter": "F",
+        "name": "Zygomatic bone",
+        "description": "Cheekbone that also contributes to the eye socket."
+      },
+      {
+        "letter": "G",
+        "name": "Maxilla (upper jaw)",
+        "description": "The paired upper jaw bones shown from the front; support the upper teeth."
+      },
+      {
+        "letter": "H",
+        "name": "Foramen magnum",
+        "description": "Large opening in the skull through which the spinal cord passes."
+      },
+      {
+        "letter": "I",
+        "name": "Occipital bone",
+        "description": "Bone forming the posterior portion of the skull."
+      },
+      {
+        "letter": "J",
+        "name": "Mandible",
+        "description": "The movable lower jaw bone, used in chewing and speaking."
+      }
+    ],
+    "originalImage": "./anatomy/skull.jpeg",
+    "imageSize": [
+      1536,
+      1024
+    ],
+    "crop": [
+      30,
+      70,
+      1475,
+      930
+    ]
+  },
+  {
+    "id": "spine",
+    "title": "The Spinal Column",
+    "image": "./anatomy/spine-thorax-redrawn.png",
+    "rotate": false,
+    "parts": [
+      {
+        "letter": "A",
+        "name": "Cerebrum",
+        "description": "Largest part of the brain; supports thinking, planning, and self-awareness."
+      },
+      {
+        "letter": "B",
+        "name": "Foramen magnum",
+        "description": "Opening at the skull base where the spinal cord exits."
+      },
+      {
+        "letter": "C",
+        "name": "Brainstem",
+        "description": "Connects with the spinal cord and controls vital functions such as breathing and heart rate."
+      },
+      {
+        "letter": "D",
+        "name": "Cerebellum",
+        "description": "Brain region involved in balance, coordination, and posture."
+      },
+      {
+        "letter": "E",
+        "name": "Cervical nerves",
+        "description": "Nerves shown extending from the neck region of the spinal column."
+      },
+      {
+        "letter": "F",
+        "name": "Cervical vertebrae",
+        "description": "The seven vertebrae in the neck region."
+      },
+      {
+        "letter": "G",
+        "name": "Thoracic nerves",
+        "description": "Nerves shown extending from the upper-back region."
+      },
+      {
+        "letter": "H",
+        "name": "Thoracic vertebrae",
+        "description": "The twelve vertebrae of the upper back, associated with the ribs."
+      },
+      {
+        "letter": "I",
+        "name": "Lumbar vertebrae",
+        "description": "The five lower-back vertebrae that support much of the body's weight."
+      },
+      {
+        "letter": "J",
+        "name": "Lumbosacral nerves",
+        "description": "Nerves shown in the lower-back and sacral region."
+      },
+      {
+        "letter": "K",
+        "name": "Sacral vertebrae",
+        "description": "Five fused vertebrae forming the sacrum at the back of the pelvis."
+      },
+      {
+        "letter": "L",
+        "name": "Coccygeal vertebrae",
+        "description": "Four fused vertebrae forming the coccyx, or tailbone."
+      }
+    ],
+    "originalImage": "./anatomy/spine-thorax.jpeg",
+    "imageSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      0,
+      0,
+      1024,
+      890
+    ]
+  },
+  {
+    "id": "thorax",
+    "title": "The Thorax",
+    "image": "./anatomy/spine-thorax-redrawn.png",
+    "rotate": false,
+    "parts": [
+      {
+        "letter": "A",
+        "name": "Sternal notch",
+        "description": "The indentation at the superior edge of the sternum shown between the clavicles."
+      },
+      {
+        "letter": "B",
+        "name": "Manubrium",
+        "description": "The superior portion of the sternum."
+      },
+      {
+        "letter": "C",
+        "name": "Sternum",
+        "description": "The breastbone at the front midline of the chest; the bracket marks the whole bone."
+      },
+      {
+        "letter": "D",
+        "name": "Body of the sternum",
+        "description": "The long middle portion of the sternum."
+      },
+      {
+        "letter": "E",
+        "name": "Xiphoid process",
+        "description": "The small inferior tip of the sternum."
+      },
+      {
+        "letter": "F",
+        "name": "Anterior ribs",
+        "description": "The ribs seen at the front of the chest, forming part of the protective thoracic cage."
+      },
+      {
+        "letter": "G",
+        "name": "Costal arch",
+        "description": "The curved lower border of the rib cage shown on each side."
+      }
+    ],
+    "originalImage": "./anatomy/spine-thorax.jpeg",
+    "imageSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      0,
+      890,
+      930,
+      646
+    ]
+  },
+  {
+    "id": "shoulder",
+    "title": "The Shoulder Girdle",
+    "image": "./anatomy/shoulder-hand-redrawn.png",
+    "rotate": false,
+    "parts": [
+      {
+        "letter": "A",
+        "name": "Sternoclavicular joint",
+        "description": "The connection where the clavicle meets the sternum."
+      },
+      {
+        "letter": "B",
+        "name": "Clavicle",
+        "description": "The collarbone connecting the shoulder region with the trunk."
+      },
+      {
+        "letter": "C",
+        "name": "Acromioclavicular (A/C) joint",
+        "description": "The connection between the clavicle and the acromion of the scapula."
+      },
+      {
+        "letter": "D",
+        "name": "Humerus",
+        "description": "The large upper-arm bone extending from shoulder to elbow."
+      },
+      {
+        "letter": "E",
+        "name": "Sternum",
+        "description": "The breastbone at the front midline of the chest."
+      },
+      {
+        "letter": "F",
+        "name": "Scapula",
+        "description": "The shoulder blade; a flat bone providing muscle attachment points."
+      },
+      {
+        "letter": "G",
+        "name": "Glenohumeral (shoulder) joint",
+        "description": "Ball-and-socket connection where the humeral head fits into the scapular socket."
+      }
+    ],
+    "originalImage": "./anatomy/shoulder-hand.jpeg",
+    "imageSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      0,
+      0,
+      1024,
+      612
+    ]
+  },
+  {
+    "id": "hand",
+    "title": "The Wrist and Hand",
+    "image": "./anatomy/shoulder-hand-redrawn.png",
+    "rotate": false,
+    "parts": [
+      {
+        "letter": "A",
+        "name": "Index finger",
+        "description": "The digit next to the thumb, indicated at its tip."
+      },
+      {
+        "letter": "B",
+        "name": "Middle finger",
+        "description": "The central digit of the hand shown between the index and ring fingers."
+      },
+      {
+        "letter": "C",
+        "name": "Ring finger",
+        "description": "The digit between the middle and little fingers."
+      },
+      {
+        "letter": "D",
+        "name": "Little finger",
+        "description": "The digit on the ulnar side of the hand."
+      },
+      {
+        "letter": "E",
+        "name": "Phalanges",
+        "description": "The bones making up the fingers."
+      },
+      {
+        "letter": "F",
+        "name": "Thumb",
+        "description": "The digit on the radial side of the hand."
+      },
+      {
+        "letter": "G",
+        "name": "Metacarpals",
+        "description": "The five bones forming the main structure of the hand between wrist and fingers."
+      },
+      {
+        "letter": "H",
+        "name": "Carpometacarpal joint",
+        "description": "The connection between a carpal and metacarpal at the base of the thumb."
+      },
+      {
+        "letter": "I",
+        "name": "Carpals",
+        "description": "The small bones of the wrist."
+      },
+      {
+        "letter": "J",
+        "name": "Radius",
+        "description": "The forearm bone on the thumb, or lateral, side in anatomical position."
+      },
+      {
+        "letter": "K",
+        "name": "Ulna",
+        "description": "The forearm bone on the little-finger, or medial, side in anatomical position."
+      }
+    ],
+    "originalImage": "./anatomy/shoulder-hand.jpeg",
+    "imageSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      0,
+      615,
+      940,
+      921
+    ]
+  },
+  {
+    "id": "pelvis",
+    "title": "The Pelvis",
+    "image": "./anatomy/pelvis-leg-redrawn.png",
+    "rotate": false,
+    "parts": [
+      {
+        "letter": "A",
+        "name": "Inferior vena cava",
+        "description": "Large vein returning blood from the abdomen, pelvis, and lower limbs toward the heart."
+      },
+      {
+        "letter": "B",
+        "name": "Descending aorta",
+        "description": "The portion of the aorta shown descending toward the lower body."
+      },
+      {
+        "letter": "C",
+        "name": "Iliac crest",
+        "description": "The superior curved border of the ilium."
+      },
+      {
+        "letter": "D",
+        "name": "Ilium",
+        "description": "The broad upper portion of the hip bone."
+      },
+      {
+        "letter": "E",
+        "name": "Sacrum",
+        "description": "Triangular bone at the posterior pelvis, formed from five fused vertebrae."
+      },
+      {
+        "letter": "F",
+        "name": "Pubis",
+        "description": "The anterior component of the hip bone near the pubic symphysis."
+      },
+      {
+        "letter": "G",
+        "name": "Acetabulum",
+        "description": "The pelvic socket that receives the head of the femur."
+      },
+      {
+        "letter": "H",
+        "name": "Pubic symphysis",
+        "description": "The slightly movable joint connecting the pubic bones at the front of the pelvis."
+      },
+      {
+        "letter": "I",
+        "name": "Ischial tuberosity",
+        "description": "The bony prominence shown on the inferior part of the ischium."
+      },
+      {
+        "letter": "J",
+        "name": "Femoral artery",
+        "description": "The artery shown continuing into the thigh; the femoral pulse is assessed at the groin."
+      },
+      {
+        "letter": "K",
+        "name": "Ischium",
+        "description": "The lower posterior component of the hip bone."
+      },
+      {
+        "letter": "L",
+        "name": "Femoral vein",
+        "description": "The vein shown alongside the femoral artery in the thigh."
+      }
+    ],
+    "originalImage": "./anatomy/pelvis-leg.jpeg",
+    "imageSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      0,
+      0,
+      610,
+      570
+    ]
+  },
+  {
+    "id": "leg",
+    "title": "The Lower Extremity",
+    "image": "./anatomy/pelvis-leg-redrawn.png",
+    "rotate": false,
+    "parts": [
+      {
+        "letter": "A",
+        "name": "Pelvis",
+        "description": "The bony ring connecting the trunk with the lower limbs."
+      },
+      {
+        "letter": "B",
+        "name": "Femoral head",
+        "description": "The rounded proximal end of the femur that fits into the acetabulum."
+      },
+      {
+        "letter": "C",
+        "name": "Greater trochanter",
+        "description": "The large proximal femoral prominence serving as a muscle attachment landmark."
+      },
+      {
+        "letter": "D",
+        "name": "Hip",
+        "description": "The region of the ball-and-socket joint between the femur and pelvis."
+      },
+      {
+        "letter": "E",
+        "name": "Lesser trochanter",
+        "description": "The smaller proximal femoral prominence serving as a muscle attachment landmark."
+      },
+      {
+        "letter": "F",
+        "name": "Femur",
+        "description": "The long bone of the thigh."
+      },
+      {
+        "letter": "G",
+        "name": "Thigh",
+        "description": "The region between the hip and knee."
+      },
+      {
+        "letter": "H",
+        "name": "Patella (kneecap)",
+        "description": "Bone at the front of the knee that helps protect the knee joint."
+      },
+      {
+        "letter": "I",
+        "name": "Knee",
+        "description": "The joint region connecting the thigh with the lower leg."
+      },
+      {
+        "letter": "J",
+        "name": "Fibula",
+        "description": "The lateral bone of the lower leg."
+      },
+      {
+        "letter": "K",
+        "name": "Leg",
+        "description": "The lower-leg region between the knee and ankle in this diagram."
+      },
+      {
+        "letter": "L",
+        "name": "Tibia (shin bone)",
+        "description": "The weight-bearing shin bone of the lower leg."
+      },
+      {
+        "letter": "M",
+        "name": "Ankle",
+        "description": "The joint region connecting the lower leg and foot."
+      },
+      {
+        "letter": "N",
+        "name": "Tarsals",
+        "description": "The bones at the proximal foot and ankle region."
+      },
+      {
+        "letter": "O",
+        "name": "Foot",
+        "description": "The region distal to the ankle, supporting balance and mobility."
+      },
+      {
+        "letter": "P",
+        "name": "Metatarsals",
+        "description": "The five bones between the tarsals and toe phalanges."
+      },
+      {
+        "letter": "Q",
+        "name": "Phalanges",
+        "description": "The bones of the toes."
+      }
+    ],
+    "originalImage": "./anatomy/pelvis-leg.jpeg",
+    "imageSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      0,
+      575,
+      490,
+      961
+    ]
+  },
+  {
+    "id": "foot",
+    "title": "The Foot",
+    "image": "./anatomy/foot-respiratory-redrawn.png",
+    "rotate": false,
+    "parts": [
+      {
+        "letter": "A",
+        "name": "Achilles tendon",
+        "description": "The tendon shown at the back of the ankle attaching to the heel; tendons connect muscle to bone."
+      },
+      {
+        "letter": "B",
+        "name": "Medial malleolus",
+        "description": "The bony prominence shown on the medial side of the ankle."
+      },
+      {
+        "letter": "C",
+        "name": "Talus",
+        "description": "Tarsal bone joining the lower ends of the tibia and fibula at the ankle."
+      },
+      {
+        "letter": "D",
+        "name": "Navicular",
+        "description": "The tarsal bone shown immediately anterior to the talus in this side view."
+      },
+      {
+        "letter": "E",
+        "name": "Medial cuneiform",
+        "description": "The tarsal bone shown between the navicular and the first metatarsal."
+      },
+      {
+        "letter": "F",
+        "name": "Phalanges",
+        "description": "The bones of the toes shown at the distal end of the foot."
+      },
+      {
+        "letter": "G",
+        "name": "Metatarsal",
+        "description": "A bone forming the main part of the foot between the tarsals and toes."
+      },
+      {
+        "letter": "H",
+        "name": "Calcaneus",
+        "description": "The heel bone, which bears weight during standing and walking."
+      }
+    ],
+    "originalImage": "./anatomy/foot-respiratory.jpeg",
+    "imageSize": [
+      1312,
+      1199
+    ],
+    "crop": [
+      390,
+      0,
+      780,
+      468
+    ]
+  },
+  {
+    "id": "respiratory",
+    "title": "The Respiratory System",
+    "image": "./anatomy/foot-respiratory-redrawn.png",
+    "rotate": false,
+    "parts": [
+      {
+        "letter": "A",
+        "name": "Upper airway",
+        "description": "The upper passage for air, including the nose, mouth, and pharynx."
+      },
+      {
+        "letter": "B",
+        "name": "Nasopharynx",
+        "description": "The part of the pharynx behind the nose."
+      },
+      {
+        "letter": "C",
+        "name": "Nasal air passage",
+        "description": "The route through the nose, where incoming air is filtered and warmed."
+      },
+      {
+        "letter": "D",
+        "name": "Pharynx",
+        "description": "The muscular passageway shared by air and food."
+      },
+      {
+        "letter": "E",
+        "name": "Oropharynx",
+        "description": "The part of the pharynx behind the mouth."
+      },
+      {
+        "letter": "F",
+        "name": "Mouth",
+        "description": "The oral cavity, which provides another passage for air."
+      },
+      {
+        "letter": "G",
+        "name": "Epiglottis",
+        "description": "Leaf-shaped flap that helps keep food and liquid out of the airway during swallowing."
+      },
+      {
+        "letter": "H",
+        "name": "Larynx",
+        "description": "The voice box, containing the vocal cords and marking the upper/lower airway boundary."
+      },
+      {
+        "letter": "I",
+        "name": "Trachea",
+        "description": "The windpipe, supported by cartilage rings and carrying air toward the lungs."
+      },
+      {
+        "letter": "J",
+        "name": "Apex of the lung",
+        "description": "The superior tip of the lung."
+      },
+      {
+        "letter": "K",
+        "name": "Bronchioles",
+        "description": "The small branching airways leading toward the alveoli."
+      },
+      {
+        "letter": "L",
+        "name": "Lower airway",
+        "description": "The lower conducting passages leading into the lungs and the gas-exchange structures."
+      },
+      {
+        "letter": "M",
+        "name": "Carina",
+        "description": "The point where the trachea divides into the main bronchi."
+      },
+      {
+        "letter": "N",
+        "name": "Main bronchi",
+        "description": "The large branches carrying air from the trachea into the lungs."
+      },
+      {
+        "letter": "O",
+        "name": "Base of the lung",
+        "description": "The inferior portion of the lung above the diaphragm."
+      },
+      {
+        "letter": "P",
+        "name": "Diaphragm",
+        "description": "The major breathing muscle below the lungs; contraction helps draw air into the lungs."
+      },
+      {
+        "letter": "Q",
+        "name": "Alveoli",
+        "description": "The small air sacs where oxygen and carbon dioxide exchange with the blood."
+      }
+    ],
+    "originalImage": "./anatomy/foot-respiratory.jpeg",
+    "imageSize": [
+      1312,
+      1199
+    ],
+    "crop": [
+      0,
+      473,
+      1312,
+      726
+    ]
+  },
+  {
+    "id": "circulation",
+    "title": "The Circulatory System",
+    "image": "./anatomy/circulation-pulses-redrawn.png",
+    "rotate": false,
+    "parts": [
+      {
+        "letter": "A",
+        "name": "Tissue cells",
+        "description": "Body cells that receive oxygen and nutrients and release metabolic waste."
+      },
+      {
+        "letter": "B",
+        "name": "Systemic (body) capillaries",
+        "description": "Thin-walled vessels where exchange occurs between blood and body tissues."
+      },
+      {
+        "letter": "C",
+        "name": "Venule",
+        "description": "A small vessel carrying blood from capillaries toward larger veins."
+      },
+      {
+        "letter": "D",
+        "name": "Arteriole",
+        "description": "A small arterial branch carrying blood toward capillaries."
+      },
+      {
+        "letter": "E",
+        "name": "Vein",
+        "description": "A vessel carrying blood toward the heart."
+      },
+      {
+        "letter": "F",
+        "name": "Aorta",
+        "description": "The major artery leaving the left side of the heart to supply the body."
+      },
+      {
+        "letter": "G",
+        "name": "Artery",
+        "description": "A vessel carrying blood away from the heart."
+      },
+      {
+        "letter": "H",
+        "name": "Pulmonary (lung) capillaries",
+        "description": "The lung vessels where blood releases carbon dioxide and takes up oxygen."
+      },
+      {
+        "letter": "I",
+        "name": "Right atrium",
+        "description": "The right upper chamber receiving blood returning from the body."
+      },
+      {
+        "letter": "J",
+        "name": "Heart",
+        "description": "The muscular organ pumping blood through the pulmonary and systemic circulations."
+      },
+      {
+        "letter": "K",
+        "name": "Left atrium",
+        "description": "The left upper chamber receiving oxygen-rich blood from the lungs."
+      },
+      {
+        "letter": "L",
+        "name": "Right ventricle",
+        "description": "The right lower chamber pumping oxygen-poor blood toward the lungs."
+      },
+      {
+        "letter": "M",
+        "name": "Left ventricle",
+        "description": "The left lower chamber pumping blood into the aorta for systemic circulation."
+      }
+    ],
+    "originalImage": "./anatomy/circulation-pulses.jpeg",
+    "imageSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      0,
+      0,
+      1024,
+      788
+    ]
+  },
+  {
+    "id": "pulses",
+    "title": "Central and Peripheral Pulses",
+    "image": "./anatomy/circulation-pulses-redrawn.png",
+    "rotate": false,
+    "parts": [
+      {
+        "letter": "A",
+        "name": "Superficial temporal",
+        "description": "The pulse site shown at the temple."
+      },
+      {
+        "letter": "B",
+        "name": "External maxillary",
+        "description": "The pulse site shown along the side of the face near the jaw."
+      },
+      {
+        "letter": "C",
+        "name": "Carotid",
+        "description": "The pulse site in the neck."
+      },
+      {
+        "letter": "D",
+        "name": "Brachial",
+        "description": "The pulse site shown at the medial upper arm near the elbow."
+      },
+      {
+        "letter": "E",
+        "name": "Ulnar",
+        "description": "The wrist pulse site on the little-finger side."
+      },
+      {
+        "letter": "F",
+        "name": "Radial",
+        "description": "The wrist pulse site on the thumb side."
+      },
+      {
+        "letter": "G",
+        "name": "Femoral",
+        "description": "The pulse site at the groin."
+      },
+      {
+        "letter": "H",
+        "name": "Posterior tibial",
+        "description": "The pulse site shown behind the medial ankle."
+      },
+      {
+        "letter": "I",
+        "name": "Dorsalis pedis",
+        "description": "The pulse site on the top of the foot."
+      }
+    ],
+    "originalImage": "./anatomy/circulation-pulses.jpeg",
+    "imageSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      265,
+      830,
+      465,
+      706
+    ]
+  },
+  {
+    "id": "male",
+    "title": "The Male Reproductive System",
+    "image": "./anatomy/male-reproductive.svg",
+    "rotate": false,
+    "parts": [
+      {
+        "letter": "A",
+        "name": "Ureter",
+        "description": "The tube draining urine from a kidney into the urinary bladder."
+      },
+      {
+        "letter": "B",
+        "name": "Urinary bladder",
+        "description": "The hollow muscular organ storing urine in the pelvis."
+      },
+      {
+        "letter": "C",
+        "name": "Vas deferens",
+        "description": "The duct shown extending from the testicular region toward the pelvic reproductive structures."
+      },
+      {
+        "letter": "D",
+        "name": "Prostate gland",
+        "description": "The pelvic reproductive gland shown below the bladder in the front view."
+      },
+      {
+        "letter": "E",
+        "name": "Pubic bone",
+        "description": "The anterior pelvic bone shown in front of the bladder in the side view."
+      },
+      {
+        "letter": "F",
+        "name": "Prostate gland",
+        "description": "The pelvic reproductive gland shown below the bladder in the side view."
+      },
+      {
+        "letter": "G",
+        "name": "Urethra",
+        "description": "The passage shown through the penis in the side view."
+      },
+      {
+        "letter": "H",
+        "name": "Urethra",
+        "description": "The central passage shown through the penis in the front view."
+      },
+      {
+        "letter": "I",
+        "name": "Epididymis",
+        "description": "The structure shown along the testis, connecting toward the vas deferens."
+      },
+      {
+        "letter": "J",
+        "name": "Testis",
+        "description": "The male reproductive organ shown inside the scrotum."
+      },
+      {
+        "letter": "K",
+        "name": "Penis",
+        "description": "The external reproductive structure shown in front and side views."
+      },
+      {
+        "letter": "L",
+        "name": "Glans penis",
+        "description": "The distal head of the penis shown in the front view."
+      },
+      {
+        "letter": "M",
+        "name": "Scrotum",
+        "description": "The external sac shown around the testis."
+      }
+    ],
+    "originalImage": "./anatomy/reproductive.jpeg",
+    "imageSize": [
+      1100,
+      650
+    ],
+    "crop": [
+      0,
+      0,
+      1100,
+      650
+    ]
+  },
+  {
+    "id": "female",
+    "title": "The Female Reproductive System",
+    "image": "./anatomy/female-reproductive.svg",
+    "rotate": false,
+    "parts": [
+      {
+        "letter": "A",
+        "name": "Uterine (fallopian) tube",
+        "description": "The tube shown extending from the upper uterus toward the ovary."
+      },
+      {
+        "letter": "B",
+        "name": "Uterus",
+        "description": "The central muscular reproductive organ above the cervix."
+      },
+      {
+        "letter": "C",
+        "name": "Ovary",
+        "description": "The paired reproductive organ shown near the lateral end of the uterine tube."
+      },
+      {
+        "letter": "D",
+        "name": "Cervix",
+        "description": "The narrow lower portion of the uterus leading to the vagina."
+      },
+      {
+        "letter": "E",
+        "name": "Vagina",
+        "description": "The canal shown extending inferiorly from the cervix."
+      }
+    ],
+    "originalImage": "./anatomy/reproductive.jpeg",
+    "imageSize": [
+      1100,
+      620
+    ],
+    "crop": [
+      0,
+      0,
+      1100,
+      620
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Anatomy diagram · EMT 116</title><style>body{font-family:system-ui,sans-serif;margin:0;padding:24px;background:#fff;color:#133e35}main{max-width:1100px;margin:auto}h1{font-size:24px}.ap-cropped-diagram{display:block;width:100%;height:auto;overflow:hidden}a{color:#133e35}#diagram{max-width:100%;margin:20px auto}@media print{nav{display:none}body{padding:0}}</style></head><body><main><nav><a href="./index.html#anatomy">← A&amp;P matching</a></nav><h1 id="title">Anatomy diagram</h1><div id="diagram" role="status">Loading diagram…</div></main><script type="module">
+import {diagramMarkup} from './anatomy.js';
+try{
+  const response=await fetch('./anatomy/sets.json');if(!response.ok)throw Error('Diagram data unavailable.');
+  const sets=await response.json(),set=sets.find(s=>s.id===new URLSearchParams(location.search).get('id'));
+  if(!set)throw Error('Choose a diagram from A&P matching.');
+  document.querySelector('#title').textContent=set.title;document.title=set.title+' · EMT 116';
+  document.querySelector('#diagram').innerHTML=diagramMarkup(set);
+}catch(e){document.querySelector('#diagram').textContent=e.message;}
+</script></body></html>

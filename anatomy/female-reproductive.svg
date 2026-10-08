@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620" role="img" aria-labelledby="diagram-title">
+<title id="diagram-title">Female reproductive system: front and side medical schematic</title>
+<defs>
+ <linearGradient id="organ" x2="0" y2="1"><stop stop-color="#f0f1f1"/><stop offset="1" stop-color="#bdc2c4"/></linearGradient>
+ <linearGradient id="wall" x2="1" y2="0"><stop stop-color="#b6bdc0"/><stop offset=".5" stop-color="#e5e8e9"/><stop offset="1" stop-color="#b6bdc0"/></linearGradient>
+ <style>.organ{fill:url(#organ);stroke:#475257;stroke-width:2.5;stroke-linejoin:round}.wall{fill:url(#wall);stroke:#475257;stroke-width:2.5}.tube{fill:none;stroke:#68757b;stroke-width:12;stroke-linecap:round}.lumen{fill:none;stroke:#e9edee;stroke-width:5;stroke-linecap:round}.fine{fill:none;stroke:#76858c;stroke-width:1.5}.leader{fill:none;stroke:#20282c;stroke-width:2;stroke-linecap:round}.letter{font:700 25px Arial,sans-serif;fill:#20282c}.heading{font:600 18px Arial,sans-serif;fill:#576065;letter-spacing:1.4px}</style>
+</defs>
+<rect width="1100" height="620" fill="white"/>
+<text class="heading" x="250" y="46" text-anchor="middle">FRONT VIEW</text><text class="heading" x="810" y="46" text-anchor="middle">SIDE VIEW</text>
+<g id="front-view">
+ <path class="organ" d="M186 183C203 155 227 150 250 152C280 150 305 160 317 184C314 224 299 270 286 313C274 344 267 365 270 392L262 421H238L230 392C234 363 225 343 214 313C199 270 189 224 186 183Z"/>
+ <path fill="#f9fafa" stroke="#66757c" stroke-width="2" d="M211 192C226 183 273 183 290 192L269 273C257 308 253 350 252 382H248C247 350 241 308 230 273Z"/>
+ <path class="fine" d="M208 207C220 245 227 275 233 307M291 207C278 246 272 276 266 307"/>
+ <path class="tube" d="M190 185C163 179 154 145 124 143C93 138 81 161 85 187C87 210 108 216 111 229"/>
+ <path class="lumen" d="M190 185C163 179 154 145 124 143C93 138 81 161 85 187C87 210 108 216 111 229"/>
+ <path class="tube" d="M310 185C337 178 348 145 378 143C410 138 422 161 417 187C412 210 392 216 389 229"/>
+ <path class="lumen" d="M310 185C337 178 348 145 378 143C410 138 422 161 417 187C412 210 392 216 389 229"/>
+ <path class="fine" stroke-width="3" d="M111 226L91 239M111 226L103 244M111 226L117 244M111 226L130 239M111 226L133 230M389 226L367 239M389 226L381 244M389 226L394 244M389 226L409 239M389 226L411 228"/>
+ <ellipse class="organ" cx="115" cy="263" rx="31" ry="18" transform="rotate(12 115 263)"/>
+ <ellipse class="organ" cx="386" cy="263" rx="31" ry="18" transform="rotate(-12 386 263)"/>
+ <g fill="#c3cbd0" stroke="#788990" stroke-width="1"><circle cx="98" cy="259" r="5"/><circle cx="111" cy="256" r="4"/><circle cx="125" cy="261" r="5"/><circle cx="117" cy="271" r="4"/><circle cx="370" cy="261" r="5"/><circle cx="383" cy="254" r="4"/><circle cx="397" cy="260" r="5"/><circle cx="390" cy="271" r="4"/></g>
+ <path class="wall" d="M232 391C223 404 228 429 239 442H260C271 430 275 404 268 391C256 395 242 395 232 391Z"/>
+ <path fill="#fbfbfb" stroke="#64757d" stroke-width="2" d="M247 382L247 417L243 433L251 441L258 433L253 417L253 382"/>
+ <path class="wall" d="M229 435C219 461 221 495 223 531C239 546 261 546 277 531C280 496 279 461 270 435C258 441 241 441 229 435Z"/>
+ <path fill="#f6f8f8" stroke="#788990" stroke-width="1.5" d="M241 444C236 474 236 509 239 536H261C265 509 263 474 259 444Z"/>
+ <path class="fine" d="M227 456L240 461M225 472L239 477M225 489L238 494M225 506L239 511M225 523L240 528M272 456L260 461M275 472L262 477M275 489L263 494M275 506L262 511M275 523L261 528"/>
+</g>
+<!-- Sagittal view. Neighboring pelvic outlines provide the orientation visible in the photo. -->
+<g id="side-view">
+ <path fill="#f2f4f5" stroke="#b8bfc3" stroke-width="2" d="M689 133C752 99 865 107 928 158C970 194 983 291 970 377C957 450 923 500 877 514L829 487C818 441 781 416 735 389C694 359 663 283 666 216C666 181 672 156 689 133Z"/>
+ <path fill="#e8ecee" stroke="#8e9ba1" stroke-width="2" d="M918 167C910 212 933 255 920 294C909 332 918 371 934 397L911 423C889 395 880 351 891 311C902 271 888 224 894 189Z"/>
+ <path fill="#e2e7e9" stroke="#85939a" stroke-width="2" d="M704 332C714 305 754 299 772 319C792 342 774 363 751 371C727 377 699 358 704 332Z"/>
+ <path fill="#e5e8ea" stroke="#8f9ca3" stroke-width="2" d="M680 348C688 337 702 345 706 361L710 391C704 405 687 401 680 386C674 372 673 359 680 348Z"/>
+ <path class="organ" d="M753 209C792 173 866 191 886 239C901 273 870 291 838 280L808 325C799 346 781 350 771 334L776 294C741 281 725 242 753 209Z"/>
+ <path fill="#fbfbfb" stroke="#73838b" stroke-width="2" d="M759 227C781 214 840 211 856 244C863 264 837 260 824 261L793 311L787 333L782 329L787 308L805 260C781 261 751 247 759 227Z"/>
+ <path class="tube" d="M835 204C827 185 812 165 794 170C783 174 780 186 787 194"/><path class="lumen" d="M835 204C827 185 812 165 794 170C783 174 780 186 787 194"/>
+ <ellipse class="organ" cx="797" cy="197" rx="14" ry="9" transform="rotate(-25 797 197)"/>
+ <path class="wall" d="M773 331C783 356 816 391 867 422L894 404C848 378 818 351 804 326L792 338Z"/>
+ <path fill="#f5f7f8" stroke="#7e8e96" stroke-width="1.5" d="M787 342C804 366 837 393 878 413L883 407C838 382 812 359 795 337Z"/>
+ <path class="fine" d="M790 361L806 360M801 377L820 374M817 392L835 388M836 406L850 400M855 418L868 410"/>
+</g>
+<g class="leader">
+ <path d="M508 112L415 173M551 112L805 173"/><path d="M508 253L294 255M551 253L863 245"/>
+ <path d="M84 313L114 265"/><path d="M508 411L264 414M551 411L789 335"/><path d="M508 533L251 502M551 533L851 400"/>
+</g>
+<g class="letter"><text x="519" y="119">A</text><text x="519" y="261">B</text><text x="61" y="327">C</text><text x="519" y="419">D</text><text x="519" y="541">E</text></g>
+</svg>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="650" viewBox="0 0 1100 650" role="img" aria-labelledby="diagram-title">
+<title id="diagram-title">Male reproductive system: front and side medical schematic</title>
+<defs>
+ <linearGradient id="organ" x2="0" y2="1"><stop stop-color="#f4f4f4"/><stop offset="1" stop-color="#bfc2c3"/></linearGradient>
+ <linearGradient id="tissue" x2="1" y2="0"><stop stop-color="#e8e9e9"/><stop offset=".5" stop-color="#c7cbcd"/><stop offset="1" stop-color="#f1f2f2"/></linearGradient>
+ <pattern id="bone" width="9" height="9" patternUnits="userSpaceOnUse"><path d="M0 9L9 0" stroke="#c5c8ca" stroke-width="1"/></pattern>
+ <style>.organ{fill:url(#organ);stroke:#434b4e;stroke-width:2.5;stroke-linejoin:round}.tissue{fill:url(#tissue);stroke:#434b4e;stroke-width:2.5}.duct{fill:none;stroke:#515a5e;stroke-width:8;stroke-linecap:round;stroke-linejoin:round}.lumen{fill:none;stroke:#f5f5f5;stroke-width:3;stroke-linecap:round}.fine{fill:none;stroke:#788186;stroke-width:1.5}.leader{fill:none;stroke:#1f272b;stroke-width:2;stroke-linecap:round}.letter{font:700 25px Arial,sans-serif;fill:#20282c}.heading{font:600 18px Arial,sans-serif;fill:#576065;letter-spacing:1.4px}</style>
+</defs>
+<rect width="1100" height="650" fill="white"/>
+<text class="heading" x="250" y="46" text-anchor="middle">FRONT VIEW</text><text class="heading" x="810" y="46" text-anchor="middle">SIDE VIEW</text>
+<!-- Front view. Bladder, ureters, ducts, prostate and external structures. -->
+<g id="front-view">
+ <path class="duct" d="M212 88L215 174M278 88L275 174"/><path class="lumen" d="M212 88L215 174M278 88L275 174"/>
+ <path class="organ" d="M167 172C180 139 307 139 321 172C333 207 305 236 271 251L260 267H230L218 251C184 236 156 207 167 172Z"/>
+ <path class="fine" d="M181 175C209 158 280 158 309 175M189 217C214 237 275 237 300 217"/>
+ <path class="organ" d="M215 233C199 222 190 238 196 248C182 247 184 264 199 265C191 278 205 287 217 275L234 265Z"/>
+ <path class="organ" d="M275 233C291 222 300 238 294 248C308 247 306 264 291 265C299 278 285 287 273 275L256 265Z"/>
+ <path class="fine" d="M204 239L216 253L204 265M286 239L274 253L286 265"/>
+ <path class="organ" d="M216 263C225 252 264 252 275 264C290 282 277 303 262 313H230C213 301 201 281 216 263Z"/>
+ <path class="fine" d="M245 264L245 310M220 276C231 286 258 286 273 276"/>
+ <path class="tissue" d="M222 313C215 355 219 433 218 489C214 522 226 548 244 548C264 548 278 521 272 489C271 430 277 355 268 313Z"/>
+ <path class="fine" d="M230 331C225 382 231 461 227 494M260 331C266 382 259 461 264 494"/>
+ <path class="organ" d="M219 506C228 496 262 496 272 506C276 528 263 553 246 553C230 553 216 530 219 506Z"/>
+ <path class="fine" d="M222 510C234 516 258 516 270 510"/>
+ <path class="duct" d="M245 254L245 545"/><path class="lumen" d="M245 254L245 545"/>
+ <path class="tissue" d="M118 362C101 374 100 424 110 450C116 470 140 477 155 462C178 439 176 382 160 365C149 352 130 351 118 362Z"/>
+ <ellipse class="organ" cx="139" cy="413" rx="27" ry="44"/>
+ <path class="tissue" d="M327 362C308 377 311 429 321 451C331 473 359 478 376 460C395 440 399 386 381 367C366 351 343 348 327 362Z"/>
+ <ellipse class="organ" cx="352" cy="414" rx="29" ry="44"/>
+ <path class="fine" d="M337 379Q356 398 371 403M330 391Q352 406 375 412M326 405Q353 415 377 424M327 421Q351 423 372 435M333 439Q352 433 364 449"/>
+ <path class="duct" d="M166 443C180 418 178 380 158 365C146 343 139 280 138 204C136 155 147 119 170 116C193 113 193 158 200 182C205 207 215 227 232 248"/>
+ <path class="lumen" d="M166 443C180 418 178 380 158 365C146 343 139 280 138 204C136 155 147 119 170 116C193 113 193 158 200 182C205 207 215 227 232 248"/>
+ <path class="duct" d="M378 443C391 420 393 382 375 367C358 341 352 278 352 205C354 156 349 120 326 116C302 113 299 158 293 182C286 207 274 226 260 248"/>
+ <path class="lumen" d="M378 443C391 420 393 382 375 367C358 341 352 278 352 205C354 156 349 120 326 116C302 113 299 158 293 182C286 207 274 226 260 248"/>
+</g>
+<!-- Sagittal view; anterior is on the right, as in the reference. -->
+<g id="side-view">
+ <path fill="#eef0f1" stroke="#a8afb2" stroke-width="2" d="M679 144C704 110 811 117 854 154C899 194 931 250 941 310L955 401C969 453 950 514 931 552L900 552C917 490 906 440 873 406C838 370 764 354 709 315C665 283 653 191 679 144Z"/>
+ <path class="organ" d="M703 190C718 160 799 161 824 187C853 220 827 268 799 287L781 302C751 287 717 274 703 246C693 226 693 210 703 190Z"/>
+ <path class="duct" d="M694 126C700 157 714 171 724 189"/><path class="lumen" d="M694 126C700 157 714 171 724 189"/>
+ <path fill="url(#bone)" stroke="#697277" stroke-width="2.5" d="M867 242C885 238 899 258 900 281L896 323C887 338 868 331 860 315C850 293 852 255 867 242Z"/>
+ <path class="organ" d="M768 286C787 280 811 290 816 309C819 330 798 342 779 333C763 326 753 299 768 286Z"/>
+ <path class="fine" d="M771 297C785 306 799 307 811 299M769 317L805 319"/>
+ <path class="tissue" d="M804 335C830 327 875 333 902 352C929 370 931 432 933 489C934 515 924 537 908 542C891 539 879 521 879 497L875 397C864 375 830 367 808 370Z"/>
+ <path class="fine" d="M890 368C910 381 912 443 913 493M927 508C913 514 896 515 882 508"/>
+ <path class="tissue" d="M789 411C768 429 773 491 792 511C808 530 838 525 851 505C865 482 860 431 844 416C828 403 801 402 789 411Z"/>
+ <ellipse class="organ" cx="817" cy="468" rx="28" ry="44"/>
+ <path class="fine" d="M800 438Q818 456 839 460M792 452Q817 465 843 472M795 470Q817 477 839 485M801 489Q817 482 833 501"/>
+ <path class="duct" d="M844 492C858 468 852 435 833 423C832 383 860 316 874 245C885 194 868 156 830 145C803 139 778 156 770 189L766 274L784 294"/>
+ <path class="lumen" d="M844 492C858 468 852 435 833 423C832 383 860 316 874 245C885 194 868 156 830 145C803 139 778 156 770 189L766 274L784 294"/>
+ <path class="duct" d="M790 281C790 310 781 323 798 338C816 354 858 349 881 373C898 396 899 473 906 530"/>
+ <path class="lumen" d="M790 281C790 310 781 323 798 338C816 354 858 349 881 373C898 396 899 473 906 530"/>
+</g>
+<!-- Leaders are fixed to the photographed worksheet's letter assignments. -->
+<g class="leader">
+ <path d="M203 70L213 109"/><path d="M406 184L300 184"/><path d="M510 117L350 149M551 120L860 166"/>
+ <path d="M404 279L270 281"/><path d="M1015 239L885 270"/><path d="M1015 311L800 312"/>
+ <path d="M1015 441L901 438"/><path d="M402 347L245 365"/><path d="M510 383L384 399M551 387L849 449"/>
+ <path d="M510 449L352 418M551 453L814 467"/><path d="M510 546L271 473M551 546L931 473"/>
+ <path d="M319 578L255 539"/><path d="M1015 552L837 516"/>
+</g>
+<g class="letter">
+ <text x="185" y="70">A</text><text x="416" y="192">B</text><text x="518" y="122">C</text><text x="416" y="287">D</text>
+ <text x="1028" y="247">E</text><text x="1028" y="319">F</text><text x="1028" y="449">G</text><text x="416" y="355">H</text>
+ <text x="520" y="392">I</text><text x="520" y="460">J</text><text x="520" y="554">K</text><text x="329" y="585">L</text><text x="1028" y="560">M</text>
+</g>
+</svg>

@@ -1,0 +1,4 @@
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+export function renderChapterPerformance(breakdown,banks){
+ return `<section class="panel" style="margin:24px 0"><h2>Performance by chapter</h2><p class="small muted">Results from this exam. Unanswered questions count as incorrect.</p>${Object.entries(breakdown).sort(([a],[b])=>Number(a)-Number(b)).map(([chapter,x])=>{const percentage=Math.round(100*x.correct/x.total),name=banks.find(b=>b.chapter===Number(chapter))?.title||'';return `<div class="row"><div class="row-head"><span>Chapter ${esc(chapter)} · ${esc(name)}</span><strong>${x.correct}/${x.total} correct · ${percentage}%</strong></div><div class="bar ${percentage<80?'amber':''}"><span style="width:${percentage}%"></span></div><p class="small muted">${x.total-x.correct} incorrect</p></div>`;}).join('')}</section>`;
+}

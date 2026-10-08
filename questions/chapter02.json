@@ -1,0 +1,3386 @@
+{
+  "schemaVersion": 1,
+  "bankVersion": "1.1.0",
+  "chapter": 2,
+  "title": "Workforce Safety and Wellness",
+  "updated": "2026-10-08",
+  "sources": [
+    {
+      "id": "outline",
+      "filename": "9781284243796_LOUT_CH02(1).docx",
+      "role": "Detailed course outline",
+      "label": "Chapter 2 outline"
+    },
+    {
+      "id": "objectives",
+      "filename": "Chapter2_KO.txt",
+      "role": "21 knowledge objectives",
+      "label": "Chapter 2 class objectives"
+    },
+    {
+      "id": "quiz",
+      "filename": "Chapter2_Quiz.txt",
+      "role": "Sample quiz; used for topic emphasis, not copied questions",
+      "label": "Chapter 2 class quiz"
+    },
+    {
+      "id": "slides1",
+      "filename": "Lecture Slides- Workforce Safety and Wellness Part I-1.pdf",
+      "role": "Lecture slides",
+      "label": "Chapter 2 slides \u00b7 Part 1"
+    },
+    {
+      "id": "transcript1",
+      "filename": "Workforce Safety and Wellness Part I-English.txt",
+      "role": "Lecture narration",
+      "label": "Chapter 2 lecture \u00b7 Part 1"
+    },
+    {
+      "id": "slides2",
+      "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+      "role": "Lecture slides",
+      "label": "Chapter 2 slides \u00b7 Part 2"
+    },
+    {
+      "id": "transcript2",
+      "filename": "Workforce Safety and Wellness Part II-English.txt",
+      "role": "Lecture narration",
+      "label": "Chapter 2 lecture \u00b7 Part 2"
+    }
+  ],
+  "learningObjectives": [
+    {
+      "id": "CH02-LO01",
+      "text": "Explain the steps that contribute to wellness and resilience and their importance in managing stress.",
+      "coverageStatus": "sampled",
+      "coverageNote": "",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "General Health, Wellness, and Resilience \u00b7 Resilience and recovery"
+        },
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part I-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 1",
+          "section": "Wellness is the active pursuit of a state of good health."
+        },
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "II. General Health, Wellness, and Resilience"
+        }
+      ]
+    },
+    {
+      "id": "CH02-LO02",
+      "text": "Differentiate infectious disease and communicable disease.",
+      "coverageStatus": "sampled",
+      "coverageNote": "",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Infectious disease definition"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Infectious and Communicable Diseases"
+        },
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "III. Infectious and Communicable Diseases"
+        }
+      ]
+    },
+    {
+      "id": "CH02-LO03",
+      "text": "Identify the risks and hazards of sleep deprivation in EMS.",
+      "coverageStatus": "sampled",
+      "coverageNote": "",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "General Health, Wellness, and Resilience \u00b7 Fatigue and operational safety"
+        },
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part I-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 1",
+          "section": "Sleep"
+        }
+      ]
+    },
+    {
+      "id": "CH02-LO04",
+      "text": "State the routes of disease transmission.",
+      "coverageStatus": "sampled",
+      "coverageNote": "",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Transmission routes"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Routes of Transmission"
+        },
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Contact versus vector transmission"
+        }
+      ]
+    },
+    {
+      "id": "CH02-LO05",
+      "text": "Describe the specific routes of transmission and the steps to prevent and/or deal with an exposure to hepatitis, tuberculosis, or human immunodeficiency (HIV)/acquired immunodeficiency disorder (AIDS).",
+      "coverageStatus": "sampled",
+      "coverageNote": "",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Tuberculosis precautions"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Masks, Respirators, and Barrier Devices"
+        },
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Bloodborne pathogen risk"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Proper Disposal of Sharps"
+        }
+      ]
+    },
+    {
+      "id": "CH02-LO06",
+      "text": "Apply the standard precautions used in treating patients to prevent infection.",
+      "coverageStatus": "sampled",
+      "coverageNote": "",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Exposure-based standard precautions"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Risk Reduction and Prevention for Infectious and"
+        },
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Glove removal and cross-contamination"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Gloves"
+        }
+      ]
+    },
+    {
+      "id": "CH02-LO07",
+      "text": "Explain the steps to take for personal protection from airborne and bloodborne pathogens.",
+      "coverageStatus": "sampled",
+      "coverageNote": "",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Respirator fit"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Masks, Respirators, and Barrier Devices"
+        },
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Safe sharps disposal"
+        }
+      ]
+    },
+    {
+      "id": "CH02-LO08",
+      "text": "Demonstrate proper handwashing techniques.",
+      "coverageStatus": "sampled",
+      "coverageNote": "",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Handwashing technique"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Proper Hand Hygiene"
+        }
+      ]
+    },
+    {
+      "id": "CH02-LO09",
+      "text": "Explain the ways in which immunity to infectious diseases is acquired.",
+      "coverageStatus": "sampled",
+      "coverageNote": "",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Acquired immunity"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Immunity"
+        }
+      ]
+    },
+    {
+      "id": "CH02-LO10",
+      "text": "Summarize postexposure management of exposure to patient blood or body fluids, including completing a postexposure report.",
+      "coverageStatus": "sampled",
+      "coverageNote": "",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Postexposure response"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "General Postexposure Management"
+        }
+      ]
+    },
+    {
+      "id": "CH02-LO11",
+      "text": "Discuss the steps necessary to determine scene safety and to prevent work-related injuries at the scene.",
+      "coverageStatus": "sampled",
+      "coverageNote": "",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Scene Safety \u00b7 Hazardous-material scene safety"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Hazardous materials"
+        },
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Scene Safety \u00b7 Carbon monoxide hazard"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Fire"
+        }
+      ]
+    },
+    {
+      "id": "CH02-LO12",
+      "text": "Describe the different types of protective clothing worn to prevent injury.",
+      "coverageStatus": "sampled",
+      "coverageNote": "",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Protective Clothing: Preventing Injury \u00b7 Cold-weather protective layers"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Protective Clothing: Preventing Injury"
+        },
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Protective Clothing: Preventing Injury \u00b7 Protective gear matched to the hazard"
+        }
+      ]
+    },
+    {
+      "id": "CH02-LO13",
+      "text": "Differentiate issues concerning care of the dying patient, death, and the grieving process of family members.",
+      "coverageStatus": "sampled",
+      "coverageNote": "",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Death and Dying \u00b7 Grief and family support"
+        },
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part I-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 1",
+          "section": "Death and Dying"
+        }
+      ]
+    },
+    {
+      "id": "CH02-LO14",
+      "text": "Recognize the physiologic, physical, and psychological responses to stress.",
+      "coverageStatus": "sampled",
+      "coverageNote": "",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Stress Management on the Job \u00b7 Physiologic stress response"
+        },
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part I-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 1",
+          "section": "Stress Management on the Job"
+        },
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Stress Management on the Job \u00b7 Acute delayed and cumulative stress"
+        },
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "VI. Emotional Aspects of Emergency Care \u00b7 Compassion fatigue"
+        },
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "VI. Emotional Aspects of Emergency Care \u00b7 Burnout"
+        }
+      ]
+    },
+    {
+      "id": "CH02-LO15",
+      "text": "Explain posttraumatic stress disorder (PTSD) and steps that can be taken, including critical incident stress management, to decrease the likelihood that PTSD will develop.",
+      "coverageStatus": "sampled",
+      "coverageNote": "",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Stress Management on the Job \u00b7 Traumatic stress and support"
+        },
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part I-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 1",
+          "section": "Posttraumatic Stress Disorder"
+        },
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Stress Management on the Job \u00b7 Critical-incident support versus operational critique"
+        }
+      ]
+    },
+    {
+      "id": "CH02-LO16",
+      "text": "Identify the emotional aspects of emergency care.",
+      "coverageStatus": "sampled",
+      "coverageNote": "",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Caring for Critically Ill and Injured Patients \u00b7 Communication with a critical patient"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Caring for Critically Ill and Injured Patients"
+        }
+      ]
+    },
+    {
+      "id": "CH02-LO17",
+      "text": "Recognize the stress inherent in many situations, such as mass-casualty scenes.",
+      "coverageStatus": "sampled",
+      "coverageNote": "",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Stress Management on the Job \u00b7 Critical-incident stress"
+        },
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part I-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 1",
+          "section": "Stress Reactions"
+        }
+      ]
+    },
+    {
+      "id": "CH02-LO18",
+      "text": "Recognize the possibility of violent situations and the steps to take to deal with them.",
+      "coverageStatus": "sampled",
+      "coverageNote": "",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Scene Safety \u00b7 Escalating violence"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Scenes of Violence"
+        }
+      ]
+    },
+    {
+      "id": "CH02-LO19",
+      "text": "Identify behavioral emergencies.",
+      "coverageStatus": "partial_material",
+      "coverageNote": "The files support recognition of unsafe behavior and scene safety; a complete behavioral-emergency assessment framework is not supplied.",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Scene Safety \u00b7 Behavioral emergency recognition"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Scenes of Violence"
+        }
+      ]
+    },
+    {
+      "id": "CH02-LO20",
+      "text": "Discuss workplace issues such as cultural diversity, sexual harassment, and substance abuse.",
+      "coverageStatus": "sampled",
+      "coverageNote": "",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Workplace Issues \u00b7 Quid pro quo harassment"
+        },
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part I-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 1",
+          "section": "Workplace Issues"
+        },
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Workplace Issues \u00b7 Suspected coworker impairment"
+        },
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Workplace Issues \u00b7 Cultural humility within the team"
+        }
+      ]
+    },
+    {
+      "id": "CH02-LO21",
+      "text": "Identify resources for positive mental health and suicide prevention.",
+      "coverageStatus": "partial_material",
+      "coverageNote": "The files mention mental-health services and employee assistance, but do not provide a complete suicide-prevention resource list or crisis-response procedure.",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "General Health, Wellness, and Resilience \u00b7 Mental-health resources"
+        },
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part I-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 1",
+          "section": "Workplace Issues"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "CH02-Q001",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Resilience and recovery",
+      "conceptId": "CH02-C001",
+      "learningObjectiveId": "CH02-LO01",
+      "questionType": "conceptual",
+      "difficulty": "moderate",
+      "question": "An EMT manages difficult calls well but has stopped sleeping adequately and seeing friends. Which plan best supports resilience over time?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Protect recovery time, maintain supportive relationships, and use healthy routines"
+        },
+        {
+          "id": "B",
+          "text": "Build resilience mainly by taking more difficult calls"
+        },
+        {
+          "id": "C",
+          "text": "Keep the schedule and use caffeine to replace lost sleep"
+        },
+        {
+          "id": "D",
+          "text": "Reserve self-care changes until job performance declines"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Resilience involves coping and recovering; rest, relationships, and healthy habits support that recovery.",
+      "incorrectChoiceExplanations": {
+        "B": "More exposure without recovery can increase cumulative stress.",
+        "C": "A stimulant does not replace adequate sleep or social support.",
+        "D": "Preventive habits should precede noticeable performance failure."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "II.B: Wellness, resilience, stress management"
+        },
+        {
+          "sourceId": "slides1",
+          "locator": "PDF page 5"
+        },
+        {
+          "sourceId": "transcript1",
+          "locator": "Resilience and recovery"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Resilience involves coping and recovering; rest, relationships, and healthy habits support that recovery.",
+      "reviewFocus": "Resilience and recovery",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "General Health, Wellness, and Resilience \u00b7 Resilience and recovery"
+        },
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part I-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 1",
+          "section": "Wellness is the active pursuit of a state of good health."
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q002",
+      "version": 2,
+      "chapter": 2,
+      "topic": "Infectious disease definition",
+      "conceptId": "CH02-C002",
+      "learningObjectiveId": "CH02-LO02",
+      "questionType": "conceptual",
+      "difficulty": "moderate",
+      "question": "What is an infectious disease?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A disease caused by harmful organisms within the body"
+        },
+        {
+          "id": "B",
+          "text": "A disease that necessarily spreads directly from one person to another"
+        },
+        {
+          "id": "C",
+          "text": "A disease that results from a physical injury"
+        },
+        {
+          "id": "D",
+          "text": "A disease defined by a harmful immune response to an otherwise harmless substance"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "An infectious disease is caused by harmful organisms within the body. A communicable disease can spread between people or species.",
+      "incorrectChoiceExplanations": {
+        "B": "Spread is the additional feature of communicability; it is not required to define every infectious disease.",
+        "C": "Physical injury is not the definition of an infectious disease.",
+        "D": "This describes an allergic response rather than an infection."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "III.A\u2013B: Infectious and communicable diseases"
+        },
+        {
+          "sourceId": "slides2",
+          "locator": "PDF page 2"
+        },
+        {
+          "sourceId": "transcript2",
+          "locator": "Infectious versus communicable"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Infectious describes the cause; communicable describes the ability to spread.",
+      "reviewFocus": "Infectious disease definition",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Infectious disease definition"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Infectious and Communicable Diseases"
+        }
+      ],
+      "definitionQuestion": true
+    },
+    {
+      "id": "CH02-Q003",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Fatigue and operational safety",
+      "conceptId": "CH02-C003",
+      "learningObjectiveId": "CH02-LO03",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "Late in a shift, an EMT repeatedly loses focus and nearly falls asleep before driving. What is the best response?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Report the impairment and arrange a safe fatigue-management response"
+        },
+        {
+          "id": "B",
+          "text": "Drink caffeine and begin driving while waiting for it to work"
+        },
+        {
+          "id": "C",
+          "text": "Drive with the window open and rely on the partner to keep talking"
+        },
+        {
+          "id": "D",
+          "text": "Complete the next transport before reporting the fatigue"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Impaired alertness threatens driving and patient-care safety; address the risk before a preventable incident.",
+      "incorrectChoiceExplanations": {
+        "B": "Caffeine may improve alertness temporarily but does not establish fitness to drive immediately.",
+        "C": "Conversation or airflow does not resolve dangerous impairment.",
+        "D": "Deferring the report leaves the known hazard in place."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "II.C: Sleep deprivation and fatigue management"
+        },
+        {
+          "sourceId": "slides1",
+          "locator": "PDF page 39"
+        },
+        {
+          "sourceId": "transcript1",
+          "locator": "Fatigue and operational safety"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Impaired alertness threatens driving and patient-care safety; address the risk before a preventable incident.",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Caffeine can temporarily increase alertness.",
+      "whyNotBest": "Caffeine may improve alertness temporarily but does not establish fitness to drive immediately.",
+      "keyDistinction": "Impaired alertness threatens driving and patient-care safety; address the risk before a preventable incident.",
+      "reviewFocus": "Fatigue and operational safety",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "General Health, Wellness, and Resilience \u00b7 Fatigue and operational safety"
+        },
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part I-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 1",
+          "section": "Sleep"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q004",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Transmission routes",
+      "conceptId": "CH02-C004",
+      "learningObjectiveId": "CH02-LO04",
+      "questionType": "recall",
+      "difficulty": "moderate",
+      "question": "A pathogen reaches a person through the bite of an infected tick. Which transmission route is involved?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Vector-borne"
+        },
+        {
+          "id": "B",
+          "text": "Indirect contact with a contaminated object"
+        },
+        {
+          "id": "C",
+          "text": "Direct person-to-person contact"
+        },
+        {
+          "id": "D",
+          "text": "Airborne"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "A living carrier such as a tick transmits the pathogen.",
+      "incorrectChoiceExplanations": {
+        "B": "Indirect contact involves a contaminated object rather than a living vector.",
+        "C": "The described transfer is through the tick rather than direct human contact.",
+        "D": "No inhalation route is described."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "III.E: Routes of transmission"
+        },
+        {
+          "sourceId": "slides2",
+          "locator": "PDF page 5"
+        },
+        {
+          "sourceId": "transcript2",
+          "locator": "Transmission routes"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "A living carrier such as a tick transmits the pathogen.",
+      "reviewFocus": "Transmission routes",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Transmission routes"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Routes of Transmission"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q005",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Tuberculosis precautions",
+      "conceptId": "CH02-C005",
+      "learningObjectiveId": "CH02-LO05",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "A coughing patient is suspected of having infectious pulmonary tuberculosis. The patient can tolerate a mask and does not need oxygen. Which pairing best provides source control and provider respiratory protection?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Surgical mask on the patient; fit-tested N95 or higher-level respirator on the provider"
+        },
+        {
+          "id": "B",
+          "text": "N95 on the patient; surgical mask on the provider"
+        },
+        {
+          "id": "C",
+          "text": "Surgical masks on both patient and provider"
+        },
+        {
+          "id": "D",
+          "text": "N95 on the provider; omit patient masking because the provider is protected"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Patient masking limits release of infectious particles; a suitable respirator protects the provider from airborne exposure.",
+      "incorrectChoiceExplanations": {
+        "B": "This reverses the source-control and provider-protection roles.",
+        "C": "A surgical mask is not a substitute for the provider\u2019s airborne respirator.",
+        "D": "Provider protection does not replace source control when the patient can tolerate it."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "III.F.9: Masks and respirators"
+        },
+        {
+          "sourceId": "slides2",
+          "locator": "PDF page 13"
+        },
+        {
+          "sourceId": "transcript2",
+          "locator": "Tuberculosis precautions"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Patient masking limits release of infectious particles; a suitable respirator protects the provider from airborne exposure.",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Both masks may seem interchangeable when both people are masked.",
+      "whyNotBest": "This reverses the source-control and provider-protection roles.",
+      "keyDistinction": "Patient masking limits release of infectious particles; a suitable respirator protects the provider from airborne exposure.",
+      "reviewFocus": "Tuberculosis precautions",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Tuberculosis precautions"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Masks, Respirators, and Barrier Devices"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q006",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Exposure-based standard precautions",
+      "conceptId": "CH02-C006",
+      "learningObjectiveId": "CH02-LO06",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "An EMT expects substantial blood splatter while treating trauma. The patient has no known infectious diagnosis. Which PPE decision best applies standard precautions?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Use gloves and appropriate eye, face, and clothing protection for the anticipated exposure"
+        },
+        {
+          "id": "B",
+          "text": "Use gloves alone until an infectious diagnosis is confirmed"
+        },
+        {
+          "id": "C",
+          "text": "Use gloves and a surgical mask, relying on prescription glasses for eye protection"
+        },
+        {
+          "id": "D",
+          "text": "Choose PPE only after asking whether the patient has hepatitis or HIV"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Standard precautions apply regardless of known diagnosis; the anticipated exposure determines needed protection.",
+      "incorrectChoiceExplanations": {
+        "B": "Unknown infection status does not remove splash risk.",
+        "C": "Ordinary prescription glasses do not provide adequate splash protection.",
+        "D": "Patient history does not replace exposure-based precautions."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "III.F.3,6\u20139: Standard precautions and PPE"
+        },
+        {
+          "sourceId": "slides2",
+          "locator": "PDF page 6"
+        },
+        {
+          "sourceId": "transcript2",
+          "locator": "Exposure-based standard precautions"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Standard precautions apply regardless of known diagnosis; the anticipated exposure determines needed protection.",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Gloves are a familiar first line of protection.",
+      "whyNotBest": "Unknown infection status does not remove splash risk.",
+      "keyDistinction": "Standard precautions apply regardless of known diagnosis; the anticipated exposure determines needed protection.",
+      "reviewFocus": "Exposure-based standard precautions",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Exposure-based standard precautions"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Risk Reduction and Prevention for Infectious and"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q007",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Respirator fit",
+      "conceptId": "CH02-C007",
+      "learningObjectiveId": "CH02-LO07",
+      "questionType": "conceptual",
+      "difficulty": "moderate",
+      "question": "Why does wearing an N95 respirator require a respiratory-protection program that includes fit testing?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Filtering material alone is insufficient if air leaks around an unsuitable face seal"
+        },
+        {
+          "id": "B",
+          "text": "Fit testing replaces the need for the correct respirator type"
+        },
+        {
+          "id": "C",
+          "text": "The N95 rating means every wearer has an adequate seal"
+        },
+        {
+          "id": "D",
+          "text": "A surgical mask underneath necessarily corrects a poor fit"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "A respirator must both filter particles and fit the wearer appropriately.",
+      "incorrectChoiceExplanations": {
+        "B": "Correct selection remains necessary in addition to fit.",
+        "C": "The filtration rating does not establish individual fit.",
+        "D": "An extra mask does not establish an effective respirator seal."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "III.F.9.e: Fit testing and OSHA guidelines"
+        },
+        {
+          "sourceId": "slides2",
+          "locator": "PDF page 13"
+        },
+        {
+          "sourceId": "transcript2",
+          "locator": "Respirator fit"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "A respirator must both filter particles and fit the wearer appropriately.",
+      "reviewFocus": "Respirator fit",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Respirator fit"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Masks, Respirators, and Barrier Devices"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q008",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Handwashing technique",
+      "conceptId": "CH02-C008",
+      "learningObjectiveId": "CH02-LO08",
+      "questionType": "multi_step",
+      "difficulty": "moderate",
+      "question": "After removing gloves, an EMT notices visible blood on their hands. A sink is available. Which sequence best addresses the contamination?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Use soap and water, rub all hand surfaces including between fingers and around nails, then rinse and dry"
+        },
+        {
+          "id": "B",
+          "text": "Apply sanitizer briefly and put on clean gloves while the hands remain wet"
+        },
+        {
+          "id": "C",
+          "text": "Rinse with water only and dry because the blood came from the outside of the gloves"
+        },
+        {
+          "id": "D",
+          "text": "Scrub the palms with soap but avoid the fingertips to prevent irritating them"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Visible soil calls for soap and water; all hand surfaces need cleaning even after glove use.",
+      "incorrectChoiceExplanations": {
+        "B": "Sanitizer alone is not the appropriate replacement for washing visibly soiled hands.",
+        "C": "Water alone omits soap and friction, and glove removal does not negate contamination.",
+        "D": "Fingertips, nails, and spaces between fingers are important areas to clean."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "III.F.5: Proper hand hygiene"
+        },
+        {
+          "sourceId": "slides2",
+          "locator": "PDF page 8"
+        },
+        {
+          "sourceId": "transcript2",
+          "locator": "Handwashing technique"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Visible soil calls for soap and water; all hand surfaces need cleaning even after glove use.",
+      "reviewFocus": "Handwashing technique",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Handwashing technique"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Proper Hand Hygiene"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q009",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Acquired immunity",
+      "conceptId": "CH02-C009",
+      "learningObjectiveId": "CH02-LO09",
+      "questionType": "conceptual",
+      "difficulty": "moderate",
+      "question": "Which pair describes two ways a person can acquire immunity to a particular pathogen?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Vaccination and recovery from a previous infection"
+        },
+        {
+          "id": "B",
+          "text": "Wearing gloves and cleaning contaminated equipment"
+        },
+        {
+          "id": "C",
+          "text": "Taking antibiotics and avoiding patient contact"
+        },
+        {
+          "id": "D",
+          "text": "Vaccination and having no symptoms during one exposure"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Vaccination and prior infection can produce pathogen-specific immune protection; neither guarantees lifelong complete protection.",
+      "incorrectChoiceExplanations": {
+        "B": "These reduce exposure but do not create pathogen-specific immunity.",
+        "C": "Treatment or avoidance is not the same as acquired immune protection.",
+        "D": "An asymptomatic exposure alone does not establish immunity."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "III.I: Immunity"
+        },
+        {
+          "sourceId": "slides2",
+          "locator": "PDF page 17"
+        },
+        {
+          "sourceId": "transcript2",
+          "locator": "Acquired immunity"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Vaccination and prior infection can produce pathogen-specific immune protection; neither guarantees lifelong complete protection.",
+      "reviewFocus": "Acquired immunity",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Acquired immunity"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Immunity"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q010",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Postexposure response",
+      "conceptId": "CH02-C010",
+      "learningObjectiveId": "CH02-LO10",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "A used needle punctures an EMT\u2019s skin. Another qualified provider can take over patient care. What is the best immediate plan?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Transfer care safely, wash the site, report the exposure, and seek prompt medical evaluation"
+        },
+        {
+          "id": "B",
+          "text": "Wash the site and wait for symptoms before notifying the exposure officer"
+        },
+        {
+          "id": "C",
+          "text": "Obtain the source patient\u2019s test results before seeking evaluation"
+        },
+        {
+          "id": "D",
+          "text": "Complete the transport and incident report before addressing the puncture"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Exposure management needs prompt first aid, reporting, and clinical evaluation; documentation supports the process without delaying care.",
+      "incorrectChoiceExplanations": {
+        "B": "Symptoms may not appear promptly, and reporting should not wait.",
+        "C": "Source testing can inform evaluation but should not delay it.",
+        "D": "Immediate wound care and evaluation take priority over completing routine tasks."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "III.J: General postexposure management"
+        },
+        {
+          "sourceId": "slides2",
+          "locator": "PDF page 19"
+        },
+        {
+          "sourceId": "transcript2",
+          "locator": "Postexposure response"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Exposure management needs prompt first aid, reporting, and clinical evaluation; documentation supports the process without delaying care.",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Washing is an appropriate initial step.",
+      "whyNotBest": "Symptoms may not appear promptly, and reporting should not wait.",
+      "keyDistinction": "Exposure management needs prompt first aid, reporting, and clinical evaluation; documentation supports the process without delaying care.",
+      "reviewFocus": "Postexposure response",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Postexposure response"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "General Postexposure Management"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q011",
+      "version": 2,
+      "chapter": 2,
+      "topic": "Hazardous-material scene safety",
+      "conceptId": "CH02-C011",
+      "learningObjectiveId": "CH02-LO11",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "A leaking tanker has an unreadable placard. Patients are near the spill. The EMT crew lacks hazardous-material entry training and equipment. What should the crew do first?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Stage safely away from the spill and request trained hazardous-material resources"
+        },
+        {
+          "id": "B",
+          "text": "Approach far enough to read the placard, then select a staging location"
+        },
+        {
+          "id": "C",
+          "text": "Use examination gloves and an N95 to reach the nearest patient before the hazmat team"
+        },
+        {
+          "id": "D",
+          "text": "Park near the patient cluster and prepare treatment while the spill is identified"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Protect responders first, identify hazards from a safe distance, and use trained resources for entry and decontamination.",
+      "incorrectChoiceExplanations": {
+        "B": "Approaching an unidentified release to read the placard may expose the crew.",
+        "C": "Routine medical PPE does not establish protection from an unidentified chemical release.",
+        "D": "Staging near the spill exposes personnel and equipment before the hazard is controlled."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "IV.B.1: Hazardous materials"
+        },
+        {
+          "sourceId": "slides2",
+          "locator": "PDF page 21"
+        },
+        {
+          "sourceId": "transcript2",
+          "locator": "Hazardous-material scene safety"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Protect responders first, identify hazards from a safe distance, and use trained resources for entry and decontamination.",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Knowing the material helps responders plan.",
+      "whyNotBest": "Approaching an unidentified release to read the placard may expose the crew.",
+      "keyDistinction": "Protect responders first, identify hazards from a safe distance, and use trained resources for entry and decontamination.",
+      "reviewFocus": "Hazardous-material scene safety",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Scene Safety \u00b7 Hazardous-material scene safety"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Hazardous materials"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q012",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Cold-weather protective layers",
+      "conceptId": "CH02-C012",
+      "learningObjectiveId": "CH02-LO12",
+      "questionType": "recall",
+      "difficulty": "moderate",
+      "question": "Which inner-to-outer clothing arrangement best manages moisture, insulation, and weather protection?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Moisture-wicking layer \u2192 insulating layer \u2192 weather-resistant layer"
+        },
+        {
+          "id": "B",
+          "text": "Weather-resistant layer \u2192 moisture-wicking layer \u2192 insulating layer"
+        },
+        {
+          "id": "C",
+          "text": "Insulating layer \u2192 weather-resistant layer \u2192 moisture-wicking layer"
+        },
+        {
+          "id": "D",
+          "text": "Moisture-wicking layer \u2192 weather-resistant layer \u2192 insulating layer"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "The inner layer moves moisture away, the middle insulates, and the outer layer resists wind and precipitation.",
+      "incorrectChoiceExplanations": {
+        "B": "A weather barrier next to the skin does not fulfill the inner wicking role.",
+        "C": "This puts the wicking layer outside and the weather barrier in the middle.",
+        "D": "This leaves insulation outside the weather barrier."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "V.D.1: Cold-weather clothing"
+        },
+        {
+          "sourceId": "slides2",
+          "locator": "PDF page 29"
+        },
+        {
+          "sourceId": "transcript2",
+          "locator": "Cold-weather protective layers"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "The inner layer moves moisture away, the middle insulates, and the outer layer resists wind and precipitation.",
+      "reviewFocus": "Cold-weather protective layers",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Protective Clothing: Preventing Injury \u00b7 Cold-weather protective layers"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Protective Clothing: Preventing Injury"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q013",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Grief and family support",
+      "conceptId": "CH02-C013",
+      "learningObjectiveId": "CH02-LO13",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "After a death, one family member is silent and another alternates between disbelief and anger without threatening anyone. How should the EMT respond?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Offer honest, calm support and allow each person to express grief differently"
+        },
+        {
+          "id": "B",
+          "text": "Explain that anger must end before they can move to the next stage"
+        },
+        {
+          "id": "C",
+          "text": "Interpret the silent relative\u2019s behavior as definite acceptance"
+        },
+        {
+          "id": "D",
+          "text": "Give a detailed account immediately so both relatives will process the loss in the same way"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Grief reactions can differ and overlap; supportive care does not require a fixed sequence or a single style of grieving.",
+      "incorrectChoiceExplanations": {
+        "B": "The stages are not a mandatory sequence the EMT must enforce.",
+        "C": "Silence alone does not establish a specific grief stage.",
+        "D": "Overloading people with detail does not ensure understanding or identical reactions."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "VII.C\u2013D: Grief and EMT support"
+        },
+        {
+          "sourceId": "slides1",
+          "locator": "PDF page 14"
+        },
+        {
+          "sourceId": "transcript1",
+          "locator": "Grief and family support"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Grief reactions can differ and overlap; supportive care does not require a fixed sequence or a single style of grieving.",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "The familiar stage names can suggest an ordered sequence.",
+      "whyNotBest": "The stages are not a mandatory sequence the EMT must enforce.",
+      "keyDistinction": "Grief reactions can differ and overlap; supportive care does not require a fixed sequence or a single style of grieving.",
+      "reviewFocus": "Grief and family support",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Death and Dying \u00b7 Grief and family support"
+        },
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part I-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 1",
+          "section": "Death and Dying"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q014",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Physiologic stress response",
+      "conceptId": "CH02-C014",
+      "learningObjectiveId": "CH02-LO14",
+      "questionType": "recall",
+      "difficulty": "moderate",
+      "question": "Which pattern best fits the immediate alarm response to stress?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Faster pulse and breathing, dilated pupils, and reduced gastrointestinal blood flow"
+        },
+        {
+          "id": "B",
+          "text": "Slower pulse and breathing, dilated pupils, and increased gastrointestinal blood flow"
+        },
+        {
+          "id": "C",
+          "text": "Faster pulse and breathing, constricted pupils, and increased gastrointestinal blood flow"
+        },
+        {
+          "id": "D",
+          "text": "Slower pulse and breathing, constricted pupils, and reduced gastrointestinal blood flow"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "The alarm response increases readiness for action while shifting resources away from digestion.",
+      "incorrectChoiceExplanations": {
+        "B": "Slower cardiopulmonary activity and increased digestive flow do not match the described alarm response.",
+        "C": "Pupil constriction and increased digestive flow conflict with the expected response.",
+        "D": "Reduced digestive flow is compatible, but the other changes are not the typical alarm pattern."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "VIII.C\u2013D: General adaptation and physiologic stress"
+        },
+        {
+          "sourceId": "slides1",
+          "locator": "PDF page 10"
+        },
+        {
+          "sourceId": "transcript1",
+          "locator": "Physiologic stress response"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "The alarm response increases readiness for action while shifting resources away from digestion.",
+      "reviewFocus": "Physiologic stress response",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Stress Management on the Job \u00b7 Physiologic stress response"
+        },
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part I-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 1",
+          "section": "Stress Management on the Job"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q015",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Traumatic stress and support",
+      "conceptId": "CH02-C015",
+      "learningObjectiveId": "CH02-LO15",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "Following a traumatic call, an EMT has recurring nightmares, intrusive recollections, and strong reactions to reminders that interfere with work. What is the best approach?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Arrange qualified mental-health assessment and appropriate support"
+        },
+        {
+          "id": "B",
+          "text": "Use an operational critique as the sole way to resolve the symptoms"
+        },
+        {
+          "id": "C",
+          "text": "Use a group support session as the only response, even if symptoms persist"
+        },
+        {
+          "id": "D",
+          "text": "Assume the symptoms are ordinary fatigue and address only the shift schedule"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Reexperiencing the event and strong reactions to reminders are features of traumatic stress. Trained critical-incident support and private professional counseling are resources for the provider.",
+      "incorrectChoiceExplanations": {
+        "B": "A performance review is different from mental-health assessment and support.",
+        "C": "Critical-incident support does not replace the option of private professional counseling for ongoing difficulty.",
+        "D": "Rest matters, but fatigue alone does not account for the trauma-linked pattern."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "VIII.G: PTSD and critical incident support"
+        },
+        {
+          "sourceId": "slides1",
+          "locator": "PDF page 23"
+        },
+        {
+          "sourceId": "transcript1",
+          "locator": "Traumatic stress and support"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Reexperiencing the event and strong reactions to reminders are features of traumatic stress. Trained critical-incident support and private professional counseling are resources for the provider.",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "An operational review may identify lessons from the call.",
+      "whyNotBest": "A performance review is different from mental-health assessment and support.",
+      "keyDistinction": "Reexperiencing the event and strong reactions to reminders are features of traumatic stress. Trained critical-incident support and private professional counseling are resources for the provider.",
+      "reviewFocus": "Traumatic stress and support",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Stress Management on the Job \u00b7 Traumatic stress and support"
+        },
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part I-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 1",
+          "section": "Posttraumatic Stress Disorder"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q016",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Communication with a critical patient",
+      "conceptId": "CH02-C016",
+      "learningObjectiveId": "CH02-LO16",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "A critically injured patient asks, \u201cAm I going to die?\u201d The outcome is uncertain. Which response best balances honesty and reassurance?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "\u201cYour injuries are serious. We are treating you and getting you further care.\u201d"
+        },
+        {
+          "id": "B",
+          "text": "\u201cYou will be fine; there is no reason to worry.\u201d"
+        },
+        {
+          "id": "C",
+          "text": "\u201cI cannot tell you anything until we reach the hospital.\u201d"
+        },
+        {
+          "id": "D",
+          "text": "\u201cLet me explain every possible complication before we continue.\u201d"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Acknowledge seriousness without an unsupported prediction, and explain the care being provided.",
+      "incorrectChoiceExplanations": {
+        "B": "An uncertain outcome does not support a guarantee.",
+        "C": "Withholding all information misses an opportunity for honest reassurance.",
+        "D": "Excessive detail can overwhelm the patient and interfere with urgent care."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "VI.A\u2013B: Communication with critically ill patients"
+        },
+        {
+          "sourceId": "slides2",
+          "locator": "PDF page 32"
+        },
+        {
+          "sourceId": "transcript2",
+          "locator": "Communication with a critical patient"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Acknowledge seriousness without an unsupported prediction, and explain the care being provided.",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Strong reassurance may seem comforting.",
+      "whyNotBest": "An uncertain outcome does not support a guarantee.",
+      "keyDistinction": "Acknowledge seriousness without an unsupported prediction, and explain the care being provided.",
+      "reviewFocus": "Communication with a critical patient",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Caring for Critically Ill and Injured Patients \u00b7 Communication with a critical patient"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Caring for Critically Ill and Injured Patients"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q017",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Critical-incident stress",
+      "conceptId": "CH02-C017",
+      "learningObjectiveId": "CH02-LO17",
+      "questionType": "conceptual",
+      "difficulty": "moderate",
+      "question": "After a mass-casualty incident, an experienced EMT feels overwhelmed despite performing their assigned tasks correctly. What is the most appropriate interpretation?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Severe incidents can overwhelm normal coping even when clinical performance is sound"
+        },
+        {
+          "id": "B",
+          "text": "Stress proves that the EMT failed to prepare adequately"
+        },
+        {
+          "id": "C",
+          "text": "Correct performance rules out the need for emotional support"
+        },
+        {
+          "id": "D",
+          "text": "A strong immediate reaction by itself establishes PTSD"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Critical incidents can produce major stress in experienced providers; support needs are not determined solely by technical performance.",
+      "incorrectChoiceExplanations": {
+        "B": "Stress is not proof of inadequate preparation.",
+        "C": "Successful care does not eliminate emotional impact.",
+        "D": "An immediate reaction alone does not establish a PTSD diagnosis."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "VIII.F.4,K: Critical incident stress and emotional demands"
+        },
+        {
+          "sourceId": "slides1",
+          "locator": "PDF page 22"
+        },
+        {
+          "sourceId": "transcript1",
+          "locator": "Critical-incident stress"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Critical incidents can produce major stress in experienced providers; support needs are not determined solely by technical performance.",
+      "reviewFocus": "Critical-incident stress",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Stress Management on the Job \u00b7 Critical-incident stress"
+        },
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part I-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 1",
+          "section": "Stress Reactions"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q018",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Escalating violence",
+      "conceptId": "CH02-C018",
+      "learningObjectiveId": "CH02-LO18",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "A family member at a call blocks the exit, threatens the crew, and advances toward an EMT. What is the best priority?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Create distance and disengage safely while requesting law-enforcement assistance"
+        },
+        {
+          "id": "B",
+          "text": "Continue assessment while explaining that the crew arrived promptly"
+        },
+        {
+          "id": "C",
+          "text": "Attempt restraint immediately to avoid delaying care"
+        },
+        {
+          "id": "D",
+          "text": "Remain close and use a calm tone because anger may be part of grief"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Threatening behavior requires a safety response; de-escalation should not trap the crew in an unsafe encounter.",
+      "incorrectChoiceExplanations": {
+        "B": "Explaining response time does not address the immediate threat.",
+        "C": "An immediate restraint attempt can escalate danger and requires appropriate authority, personnel, and training.",
+        "D": "A calm tone may help, but it does not replace distance, escape, and assistance."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "IV.C: Violence and responder protection"
+        },
+        {
+          "sourceId": "slides2",
+          "locator": "PDF page 25"
+        },
+        {
+          "sourceId": "transcript2",
+          "locator": "Escalating violence"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Threatening behavior requires a safety response; de-escalation should not trap the crew in an unsafe encounter.",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "An explanation and calm tone may reduce tension.",
+      "whyNotBest": "Explaining response time does not address the immediate threat.",
+      "keyDistinction": "Threatening behavior requires a safety response; de-escalation should not trap the crew in an unsafe encounter.",
+      "reviewFocus": "Escalating violence",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Scene Safety \u00b7 Escalating violence"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Scenes of Violence"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q019",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Behavioral emergency recognition",
+      "conceptId": "CH02-C019",
+      "learningObjectiveId": "CH02-LO19",
+      "questionType": "conceptual",
+      "difficulty": "moderate",
+      "question": "Which observation most strongly raises concern for an immediate behavioral safety emergency?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A patient threatens to injure the crew and moves toward them aggressively"
+        },
+        {
+          "id": "B",
+          "text": "A patient reports a past psychiatric diagnosis while calmly requesting help"
+        },
+        {
+          "id": "C",
+          "text": "A relative cries after a loss but remains safe and cooperative"
+        },
+        {
+          "id": "D",
+          "text": "A patient disagrees with the treatment recommendation and explains their reasons"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Threats combined with escalating behavior create an immediate safety concern requiring a protective response.",
+      "incorrectChoiceExplanations": {
+        "B": "A past diagnosis alone does not establish a current threat.",
+        "C": "Grief alone does not establish the immediate violence risk described.",
+        "D": "An informed disagreement alone does not establish threatening behavior."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "Knowledge Objective 19; IV.C: Safety assessment"
+        },
+        {
+          "sourceId": "slides2",
+          "locator": "PDF page 27"
+        },
+        {
+          "sourceId": "transcript2",
+          "locator": "Behavioral emergency recognition"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Threats combined with escalating behavior create an immediate safety concern requiring a protective response.",
+      "reviewFocus": "Behavioral emergency recognition",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Scene Safety \u00b7 Behavioral emergency recognition"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Scenes of Violence"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q020",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Quid pro quo harassment",
+      "conceptId": "CH02-C020",
+      "learningObjectiveId": "CH02-LO20",
+      "questionType": "recall",
+      "difficulty": "moderate",
+      "question": "A supervisor makes a preferred shift assignment conditional on an employee agreeing to sexual activity. Which workplace issue is most specifically illustrated?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Quid pro quo sexual harassment"
+        },
+        {
+          "id": "B",
+          "text": "Hostile work environment based only on general offensive comments"
+        },
+        {
+          "id": "C",
+          "text": "Cultural differences in communication"
+        },
+        {
+          "id": "D",
+          "text": "A consensual personal relationship unrelated to employment"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "A work benefit conditioned on sexual compliance is the distinguishing feature of quid pro quo harassment.",
+      "incorrectChoiceExplanations": {
+        "B": "A hostile environment can also occur, but the explicit exchange for a work benefit is the more specific feature.",
+        "C": "A demand tied to an employment benefit is not simply a cultural communication difference.",
+        "D": "Employment leverage prevents treating the situation as merely an unrelated personal relationship."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "IX.B: Sexual harassment"
+        },
+        {
+          "sourceId": "slides1",
+          "locator": "PDF page 25"
+        },
+        {
+          "sourceId": "transcript1",
+          "locator": "Quid pro quo harassment"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "A work benefit conditioned on sexual compliance is the distinguishing feature of quid pro quo harassment.",
+      "reviewFocus": "Quid pro quo harassment",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Workplace Issues \u00b7 Quid pro quo harassment"
+        },
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part I-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 1",
+          "section": "Workplace Issues"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q021",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Mental-health resources",
+      "conceptId": "CH02-C021",
+      "learningObjectiveId": "CH02-LO21",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "An EMT says ongoing stress is becoming unmanageable and asks where to get help. No immediate danger is reported. Which plan best connects them to support?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Help them access the EAP or qualified mental-health services, with peer support as appropriate"
+        },
+        {
+          "id": "B",
+          "text": "Rely on informal coworker conversations as the complete solution"
+        },
+        {
+          "id": "C",
+          "text": "Suggest changing shifts and postpone referral until errors occur"
+        },
+        {
+          "id": "D",
+          "text": "Refer them only to a fitness program because exercise improves stress"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Employee assistance and qualified mental-health services can provide assessment and ongoing support before safety or functioning deteriorates further.",
+      "incorrectChoiceExplanations": {
+        "B": "Peer support is valuable but need not be the only resource.",
+        "C": "The person\u2019s stated difficulty is sufficient reason to help them seek support now.",
+        "D": "Exercise may help well-being but is not a substitute for appropriate mental-health services."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "II.B.4,E; VIII.J; IX.C.6: Counseling, support, EAP"
+        },
+        {
+          "sourceId": "slides1",
+          "locator": "PDF page 26"
+        },
+        {
+          "sourceId": "transcript1",
+          "locator": "Mental-health resources"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Employee assistance and qualified mental-health services can provide assessment and ongoing support before safety or functioning deteriorates further.",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Trusted coworkers can offer valuable support.",
+      "whyNotBest": "Peer support is valuable but need not be the only resource.",
+      "keyDistinction": "Employee assistance and qualified mental-health services can provide assessment and ongoing support before safety or functioning deteriorates further.",
+      "reviewFocus": "Mental-health resources",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "General Health, Wellness, and Resilience \u00b7 Mental-health resources"
+        },
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part I-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 1",
+          "section": "Workplace Issues"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q022",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Bloodborne pathogen risk",
+      "conceptId": "CH02-C022",
+      "learningObjectiveId": "CH02-LO05",
+      "questionType": "recall",
+      "difficulty": "moderate",
+      "question": "Which exposure is a recognized occupational route for both hepatitis B and HIV?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A puncture from a needle contaminated with infected blood"
+        },
+        {
+          "id": "B",
+          "text": "Breathing the same room air as an infected patient"
+        },
+        {
+          "id": "C",
+          "text": "An insect bite after the insect contacts the patient"
+        },
+        {
+          "id": "D",
+          "text": "Eating food prepared in the same building as the patient"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Infected blood introduced through a sharps injury is a bloodborne exposure route.",
+      "incorrectChoiceExplanations": {
+        "B": "These are not transmitted by simply sharing room air.",
+        "C": "An insect bite is not the recognized occupational route described for these bloodborne infections.",
+        "D": "Location or food proximity alone does not establish this bloodborne route."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "III.E\u2013F,J: Bloodborne exposure and sharps"
+        },
+        {
+          "sourceId": "slides2",
+          "locator": "PDF page 15"
+        },
+        {
+          "sourceId": "transcript2",
+          "locator": "Bloodborne pathogen risk"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Infected blood introduced through a sharps injury is a bloodborne exposure route.",
+      "reviewFocus": "Bloodborne pathogen risk",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Bloodborne pathogen risk"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Proper Disposal of Sharps"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q023",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Glove removal and cross-contamination",
+      "conceptId": "CH02-C023",
+      "learningObjectiveId": "CH02-LO06",
+      "questionType": "conceptual",
+      "difficulty": "moderate",
+      "question": "An EMT finishes care of one patient and is about to assess another. The gloves look clean. Which practice best prevents cross-contamination?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Remove gloves without touching their contaminated exterior with bare skin, clean hands, and use fresh gloves when indicated"
+        },
+        {
+          "id": "B",
+          "text": "Keep the gloves on because visible contamination is absent"
+        },
+        {
+          "id": "C",
+          "text": "Apply hand sanitizer to the gloves and continue to the next patient"
+        },
+        {
+          "id": "D",
+          "text": "Change gloves but omit hand hygiene because the hands were covered"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gloves must be changed between patients and do not replace hand hygiene; careful removal reduces self-contamination.",
+      "incorrectChoiceExplanations": {
+        "B": "Contamination need not be visible.",
+        "C": "Sanitizing the gloves is not a substitute for changing them between patients.",
+        "D": "Glove use and careful removal do not eliminate the need for hand hygiene."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "III.F.5\u20136; Skill Drill 2-1: Glove removal"
+        },
+        {
+          "sourceId": "slides2",
+          "locator": "PDF page 10"
+        },
+        {
+          "sourceId": "transcript2",
+          "locator": "Glove removal and cross-contamination"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Gloves must be changed between patients and do not replace hand hygiene; careful removal reduces self-contamination.",
+      "reviewFocus": "Glove removal and cross-contamination",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Glove removal and cross-contamination"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Gloves"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q024",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Carbon monoxide hazard",
+      "conceptId": "CH02-C024",
+      "learningObjectiveId": "CH02-LO11",
+      "questionType": "conceptual",
+      "difficulty": "moderate",
+      "question": "Why can carbon monoxide exposure impair oxygen delivery even when a person continues to breathe?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Carbon monoxide binds hemoglobin and interferes with oxygen transport"
+        },
+        {
+          "id": "B",
+          "text": "Carbon monoxide primarily fills the alveoli with mucus"
+        },
+        {
+          "id": "C",
+          "text": "Carbon monoxide immediately destroys the circulating red-cell population"
+        },
+        {
+          "id": "D",
+          "text": "Carbon monoxide protects hemoglobin from releasing carbon dioxide"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Carbon monoxide binds hemoglobin in red blood cells, interfering with the blood\u2019s ability to oxygenate the body.",
+      "incorrectChoiceExplanations": {
+        "B": "Mucus accumulation is not the defining mechanism of carbon monoxide poisoning.",
+        "C": "Red-cell destruction is not the principal mechanism tested.",
+        "D": "The key effect concerns oxygen binding and delivery, not preserving carbon dioxide on hemoglobin."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "IV.B.3: Toxic gases; Chapter2_Quiz item 1"
+        },
+        {
+          "sourceId": "slides2",
+          "locator": "PDF page 23"
+        },
+        {
+          "sourceId": "transcript2",
+          "locator": "Carbon monoxide hazard"
+        },
+        {
+          "sourceId": "quiz",
+          "locator": "Item 1: carbon monoxide mechanism"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Carbon monoxide binds hemoglobin in red blood cells, interfering with the blood\u2019s ability to oxygenate the body.",
+      "reviewFocus": "Carbon monoxide hazard",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Scene Safety \u00b7 Carbon monoxide hazard"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Fire"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q025",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Suspected coworker impairment",
+      "conceptId": "CH02-C025",
+      "learningObjectiveId": "CH02-LO20",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "Before a shift, a partner is unsteady and speaks unclearly after taking medication. The cause is uncertain. What is the best response?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Report the observed impairment and arrange a safe staffing response through the agency process"
+        },
+        {
+          "id": "B",
+          "text": "Let the partner drive if the medication was prescribed"
+        },
+        {
+          "id": "C",
+          "text": "Privately suggest using less medication after the shift and proceed normally"
+        },
+        {
+          "id": "D",
+          "text": "Diagnose substance misuse and discuss the suspicion broadly with coworkers"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Address observed safety impairment through the agency process without assuming a diagnosis; prescribed drugs can also impair performance.",
+      "incorrectChoiceExplanations": {
+        "B": "A prescription does not establish fitness for safety-sensitive work.",
+        "C": "Delayed private advice leaves a current patient and crew hazard unresolved.",
+        "D": "Safety reporting should use objective observations and appropriate channels rather than gossip or unsupported diagnosis."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "IX.C: Substance misuse and workplace safety"
+        },
+        {
+          "sourceId": "slides1",
+          "locator": "PDF page 26"
+        },
+        {
+          "sourceId": "transcript1",
+          "locator": "Suspected coworker impairment"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Address observed safety impairment through the agency process without assuming a diagnosis; prescribed drugs can also impair performance.",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "A prescribed medication may seem less concerning than an illicit drug.",
+      "whyNotBest": "A prescription does not establish fitness for safety-sensitive work.",
+      "keyDistinction": "Address observed safety impairment through the agency process without assuming a diagnosis; prescribed drugs can also impair performance.",
+      "reviewFocus": "Suspected coworker impairment",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Workplace Issues \u00b7 Suspected coworker impairment"
+        },
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part I-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 1",
+          "section": "Workplace Issues"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q026",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Cultural humility within the team",
+      "conceptId": "CH02-C026",
+      "learningObjectiveId": "CH02-LO20",
+      "questionType": "conceptual",
+      "difficulty": "moderate",
+      "question": "Coworkers have different beliefs and communication styles. Which approach best supports cultural humility?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Stay curious, reflect on personal assumptions, and communicate respectfully about individual needs"
+        },
+        {
+          "id": "B",
+          "text": "Memorize stereotypes about each group and use them to predict every coworker\u2019s preferences"
+        },
+        {
+          "id": "C",
+          "text": "Require all coworkers to communicate in the most senior EMT\u2019s style"
+        },
+        {
+          "id": "D",
+          "text": "Treat cultural differences as limited to nationality and ignore other backgrounds"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Cultural humility requires ongoing reflection, curiosity, and sensitive communication, rather than assumptions about group membership.",
+      "incorrectChoiceExplanations": {
+        "B": "Group stereotypes do not establish an individual\u2019s needs.",
+        "C": "Team communication should consider different needs rather than imposing one style.",
+        "D": "The class description also includes age, disability, sex, education, and other backgrounds."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "IX.A. Cultural diversity on the job"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Cultural humility within the team",
+      "reviewFocus": "Cultural humility within the team",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Workplace Issues \u00b7 Cultural humility within the team"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q027",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Contact versus vector transmission",
+      "conceptId": "CH02-C027",
+      "learningObjectiveId": "CH02-LO04",
+      "questionType": "recall",
+      "difficulty": "moderate",
+      "question": "An EMT touches a contaminated object and then transfers the contamination to their own mucous membrane. Which route best describes this?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Indirect contact"
+        },
+        {
+          "id": "B",
+          "text": "Direct person-to-person contact"
+        },
+        {
+          "id": "C",
+          "text": "Vector-borne transmission"
+        },
+        {
+          "id": "D",
+          "text": "Foodborne transmission"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "The contaminated intermediate object makes this indirect contact.",
+      "incorrectChoiceExplanations": {
+        "B": "The contaminated object, rather than direct transfer from the patient, distinguishes this route.",
+        "C": "A living carrier such as a tick is not involved.",
+        "D": "No contaminated food is being ingested."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "III.E. Routes of transmission"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Contact versus vector transmission",
+      "reviewFocus": "Contact versus vector transmission",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Contact versus vector transmission"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q028",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Safe sharps disposal",
+      "conceptId": "CH02-C028",
+      "learningObjectiveId": "CH02-LO07",
+      "questionType": "conceptual",
+      "difficulty": "moderate",
+      "question": "An EMT has finished using a needle and an approved sharps container is within reach. Which action minimizes handling risk?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Dispose of the needle directly in the rigid sharps container without recapping"
+        },
+        {
+          "id": "B",
+          "text": "Recap the needle before placing it in the container to hide the sharp point"
+        },
+        {
+          "id": "C",
+          "text": "Bend the needle before disposal so it cannot be reused"
+        },
+        {
+          "id": "D",
+          "text": "Place it temporarily in a medical-waste bag until other cleanup is complete"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Used needles belong in an approved rigid sharps container without recapping, bending, or unnecessary extra handling.",
+      "incorrectChoiceExplanations": {
+        "B": "Recapping creates another opportunity for a puncture.",
+        "C": "Bending adds unnecessary handling and is expressly excluded.",
+        "D": "A soft waste bag does not replace the sharps container."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "III.F.10. Proper disposal of sharps"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Safe sharps disposal",
+      "reviewFocus": "Safe sharps disposal",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Safe sharps disposal"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q029",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Acute delayed and cumulative stress",
+      "conceptId": "CH02-C029",
+      "learningObjectiveId": "CH02-LO14",
+      "questionType": "recall",
+      "difficulty": "moderate",
+      "question": "Which pairing correctly identifies stress reactions by their timing?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "During the event: acute; after the event: delayed; prolonged repeated stress: cumulative"
+        },
+        {
+          "id": "B",
+          "text": "During the event: delayed; after the event: acute; prolonged repeated stress: cumulative"
+        },
+        {
+          "id": "C",
+          "text": "During the event: acute; after the event: cumulative; prolonged repeated stress: delayed"
+        },
+        {
+          "id": "D",
+          "text": "During the event: cumulative; after the event: delayed; prolonged repeated stress: acute"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "The timing distinguishes acute, delayed, and cumulative reactions; timing alone does not diagnose PTSD.",
+      "incorrectChoiceExplanations": {
+        "B": "This reverses acute and delayed reactions.",
+        "C": "This confuses delayed reactions with the accumulation of prolonged stress.",
+        "D": "An immediate reaction is not defined as cumulative."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "VIII.F. Stress reactions"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Acute delayed and cumulative stress",
+      "reviewFocus": "Acute delayed and cumulative stress",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Stress Management on the Job \u00b7 Acute delayed and cumulative stress"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q030",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Critical-incident support versus operational critique",
+      "conceptId": "CH02-C030",
+      "learningObjectiveId": "CH02-LO15",
+      "questionType": "conceptual",
+      "difficulty": "moderate",
+      "question": "A team is arranging a facilitated emotional-support session after a traumatic call. Which agenda would undermine that session\u2019s purpose?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Turning it into a critique of individual clinical errors"
+        },
+        {
+          "id": "B",
+          "text": "Allowing providers to describe their emotional reactions"
+        },
+        {
+          "id": "C",
+          "text": "Using a trained facilitator to support the discussion"
+        },
+        {
+          "id": "D",
+          "text": "Offering private mental-health counseling when group support is unsuitable"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Critical-incident emotional support should not be turned into an operational critique. Performance review and emotional support have different purposes.",
+      "incorrectChoiceExplanations": {
+        "B": "Discussion of emotional reactions fits the support purpose.",
+        "C": "A trained facilitator is the described resource.",
+        "D": "Private counseling is a supplied alternative."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "VIII.G. PTSD and critical incident support"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Critical-incident support versus operational critique",
+      "reviewFocus": "Critical-incident support versus operational critique",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Stress Management on the Job \u00b7 Critical-incident support versus operational critique"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q031",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Protective gear matched to the hazard",
+      "conceptId": "CH02-C031",
+      "learningObjectiveId": "CH02-LO12",
+      "questionType": "conceptual",
+      "difficulty": "moderate",
+      "question": "A rescue operation creates a risk of falling debris and tool-generated fragments. Which gear pairing directly addresses those hazards?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A secure protective helmet plus appropriate goggles and face protection"
+        },
+        {
+          "id": "B",
+          "text": "A surgical mask and an insulating clothing layer alone"
+        },
+        {
+          "id": "C",
+          "text": "Prescription glasses and an unsecured construction helmet"
+        },
+        {
+          "id": "D",
+          "text": "Examination gloves and earplugs as complete protection"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Impact protection and secure helmet fit address debris; goggles or face protection address fragments from tools.",
+      "incorrectChoiceExplanations": {
+        "B": "These do not provide the needed impact and fragment protection.",
+        "C": "Prescription glasses are insufficient, and a helmet should have a secure chin strap.",
+        "D": "Gloves and earplugs address other exposures, not the full stated hazards."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "V.D.4\u20136. Helmets and eye protection"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Protective gear matched to the hazard",
+      "reviewFocus": "Protective gear matched to the hazard",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Protective Clothing: Preventing Injury \u00b7 Protective gear matched to the hazard"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q032",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Resilience definition",
+      "conceptId": "CH02-C032",
+      "learningObjectiveId": "CH02-LO01",
+      "questionType": "recall",
+      "difficulty": "moderate",
+      "question": "What does resilience mean?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The ability to cope with and recover from distress"
+        },
+        {
+          "id": "B",
+          "text": "The active pursuit of good health"
+        },
+        {
+          "id": "C",
+          "text": "The positive response to a stressor"
+        },
+        {
+          "id": "D",
+          "text": "The negative response to a stressor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Resilience concerns coping and recovery. Wellness is the pursuit of good health; eustress and distress describe positive and negative stress responses.",
+      "incorrectChoiceExplanations": {
+        "B": "This describes wellness.",
+        "C": "This describes eustress.",
+        "D": "This describes distress."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "II. General Health, Wellness, and Resilience"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Resilience definition",
+      "definitionQuestion": true,
+      "reviewFocus": "Resilience definition",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "II. General Health, Wellness, and Resilience"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q033",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Communicable disease definition",
+      "conceptId": "CH02-C033",
+      "learningObjectiveId": "CH02-LO02",
+      "questionType": "recall",
+      "difficulty": "moderate",
+      "question": "What makes a disease communicable?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "It can spread from one person or species to another"
+        },
+        {
+          "id": "B",
+          "text": "It is caused by any harmful organism, whether or not it spreads"
+        },
+        {
+          "id": "C",
+          "text": "It produces symptoms immediately after exposure"
+        },
+        {
+          "id": "D",
+          "text": "It produces lifelong immunity after one infection"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Communicable describes spread. Infectious describes a disease caused by harmful organisms, which does not by itself establish communicability.",
+      "incorrectChoiceExplanations": {
+        "B": "This describes infectious disease; spread is the additional distinction.",
+        "C": "Communicability does not require immediate symptoms.",
+        "D": "Communicability concerns spread, not whether immunity lasts for life."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "III. Infectious and Communicable Diseases"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Communicable disease definition",
+      "definitionQuestion": true,
+      "reviewFocus": "Communicable disease definition",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "III. Infectious and Communicable Diseases"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q034",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Burnout versus compassion fatigue",
+      "conceptId": "CH02-C034",
+      "learningObjectiveId": "CH02-LO14",
+      "questionType": "recall",
+      "difficulty": "moderate",
+      "question": "What term specifically describes a gradual lessening of compassion and empathy associated with repeated caregiving stress?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Compassion fatigue"
+        },
+        {
+          "id": "B",
+          "text": "An acute stress reaction"
+        },
+        {
+          "id": "C",
+          "text": "A delayed stress reaction"
+        },
+        {
+          "id": "D",
+          "text": "Resilience"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Compassion fatigue is a gradual lessening of compassion over time and is also called secondary stress disorder.",
+      "incorrectChoiceExplanations": {
+        "B": "Acute reactions occur during the stressful event rather than defining this gradual loss of empathy.",
+        "C": "A delayed reaction describes timing after an event, not specifically loss of compassion.",
+        "D": "Resilience is the capacity to adapt and recover."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "VI. Emotional Aspects of Emergency Care \u00b7 Compassion fatigue"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Burnout versus compassion fatigue",
+      "reviewFocus": "Burnout versus compassion fatigue",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "VI. Emotional Aspects of Emergency Care \u00b7 Compassion fatigue"
+        }
+      ],
+      "definitionQuestion": true
+    },
+    {
+      "id": "CH02-Q035",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Burnout recognition",
+      "conceptId": "CH02-C035",
+      "learningObjectiveId": "CH02-LO14",
+      "questionType": "conceptual",
+      "difficulty": "moderate",
+      "question": "After prolonged job stress, an EMT reports exhaustion, cynicism, and declining work performance. Which term best matches this combination?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Burnout"
+        },
+        {
+          "id": "B",
+          "text": "Resilience"
+        },
+        {
+          "id": "C",
+          "text": "An isolated acute stress response"
+        },
+        {
+          "id": "D",
+          "text": "Normal physiologic arousal during a single call"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Burnout combines exhaustion, cynicism, and reduced performance resulting from long-term job stress.",
+      "incorrectChoiceExplanations": {
+        "B": "Resilience concerns healthy adaptation and recovery.",
+        "C": "The pattern follows prolonged stress, not an isolated immediate response.",
+        "D": "Persistent deterioration is different from short-lived arousal during one call."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "VI. Emotional Aspects of Emergency Care \u00b7 Burnout"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Burnout recognition",
+      "reviewFocus": "Burnout recognition",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "VI. Emotional Aspects of Emergency Care \u00b7 Burnout"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "topic": "Transmission routes",
+      "learningObjectiveId": "CH02-LO04",
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "III.E: Routes of transmission"
+        },
+        {
+          "sourceId": "slides2",
+          "locator": "PDF page 5"
+        },
+        {
+          "sourceId": "transcript2",
+          "locator": "Transmission routes"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Transmission routes"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Routes of Transmission"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "id": "CH02-FB001",
+      "version": 2,
+      "format": "mcq",
+      "questionType": "recall",
+      "question": "Disease transmission through an infected tick bite is _____ transmission.",
+      "conceptId": "CH02-C004",
+      "reviewFocus": "Transmission routes",
+      "includeInCourseExam": true,
+      "includeInLearning": false,
+      "sourceQuestionIds": [
+        "CH02-Q004"
+      ],
+      "difficulty": "moderate",
+      "correctAnswer": "A",
+      "explanation": "A living carrier such as a tick transmits the pathogen.",
+      "blankMultipleChoice": true,
+      "choices": [
+        {
+          "id": "A",
+          "text": "vector-borne"
+        },
+        {
+          "id": "B",
+          "text": "airborne"
+        },
+        {
+          "id": "C",
+          "text": "direct contact"
+        },
+        {
+          "id": "D",
+          "text": "indirect contact"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "Airborne transmission involves inhaled infectious particles, not a tick bite.",
+        "C": "The tick is a vector rather than direct person-to-person contact.",
+        "D": "Contact with contaminated objects is different from transmission by a living vector."
+      }
+    },
+    {
+      "chapter": 2,
+      "topic": "Resilience definition",
+      "learningObjectiveId": "CH02-LO01",
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "II. General Health, Wellness, and Resilience"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "II. General Health, Wellness, and Resilience"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "id": "CH02-FB002",
+      "version": 2,
+      "format": "mcq",
+      "questionType": "recall",
+      "question": "The ability to adapt to stress and recover is called _____.",
+      "conceptId": "CH02-C032",
+      "reviewFocus": "Resilience definition",
+      "includeInCourseExam": true,
+      "includeInLearning": false,
+      "sourceQuestionIds": [
+        "CH02-Q032"
+      ],
+      "difficulty": "moderate",
+      "correctAnswer": "A",
+      "explanation": "Resilience concerns coping and recovery. Wellness is the pursuit of good health; eustress and distress describe positive and negative stress responses.",
+      "blankMultipleChoice": true,
+      "choices": [
+        {
+          "id": "A",
+          "text": "resilience"
+        },
+        {
+          "id": "B",
+          "text": "burnout"
+        },
+        {
+          "id": "C",
+          "text": "compassion fatigue"
+        },
+        {
+          "id": "D",
+          "text": "acute stress reaction"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "Burnout involves exhaustion, cynicism, and reduced performance.",
+        "C": "Compassion fatigue involves a gradual loss of compassion.",
+        "D": "An acute stress reaction is an immediate response to stress, not the capacity to recover."
+      }
+    }
+  ],
+  "auditDate": "2026-10-08",
+  "archivedQuestions": [
+    {
+      "id": "CH02-Q002",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Infectious versus communicable",
+      "conceptId": "CH02-C002",
+      "learningObjectiveId": "CH02-LO02",
+      "questionType": "conceptual",
+      "difficulty": "moderate",
+      "question": "What additional feature makes an infectious disease communicable?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "It can spread between people or between species"
+        },
+        {
+          "id": "B",
+          "text": "It is caused by a microorganism rather than an injury"
+        },
+        {
+          "id": "C",
+          "text": "It produces symptoms rather than remaining asymptomatic"
+        },
+        {
+          "id": "D",
+          "text": "It has no vaccine or effective treatment"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Infectious describes the cause; communicable describes the ability to spread.",
+      "incorrectChoiceExplanations": {
+        "B": "A microbial cause defines infectious disease, not specifically communicability.",
+        "C": "Symptoms do not determine whether a disease is transmissible.",
+        "D": "Available prevention and treatment do not define communicability."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "III.A\u2013B: Infectious and communicable diseases"
+        },
+        {
+          "sourceId": "slides2",
+          "locator": "PDF page 2"
+        },
+        {
+          "sourceId": "transcript2",
+          "locator": "Infectious versus communicable"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Infectious describes the cause; communicable describes the ability to spread.",
+      "reviewFocus": "Infectious versus communicable",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Infectious versus communicable"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Infectious and Communicable Diseases"
+        }
+      ]
+    },
+    {
+      "id": "CH02-Q011",
+      "version": 1,
+      "chapter": 2,
+      "topic": "Hazardous-material scene safety",
+      "conceptId": "CH02-C011",
+      "learningObjectiveId": "CH02-LO11",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "A leaking tanker has an unreadable placard. Patients are near the spill. The EMT crew lacks hazardous-material entry training and equipment. What should the crew do first?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Remain safely distant and upwind/uphill where appropriate; request trained hazardous-material resources"
+        },
+        {
+          "id": "B",
+          "text": "Approach far enough to read the placard before deciding where to stage"
+        },
+        {
+          "id": "C",
+          "text": "Enter briefly to remove the nearest patient while holding their breath"
+        },
+        {
+          "id": "D",
+          "text": "Park beside the tanker so equipment is ready when the hazmat team arrives"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Protect responders first, identify hazards from a safe distance, and use trained resources for entry and decontamination.",
+      "incorrectChoiceExplanations": {
+        "B": "Identification is useful but does not justify unsafe approach.",
+        "C": "A brief exposure or breath-holding does not make an unprotected entry safe.",
+        "D": "Convenient equipment access does not justify staging in the hazard area."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "IV.B.1: Hazardous materials"
+        },
+        {
+          "sourceId": "slides2",
+          "locator": "PDF page 21"
+        },
+        {
+          "sourceId": "transcript2",
+          "locator": "Hazardous-material scene safety"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Protect responders first, identify hazards from a safe distance, and use trained resources for entry and decontamination.",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Knowing the material helps responders plan.",
+      "whyNotBest": "Identification is useful but does not justify unsafe approach.",
+      "keyDistinction": "Protect responders first, identify hazards from a safe distance, and use trained resources for entry and decontamination.",
+      "reviewFocus": "Hazardous-material scene safety",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Scene Safety \u00b7 Hazardous-material scene safety"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Hazardous materials"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "topic": "Postexposure response",
+      "learningObjectiveId": "CH02-LO10",
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "III.J: General postexposure management"
+        },
+        {
+          "sourceId": "slides2",
+          "locator": "PDF page 19"
+        },
+        {
+          "sourceId": "transcript2",
+          "locator": "Postexposure response"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Postexposure response"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "General Postexposure Management"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "id": "CH02-AR001",
+      "version": 1,
+      "format": "active_recall",
+      "questionType": "active_recall",
+      "question": "A used needle punctures your skin during patient care. Recall the immediate exposure-response steps.",
+      "conceptId": "CH02-C010",
+      "reviewFocus": "Postexposure response",
+      "includeInCourseExam": false,
+      "includeInLearning": true,
+      "sourceQuestionIds": [
+        "CH02-Q010"
+      ],
+      "difficulty": "moderate",
+      "checkpoints": [
+        "Transfer patient care to another provider when available.",
+        "Clean the exposed area and activate the agency infection-control plan.",
+        "Report and document the exposure and obtain the required assessment and follow-up."
+      ],
+      "modelAnswer": "Transfer patient care to another provider when available. Clean the exposed area and activate the agency infection-control plan. Report and document the exposure and obtain the required assessment and follow-up.",
+      "explanation": "Transfer patient care to another provider when available. Clean the exposed area and activate the agency infection-control plan. Report and document the exposure and obtain the required assessment and follow-up."
+    },
+    {
+      "chapter": 2,
+      "topic": "Tuberculosis precautions",
+      "learningObjectiveId": "CH02-LO05",
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "III.F.9: Masks and respirators"
+        },
+        {
+          "sourceId": "slides2",
+          "locator": "PDF page 13"
+        },
+        {
+          "sourceId": "transcript2",
+          "locator": "Tuberculosis precautions"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Tuberculosis precautions"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Masks, Respirators, and Barrier Devices"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "id": "CH02-AR002",
+      "version": 1,
+      "format": "active_recall",
+      "questionType": "active_recall",
+      "question": "A patient with suspected infectious pulmonary tuberculosis can tolerate a mask. Recall the patient and provider respiratory precautions.",
+      "conceptId": "CH02-C005",
+      "reviewFocus": "Tuberculosis precautions",
+      "includeInCourseExam": false,
+      "includeInLearning": true,
+      "sourceQuestionIds": [
+        "CH02-Q005"
+      ],
+      "difficulty": "moderate",
+      "checkpoints": [
+        "Place a surgical mask on the patient when tolerated.",
+        "The provider uses a fit-tested N95 or higher-level respirator."
+      ],
+      "modelAnswer": "Place a surgical mask on the patient when tolerated. The provider uses a fit-tested N95 or higher-level respirator.",
+      "explanation": "Place a surgical mask on the patient when tolerated. The provider uses a fit-tested N95 or higher-level respirator."
+    },
+    {
+      "chapter": 2,
+      "topic": "Transmission routes",
+      "learningObjectiveId": "CH02-LO04",
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "III.E: Routes of transmission"
+        },
+        {
+          "sourceId": "slides2",
+          "locator": "PDF page 5"
+        },
+        {
+          "sourceId": "transcript2",
+          "locator": "Transmission routes"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "Infectious and Communicable Diseases \u00b7 Transmission routes"
+        },
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Workforce Safety and Wellness Part II-1.pdf",
+          "label": "Chapter 2 slides \u00b7 Part 2",
+          "section": "Routes of Transmission"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "id": "CH02-FB001",
+      "version": 1,
+      "format": "fill_blank",
+      "questionType": "fill_blank",
+      "question": "Disease transmission through an infected tick bite is _____ transmission.",
+      "conceptId": "CH02-C004",
+      "reviewFocus": "Transmission routes",
+      "includeInCourseExam": false,
+      "includeInLearning": true,
+      "sourceQuestionIds": [
+        "CH02-Q004"
+      ],
+      "difficulty": "moderate",
+      "correctAnswer": "vector-borne",
+      "acceptedAnswers": [
+        "vector-borne",
+        "vector borne",
+        "vector"
+      ],
+      "explanation": "A living carrier such as a tick transmits the pathogen."
+    },
+    {
+      "chapter": 2,
+      "topic": "Resilience definition",
+      "learningObjectiveId": "CH02-LO01",
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "II. General Health, Wellness, and Resilience"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH02(1).docx",
+          "label": "Chapter 2 outline",
+          "section": "II. General Health, Wellness, and Resilience"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "id": "CH02-FB002",
+      "version": 1,
+      "format": "fill_blank",
+      "questionType": "fill_blank",
+      "question": "The ability to adapt to stress and recover is called _____.",
+      "conceptId": "CH02-C032",
+      "reviewFocus": "Resilience definition",
+      "includeInCourseExam": false,
+      "includeInLearning": true,
+      "sourceQuestionIds": [
+        "CH02-Q032"
+      ],
+      "difficulty": "moderate",
+      "correctAnswer": "resilience",
+      "acceptedAnswers": [
+        "resilience"
+      ],
+      "explanation": "Resilience concerns coping and recovery. Wellness is the pursuit of good health; eustress and distress describe positive and negative stress responses."
+    }
+  ]
+}
