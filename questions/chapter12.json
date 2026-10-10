@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "bankVersion": "1.1.0",
+  "bankVersion": "1.2.0",
   "chapter": 12,
   "title": "Principles of Pharmacology",
-  "updated": "2026-10-08",
+  "updated": "2026-10-10",
   "sources": [
     {
       "id": "outline",
@@ -21,25 +21,25 @@
       "id": "slides1",
       "filename": "Lecture Slides- Principles of Pharmacology Part I.pdf",
       "role": "Lecture slides",
-      "label": "Chapter 12 slides \u00b7 Part 1"
+      "label": "Chapter 12 slides · Part 1"
     },
     {
       "id": "slides2",
       "filename": "Lecture Slides- Principles of Pharmacology Part II.pdf",
       "role": "Lecture slides",
-      "label": "Chapter 12 slides \u00b7 Part 2"
+      "label": "Chapter 12 slides · Part 2"
     },
     {
       "id": "transcript1",
       "filename": "Principles of Pharmacology Part I-English(1).txt",
       "role": "Lecture transcript",
-      "label": "Chapter 12 lecture \u00b7 Part 1"
+      "label": "Chapter 12 lecture · Part 1"
     },
     {
       "id": "transcript2",
       "filename": "Principles of Pharmacology Part II-English(1).txt",
       "role": "Lecture transcript",
-      "label": "Chapter 12 lecture \u00b7 Part 2"
+      "label": "Chapter 12 lecture · Part 2"
     }
   ],
   "learningObjectives": [
@@ -53,43 +53,43 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Dynamics versus kinetics"
+          "section": "How Medications Work · Dynamics versus kinetics"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Antagonist mechanism"
+          "section": "How Medications Work · Antagonist mechanism"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Onset and peak"
+          "section": "How Medications Work · Onset and peak"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Duration"
+          "section": "How Medications Work · Duration"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Unintended versus untoward effects"
+          "section": "How Medications Work · Unintended versus untoward effects"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Indication versus therapeutic effect"
+          "section": "How Medications Work · Indication versus therapeutic effect"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Shock and medication response"
+          "section": "How Medications Work · Shock and medication response"
         },
         {
           "sourceId": "outline",
@@ -101,7 +101,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "II. How Medications Work \u00b7 Pharmacokinetics"
+          "section": "II. How Medications Work · Pharmacokinetics"
         }
       ]
     },
@@ -115,19 +115,19 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Absolute contraindication"
+          "section": "How Medications Work · Absolute contraindication"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Relative contraindication"
+          "section": "How Medications Work · Relative contraindication"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Check indication and contraindications"
+          "section": "How Medications Work · Check indication and contraindications"
         },
         {
           "sourceId": "outline",
@@ -147,13 +147,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Generic and trade names"
+          "section": "How Medications Work · Generic and trade names"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Multiple trade names"
+          "section": "How Medications Work · Multiple trade names"
         }
       ]
     },
@@ -167,13 +167,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Enteral route"
+          "section": "How Medications Work · Enteral route"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Sublingual versus swallowed"
+          "section": "How Medications Work · Sublingual versus swallowed"
         }
       ]
     },
@@ -187,55 +187,55 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Intravenous versus intraosseous"
+          "section": "How Medications Work · Intravenous versus intraosseous"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 SC versus IM location"
+          "section": "How Medications Work · SC versus IM location"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Route and speed"
+          "section": "How Medications Work · Route and speed"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Intranasal atomization"
+          "section": "How Medications Work · Intranasal atomization"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Transdermal duration"
+          "section": "How Medications Work · Transdermal duration"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Rectal route abbreviation"
+          "section": "How Medications Work · Rectal route abbreviation"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 IM versus subcutaneous deposition"
+          "section": "How Medications Work · IM versus subcutaneous deposition"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "II. How Medications Work \u00b7 Routes of administration"
+          "section": "II. How Medications Work · Routes of administration"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "II. How Medications Work \u00b7 Oral and sublingual routes"
+          "section": "II. How Medications Work · Oral and sublingual routes"
         }
       ]
     },
@@ -249,43 +249,43 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medication Forms \u00b7 Solution versus suspension"
+          "section": "Medication Forms · Solution versus suspension"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medication Forms \u00b7 Capsules versus tablets"
+          "section": "Medication Forms · Capsules versus tablets"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medication Forms \u00b7 Topical versus transdermal"
+          "section": "Medication Forms · Topical versus transdermal"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medication Forms \u00b7 Form and route"
+          "section": "Medication Forms · Form and route"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medication Forms \u00b7 Gas form and medication checks"
+          "section": "Medication Forms · Gas form and medication checks"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "III. Medication Forms \u00b7 Solutions and suspensions"
+          "section": "III. Medication Forms · Solutions and suspensions"
         }
       ]
     },
     {
       "id": "CH12-LO07",
-      "text": "List the \u201crights\u201d of medication administration; include how each one relates to EMS.",
+      "text": "List the “rights” of medication administration; include how each one relates to EMS.",
       "coverageStatus": "sampled",
       "coverageNote": "",
       "reviewReferences": [
@@ -293,37 +293,37 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "General Steps in Administering Medication \u00b7 Right patient"
+          "section": "General Steps in Administering Medication · Right patient"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "General Steps in Administering Medication \u00b7 Medication cross-check"
+          "section": "General Steps in Administering Medication · Medication cross-check"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "General Steps in Administering Medication \u00b7 Right education and refusal"
+          "section": "General Steps in Administering Medication · Right education and refusal"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "General Steps in Administering Medication \u00b7 Expiration and condition"
+          "section": "General Steps in Administering Medication · Expiration and condition"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "General Steps in Administering Medication \u00b7 Response before routine reporting"
+          "section": "General Steps in Administering Medication · Response before routine reporting"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "General Steps in Administering Medication \u00b7 Documentation content"
+          "section": "General Steps in Administering Medication · Documentation content"
         }
       ]
     },
@@ -337,13 +337,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "General Steps in Administering Medication \u00b7 Online versus standing orders"
+          "section": "General Steps in Administering Medication · Online versus standing orders"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "General Steps in Administering Medication \u00b7 Protocol authorization"
+          "section": "General Steps in Administering Medication · Protocol authorization"
         }
       ]
     },
@@ -357,13 +357,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medication Administration and the EMT \u00b7 Patient-assisted administration"
+          "section": "Medication Administration and the EMT · Patient-assisted administration"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medication Administration and the EMT \u00b7 Peer versus direct administration"
+          "section": "Medication Administration and the EMT · Peer versus direct administration"
         }
       ]
     },
@@ -377,115 +377,115 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Aspirin cardiac action"
+          "section": "Medications Used by EMTs · Aspirin cardiac action"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Aspirin safety screen"
+          "section": "Medications Used by EMTs · Aspirin safety screen"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Aspirin versus nitroglycerin"
+          "section": "Medications Used by EMTs · Aspirin versus nitroglycerin"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Nitroglycerin and blood pressure"
+          "section": "Medications Used by EMTs · Nitroglycerin and blood pressure"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Nitroglycerin and recent sildenafil"
+          "section": "Medications Used by EMTs · Nitroglycerin and recent sildenafil"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Medication history before nitroglycerin"
+          "section": "Medications Used by EMTs · Medication history before nitroglycerin"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Nitroglycerin spray route"
+          "section": "Medications Used by EMTs · Nitroglycerin spray route"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Nitroglycerin repeat decision"
+          "section": "Medications Used by EMTs · Nitroglycerin repeat decision"
         },
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Principles of Pharmacology Part II.pdf",
-          "label": "Chapter 12 slides \u00b7 Part 2",
-          "section": "Nitroglycerin administration considerations \u00b7 interval and vital signs"
+          "label": "Chapter 12 slides · Part 2",
+          "section": "Nitroglycerin administration considerations · interval and vital signs"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Nitroglycerin storage"
+          "section": "Medications Used by EMTs · Nitroglycerin storage"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Oral glucose indication"
+          "section": "Medications Used by EMTs · Oral glucose indication"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Oral medication airway safety"
+          "section": "Medications Used by EMTs · Oral medication airway safety"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Epinephrine in anaphylaxis"
+          "section": "Medications Used by EMTs · Epinephrine in anaphylaxis"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Epinephrine versus inhaler"
+          "section": "Medications Used by EMTs · Epinephrine versus inhaler"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Naloxone indication"
+          "section": "Medications Used by EMTs · Naloxone indication"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Ventilation while naloxone is prepared"
+          "section": "Medications Used by EMTs · Ventilation while naloxone is prepared"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Recurrent opioid effects"
+          "section": "Medications Used by EMTs · Recurrent opioid effects"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Bystander naloxone and withdrawal"
+          "section": "Medications Used by EMTs · Bystander naloxone and withdrawal"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 MDI spacer versus nebulizer"
+          "section": "Medications Used by EMTs · MDI spacer versus nebulizer"
         }
       ]
     },
@@ -499,7 +499,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Age and weight in dosing"
+          "section": "How Medications Work · Age and weight in dosing"
         }
       ]
     },
@@ -513,13 +513,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Auto-injector preset dose"
+          "section": "Medications Used by EMTs · Auto-injector preset dose"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Auto-injector safety checks"
+          "section": "Medications Used by EMTs · Auto-injector safety checks"
         }
       ]
     },
@@ -533,19 +533,19 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Patient Medications \u00b7 Complete medication history"
+          "section": "Patient Medications · Complete medication history"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Patient Medications \u00b7 Actual use versus prescribed use"
+          "section": "Patient Medications · Actual use versus prescribed use"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Patient Medications \u00b7 Medications alter presentation"
+          "section": "Patient Medications · Medications alter presentation"
         }
       ]
     },
@@ -559,19 +559,19 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medication Errors \u00b7 Immediate medication error response"
+          "section": "Medication Errors · Immediate medication error response"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medication Errors \u00b7 Preventing errors in a chaotic scene"
+          "section": "Medication Errors · Preventing errors in a chaotic scene"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medication Errors \u00b7 Medication error: reporting and improvement"
+          "section": "Medication Errors · Medication error: reporting and improvement"
         }
       ]
     }
@@ -579,7 +579,7 @@
   "questions": [
     {
       "id": "CH12-Q001",
-      "version": 1,
+      "version": 2,
       "chapter": 12,
       "topic": "Dynamics versus kinetics",
       "conceptId": "CH12-C001",
@@ -590,27 +590,27 @@
       "choices": [
         {
           "id": "A",
-          "text": "A drug blocks a receptor and prevents another chemical from activating it"
+          "text": "A medication blocks a receptor, preventing another substance from activating it"
         },
         {
           "id": "B",
-          "text": "Clinical effects first appear 3 minutes after administration"
+          "text": "A medication is absorbed through nasal mucosa into the bloodstream"
         },
         {
           "id": "C",
-          "text": "The body removes a drug through elimination"
+          "text": "A medication is removed from the body through elimination"
         },
         {
           "id": "D",
-          "text": "The drug\u2019s maximum clinical effect occurs 10 minutes after administration"
+          "text": "Reduced tissue blood flow delays a medication’s absorption"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Pharmacodynamics describes what the medication does to the body, including receptor effects.",
+      "explanation": "Pharmacodynamics describes medication actions on the body, such as receptor blockade. Absorption and elimination describe the body’s handling of the medication.",
       "incorrectChoiceExplanations": {
-        "B": "This describes onset of action.",
-        "C": "Elimination is a pharmacokinetic process.",
-        "D": "This describes peak effect, a time-course property."
+        "B": "Absorption describes how medication enters the bloodstream.",
+        "C": "Elimination describes removal from the body.",
+        "D": "A change in absorption is a pharmacokinetic issue."
       },
       "sourceReferences": [
         {
@@ -621,16 +621,28 @@
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "Dynamics versus kinetics",
+      "diagnosticIntent": "Distinguish receptor action from absorption and elimination.",
       "reviewFocus": "Dynamics versus kinetics",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Dynamics versus kinetics"
+          "section": "How Medications Work · Dynamics versus kinetics"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Distinguish receptor action from absorption and elimination."
+      }
     },
     {
       "id": "CH12-Q002",
@@ -674,7 +686,7 @@
         },
         {
           "sourceId": "transcript1",
-          "locator": "Agonists and antagonists \u00b7 naloxone example"
+          "locator": "Agonists and antagonists · naloxone example"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -687,9 +699,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Antagonist mechanism"
+          "section": "How Medications Work · Antagonist mechanism"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Antagonist mechanism"
+      }
     },
     {
       "id": "CH12-Q003",
@@ -742,9 +766,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Onset and peak"
+          "section": "How Medications Work · Onset and peak"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Onset and peak"
+      }
     },
     {
       "id": "CH12-Q004",
@@ -755,7 +791,7 @@
       "learningObjectiveId": "CH12-LO01",
       "questionType": "recall",
       "difficulty": "moderate",
-      "question": "Which measurement describes a medication\u2019s duration?",
+      "question": "Which measurement describes a medication’s duration?",
       "choices": [
         {
           "id": "A",
@@ -797,9 +833,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Duration"
+          "section": "How Medications Work · Duration"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Duration"
+      }
     },
     {
       "id": "CH12-Q005",
@@ -852,9 +900,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Unintended versus untoward effects"
+          "section": "How Medications Work · Unintended versus untoward effects"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Unintended versus untoward effects"
+      }
     },
     {
       "id": "CH12-Q006",
@@ -907,9 +967,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Indication versus therapeutic effect"
+          "section": "How Medications Work · Indication versus therapeutic effect"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Indication versus therapeutic effect"
+      }
     },
     {
       "id": "CH12-Q007",
@@ -966,44 +1038,56 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Shock and medication response"
+          "section": "How Medications Work · Shock and medication response"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Shock and medication response"
+      }
     },
     {
       "id": "CH12-Q008",
-      "version": 1,
+      "version": 2,
       "chapter": 12,
       "topic": "Absolute contraindication",
       "conceptId": "CH12-C008",
       "learningObjectiveId": "CH12-LO02",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "A medication is indicated for the complaint, but the patient has a documented severe allergy to that same medication. What does this establish?",
+      "question": "A patient has suspected cardiac chest pain and a documented severe allergy to aspirin. How should the allergy affect aspirin administration?",
       "choices": [
         {
           "id": "A",
-          "text": "An absolute contraindication despite the indication"
+          "text": "It is a contraindication even though the complaint otherwise supports aspirin"
         },
         {
           "id": "B",
-          "text": "A relative contraindication automatically outweighed by the complaint"
+          "text": "It is a relative concern that the chest-pain indication automatically outweighs"
         },
         {
           "id": "C",
-          "text": "A therapeutic effect that should be observed after dosing"
+          "text": "It is a reason to reduce the dose while keeping the oral route"
         },
         {
           "id": "D",
-          "text": "An adverse effect that matters only after administration"
+          "text": "It matters only if a reaction occurs after administration"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "A severe allergy to the proposed medication is a reason not to administer it.",
+      "explanation": "Aspirin allergy is a contraindication to aspirin. A relevant indication does not make the same medication safe in a patient with a severe allergy.",
       "incorrectChoiceExplanations": {
-        "B": "An indication does not automatically override an absolute contraindication.",
-        "C": "Allergy is not the intended therapeutic action.",
-        "D": "Known allergy must be considered before administration."
+        "B": "The indication does not automatically override this allergy.",
+        "C": "A lower dose does not remove the allergy risk.",
+        "D": "The known allergy must be considered before administration."
       },
       "sourceReferences": [
         {
@@ -1012,22 +1096,34 @@
         },
         {
           "sourceId": "transcript1",
-          "locator": "Absolute contraindication \u00b7 severe medication allergy"
+          "locator": "Absolute contraindication · severe medication allergy"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "Absolute contraindication",
+      "diagnosticIntent": "Apply an aspirin contraindication without making a blanket claim about all lifesaving drugs.",
       "reviewFocus": "Absolute contraindication",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Absolute contraindication"
+          "section": "How Medications Work · Absolute contraindication"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Apply an aspirin contraindication without making a blanket claim about all lifesaving drugs."
+      }
     },
     {
       "id": "CH12-Q009",
@@ -1054,7 +1150,7 @@
         },
         {
           "id": "D",
-          "text": "It is simply another name for a medication\u2019s indication"
+          "text": "It is simply another name for a medication’s indication"
         }
       ],
       "correctAnswer": "A",
@@ -1080,9 +1176,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Relative contraindication"
+          "section": "How Medications Work · Relative contraindication"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Relative contraindication"
+      }
     },
     {
       "id": "CH12-Q010",
@@ -1093,7 +1201,7 @@
       "learningObjectiveId": "CH12-LO02",
       "questionType": "conceptual",
       "difficulty": "challenging",
-      "question": "A patient\u2019s complaint matches an indication for a medication. What still needs to be established before administration?",
+      "question": "A patient’s complaint matches an indication for a medication. What still needs to be established before administration?",
       "choices": [
         {
           "id": "A",
@@ -1109,14 +1217,14 @@
         },
         {
           "id": "D",
-          "text": "That the medication\u2019s trade name sounds appropriate for the symptom"
+          "text": "That the medication’s trade name sounds appropriate for the symptom"
         }
       ],
       "correctAnswer": "A",
       "explanation": "An indication is necessary but does not complete assessment of safety, dose, route, or authorization.",
       "incorrectChoiceExplanations": {
         "B": "The same patient can have both an indication and a contraindication.",
-        "C": "Another patient\u2019s response cannot replace individual checks.",
+        "C": "Another patient’s response cannot replace individual checks.",
         "D": "A name alone does not establish appropriateness."
       },
       "sourceReferences": [
@@ -1135,9 +1243,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Check indication and contraindications"
+          "section": "How Medications Work · Check indication and contraindications"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Check indication and contraindications"
+      }
     },
     {
       "id": "CH12-Q011",
@@ -1152,19 +1272,19 @@
       "choices": [
         {
           "id": "A",
-          "text": "naloxone \u2014 Narcan"
+          "text": "naloxone — Narcan"
         },
         {
           "id": "B",
-          "text": "Narcan \u2014 naloxone"
+          "text": "Narcan — naloxone"
         },
         {
           "id": "C",
-          "text": "Viagra \u2014 sildenafil"
+          "text": "Viagra — sildenafil"
         },
         {
           "id": "D",
-          "text": "EpiPen \u2014 epinephrine"
+          "text": "EpiPen — epinephrine"
         }
       ],
       "correctAnswer": "A",
@@ -1181,7 +1301,7 @@
         },
         {
           "sourceId": "quiz",
-          "locator": "Question 15 \u00b7 Narcan; transcript examples of naloxone"
+          "locator": "Question 15 · Narcan; transcript examples of naloxone"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -1194,9 +1314,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Generic and trade names"
+          "section": "How Medications Work · Generic and trade names"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Generic and trade names"
+      }
     },
     {
       "id": "CH12-Q012",
@@ -1249,9 +1381,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Multiple trade names"
+          "section": "How Medications Work · Multiple trade names"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Multiple trade names"
+      }
     },
     {
       "id": "CH12-Q013",
@@ -1304,9 +1448,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Enteral route"
+          "section": "How Medications Work · Enteral route"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Enteral route"
+      }
     },
     {
       "id": "CH12-Q014",
@@ -1359,9 +1515,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Sublingual versus swallowed"
+          "section": "How Medications Work · Sublingual versus swallowed"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Sublingual versus swallowed"
+      }
     },
     {
       "id": "CH12-Q015",
@@ -1414,9 +1582,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Intravenous versus intraosseous"
+          "section": "How Medications Work · Intravenous versus intraosseous"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Intravenous versus intraosseous"
+      }
     },
     {
       "id": "CH12-Q016",
@@ -1469,9 +1649,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 SC versus IM location"
+          "section": "How Medications Work · SC versus IM location"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "SC versus IM location"
+      }
     },
     {
       "id": "CH12-Q017",
@@ -1524,9 +1716,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Route and speed"
+          "section": "How Medications Work · Route and speed"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Route and speed"
+      }
     },
     {
       "id": "CH12-Q018",
@@ -1579,9 +1783,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Intranasal atomization"
+          "section": "How Medications Work · Intranasal atomization"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Intranasal atomization"
+      }
     },
     {
       "id": "CH12-Q019",
@@ -1634,9 +1850,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Transdermal duration"
+          "section": "How Medications Work · Transdermal duration"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Transdermal duration"
+      }
     },
     {
       "id": "CH12-Q020",
@@ -1689,9 +1917,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Rectal route abbreviation"
+          "section": "How Medications Work · Rectal route abbreviation"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Rectal route abbreviation"
+      }
     },
     {
       "id": "CH12-Q021",
@@ -1718,7 +1958,7 @@
         },
         {
           "id": "D",
-          "text": "To change a liquid preparation\u2019s intended absorption route"
+          "text": "To change a liquid preparation’s intended absorption route"
         }
       ],
       "correctAnswer": "A",
@@ -1744,9 +1984,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medication Forms \u00b7 Solution versus suspension"
+          "section": "Medication Forms · Solution versus suspension"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Solution versus suspension"
+      }
     },
     {
       "id": "CH12-Q022",
@@ -1799,9 +2051,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medication Forms \u00b7 Capsules versus tablets"
+          "section": "Medication Forms · Capsules versus tablets"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Capsules versus tablets"
+      }
     },
     {
       "id": "CH12-Q023",
@@ -1854,9 +2118,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medication Forms \u00b7 Topical versus transdermal"
+          "section": "Medication Forms · Topical versus transdermal"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Topical versus transdermal"
+      }
     },
     {
       "id": "CH12-Q024",
@@ -1867,7 +2143,7 @@
       "learningObjectiveId": "CH12-LO06",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "Why should an EMT verify the medication\u2019s form as well as its name?",
+      "question": "Why should an EMT verify the medication’s form as well as its name?",
       "choices": [
         {
           "id": "A",
@@ -1879,7 +2155,7 @@
         },
         {
           "id": "C",
-          "text": "Form determines the patient\u2019s diagnosis without further assessment"
+          "text": "Form determines the patient’s diagnosis without further assessment"
         },
         {
           "id": "D",
@@ -1909,9 +2185,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medication Forms \u00b7 Form and route"
+          "section": "Medication Forms · Form and route"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Form and route"
+      }
     },
     {
       "id": "CH12-Q025",
@@ -1964,9 +2252,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "General Steps in Administering Medication \u00b7 Right patient"
+          "section": "General Steps in Administering Medication · Right patient"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Right patient"
+      }
     },
     {
       "id": "CH12-Q026",
@@ -1993,7 +2293,7 @@
         },
         {
           "id": "D",
-          "text": "Use the previous patient\u2019s dose because the complaint is similar"
+          "text": "Use the previous patient’s dose because the complaint is similar"
         }
       ],
       "correctAnswer": "A",
@@ -2023,9 +2323,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "General Steps in Administering Medication \u00b7 Medication cross-check"
+          "section": "General Steps in Administering Medication · Medication cross-check"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Medication cross-check"
+      }
     },
     {
       "id": "CH12-Q027",
@@ -2082,9 +2394,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "General Steps in Administering Medication \u00b7 Right education and refusal"
+          "section": "General Steps in Administering Medication · Right education and refusal"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Right education and refusal"
+      }
     },
     {
       "id": "CH12-Q028",
@@ -2111,7 +2435,7 @@
         },
         {
           "id": "D",
-          "text": "A correct route permits use without considering the container\u2019s condition"
+          "text": "A correct route permits use without considering the container’s condition"
         }
       ],
       "correctAnswer": "A",
@@ -2137,9 +2461,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "General Steps in Administering Medication \u00b7 Expiration and condition"
+          "section": "General Steps in Administering Medication · Expiration and condition"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Expiration and condition"
+      }
     },
     {
       "id": "CH12-Q029",
@@ -2183,7 +2519,7 @@
         },
         {
           "sourceId": "quiz",
-          "locator": "Question 1 \u00b7 reassessment after prescribed MDI"
+          "locator": "Question 1 · reassessment after prescribed MDI"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -2191,7 +2527,7 @@
       "contentBasis": "Uploaded course materials only",
       "diagnosticIntent": "Response before routine reporting",
       "secondMostPlausibleAnswer": "B",
-      "whyTempting": "Communication with medical control matters, but immediate reassessment establishes the patient\u2019s response.",
+      "whyTempting": "Communication with medical control matters, but immediate reassessment establishes the patient’s response.",
       "whyNotBest": "Reporting may be needed, but should not postpone immediate patient evaluation.",
       "keyDistinction": "Right response/evaluation requires reassessment for benefit and adverse effects; document what is observed.",
       "reviewFocus": "Response before routine reporting",
@@ -2200,9 +2536,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "General Steps in Administering Medication \u00b7 Response before routine reporting"
+          "section": "General Steps in Administering Medication · Response before routine reporting"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Response before routine reporting"
+      }
     },
     {
       "id": "CH12-Q030",
@@ -2221,7 +2569,7 @@
         },
         {
           "id": "B",
-          "text": "Medication trade name and the EMT\u2019s initials only"
+          "text": "Medication trade name and the EMT’s initials only"
         },
         {
           "id": "C",
@@ -2246,7 +2594,7 @@
         },
         {
           "sourceId": "transcript2",
-          "locator": "RPM triple D \u00b7 documentation"
+          "locator": "RPM triple D · documentation"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -2259,9 +2607,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "General Steps in Administering Medication \u00b7 Documentation content"
+          "section": "General Steps in Administering Medication · Documentation content"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Documentation content"
+      }
     },
     {
       "id": "CH12-Q031",
@@ -2284,11 +2644,11 @@
         },
         {
           "id": "C",
-          "text": "The patient\u2019s prescription; direct physician communication"
+          "text": "The patient’s prescription; direct physician communication"
         },
         {
           "id": "D",
-          "text": "Direct physician communication; the manufacturer\u2019s directions"
+          "text": "Direct physician communication; the manufacturer’s directions"
         }
       ],
       "correctAnswer": "A",
@@ -2305,7 +2665,7 @@
         },
         {
           "sourceId": "transcript2",
-          "locator": "Medical direction \u00b7 online control and standing orders"
+          "locator": "Medical direction · online control and standing orders"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -2318,9 +2678,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "General Steps in Administering Medication \u00b7 Online versus standing orders"
+          "section": "General Steps in Administering Medication · Online versus standing orders"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Online versus standing orders"
+      }
     },
     {
       "id": "CH12-Q032",
@@ -2351,11 +2723,11 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Medication authority depends on the EMT\u2019s system and applicable medical direction.",
+      "explanation": "Medication authority depends on the EMT’s system and applicable medical direction.",
       "incorrectChoiceExplanations": {
         "B": "OTC availability does not establish EMS authorization.",
         "C": "Personal experience does not establish scope or authorization.",
-        "D": "Another agency\u2019s rules do not automatically apply."
+        "D": "Another agency’s rules do not automatically apply."
       },
       "sourceReferences": [
         {
@@ -2373,9 +2745,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "General Steps in Administering Medication \u00b7 Protocol authorization"
+          "section": "General Steps in Administering Medication · Protocol authorization"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Protocol authorization"
+      }
     },
     {
       "id": "CH12-Q033",
@@ -2386,7 +2770,7 @@
       "learningObjectiveId": "CH12-LO09",
       "questionType": "recall",
       "difficulty": "moderate",
-      "question": "An EMT helps an alert patient use the patient\u2019s own prescribed nitroglycerin under authorized conditions. Which category does this illustrate?",
+      "question": "An EMT helps an alert patient use the patient’s own prescribed nitroglycerin under authorized conditions. Which category does this illustrate?",
       "choices": [
         {
           "id": "A",
@@ -2406,10 +2790,10 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "The EMT is assisting with the patient\u2019s own medication.",
+      "explanation": "The EMT is assisting with the patient’s own medication.",
       "incorrectChoiceExplanations": {
         "B": "Peer-assisted refers to the EMT or partner receiving medication.",
-        "C": "Here the EMT helps the patient use the patient\u2019s medication.",
+        "C": "Here the EMT helps the patient use the patient’s medication.",
         "D": "Online describes how direction is obtained rather than this administration circumstance."
       },
       "sourceReferences": [
@@ -2428,9 +2812,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medication Administration and the EMT \u00b7 Patient-assisted administration"
+          "section": "Medication Administration and the EMT · Patient-assisted administration"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Patient-assisted administration"
+      }
     },
     {
       "id": "CH12-Q034",
@@ -2445,11 +2841,11 @@
       "choices": [
         {
           "id": "A",
-          "text": "An EMT helps a partner administer a medication after the partner\u2019s toxic-agent exposure"
+          "text": "An EMT helps a partner administer a medication after the partner’s toxic-agent exposure"
         },
         {
           "id": "B",
-          "text": "An EMT helps a patient use the patient\u2019s prescribed inhaler"
+          "text": "An EMT helps a patient use the patient’s prescribed inhaler"
         },
         {
           "id": "C",
@@ -2461,7 +2857,7 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Peer-assisted administration concerns oneself or one\u2019s partner.",
+      "explanation": "Peer-assisted administration concerns oneself or one’s partner.",
       "incorrectChoiceExplanations": {
         "B": "This is patient-assisted administration.",
         "C": "This is direct EMT administration to a patient.",
@@ -2483,9 +2879,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medication Administration and the EMT \u00b7 Peer versus direct administration"
+          "section": "Medication Administration and the EMT · Peer versus direct administration"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Peer versus direct administration"
+      }
     },
     {
       "id": "CH12-Q035",
@@ -2496,7 +2904,7 @@
       "learningObjectiveId": "CH12-LO10",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "What is aspirin\u2019s principal benefit during a suspected heart attack?",
+      "question": "What is aspirin’s principal benefit during a suspected heart attack?",
       "choices": [
         {
           "id": "A",
@@ -2519,7 +2927,7 @@
       "explanation": "Aspirin inhibits platelet clumping, helping limit further clot development.",
       "incorrectChoiceExplanations": {
         "B": "Its stated role is antiplatelet action rather than direct clot dissolution.",
-        "C": "Venous relaxation describes nitroglycerin\u2019s action.",
+        "C": "Venous relaxation describes nitroglycerin’s action.",
         "D": "Opioid antagonism describes naloxone."
       },
       "sourceReferences": [
@@ -2538,9 +2946,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Aspirin cardiac action"
+          "section": "Medications Used by EMTs · Aspirin cardiac action"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Aspirin cardiac action"
+      }
     },
     {
       "id": "CH12-Q036",
@@ -2593,9 +3013,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Aspirin safety screen"
+          "section": "Medications Used by EMTs · Aspirin safety screen"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Aspirin safety screen"
+      }
     },
     {
       "id": "CH12-Q037",
@@ -2648,9 +3080,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Aspirin versus nitroglycerin"
+          "section": "Medications Used by EMTs · Aspirin versus nitroglycerin"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Aspirin versus nitroglycerin"
+      }
     },
     {
       "id": "CH12-Q038",
@@ -2703,9 +3147,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Nitroglycerin and blood pressure"
+          "section": "Medications Used by EMTs · Nitroglycerin and blood pressure"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Nitroglycerin and blood pressure"
+      }
     },
     {
       "id": "CH12-Q039",
@@ -2758,9 +3214,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Nitroglycerin and recent sildenafil"
+          "section": "Medications Used by EMTs · Nitroglycerin and recent sildenafil"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Nitroglycerin and recent sildenafil"
+      }
     },
     {
       "id": "CH12-Q040",
@@ -2804,7 +3272,7 @@
         },
         {
           "sourceId": "quiz",
-          "locator": "Question 2 \u00b7 recent sildenafil use"
+          "locator": "Question 2 · recent sildenafil use"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -2821,9 +3289,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Medication history before nitroglycerin"
+          "section": "Medications Used by EMTs · Medication history before nitroglycerin"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Medication history before nitroglycerin"
+      }
     },
     {
       "id": "CH12-Q041",
@@ -2858,7 +3338,7 @@
       "incorrectChoiceExplanations": {
         "B": "An inhaler spacer is not the nitroglycerin spray route.",
         "C": "Immediate swallowing changes the intended delivery path.",
-        "D": "Skin application is not this spray\u2019s intended administration."
+        "D": "Skin application is not this spray’s intended administration."
       },
       "sourceReferences": [
         {
@@ -2880,9 +3360,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Nitroglycerin spray route"
+          "section": "Medications Used by EMTs · Nitroglycerin spray route"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Nitroglycerin spray route"
+      }
     },
     {
       "id": "CH12-Q042",
@@ -2916,7 +3408,7 @@
       "explanation": "Repeat treatment requires current assessment and authorization; persistent pain alone is insufficient.",
       "incorrectChoiceExplanations": {
         "B": "Nitroglycerin can lower pressure after the first dose.",
-        "C": "The patient\u2019s condition can change between doses.",
+        "C": "The patient’s condition can change between doses.",
         "D": "A medication effect does not replace evaluation."
       },
       "sourceReferences": [
@@ -2926,7 +3418,7 @@
         },
         {
           "sourceId": "slides2",
-          "locator": "Nitroglycerin administration considerations \u00b7 interval and vital signs"
+          "locator": "Nitroglycerin administration considerations · interval and vital signs"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -2939,15 +3431,27 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Nitroglycerin repeat decision"
+          "section": "Medications Used by EMTs · Nitroglycerin repeat decision"
         },
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Principles of Pharmacology Part II.pdf",
-          "label": "Chapter 12 slides \u00b7 Part 2",
-          "section": "Nitroglycerin administration considerations \u00b7 interval and vital signs"
+          "label": "Chapter 12 slides · Part 2",
+          "section": "Nitroglycerin administration considerations · interval and vital signs"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Nitroglycerin repeat decision"
+      }
     },
     {
       "id": "CH12-Q043",
@@ -3000,20 +3504,32 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Nitroglycerin storage"
+          "section": "Medications Used by EMTs · Nitroglycerin storage"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Nitroglycerin storage"
+      }
     },
     {
       "id": "CH12-Q044",
-      "version": 3,
+      "version": 4,
       "chapter": 12,
       "topic": "Oral glucose indication",
       "conceptId": "CH12-C044",
       "learningObjectiveId": "CH12-LO10",
       "questionType": "conceptual",
       "difficulty": "challenging",
-      "question": "An alert diabetic patient is weak and confused, has confirmed low blood glucose, and can swallow and protect the airway. Which medication addresses the identified problem?",
+      "question": "A responsive patient with diabetes is weak and confused, has confirmed low blood glucose, and can swallow and protect the airway. Which medication addresses the identified problem?",
       "choices": [
         {
           "id": "A",
@@ -3042,7 +3558,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VI.A.1\u20132. Oral medications and glucose"
+          "locator": "VI.A.1–2. Oral medications and glucose"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -3055,9 +3571,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Oral glucose indication"
+          "section": "Medications Used by EMTs · Oral glucose indication"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Oral glucose indication"
+      }
     },
     {
       "id": "CH12-Q045",
@@ -3097,7 +3625,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VI.A.1\u20132. Oral medications and glucose"
+          "locator": "VI.A.1–2. Oral medications and glucose"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -3110,9 +3638,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Oral medication airway safety"
+          "section": "Medications Used by EMTs · Oral medication airway safety"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Oral medication airway safety"
+      }
     },
     {
       "id": "CH12-Q046",
@@ -3143,7 +3683,7 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Epinephrine\u2019s airway and circulatory effects address major threats in anaphylaxis.",
+      "explanation": "Epinephrine’s airway and circulatory effects address major threats in anaphylaxis.",
       "incorrectChoiceExplanations": {
         "B": "The vascular and heart-rate effects are reversed.",
         "C": "Epinephrine dilates rather than constricts airway passages.",
@@ -3165,9 +3705,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Epinephrine in anaphylaxis"
+          "section": "Medications Used by EMTs · Epinephrine in anaphylaxis"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Epinephrine in anaphylaxis"
+      }
     },
     {
       "id": "CH12-Q047",
@@ -3178,7 +3730,7 @@
       "learningObjectiveId": "CH12-LO10",
       "questionType": "best_answer",
       "difficulty": "challenging",
-      "question": "After an allergen exposure, a patient develops widespread allergic findings, severe breathing difficulty, and low blood pressure. Why is an authorized epinephrine auto-injector more appropriate than relying only on the patient\u2019s bronchodilator?",
+      "question": "After an allergen exposure, a patient develops widespread allergic findings, severe breathing difficulty, and low blood pressure. Why is an authorized epinephrine auto-injector more appropriate than relying only on the patient’s bronchodilator?",
       "choices": [
         {
           "id": "A",
@@ -3198,7 +3750,7 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Epinephrine\u2019s actions include airway dilation and circulatory support; treating breathing alone does not address the whole reaction.",
+      "explanation": "Epinephrine’s actions include airway dilation and circulatory support; treating breathing alone does not address the whole reaction.",
       "incorrectChoiceExplanations": {
         "B": "The patient also has a circulatory threat in a severe allergic reaction.",
         "C": "The clinical indication and effects, not portability, determine treatment.",
@@ -3217,16 +3769,28 @@
       "secondMostPlausibleAnswer": "B",
       "whyTempting": "An inhaler may help a bronchospasm problem, but cannot be relied on alone for this life-threatening systemic reaction.",
       "whyNotBest": "The patient also has a circulatory threat in a severe allergic reaction.",
-      "keyDistinction": "Epinephrine\u2019s actions include airway dilation and circulatory support; treating breathing alone does not address the whole reaction.",
+      "keyDistinction": "Epinephrine’s actions include airway dilation and circulatory support; treating breathing alone does not address the whole reaction.",
       "reviewFocus": "Epinephrine versus inhaler",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Epinephrine versus inhaler"
+          "section": "Medications Used by EMTs · Epinephrine versus inhaler"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Epinephrine versus inhaler"
+      }
     },
     {
       "id": "CH12-Q048",
@@ -3266,11 +3830,11 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VI.C.3\u2013D. Naloxone"
+          "locator": "VI.C.3–D. Naloxone"
         },
         {
           "sourceId": "quiz",
-          "locator": "Question 17 \u00b7 naloxone and slow respirations"
+          "locator": "Question 17 · naloxone and slow respirations"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -3283,9 +3847,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Naloxone indication"
+          "section": "Medications Used by EMTs · Naloxone indication"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Naloxone indication"
+      }
     },
     {
       "id": "CH12-Q049",
@@ -3325,11 +3901,11 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VI.C.3\u2013D. Naloxone"
+          "locator": "VI.C.3–D. Naloxone"
         },
         {
           "sourceId": "transcript2",
-          "locator": "Intranasal naloxone \u00b7 airway and breathing support"
+          "locator": "Intranasal naloxone · airway and breathing support"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -3346,9 +3922,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Ventilation while naloxone is prepared"
+          "section": "Medications Used by EMTs · Ventilation while naloxone is prepared"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Ventilation while naloxone is prepared"
+      }
     },
     {
       "id": "CH12-Q050",
@@ -3379,7 +3967,7 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Naloxone\u2019s effect may end before the opioid\u2019s; recurrence requires reassessment and continued care.",
+      "explanation": "Naloxone’s effect may end before the opioid’s; recurrence requires reassessment and continued care.",
       "incorrectChoiceExplanations": {
         "B": "Initial reversal does not exclude recurrent opioid effects.",
         "C": "Receptor blockade does not guarantee permanent elimination of the opioid.",
@@ -3388,7 +3976,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VI.C.3\u2013D. Naloxone"
+          "locator": "VI.C.3–D. Naloxone"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -3401,9 +3989,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Recurrent opioid effects"
+          "section": "Medications Used by EMTs · Recurrent opioid effects"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Recurrent opioid effects"
+      }
     },
     {
       "id": "CH12-Q051",
@@ -3443,7 +4043,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VI.C.3\u2013D. Naloxone"
+          "locator": "VI.C.3–D. Naloxone"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -3456,9 +4056,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Bystander naloxone and withdrawal"
+          "section": "Medications Used by EMTs · Bystander naloxone and withdrawal"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Bystander naloxone and withdrawal"
+      }
     },
     {
       "id": "CH12-Q052",
@@ -3485,7 +4097,7 @@
         },
         {
           "id": "D",
-          "text": "A spacer replaces the need to inhale; an SVN requires precise spray\u2013breath timing"
+          "text": "A spacer replaces the need to inhale; an SVN requires precise spray–breath timing"
         }
       ],
       "correctAnswer": "A",
@@ -3498,7 +4110,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VI.E.2\u20133. MDIs and nebulizers"
+          "locator": "VI.E.2–3. MDIs and nebulizers"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -3511,9 +4123,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 MDI spacer versus nebulizer"
+          "section": "Medications Used by EMTs · MDI spacer versus nebulizer"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "MDI spacer versus nebulizer"
+      }
     },
     {
       "id": "CH12-Q053",
@@ -3540,7 +4164,7 @@
         },
         {
           "id": "D",
-          "text": "A child\u2019s dose can always be obtained by halving any adult dose"
+          "text": "A child’s dose can always be obtained by halving any adult dose"
         }
       ],
       "correctAnswer": "A",
@@ -3566,9 +4190,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Age and weight in dosing"
+          "section": "How Medications Work · Age and weight in dosing"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Age and weight in dosing"
+      }
     },
     {
       "id": "CH12-Q054",
@@ -3621,9 +4257,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Auto-injector preset dose"
+          "section": "Medications Used by EMTs · Auto-injector preset dose"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Auto-injector preset dose"
+      }
     },
     {
       "id": "CH12-Q055",
@@ -3676,9 +4324,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Auto-injector safety checks"
+          "section": "Medications Used by EMTs · Auto-injector safety checks"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Auto-injector safety checks"
+      }
     },
     {
       "id": "CH12-Q056",
@@ -3731,9 +4391,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Patient Medications \u00b7 Complete medication history"
+          "section": "Patient Medications · Complete medication history"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Complete medication history"
+      }
     },
     {
       "id": "CH12-Q057",
@@ -3744,7 +4416,7 @@
       "learningObjectiveId": "CH12-LO13",
       "questionType": "multi_step",
       "difficulty": "challenging",
-      "question": "A patient\u2019s medication bottles are available, but the patient admits taking some doses differently from the labels. What information should accompany transport?",
+      "question": "A patient’s medication bottles are available, but the patient admits taking some doses differently from the labels. What information should accompany transport?",
       "choices": [
         {
           "id": "A",
@@ -3786,9 +4458,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Patient Medications \u00b7 Actual use versus prescribed use"
+          "section": "Patient Medications · Actual use versus prescribed use"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Actual use versus prescribed use"
+      }
     },
     {
       "id": "CH12-Q058",
@@ -3799,7 +4483,7 @@
       "learningObjectiveId": "CH12-LO13",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "Why should a patient\u2019s beta blocker or anticoagulant be considered during assessment even when it was not taken for the current complaint?",
+      "question": "Why should a patient’s beta blocker or anticoagulant be considered during assessment even when it was not taken for the current complaint?",
       "choices": [
         {
           "id": "A",
@@ -3832,7 +4516,7 @@
         },
         {
           "sourceId": "transcript2",
-          "locator": "Patient medications \u00b7 altered presentation and bleeding risk"
+          "locator": "Patient medications · altered presentation and bleeding risk"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -3845,9 +4529,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Patient Medications \u00b7 Medications alter presentation"
+          "section": "Patient Medications · Medications alter presentation"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Medications alter presentation"
+      }
     },
     {
       "id": "CH12-Q059",
@@ -3881,7 +4577,7 @@
       "explanation": "Patient care comes first, with rapid medical-control notification, protocol follow-through, and honest documentation.",
       "incorrectChoiceExplanations": {
         "B": "Documentation is required but must not delay urgent care.",
-        "C": "Discussion cannot take priority over the patient\u2019s condition.",
+        "C": "Discussion cannot take priority over the patient’s condition.",
         "D": "Delayed disclosure can compromise treatment."
       },
       "sourceReferences": [
@@ -3895,7 +4591,7 @@
       "contentBasis": "Uploaded course materials only",
       "diagnosticIntent": "Immediate medication error response",
       "secondMostPlausibleAnswer": "B",
-      "whyTempting": "Documentation matters, but the patient\u2019s deterioration requires immediate care.",
+      "whyTempting": "Documentation matters, but the patient’s deterioration requires immediate care.",
       "whyNotBest": "Documentation is required but must not delay urgent care.",
       "keyDistinction": "Patient care comes first, with rapid medical-control notification, protocol follow-through, and honest documentation.",
       "reviewFocus": "Immediate medication error response",
@@ -3904,9 +4600,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medication Errors \u00b7 Immediate medication error response"
+          "section": "Medication Errors · Immediate medication error response"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Immediate medication error response"
+      }
     },
     {
       "id": "CH12-Q060",
@@ -3959,9 +4667,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medication Errors \u00b7 Preventing errors in a chaotic scene"
+          "section": "Medication Errors · Preventing errors in a chaotic scene"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Preventing errors in a chaotic scene"
+      }
     },
     {
       "id": "CH12-Q061",
@@ -4014,9 +4734,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 IM versus subcutaneous deposition"
+          "section": "How Medications Work · IM versus subcutaneous deposition"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "IM versus subcutaneous deposition"
+      }
     },
     {
       "id": "CH12-Q062",
@@ -4050,7 +4782,7 @@
       "explanation": "Oxygen is a medication in gas form. The form influences delivery but does not exempt it from medication checks and evaluation.",
       "incorrectChoiceExplanations": {
         "B": "All medications require the correct recipient.",
-        "C": "The delivery system must also fit the patient\u2019s need.",
+        "C": "The delivery system must also fit the patient’s need.",
         "D": "Treatment and response still require documentation."
       },
       "sourceReferences": [
@@ -4069,9 +4801,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medication Forms \u00b7 Gas form and medication checks"
+          "section": "Medication Forms · Gas form and medication checks"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Gas form and medication checks"
+      }
     },
     {
       "id": "CH12-Q063",
@@ -4124,9 +4868,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medication Errors \u00b7 Medication error: reporting and improvement"
+          "section": "Medication Errors · Medication error: reporting and improvement"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Medication error: reporting and improvement"
+      }
     },
     {
       "id": "CH12-Q064",
@@ -4182,7 +4938,19 @@
           "label": "Chapter 12 outline",
           "section": "II. How Medications Work"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Pharmacodynamics definition"
+      }
     },
     {
       "id": "CH12-Q065",
@@ -4238,7 +5006,19 @@
           "label": "Chapter 12 outline",
           "section": "II. How Medications Work"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Pharmacokinetics definition"
+      }
     },
     {
       "id": "CH12-Q066",
@@ -4294,7 +5074,19 @@
           "label": "Chapter 12 outline",
           "section": "II. How Medications Work"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Agonist definition"
+      }
     },
     {
       "id": "CH12-Q067",
@@ -4350,7 +5142,19 @@
           "label": "Chapter 12 outline",
           "section": "II. How Medications Work"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Contraindication definition"
+      }
     },
     {
       "id": "CH12-Q068",
@@ -4390,7 +5194,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "II. How Medications Work \u00b7 Pharmacokinetics"
+          "locator": "II. How Medications Work · Pharmacokinetics"
         }
       ],
       "verificationStatus": "Reviewed against uploaded class material; not independently verified",
@@ -4403,10 +5207,22 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "II. How Medications Work \u00b7 Pharmacokinetics"
+          "section": "II. How Medications Work · Pharmacokinetics"
         }
       ],
-      "definitionQuestion": true
+      "definitionQuestion": true,
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Elimination definition"
+      }
     },
     {
       "id": "CH12-Q069",
@@ -4446,7 +5262,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "II. How Medications Work \u00b7 Routes of administration"
+          "locator": "II. How Medications Work · Routes of administration"
         }
       ],
       "verificationStatus": "Reviewed against uploaded class material; not independently verified",
@@ -4459,65 +5275,89 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "II. How Medications Work \u00b7 Routes of administration"
+          "section": "II. How Medications Work · Routes of administration"
         }
       ],
-      "definitionQuestion": true
+      "definitionQuestion": true,
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Absorption definition"
+      }
     },
     {
       "id": "CH12-Q070",
-      "version": 1,
+      "version": 2,
       "chapter": 12,
       "topic": "Route and relative absorption time",
       "conceptId": "CH12-C070",
       "learningObjectiveId": "CH12-LO05",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "Which pairing correctly compares the expected absorption of swallowed and sublingual medication?",
+      "question": "Which comparison correctly distinguishes swallowed from sublingual medication?",
       "choices": [
         {
           "id": "A",
-          "text": "Oral: may take up to an hour; sublingual: through oral mucosa within minutes"
+          "text": "Swallowed medication uses gastrointestinal absorption; sublingual medication uses mucosa beneath the tongue"
         },
         {
           "id": "B",
-          "text": "Oral: directly enters blood; sublingual: must first pass through the stomach"
+          "text": "Both depend on gastrointestinal absorption, but sublingual tablets dissolve sooner"
         },
         {
           "id": "C",
-          "text": "Oral: within seconds in all patients; sublingual: takes longer because it dissolves"
+          "text": "Swallowed medication enters blood directly; sublingual medication must first be swallowed"
         },
         {
           "id": "D",
-          "text": "Oral and sublingual: both require the same digestive absorption path"
+          "text": "Both have the same onset whenever they contain the same active drug"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Oral absorption may take up to an hour; sublingual absorption occurs through the oral mucosa within minutes.",
+      "explanation": "The routes have different absorption paths. Exact onset depends on the drug and patient, so there is no universal one-hour oral limit or fixed timing for every sublingual medication.",
       "incorrectChoiceExplanations": {
-        "B": "Swallowed medication uses digestive absorption; sublingual medication does not need stomach passage.",
-        "C": "Oral delivery is not uniformly immediate, and sublingual mucosal absorption is faster.",
-        "D": "The routes use different absorption paths."
+        "B": "Sublingual absorption is through oral mucosa, not dependent on the gastrointestinal path.",
+        "C": "Swallowed medication must be absorbed; sublingual delivery does not require swallowing.",
+        "D": "Route can affect onset even with the same active medication."
       },
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "II. How Medications Work \u00b7 Oral and sublingual routes"
+          "locator": "II. How Medications Work · Oral and sublingual routes"
         }
       ],
       "verificationStatus": "Reviewed against uploaded class material; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "Route and relative absorption time",
+      "diagnosticIntent": "Compare absorption paths without overgeneralizing onset times.",
       "reviewFocus": "Route and relative absorption time",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "II. How Medications Work \u00b7 Oral and sublingual routes"
+          "section": "II. How Medications Work · Oral and sublingual routes"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Compare absorption paths without overgeneralizing onset times."
+      }
     },
     {
       "id": "CH12-Q071",
@@ -4557,7 +5397,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "III. Medication Forms \u00b7 Solutions and suspensions"
+          "locator": "III. Medication Forms · Solutions and suspensions"
         }
       ],
       "verificationStatus": "Reviewed against uploaded class material; not independently verified",
@@ -4570,252 +5410,20 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "III. Medication Forms \u00b7 Solutions and suspensions"
-        }
-      ]
-    },
-    {
-      "chapter": 12,
-      "topic": "Agonist definition",
-      "learningObjectiveId": "CH12-LO01",
-      "sourceReferences": [
-        {
-          "sourceId": "outline",
-          "locator": "II. How Medications Work"
+          "section": "III. Medication Forms · Solutions and suspensions"
         }
       ],
-      "reviewReferences": [
-        {
-          "sourceId": "outline",
-          "filename": "9781284243796_LOUT_CH12(1).docx",
-          "label": "Chapter 12 outline",
-          "section": "II. How Medications Work"
-        }
-      ],
-      "contentBasis": "Uploaded course materials only",
-      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
-      "id": "CH12-FB001",
-      "version": 2,
-      "format": "mcq",
-      "questionType": "recall",
-      "question": "A medication that stimulates a receptor is called _____.",
-      "conceptId": "CH12-C066",
-      "reviewFocus": "Agonist definition",
-      "includeInCourseExam": true,
-      "includeInLearning": false,
-      "sourceQuestionIds": [
-        "CH12-Q066"
-      ],
-      "difficulty": "moderate",
-      "correctAnswer": "A",
-      "explanation": "An agonist stimulates receptors; an antagonist blocks them. Contraindications and unintended effects describe other medication concepts.",
-      "blankMultipleChoice": true,
-      "choices": [
-        {
-          "id": "A",
-          "text": "agonist"
-        },
-        {
-          "id": "B",
-          "text": "antagonist"
-        },
-        {
-          "id": "C",
-          "text": "indication"
-        },
-        {
-          "id": "D",
-          "text": "adverse effect"
-        }
-      ],
-      "incorrectChoiceExplanations": {
-        "B": "An antagonist blocks receptor activation by another substance.",
-        "C": "An indication is a reason to give a medication.",
-        "D": "An adverse effect is an action other than the desired effect."
-      }
-    },
-    {
-      "chapter": 12,
-      "topic": "Antagonist mechanism",
-      "learningObjectiveId": "CH12-LO01",
-      "sourceReferences": [
-        {
-          "sourceId": "outline",
-          "locator": "II.A. Medical definitions"
-        },
-        {
-          "sourceId": "transcript1",
-          "locator": "Agonists and antagonists \u00b7 naloxone example"
-        }
-      ],
-      "reviewReferences": [
-        {
-          "sourceId": "outline",
-          "filename": "9781284243796_LOUT_CH12(1).docx",
-          "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Antagonist mechanism"
-        }
-      ],
-      "contentBasis": "Uploaded course materials only",
-      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
-      "id": "CH12-FB002",
-      "version": 2,
-      "format": "mcq",
-      "questionType": "recall",
-      "question": "A medication that blocks another substance\u2019s receptor effects is called _____.",
-      "conceptId": "CH12-C002",
-      "reviewFocus": "Antagonist mechanism",
-      "includeInCourseExam": true,
-      "includeInLearning": false,
-      "sourceQuestionIds": [
-        "CH12-Q002"
-      ],
-      "difficulty": "moderate",
-      "correctAnswer": "A",
-      "explanation": "An antagonist blocks receptor activation by other substances.",
-      "blankMultipleChoice": true,
-      "choices": [
-        {
-          "id": "A",
-          "text": "antagonist"
-        },
-        {
-          "id": "B",
-          "text": "agonist"
-        },
-        {
-          "id": "C",
-          "text": "indication"
-        },
-        {
-          "id": "D",
-          "text": "adverse effect"
-        }
-      ],
-      "incorrectChoiceExplanations": {
-        "B": "An agonist stimulates a receptor.",
-        "C": "An indication is a reason to give a medication.",
-        "D": "An adverse effect describes an undesired drug action rather than this receptor mechanism."
-      }
-    },
-    {
-      "chapter": 12,
-      "topic": "SC versus IM location",
-      "learningObjectiveId": "CH12-LO05",
-      "sourceReferences": [
-        {
-          "sourceId": "outline",
-          "locator": "II.C.4. Common routes of administration"
-        }
-      ],
-      "reviewReferences": [
-        {
-          "sourceId": "outline",
-          "filename": "9781284243796_LOUT_CH12(1).docx",
-          "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 SC versus IM location"
-        }
-      ],
-      "contentBasis": "Uploaded course materials only",
-      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
-      "id": "CH12-FB003",
-      "version": 2,
-      "format": "mcq",
-      "questionType": "recall",
-      "question": "Injection into fatty tissue between skin and muscle uses the _____ route.",
-      "conceptId": "CH12-C016",
-      "reviewFocus": "SC versus IM location",
-      "includeInCourseExam": true,
-      "includeInLearning": false,
-      "sourceQuestionIds": [
-        "CH12-Q016"
-      ],
-      "difficulty": "moderate",
-      "correctAnswer": "A",
-      "explanation": "SC injection deposits medication beneath the skin in fatty tissue.",
-      "blankMultipleChoice": true,
-      "choices": [
-        {
-          "id": "A",
-          "text": "subcutaneous"
-        },
-        {
-          "id": "B",
-          "text": "intramuscular"
-        },
-        {
-          "id": "C",
-          "text": "intravenous"
-        },
-        {
-          "id": "D",
-          "text": "intraosseous"
-        }
-      ],
-      "incorrectChoiceExplanations": {
-        "B": "Intramuscular injection enters muscle.",
-        "C": "Intravenous delivery enters a vein rather than fatty tissue.",
-        "D": "Intraosseous delivery reaches circulation through bone marrow."
-      }
-    },
-    {
-      "chapter": 12,
-      "topic": "Duration",
-      "learningObjectiveId": "CH12-LO01",
-      "sourceReferences": [
-        {
-          "sourceId": "outline",
-          "locator": "II.A. Medical definitions"
-        }
-      ],
-      "reviewReferences": [
-        {
-          "sourceId": "outline",
-          "filename": "9781284243796_LOUT_CH12(1).docx",
-          "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Duration"
-        }
-      ],
-      "contentBasis": "Uploaded course materials only",
-      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
-      "id": "CH12-FB004",
-      "version": 2,
-      "format": "mcq",
-      "questionType": "recall",
-      "question": "The length of time a medication\u2019s clinical effects persist is its _____.",
-      "conceptId": "CH12-C004",
-      "reviewFocus": "Duration",
-      "includeInCourseExam": true,
-      "includeInLearning": false,
-      "sourceQuestionIds": [
-        "CH12-Q004"
-      ],
-      "difficulty": "moderate",
-      "correctAnswer": "A",
-      "explanation": "Duration describes how long clinical effects last.",
-      "blankMultipleChoice": true,
-      "choices": [
-        {
-          "id": "A",
-          "text": "duration"
-        },
-        {
-          "id": "B",
-          "text": "onset"
-        },
-        {
-          "id": "C",
-          "text": "peak"
-        },
-        {
-          "id": "D",
-          "text": "elimination"
-        }
-      ],
-      "incorrectChoiceExplanations": {
-        "B": "Onset is the time until the first clinical effect.",
-        "C": "Peak is the point of maximum clinical effect.",
-        "D": "Elimination describes removal of the medication from the body."
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Solution versus suspension"
       }
     }
   ],
@@ -4858,7 +5466,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VI.A.1\u20132. Oral medications and glucose"
+          "locator": "VI.A.1–2. Oral medications and glucose"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -4917,7 +5525,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Unintended versus untoward effects"
+          "section": "How Medications Work · Unintended versus untoward effects"
         }
       ]
     },
@@ -4972,7 +5580,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medication Forms \u00b7 Solution versus suspension"
+          "section": "Medication Forms · Solution versus suspension"
         }
       ]
     },
@@ -5027,7 +5635,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "General Steps in Administering Medication \u00b7 Right patient"
+          "section": "General Steps in Administering Medication · Right patient"
         }
       ]
     },
@@ -5056,7 +5664,7 @@
         },
         {
           "id": "D",
-          "text": "The patient\u2019s prescription; the partner\u2019s preference"
+          "text": "The patient’s prescription; the partner’s preference"
         }
       ],
       "correctAnswer": "A",
@@ -5073,7 +5681,7 @@
         },
         {
           "sourceId": "transcript2",
-          "locator": "Medical direction \u00b7 online control and standing orders"
+          "locator": "Medical direction · online control and standing orders"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -5086,7 +5694,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "General Steps in Administering Medication \u00b7 Online versus standing orders"
+          "section": "General Steps in Administering Medication · Online versus standing orders"
         }
       ]
     },
@@ -5099,7 +5707,7 @@
       "learningObjectiveId": "CH12-LO09",
       "questionType": "recall",
       "difficulty": "moderate",
-      "question": "An EMT helps an alert patient use the patient\u2019s own prescribed nitroglycerin under authorized conditions. Which category does this illustrate?",
+      "question": "An EMT helps an alert patient use the patient’s own prescribed nitroglycerin under authorized conditions. Which category does this illustrate?",
       "choices": [
         {
           "id": "A",
@@ -5119,10 +5727,10 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "The EMT is assisting with the patient\u2019s own medication.",
+      "explanation": "The EMT is assisting with the patient’s own medication.",
       "incorrectChoiceExplanations": {
         "B": "Peer-assisted medication concerns the EMT or partner.",
-        "C": "The example involves the patient\u2019s nitroglycerin rather than directly supplied oxygen.",
+        "C": "The example involves the patient’s nitroglycerin rather than directly supplied oxygen.",
         "D": "Assisting with an existing prescription is not prescribing."
       },
       "sourceReferences": [
@@ -5141,7 +5749,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medication Administration and the EMT \u00b7 Patient-assisted administration"
+          "section": "Medication Administration and the EMT · Patient-assisted administration"
         }
       ]
     },
@@ -5177,7 +5785,7 @@
       "explanation": "These drugs address different mechanisms: platelet clumping versus vessel tone and cardiac workload.",
       "incorrectChoiceExplanations": {
         "B": "This reverses the actions.",
-        "C": "That is naloxone\u2019s role.",
+        "C": "That is naloxone’s role.",
         "D": "Nitroglycerin reduces rather than increases venous return."
       },
       "sourceReferences": [
@@ -5196,7 +5804,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Aspirin versus nitroglycerin"
+          "section": "Medications Used by EMTs · Aspirin versus nitroglycerin"
         }
       ]
     },
@@ -5251,7 +5859,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Nitroglycerin storage"
+          "section": "Medications Used by EMTs · Nitroglycerin storage"
         }
       ]
     },
@@ -5293,7 +5901,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VI.A.1\u20132. Oral medications and glucose"
+          "locator": "VI.A.1–2. Oral medications and glucose"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -5306,7 +5914,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Oral glucose indication"
+          "section": "Medications Used by EMTs · Oral glucose indication"
         }
       ]
     },
@@ -5339,10 +5947,10 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Epinephrine\u2019s airway and circulatory effects address major threats in anaphylaxis.",
+      "explanation": "Epinephrine’s airway and circulatory effects address major threats in anaphylaxis.",
       "incorrectChoiceExplanations": {
         "B": "This reverses the relevant actions.",
-        "C": "These are not epinephrine\u2019s stated mechanisms.",
+        "C": "These are not epinephrine’s stated mechanisms.",
         "D": "Opioid antagonism describes naloxone rather than epinephrine."
       },
       "sourceReferences": [
@@ -5361,7 +5969,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Epinephrine in anaphylaxis"
+          "section": "Medications Used by EMTs · Epinephrine in anaphylaxis"
         }
       ]
     },
@@ -5403,7 +6011,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VI.E.2\u20133. MDIs and nebulizers"
+          "locator": "VI.E.2–3. MDIs and nebulizers"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -5416,7 +6024,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 MDI spacer versus nebulizer"
+          "section": "Medications Used by EMTs · MDI spacer versus nebulizer"
         }
       ]
     },
@@ -5471,7 +6079,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Auto-injector preset dose"
+          "section": "Medications Used by EMTs · Auto-injector preset dose"
         }
       ]
     },
@@ -5490,7 +6098,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Aspirin versus nitroglycerin"
+          "section": "Medications Used by EMTs · Aspirin versus nitroglycerin"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -5499,7 +6107,7 @@
       "version": 1,
       "format": "active_recall",
       "questionType": "active_recall",
-      "question": "Distinguish aspirin\u2019s principal cardiac action from nitroglycerin\u2019s action.",
+      "question": "Distinguish aspirin’s principal cardiac action from nitroglycerin’s action.",
       "conceptId": "CH12-C037",
       "reviewFocus": "Aspirin versus nitroglycerin",
       "includeInCourseExam": false,
@@ -5530,7 +6138,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Nitroglycerin and recent sildenafil"
+          "section": "Medications Used by EMTs · Nitroglycerin and recent sildenafil"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -5562,11 +6170,11 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VI.C.3\u2013D. Naloxone"
+          "locator": "VI.C.3–D. Naloxone"
         },
         {
           "sourceId": "transcript2",
-          "locator": "Intranasal naloxone \u00b7 airway and breathing support"
+          "locator": "Intranasal naloxone · airway and breathing support"
         }
       ],
       "reviewReferences": [
@@ -5574,13 +6182,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Ventilation while naloxone is prepared"
+          "section": "Medications Used by EMTs · Ventilation while naloxone is prepared"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medications Used by EMTs \u00b7 Recurrent opioid effects"
+          "section": "Medications Used by EMTs · Recurrent opioid effects"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -5625,13 +6233,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medication Errors \u00b7 Immediate medication error response"
+          "section": "Medication Errors · Immediate medication error response"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "Medication Errors \u00b7 Medication error: reporting and improvement"
+          "section": "Medication Errors · Medication error: reporting and improvement"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -5708,7 +6316,7 @@
         },
         {
           "sourceId": "transcript1",
-          "locator": "Agonists and antagonists \u00b7 naloxone example"
+          "locator": "Agonists and antagonists · naloxone example"
         }
       ],
       "reviewReferences": [
@@ -5716,7 +6324,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Antagonist mechanism"
+          "section": "How Medications Work · Antagonist mechanism"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -5725,7 +6333,7 @@
       "version": 1,
       "format": "fill_blank",
       "questionType": "fill_blank",
-      "question": "A medication that blocks another substance\u2019s receptor effects acts as an _____.",
+      "question": "A medication that blocks another substance’s receptor effects acts as an _____.",
       "conceptId": "CH12-C002",
       "reviewFocus": "Antagonist mechanism",
       "includeInCourseExam": false,
@@ -5755,7 +6363,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 SC versus IM location"
+          "section": "How Medications Work · SC versus IM location"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -5796,7 +6404,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work \u00b7 Duration"
+          "section": "How Medications Work · Duration"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -5805,7 +6413,7 @@
       "version": 1,
       "format": "fill_blank",
       "questionType": "fill_blank",
-      "question": "The length of time a medication\u2019s clinical effects persist is its _____.",
+      "question": "The length of time a medication’s clinical effects persist is its _____.",
       "conceptId": "CH12-C004",
       "reviewFocus": "Duration",
       "includeInCourseExam": false,
@@ -5820,7 +6428,480 @@
         "duration of action"
       ],
       "explanation": "Duration describes how long clinical effects last."
+    },
+    {
+      "id": "CH12-Q001",
+      "version": 1,
+      "chapter": 12,
+      "topic": "Dynamics versus kinetics",
+      "conceptId": "CH12-C001",
+      "learningObjectiveId": "CH12-LO01",
+      "questionType": "conceptual",
+      "difficulty": "moderate",
+      "question": "Which observation describes pharmacodynamics rather than pharmacokinetics?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A drug blocks a receptor and prevents another chemical from activating it"
+        },
+        {
+          "id": "B",
+          "text": "Clinical effects first appear 3 minutes after administration"
+        },
+        {
+          "id": "C",
+          "text": "The body removes a drug through elimination"
+        },
+        {
+          "id": "D",
+          "text": "The drug’s maximum clinical effect occurs 10 minutes after administration"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Pharmacodynamics describes what the medication does to the body, including receptor effects.",
+      "incorrectChoiceExplanations": {
+        "B": "This describes onset of action.",
+        "C": "Elimination is a pharmacokinetic process.",
+        "D": "This describes peak effect, a time-course property."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "II.A. Medical definitions"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Dynamics versus kinetics",
+      "reviewFocus": "Dynamics versus kinetics",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH12(1).docx",
+          "label": "Chapter 12 outline",
+          "section": "How Medications Work · Dynamics versus kinetics"
+        }
+      ]
+    },
+    {
+      "id": "CH12-Q008",
+      "version": 1,
+      "chapter": 12,
+      "topic": "Absolute contraindication",
+      "conceptId": "CH12-C008",
+      "learningObjectiveId": "CH12-LO02",
+      "questionType": "conceptual",
+      "difficulty": "moderate",
+      "question": "A medication is indicated for the complaint, but the patient has a documented severe allergy to that same medication. What does this establish?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "An absolute contraindication despite the indication"
+        },
+        {
+          "id": "B",
+          "text": "A relative contraindication automatically outweighed by the complaint"
+        },
+        {
+          "id": "C",
+          "text": "A therapeutic effect that should be observed after dosing"
+        },
+        {
+          "id": "D",
+          "text": "An adverse effect that matters only after administration"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "A severe allergy to the proposed medication is a reason not to administer it.",
+      "incorrectChoiceExplanations": {
+        "B": "An indication does not automatically override an absolute contraindication.",
+        "C": "Allergy is not the intended therapeutic action.",
+        "D": "Known allergy must be considered before administration."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "II.A.11. Contraindications"
+        },
+        {
+          "sourceId": "transcript1",
+          "locator": "Absolute contraindication · severe medication allergy"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Absolute contraindication",
+      "reviewFocus": "Absolute contraindication",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH12(1).docx",
+          "label": "Chapter 12 outline",
+          "section": "How Medications Work · Absolute contraindication"
+        }
+      ]
+    },
+    {
+      "id": "CH12-Q044",
+      "version": 3,
+      "chapter": 12,
+      "topic": "Oral glucose indication",
+      "conceptId": "CH12-C044",
+      "learningObjectiveId": "CH12-LO10",
+      "questionType": "conceptual",
+      "difficulty": "challenging",
+      "question": "An alert diabetic patient is weak and confused, has confirmed low blood glucose, and can swallow and protect the airway. Which medication addresses the identified problem?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Oral glucose"
+        },
+        {
+          "id": "B",
+          "text": "Naloxone"
+        },
+        {
+          "id": "C",
+          "text": "Aspirin"
+        },
+        {
+          "id": "D",
+          "text": "Nitroglycerin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Oral glucose supplies glucose to counter hypoglycemia in a patient who can safely receive it.",
+      "incorrectChoiceExplanations": {
+        "B": "Naloxone addresses opioid effects, not the established low glucose.",
+        "C": "Aspirin does not correct low blood glucose.",
+        "D": "Nitroglycerin does not correct low blood glucose."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "VI.A.1–2. Oral medications and glucose"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Oral glucose indication",
+      "reviewFocus": "Oral glucose indication",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH12(1).docx",
+          "label": "Chapter 12 outline",
+          "section": "Medications Used by EMTs · Oral glucose indication"
+        }
+      ]
+    },
+    {
+      "id": "CH12-Q070",
+      "version": 1,
+      "chapter": 12,
+      "topic": "Route and relative absorption time",
+      "conceptId": "CH12-C070",
+      "learningObjectiveId": "CH12-LO05",
+      "questionType": "conceptual",
+      "difficulty": "moderate",
+      "question": "Which pairing correctly compares the expected absorption of swallowed and sublingual medication?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Oral: may take up to an hour; sublingual: through oral mucosa within minutes"
+        },
+        {
+          "id": "B",
+          "text": "Oral: directly enters blood; sublingual: must first pass through the stomach"
+        },
+        {
+          "id": "C",
+          "text": "Oral: within seconds in all patients; sublingual: takes longer because it dissolves"
+        },
+        {
+          "id": "D",
+          "text": "Oral and sublingual: both require the same digestive absorption path"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Oral absorption may take up to an hour; sublingual absorption occurs through the oral mucosa within minutes.",
+      "incorrectChoiceExplanations": {
+        "B": "Swallowed medication uses digestive absorption; sublingual medication does not need stomach passage.",
+        "C": "Oral delivery is not uniformly immediate, and sublingual mucosal absorption is faster.",
+        "D": "The routes use different absorption paths."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "II. How Medications Work · Oral and sublingual routes"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Route and relative absorption time",
+      "reviewFocus": "Route and relative absorption time",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH12(1).docx",
+          "label": "Chapter 12 outline",
+          "section": "II. How Medications Work · Oral and sublingual routes"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "topic": "Agonist definition",
+      "learningObjectiveId": "CH12-LO01",
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "II. How Medications Work"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH12(1).docx",
+          "label": "Chapter 12 outline",
+          "section": "II. How Medications Work"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "id": "CH12-FB001",
+      "version": 2,
+      "format": "mcq",
+      "questionType": "recall",
+      "question": "A medication that stimulates a receptor is called _____.",
+      "conceptId": "CH12-C066",
+      "reviewFocus": "Agonist definition",
+      "includeInCourseExam": true,
+      "includeInLearning": false,
+      "sourceQuestionIds": [
+        "CH12-Q066"
+      ],
+      "difficulty": "moderate",
+      "correctAnswer": "A",
+      "explanation": "An agonist stimulates receptors; an antagonist blocks them. Contraindications and unintended effects describe other medication concepts.",
+      "blankMultipleChoice": true,
+      "choices": [
+        {
+          "id": "A",
+          "text": "agonist"
+        },
+        {
+          "id": "B",
+          "text": "antagonist"
+        },
+        {
+          "id": "C",
+          "text": "indication"
+        },
+        {
+          "id": "D",
+          "text": "adverse effect"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "An antagonist blocks receptor activation by another substance.",
+        "C": "An indication is a reason to give a medication.",
+        "D": "An adverse effect is an action other than the desired effect."
+      },
+      "retirementReason": "Duplicate recall of a fact already tested by a retained question."
+    },
+    {
+      "chapter": 12,
+      "topic": "Antagonist mechanism",
+      "learningObjectiveId": "CH12-LO01",
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "II.A. Medical definitions"
+        },
+        {
+          "sourceId": "transcript1",
+          "locator": "Agonists and antagonists · naloxone example"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH12(1).docx",
+          "label": "Chapter 12 outline",
+          "section": "How Medications Work · Antagonist mechanism"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "id": "CH12-FB002",
+      "version": 2,
+      "format": "mcq",
+      "questionType": "recall",
+      "question": "A medication that blocks another substance’s receptor effects is called _____.",
+      "conceptId": "CH12-C002",
+      "reviewFocus": "Antagonist mechanism",
+      "includeInCourseExam": true,
+      "includeInLearning": false,
+      "sourceQuestionIds": [
+        "CH12-Q002"
+      ],
+      "difficulty": "moderate",
+      "correctAnswer": "A",
+      "explanation": "An antagonist blocks receptor activation by other substances.",
+      "blankMultipleChoice": true,
+      "choices": [
+        {
+          "id": "A",
+          "text": "antagonist"
+        },
+        {
+          "id": "B",
+          "text": "agonist"
+        },
+        {
+          "id": "C",
+          "text": "indication"
+        },
+        {
+          "id": "D",
+          "text": "adverse effect"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "An agonist stimulates a receptor.",
+        "C": "An indication is a reason to give a medication.",
+        "D": "An adverse effect describes an undesired drug action rather than this receptor mechanism."
+      },
+      "retirementReason": "Duplicate recall of a fact already tested by a retained question."
+    },
+    {
+      "chapter": 12,
+      "topic": "SC versus IM location",
+      "learningObjectiveId": "CH12-LO05",
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "II.C.4. Common routes of administration"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH12(1).docx",
+          "label": "Chapter 12 outline",
+          "section": "How Medications Work · SC versus IM location"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "id": "CH12-FB003",
+      "version": 2,
+      "format": "mcq",
+      "questionType": "recall",
+      "question": "Injection into fatty tissue between skin and muscle uses the _____ route.",
+      "conceptId": "CH12-C016",
+      "reviewFocus": "SC versus IM location",
+      "includeInCourseExam": true,
+      "includeInLearning": false,
+      "sourceQuestionIds": [
+        "CH12-Q016"
+      ],
+      "difficulty": "moderate",
+      "correctAnswer": "A",
+      "explanation": "SC injection deposits medication beneath the skin in fatty tissue.",
+      "blankMultipleChoice": true,
+      "choices": [
+        {
+          "id": "A",
+          "text": "subcutaneous"
+        },
+        {
+          "id": "B",
+          "text": "intramuscular"
+        },
+        {
+          "id": "C",
+          "text": "intravenous"
+        },
+        {
+          "id": "D",
+          "text": "intraosseous"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "Intramuscular injection enters muscle.",
+        "C": "Intravenous delivery enters a vein rather than fatty tissue.",
+        "D": "Intraosseous delivery reaches circulation through bone marrow."
+      },
+      "retirementReason": "Duplicate recall of a fact already tested by a retained question."
+    },
+    {
+      "chapter": 12,
+      "topic": "Duration",
+      "learningObjectiveId": "CH12-LO01",
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "II.A. Medical definitions"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH12(1).docx",
+          "label": "Chapter 12 outline",
+          "section": "How Medications Work · Duration"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "id": "CH12-FB004",
+      "version": 2,
+      "format": "mcq",
+      "questionType": "recall",
+      "question": "The length of time a medication’s clinical effects persist is its _____.",
+      "conceptId": "CH12-C004",
+      "reviewFocus": "Duration",
+      "includeInCourseExam": true,
+      "includeInLearning": false,
+      "sourceQuestionIds": [
+        "CH12-Q004"
+      ],
+      "difficulty": "moderate",
+      "correctAnswer": "A",
+      "explanation": "Duration describes how long clinical effects last.",
+      "blankMultipleChoice": true,
+      "choices": [
+        {
+          "id": "A",
+          "text": "duration"
+        },
+        {
+          "id": "B",
+          "text": "onset"
+        },
+        {
+          "id": "C",
+          "text": "peak"
+        },
+        {
+          "id": "D",
+          "text": "elimination"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "Onset is the time until the first clinical effect.",
+        "C": "Peak is the point of maximum clinical effect.",
+        "D": "Elimination describes removal of the medication from the body."
+      },
+      "retirementReason": "Duplicate recall of a fact already tested by a retained question."
     }
   ],
-  "auditDate": "2026-10-08"
+  "auditDate": "2026-10-08",
+  "reviewStatus": "Question-quality audit completed; course-specific ranges identified; conflicting BLS items withheld."
 }

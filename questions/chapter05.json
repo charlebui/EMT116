@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "bankVersion": "1.1.0",
+  "bankVersion": "1.2.0",
   "chapter": 5,
   "title": "Medical Terminology",
-  "updated": "2026-10-08",
+  "updated": "2026-10-10",
   "sources": [
     {
       "id": "outline",
@@ -47,7 +47,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Introduction \u00b7 Purpose and precision"
+          "section": "Introduction · Purpose and precision"
         },
         {
           "sourceId": "slides",
@@ -67,7 +67,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Anatomy of a Medical Term \u00b7 Term components"
+          "section": "Anatomy of a Medical Term · Term components"
         },
         {
           "sourceId": "slides",
@@ -79,7 +79,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Anatomy of a Medical Term \u00b7 Combining vowels"
+          "section": "Anatomy of a Medical Term · Combining vowels"
         },
         {
           "sourceId": "outline",
@@ -99,7 +99,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Proximal and distal"
+          "section": "Common Direction, Movement, and Position Terms · Proximal and distal"
         },
         {
           "sourceId": "slides",
@@ -111,7 +111,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Medial and lateral"
+          "section": "Common Direction, Movement, and Position Terms · Medial and lateral"
         },
         {
           "sourceId": "slides",
@@ -123,43 +123,43 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Superior and inferior"
+          "section": "Common Direction, Movement, and Position Terms · Superior and inferior"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Anterior and posterior"
+          "section": "Common Direction, Movement, and Position Terms · Anterior and posterior"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Superficial and deep"
+          "section": "Common Direction, Movement, and Position Terms · Superficial and deep"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Patient right and left"
+          "section": "Common Direction, Movement, and Position Terms · Patient right and left"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Palmar and plantar"
+          "section": "Common Direction, Movement, and Position Terms · Palmar and plantar"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Unilateral and bilateral"
+          "section": "Common Direction, Movement, and Position Terms · Unilateral and bilateral"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Movement terms"
+          "section": "Common Direction, Movement, and Position Terms · Movement terms"
         },
         {
           "sourceId": "slides",
@@ -185,7 +185,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Prone and supine"
+          "section": "Common Direction, Movement, and Position Terms · Prone and supine"
         },
         {
           "sourceId": "slides",
@@ -197,13 +197,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Fowler positions"
+          "section": "Common Direction, Movement, and Position Terms · Fowler positions"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Fowler versus semi-Fowler positioning"
+          "section": "Common Direction, Movement, and Position Terms · Fowler versus semi-Fowler positioning"
         }
       ]
     },
@@ -217,7 +217,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Anatomy of a Medical Term \u00b7 Dysphagia versus dysphasia"
+          "section": "Anatomy of a Medical Term · Dysphagia versus dysphasia"
         },
         {
           "sourceId": "slides",
@@ -229,7 +229,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Breaking Terms Apart \u00b7 Nephropathy components"
+          "section": "Breaking Terms Apart · Nephropathy components"
         },
         {
           "sourceId": "slides",
@@ -259,19 +259,19 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Breaking Terms Apart \u00b7 Hyperemesis"
+          "section": "Breaking Terms Apart · Hyperemesis"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Breaking Terms Apart \u00b7 Analgesic components"
+          "section": "Breaking Terms Apart · Analgesic components"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Breaking Terms Apart \u00b7 Method of breaking down an unfamiliar term"
+          "section": "Breaking Terms Apart · Method of breaking down an unfamiliar term"
         }
       ]
     },
@@ -285,7 +285,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Abbreviations, Acronyms, and Symbols \u00b7 Symbols and accepted usage"
+          "section": "Abbreviations, Acronyms, and Symbols · Symbols and accepted usage"
         },
         {
           "sourceId": "slides",
@@ -305,7 +305,7 @@
           "sourceId": "transcript",
           "filename": "Medical Terminology-English.txt",
           "label": "Chapter 5 lecture",
-          "section": "Directional Terms \u00b7 Abdominal quadrants"
+          "section": "Directional Terms · Abdominal quadrants"
         },
         {
           "sourceId": "slides",
@@ -376,7 +376,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Introduction \u00b7 Purpose and precision"
+          "section": "Introduction · Purpose and precision"
         },
         {
           "sourceId": "slides",
@@ -384,7 +384,19 @@
           "label": "Chapter 5 slides",
           "section": "Abbreviations, Acronyms, and Symbols"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Medical terminology supports accurate shared understanding; speed should not take priority over clarity."
+      }
     },
     {
       "id": "CH05-Q002",
@@ -441,7 +453,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Anatomy of a Medical Term \u00b7 Term components"
+          "section": "Anatomy of a Medical Term · Term components"
         },
         {
           "sourceId": "slides",
@@ -449,7 +461,19 @@
           "label": "Chapter 5 slides",
           "section": "Anatomy of a Medical Term"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Roots supply the foundation; prefixes and suffixes modify meaning; combining vowels connect components."
+      }
     },
     {
       "id": "CH05-Q003",
@@ -506,7 +530,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Anatomy of a Medical Term \u00b7 Combining vowels"
+          "section": "Anatomy of a Medical Term · Combining vowels"
         },
         {
           "sourceId": "slides",
@@ -514,18 +538,30 @@
           "label": "Chapter 5 slides",
           "section": "Anatomy of a Medical Term"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "The o is a combining vowel between nephr and -pathy; it does not carry the disease or organ meaning."
+      }
     },
     {
       "id": "CH05-Q004",
-      "version": 1,
+      "version": 2,
       "chapter": 5,
       "topic": "Dysphagia versus dysphasia",
       "conceptId": "CH05-C004",
       "learningObjectiveId": "CH05-LO05",
-      "questionType": "best_answer",
+      "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "A patient can speak normally but reports difficulty swallowing. Which term most accurately documents the complaint?",
+      "question": "A patient reports difficulty swallowing but no difficulty speaking. Which term documents the swallowing complaint?",
       "choices": [
         {
           "id": "A",
@@ -537,19 +573,19 @@
         },
         {
           "id": "C",
-          "text": "Dysuria"
+          "text": "Aphasia"
         },
         {
           "id": "D",
-          "text": "Hyperemesis"
+          "text": "Dysuria"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Dysphagia concerns difficulty eating or swallowing; dysphasia concerns difficulty speaking.",
+      "explanation": "Dysphagia means difficulty swallowing. The similar-looking term dysphasia concerns language or speech, not swallowing.",
       "incorrectChoiceExplanations": {
-        "B": "Dysphasia describes speaking difficulty, which is not the complaint.",
-        "C": "Dysuria concerns painful or difficult urination.",
-        "D": "Hyperemesis concerns excessive vomiting."
+        "B": "Dysphasia concerns language or speech difficulty.",
+        "C": "Aphasia concerns loss or impairment of language ability.",
+        "D": "Dysuria concerns painful or difficult urination."
       },
       "sourceReferences": [
         {
@@ -564,18 +600,14 @@
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "Dysphagia concerns difficulty eating or swallowing; dysphasia concerns difficulty speaking.",
-      "secondMostPlausibleAnswer": "B",
-      "whyTempting": "The two terms differ by only one letter.",
-      "whyNotBest": "Dysphasia describes speaking difficulty, which is not the complaint.",
-      "keyDistinction": "Dysphagia concerns difficulty eating or swallowing; dysphasia concerns difficulty speaking.",
+      "diagnosticIntent": "Distinguish dysphagia from similar terminology.",
       "reviewFocus": "Dysphagia versus dysphasia",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Anatomy of a Medical Term \u00b7 Dysphagia versus dysphasia"
+          "section": "Anatomy of a Medical Term · Dysphagia versus dysphasia"
         },
         {
           "sourceId": "slides",
@@ -583,7 +615,19 @@
           "label": "Chapter 5 slides",
           "section": "Anatomy of a Medical Term"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Distinguish dysphagia from similar terminology."
+      }
     },
     {
       "id": "CH05-Q005",
@@ -640,7 +684,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Breaking Terms Apart \u00b7 Nephropathy components"
+          "section": "Breaking Terms Apart · Nephropathy components"
         },
         {
           "sourceId": "slides",
@@ -648,18 +692,30 @@
           "label": "Chapter 5 slides",
           "section": "Breaking Terms Apart"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Nephr means kidney and -pathy means disease."
+      }
     },
     {
       "id": "CH05-Q006",
-      "version": 1,
+      "version": 2,
       "chapter": 5,
       "topic": "Hepatomegaly",
       "conceptId": "CH05-C006",
       "learningObjectiveId": "CH05-LO05",
-      "questionType": "recall",
+      "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "A record describes an enlarged liver. Which term matches that finding?",
+      "question": "Which term means enlargement of the liver?",
       "choices": [
         {
           "id": "A",
@@ -667,23 +723,23 @@
         },
         {
           "id": "B",
-          "text": "Nephritis"
+          "text": "Hepatitis"
         },
         {
           "id": "C",
-          "text": "Pneumonitis"
+          "text": "Nephromegaly"
         },
         {
           "id": "D",
-          "text": "Hydrocephalus"
+          "text": "Hepatopathy"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Hepatomegaly is enlargement of the liver.",
+      "explanation": "Hepat- identifies the liver and -megaly means enlargement.",
       "incorrectChoiceExplanations": {
-        "B": "Nephritis is not the liver-enlargement term.",
-        "C": "Pneumonitis refers to a different organ and condition.",
-        "D": "Hydrocephalus is not enlargement of the liver."
+        "B": "-itis means inflammation, not enlargement.",
+        "C": "Nephr- identifies the kidney rather than the liver.",
+        "D": "-pathy means disease rather than specifically enlargement."
       },
       "sourceReferences": [
         {
@@ -694,7 +750,7 @@
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "Hepatomegaly is enlargement of the liver.",
+      "diagnosticIntent": "Interpret both the organ root and enlargement suffix.",
       "reviewFocus": "Hepatomegaly",
       "reviewReferences": [
         {
@@ -703,7 +759,19 @@
           "label": "Chapter 5 class quiz",
           "section": "Liver enlargement"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Interpret both the organ root and enlargement suffix."
+      }
     },
     {
       "id": "CH05-Q007",
@@ -714,7 +782,7 @@
       "learningObjectiveId": "CH05-LO05",
       "questionType": "recall",
       "difficulty": "moderate",
-      "question": "A patient\u2019s record describes polydipsia. Which complaint does that term identify?",
+      "question": "A patient’s record describes polydipsia. Which complaint does that term identify?",
       "choices": [
         {
           "id": "A",
@@ -758,7 +826,19 @@
           "label": "Chapter 5 class quiz",
           "section": "Polydipsia"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Polydipsia describes excessive thirst, not frequent urination or low blood glucose."
+      }
     },
     {
       "id": "CH05-Q008",
@@ -813,7 +893,19 @@
           "label": "Chapter 5 class quiz",
           "section": "Hemostasis"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Hemostasis describes the stopping of bleeding."
+      }
     },
     {
       "id": "CH05-Q009",
@@ -870,7 +962,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Breaking Terms Apart \u00b7 Hyperemesis"
+          "section": "Breaking Terms Apart · Hyperemesis"
         },
         {
           "sourceId": "slides",
@@ -878,18 +970,30 @@
           "label": "Chapter 5 slides",
           "section": "Breaking Terms Apart"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Hyper- means excessive and emesis means vomiting."
+      }
     },
     {
       "id": "CH05-Q010",
-      "version": 1,
+      "version": 2,
       "chapter": 5,
       "topic": "Proximal and distal",
       "conceptId": "CH05-C010",
       "learningObjectiveId": "CH05-LO03",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "A forearm wound is closer to the elbow than to the wrist. Relative to the wrist, how should its location be described?",
+      "question": "A forearm wound is halfway between the elbow and wrist. Which term describes the wound’s location relative to the wrist?",
       "choices": [
         {
           "id": "A",
@@ -905,15 +1009,15 @@
         },
         {
           "id": "D",
-          "text": "Superficial"
+          "text": "Lateral"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Proximal means closer to the trunk along an extremity; distal means farther away.",
+      "explanation": "The wound is nearer the trunk than the wrist, so it is proximal to the wrist. Medial and lateral describe a different relationship: distance from the midline.",
       "incorrectChoiceExplanations": {
-        "B": "Distal would indicate farther toward the free end relative to the wrist.",
-        "C": "Medial describes a midline relationship rather than distance along the limb.",
-        "D": "Superficial describes tissue depth, not distance along the limb."
+        "B": "Distal would mean farther from the trunk than the wrist.",
+        "C": "Medial describes closeness to the midline, not position along the forearm.",
+        "D": "Lateral describes distance from the midline, not position along the forearm."
       },
       "sourceReferences": [
         {
@@ -928,14 +1032,14 @@
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "Proximal means closer to the trunk along an extremity; distal means farther away.",
+      "diagnosticIntent": "Use the stated landmark when applying proximal and distal.",
       "reviewFocus": "Proximal and distal",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Proximal and distal"
+          "section": "Common Direction, Movement, and Position Terms · Proximal and distal"
         },
         {
           "sourceId": "slides",
@@ -943,18 +1047,30 @@
           "label": "Chapter 5 slides",
           "section": "Directional Terms"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Use the stated landmark when applying proximal and distal."
+      }
     },
     {
       "id": "CH05-Q011",
-      "version": 1,
+      "version": 2,
       "chapter": 5,
       "topic": "Medial and lateral",
       "conceptId": "CH05-C011",
       "learningObjectiveId": "CH05-LO03",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "Two marks are at the same height on the chest. One is nearer the midline. Relative to the farther mark, the nearer mark is:",
+      "question": "In anatomic position, how is the sternum located relative to the patient’s right shoulder?",
       "choices": [
         {
           "id": "A",
@@ -966,19 +1082,19 @@
         },
         {
           "id": "C",
-          "text": "Superior"
+          "text": "Proximal"
         },
         {
           "id": "D",
-          "text": "Inferior"
+          "text": "Distal"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Medial means closer to the midline; lateral means farther from it.",
+      "explanation": "The sternum is closer to the body’s midline than the shoulder, so it is medial to the shoulder.",
       "incorrectChoiceExplanations": {
-        "B": "This reverses the midline relationship.",
-        "C": "The marks are at the same height, so superior does not describe the stated distinction.",
-        "D": "The marks are at the same height, so inferior does not describe the stated distinction."
+        "B": "Lateral means farther from the midline.",
+        "C": "Proximal describes location along a limb toward its attachment; medial fits this midline comparison.",
+        "D": "Distal describes location along a limb away from its attachment."
       },
       "sourceReferences": [
         {
@@ -993,14 +1109,14 @@
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "Medial means closer to the midline; lateral means farther from it.",
+      "diagnosticIntent": "Apply medial using a concrete anatomic relationship.",
       "reviewFocus": "Medial and lateral",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Medial and lateral"
+          "section": "Common Direction, Movement, and Position Terms · Medial and lateral"
         },
         {
           "sourceId": "slides",
@@ -1008,7 +1124,19 @@
           "label": "Chapter 5 slides",
           "section": "Medial & Lateral"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Apply medial using a concrete anatomic relationship."
+      }
     },
     {
       "id": "CH05-Q012",
@@ -1065,7 +1193,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Superior and inferior"
+          "section": "Common Direction, Movement, and Position Terms · Superior and inferior"
         },
         {
           "sourceId": "slides",
@@ -1073,7 +1201,19 @@
           "label": "Chapter 5 slides",
           "section": "Directional Terms"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Superior and inferior describe relationships toward the head and feet, respectively."
+      }
     },
     {
       "id": "CH05-Q013",
@@ -1130,7 +1270,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Anterior and posterior"
+          "section": "Common Direction, Movement, and Position Terms · Anterior and posterior"
         },
         {
           "sourceId": "slides",
@@ -1138,7 +1278,19 @@
           "label": "Chapter 5 slides",
           "section": "Directional Terms"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Anterior/ventral refers to the front; posterior/dorsal refers to the back."
+      }
     },
     {
       "id": "CH05-Q014",
@@ -1171,7 +1323,7 @@
       "correctAnswer": "A",
       "explanation": "Superficial/deep describes distance from the skin surface.",
       "incorrectChoiceExplanations": {
-        "B": "Distal concerns an extremity\u2019s distance from the trunk.",
+        "B": "Distal concerns an extremity’s distance from the trunk.",
         "C": "Lateral concerns distance from the midline.",
         "D": "Inferior concerns the direction toward the feet."
       },
@@ -1191,20 +1343,32 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Superficial and deep"
+          "section": "Common Direction, Movement, and Position Terms · Superficial and deep"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Superficial/deep describes distance from the skin surface."
+      }
     },
     {
       "id": "CH05-Q015",
-      "version": 2,
+      "version": 3,
       "chapter": 5,
       "topic": "Patient right and left",
       "conceptId": "CH05-C015",
       "learningObjectiveId": "CH05-LO03",
-      "questionType": "best_answer",
+      "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "You face a patient with an injury on their right upper arm and another on their right wrist. Which description correctly uses the patient\u2019s side and the upper-arm injury\u2019s relation to the wrist?",
+      "question": "You face a patient with an injury on their right upper arm and another on their right wrist. Which description correctly uses the patient’s side and the upper-arm injury’s relation to the wrist?",
       "choices": [
         {
           "id": "A",
@@ -1226,7 +1390,7 @@
       "correctAnswer": "A",
       "explanation": "Anatomic side belongs to the patient. The upper arm is nearer the trunk than the wrist, so it is proximal.",
       "incorrectChoiceExplanations": {
-        "B": "The location is on the patient\u2019s right, even if it appears on the observer\u2019s left.",
+        "B": "The location is on the patient’s right, even if it appears on the observer’s left.",
         "C": "The upper arm is proximal, not distal, to the wrist.",
         "D": "This reverses both the side and the relation."
       },
@@ -1239,20 +1403,28 @@
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "Anatomic right and left are the patient\u2019s sides, not the observer\u2019s.",
-      "secondMostPlausibleAnswer": "B",
-      "whyTempting": "Facing the patient can tempt the observer to reverse right and left.",
-      "whyNotBest": "The location is on the patient\u2019s right, even if it appears on the observer\u2019s left.",
-      "keyDistinction": "Anatomic side belongs to the patient. The upper arm is nearer the trunk than the wrist, so it is proximal.",
+      "diagnosticIntent": "Anatomic right and left are the patient’s sides, not the observer’s.",
       "reviewFocus": "Patient right and left",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Patient right and left"
+          "section": "Common Direction, Movement, and Position Terms · Patient right and left"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Anatomic right and left are the patient’s sides, not the observer’s."
+      }
     },
     {
       "id": "CH05-Q016",
@@ -1309,7 +1481,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Palmar and plantar"
+          "section": "Common Direction, Movement, and Position Terms · Palmar and plantar"
         },
         {
           "sourceId": "slides",
@@ -1317,7 +1489,19 @@
           "label": "Chapter 5 slides",
           "section": "Directional Terms"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Palmar names the palm surface; plantar names the sole."
+      }
     },
     {
       "id": "CH05-Q017",
@@ -1374,7 +1558,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Unilateral and bilateral"
+          "section": "Common Direction, Movement, and Position Terms · Unilateral and bilateral"
         },
         {
           "sourceId": "slides",
@@ -1382,7 +1566,19 @@
           "label": "Chapter 5 slides",
           "section": "Directional Terms"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Unilateral means one side; bilateral means both sides."
+      }
     },
     {
       "id": "CH05-Q018",
@@ -1393,7 +1589,7 @@
       "learningObjectiveId": "CH05-LO03",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "A patient moves an arm away from the body\u2019s midline and then brings it back toward the midline. Which movements occur in that order?",
+      "question": "A patient moves an arm away from the body’s midline and then brings it back toward the midline. Which movements occur in that order?",
       "choices": [
         {
           "id": "A",
@@ -1439,7 +1635,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Movement terms"
+          "section": "Common Direction, Movement, and Position Terms · Movement terms"
         },
         {
           "sourceId": "slides",
@@ -1447,7 +1643,19 @@
           "label": "Chapter 5 slides",
           "section": "Directional Terms"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Abduction moves away from the midline; adduction moves toward it."
+      }
     },
     {
       "id": "CH05-Q019",
@@ -1506,7 +1714,19 @@
           "label": "Chapter 5 slides",
           "section": "Anatomical Planes"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "The frontal/coronal plane separates front and back; the transverse/horizontal plane separates upper and lower portions."
+      }
     },
     {
       "id": "CH05-Q020",
@@ -1563,7 +1783,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Prone and supine"
+          "section": "Common Direction, Movement, and Position Terms · Prone and supine"
         },
         {
           "sourceId": "slides",
@@ -1571,7 +1791,19 @@
           "label": "Chapter 5 slides",
           "section": "Positional Terms"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Prone is face down; supine is face up."
+      }
     },
     {
       "id": "CH05-Q021",
@@ -1611,7 +1843,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VI.D.3.a\u2013b: Semi-Fowler and high-Fowler"
+          "locator": "VI.D.3.a–b: Semi-Fowler and high-Fowler"
         },
         {
           "sourceId": "slides",
@@ -1628,7 +1860,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Fowler positions"
+          "section": "Common Direction, Movement, and Position Terms · Fowler positions"
         },
         {
           "sourceId": "slides",
@@ -1636,7 +1868,19 @@
           "label": "Chapter 5 slides",
           "section": "Positional Terms"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "The outline identifies 45-degree back elevation as semi-Fowler and 90-degree elevation as high-Fowler."
+      }
     },
     {
       "id": "CH05-Q022",
@@ -1693,7 +1937,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Breaking Terms Apart \u00b7 Analgesic components"
+          "section": "Breaking Terms Apart · Analgesic components"
         },
         {
           "sourceId": "slides",
@@ -1701,47 +1945,59 @@
           "label": "Chapter 5 slides",
           "section": "Breaking Terms Apart"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "An- means without or absence of; alges means pain; -ic means pertaining to."
+      }
     },
     {
       "id": "CH05-Q023",
-      "version": 2,
+      "version": 3,
       "chapter": 5,
       "topic": "Symbols and accepted usage",
       "conceptId": "CH05-C023",
       "learningObjectiveId": "CH05-LO06",
       "questionType": "best_answer",
       "difficulty": "moderate",
-      "question": "An EMT learns a shortcut symbol that coworkers use informally. Its meaning is unclear to other local care teams. What is the best documentation choice?",
+      "question": "A shortcut symbol is understood by your own crew but is not accepted by other care teams in the service area. What is the best choice for the patient-care report?",
       "choices": [
         {
           "id": "A",
-          "text": "Use clear wording or a symbol accepted in the service area"
+          "text": "Write out the finding in clear terms"
         },
         {
           "id": "B",
-          "text": "Use it because the EMT\u2019s own crew understands it"
+          "text": "Use the symbol and explain it during verbal handoff"
         },
         {
           "id": "C",
-          "text": "Use it in the written report, but write it out only during spoken handoff"
+          "text": "Use the symbol only in the narrative section"
         },
         {
           "id": "D",
-          "text": "Use the informal symbol alongside another undefined abbreviation"
+          "text": "Use the symbol and add a second familiar abbreviation"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Acceptance and shared understanding matter across the care team, not just within one crew.",
+      "explanation": "The report should remain understandable across the care team, including readers who were not present at handoff.",
       "incorrectChoiceExplanations": {
-        "B": "Understanding by one crew is insufficient for communication across the care team.",
-        "C": "Written communication also needs shared meaning.",
-        "D": "A second undefined shorthand term does not resolve ambiguity."
+        "B": "A verbal explanation does not make the later written record self-contained.",
+        "C": "Moving the symbol to another section does not resolve its ambiguity.",
+        "D": "Adding shorthand does not establish a shared meaning."
       },
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VIII.B\u2013C: Accepted abbreviations and symbols"
+          "locator": "VIII.B–C: Accepted abbreviations and symbols"
         },
         {
           "sourceId": "slides",
@@ -1751,18 +2007,18 @@
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "Acceptance and shared understanding matter across the care team, not just within one crew.",
+      "diagnosticIntent": "Prevent ambiguous documentation across care teams.",
       "secondMostPlausibleAnswer": "B",
-      "whyTempting": "Familiarity within the crew can make the symbol seem clear.",
-      "whyNotBest": "Understanding by one crew is insufficient for communication across the care team.",
-      "keyDistinction": "Acceptance and shared understanding matter across the care team, not just within one crew.",
+      "whyTempting": "A handoff explanation can help one listener, but does not clarify the record for others.",
+      "whyNotBest": "A verbal explanation does not make the later written record self-contained.",
+      "keyDistinction": "The report should remain understandable across the care team, including readers who were not present at handoff.",
       "reviewFocus": "Symbols and accepted usage",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Abbreviations, Acronyms, and Symbols \u00b7 Symbols and accepted usage"
+          "section": "Abbreviations, Acronyms, and Symbols · Symbols and accepted usage"
         },
         {
           "sourceId": "slides",
@@ -1770,7 +2026,19 @@
           "label": "Chapter 5 slides",
           "section": "Abbreviations, Acronyms, and Symbols"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Prevent ambiguous documentation across care teams."
+      }
     },
     {
       "id": "CH05-Q024",
@@ -1827,9 +2095,21 @@
           "sourceId": "transcript",
           "filename": "Medical Terminology-English.txt",
           "label": "Chapter 5 lecture",
-          "section": "Directional Terms \u00b7 Abdominal quadrants"
+          "section": "Directional Terms · Abdominal quadrants"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "LUQ means left upper quadrant."
+      }
     },
     {
       "id": "CH05-Q025",
@@ -1888,7 +2168,19 @@
           "label": "Chapter 5 slides",
           "section": "Abbreviations, Acronyms, and Symbols"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "CPR is the abbreviation for cardiopulmonary resuscitation."
+      }
     },
     {
       "id": "CH05-Q026",
@@ -1903,19 +2195,19 @@
       "choices": [
         {
           "id": "A",
-          "text": "Suffix \u2192 prefix \u2192 root"
+          "text": "Suffix → prefix → root"
         },
         {
           "id": "B",
-          "text": "Suffix \u2192 root \u2192 prefix"
+          "text": "Suffix → root → prefix"
         },
         {
           "id": "C",
-          "text": "Prefix \u2192 root \u2192 suffix"
+          "text": "Prefix → root → suffix"
         },
         {
           "id": "D",
-          "text": "Root \u2192 prefix \u2192 suffix"
+          "text": "Root → prefix → suffix"
         }
       ],
       "correctAnswer": "A",
@@ -1941,64 +2233,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Breaking Terms Apart \u00b7 Method of breaking down an unfamiliar term"
-        }
-      ]
-    },
-    {
-      "id": "CH05-Q027",
-      "version": 1,
-      "chapter": 5,
-      "topic": "Fowler versus semi-Fowler positioning",
-      "conceptId": "CH05-C027",
-      "learningObjectiveId": "CH05-LO04",
-      "questionType": "recall",
-      "difficulty": "moderate",
-      "question": "A stretcher back is raised from 45 degrees to 90 degrees. Which position change is documented?",
-      "choices": [
-        {
-          "id": "A",
-          "text": "Semi-Fowler to high-Fowler"
-        },
-        {
-          "id": "B",
-          "text": "High-Fowler to semi-Fowler"
-        },
-        {
-          "id": "C",
-          "text": "Supine to prone"
-        },
-        {
-          "id": "D",
-          "text": "Prone to recovery"
+          "section": "Breaking Terms Apart · Method of breaking down an unfamiliar term"
         }
       ],
-      "correctAnswer": "A",
-      "explanation": "The supplied position definitions identify 45 degrees as semi-Fowler and 90 degrees as high-Fowler.",
-      "incorrectChoiceExplanations": {
-        "B": "This reverses the elevations.",
-        "C": "The patient is elevated, not changed from face up to face down.",
-        "D": "These do not describe the stated back-angle change."
-      },
-      "sourceReferences": [
-        {
-          "sourceId": "outline",
-          "locator": "VI.D. Anatomic positions"
-        }
-      ],
-      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
-      "includeInCourseExam": true,
-      "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "Fowler versus semi-Fowler positioning",
-      "reviewFocus": "Fowler versus semi-Fowler positioning",
-      "reviewReferences": [
-        {
-          "sourceId": "outline",
-          "filename": "9781284243796_LOUT_CH05(1).docx",
-          "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Fowler versus semi-Fowler positioning"
-        }
-      ]
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Method of breaking down an unfamiliar term"
+      }
     },
     {
       "id": "CH05-Q028",
@@ -2054,7 +2303,19 @@
           "label": "Chapter 5 outline",
           "section": "II. Anatomy of a Medical Term"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Word root definition"
+      }
     },
     {
       "id": "CH05-Q029",
@@ -2077,11 +2338,11 @@
         },
         {
           "id": "C",
-          "text": "Closer to the body\u2019s midline"
+          "text": "Closer to the body’s midline"
         },
         {
           "id": "D",
-          "text": "Closer to the body\u2019s surface"
+          "text": "Closer to the body’s surface"
         }
       ],
       "correctAnswer": "A",
@@ -2110,136 +2371,18 @@
           "label": "Chapter 5 outline",
           "section": "VI. Common Direction, Movement, and Position Terms"
         }
-      ]
-    },
-    {
-      "chapter": 5,
-      "topic": "Word root definition",
-      "learningObjectiveId": "CH05-LO02",
-      "sourceReferences": [
-        {
-          "sourceId": "outline",
-          "locator": "II. Anatomy of a Medical Term"
-        }
       ],
-      "reviewReferences": [
-        {
-          "sourceId": "outline",
-          "filename": "9781284243796_LOUT_CH05(1).docx",
-          "label": "Chapter 5 outline",
-          "section": "II. Anatomy of a Medical Term"
-        }
-      ],
-      "contentBasis": "Uploaded course materials only",
-      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
-      "id": "CH05-FB001",
-      "version": 2,
-      "format": "mcq",
-      "questionType": "recall",
-      "question": "The main part of a medical term that carries its central meaning is the _____.",
-      "conceptId": "CH05-C028",
-      "reviewFocus": "Word root definition",
-      "includeInCourseExam": true,
-      "includeInLearning": false,
-      "sourceQuestionIds": [
-        "CH05-Q028"
-      ],
-      "difficulty": "moderate",
-      "correctAnswer": "A",
-      "explanation": "The root carries the basic meaning; a prefix precedes it, a suffix follows it, and a combining vowel links components.",
-      "blankMultipleChoice": true,
-      "choices": [
-        {
-          "id": "A",
-          "text": "word root"
-        },
-        {
-          "id": "B",
-          "text": "prefix"
-        },
-        {
-          "id": "C",
-          "text": "suffix"
-        },
-        {
-          "id": "D",
-          "text": "combining vowel"
-        }
-      ],
-      "incorrectChoiceExplanations": {
-        "B": "A prefix modifies meaning at the beginning of the term.",
-        "C": "A suffix occurs at the end of the term.",
-        "D": "A combining vowel joins word components rather than carrying the central meaning."
-      }
-    },
-    {
-      "chapter": 5,
-      "topic": "Analgesic components",
-      "learningObjectiveId": "CH05-LO05",
-      "sourceReferences": [
-        {
-          "sourceId": "outline",
-          "locator": "VII.A.2.d: Analgesic"
-        },
-        {
-          "sourceId": "slides",
-          "locator": "PDF page 36"
-        }
-      ],
-      "reviewReferences": [
-        {
-          "sourceId": "outline",
-          "filename": "9781284243796_LOUT_CH05(1).docx",
-          "label": "Chapter 5 outline",
-          "section": "Breaking Terms Apart \u00b7 Analgesic components"
-        },
-        {
-          "sourceId": "slides",
-          "filename": "Lecture Slides- Medical Terminology.pdf",
-          "label": "Chapter 5 slides",
-          "section": "Breaking Terms Apart"
-        }
-      ],
-      "contentBasis": "Uploaded course materials only",
-      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
-      "id": "CH05-FB002",
-      "version": 2,
-      "format": "mcq",
-      "questionType": "recall",
-      "question": "The prefix an- in analgesic means _____.",
-      "conceptId": "CH05-C022",
-      "reviewFocus": "Analgesic components",
-      "includeInCourseExam": true,
-      "includeInLearning": false,
-      "sourceQuestionIds": [
-        "CH05-Q022"
-      ],
-      "difficulty": "moderate",
-      "correctAnswer": "A",
-      "explanation": "An- means without or absence of; alges means pain; -ic means pertaining to.",
-      "blankMultipleChoice": true,
-      "choices": [
-        {
-          "id": "A",
-          "text": "without"
-        },
-        {
-          "id": "B",
-          "text": "above normal"
-        },
-        {
-          "id": "C",
-          "text": "below normal"
-        },
-        {
-          "id": "D",
-          "text": "painful or difficult"
-        }
-      ],
-      "incorrectChoiceExplanations": {
-        "B": "This corresponds to hyper-, not an-.",
-        "C": "This corresponds to hypo-, not an-.",
-        "D": "This corresponds to dys-, not an-."
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Distal definition"
       }
     }
   ],
@@ -2253,7 +2396,7 @@
       "learningObjectiveId": "CH05-LO03",
       "questionType": "best_answer",
       "difficulty": "moderate",
-      "question": "You face a patient. The injury is on the patient\u2019s right arm, which appears on your left. Which side belongs in the report?",
+      "question": "You face a patient. The injury is on the patient’s right arm, which appears on your left. Which side belongs in the report?",
       "choices": [
         {
           "id": "A",
@@ -2273,11 +2416,11 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Anatomic right and left are the patient\u2019s sides, not the observer\u2019s.",
+      "explanation": "Anatomic right and left are the patient’s sides, not the observer’s.",
       "incorrectChoiceExplanations": {
-        "B": "Using your own left reverses the patient\u2019s side.",
+        "B": "Using your own left reverses the patient’s side.",
         "C": "Stretcher orientation does not define anatomic laterality.",
-        "D": "A different observer\u2019s viewpoint does not change the patient\u2019s side."
+        "D": "A different observer’s viewpoint does not change the patient’s side."
       },
       "sourceReferences": [
         {
@@ -2288,11 +2431,11 @@
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "Anatomic right and left are the patient\u2019s sides, not the observer\u2019s.",
+      "diagnosticIntent": "Anatomic right and left are the patient’s sides, not the observer’s.",
       "secondMostPlausibleAnswer": "B",
       "whyTempting": "Your viewpoint can make the injured arm appear to be on the left.",
-      "whyNotBest": "Using your own left reverses the patient\u2019s side.",
-      "keyDistinction": "Anatomic right and left are the patient\u2019s sides, not the observer\u2019s."
+      "whyNotBest": "Using your own left reverses the patient’s side.",
+      "keyDistinction": "Anatomic right and left are the patient’s sides, not the observer’s."
     },
     {
       "id": "CH05-Q005",
@@ -2361,7 +2504,7 @@
         },
         {
           "id": "B",
-          "text": "Use it because the EMT\u2019s own crew understands it"
+          "text": "Use it because the EMT’s own crew understands it"
         },
         {
           "id": "C",
@@ -2382,7 +2525,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VIII.B\u2013C: Accepted abbreviations and symbols"
+          "locator": "VIII.B–C: Accepted abbreviations and symbols"
         },
         {
           "sourceId": "slides",
@@ -2453,7 +2596,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Breaking Terms Apart \u00b7 Analgesic components"
+          "section": "Breaking Terms Apart · Analgesic components"
         },
         {
           "sourceId": "slides",
@@ -2514,7 +2657,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Breaking Terms Apart \u00b7 Method of breaking down an unfamiliar term"
+          "section": "Breaking Terms Apart · Method of breaking down an unfamiliar term"
         }
       ]
     },
@@ -2533,7 +2676,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Fowler versus semi-Fowler positioning"
+          "section": "Common Direction, Movement, and Position Terms · Fowler versus semi-Fowler positioning"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -2577,7 +2720,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Common Direction, Movement, and Position Terms \u00b7 Proximal and distal"
+          "section": "Common Direction, Movement, and Position Terms · Proximal and distal"
         },
         {
           "sourceId": "slides",
@@ -2667,7 +2810,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH05(1).docx",
           "label": "Chapter 5 outline",
-          "section": "Breaking Terms Apart \u00b7 Analgesic components"
+          "section": "Breaking Terms Apart · Analgesic components"
         },
         {
           "sourceId": "slides",
@@ -2700,7 +2843,578 @@
         "no"
       ],
       "explanation": "An- means without or absence of; alges means pain; -ic means pertaining to."
+    },
+    {
+      "id": "CH05-Q004",
+      "version": 1,
+      "chapter": 5,
+      "topic": "Dysphagia versus dysphasia",
+      "conceptId": "CH05-C004",
+      "learningObjectiveId": "CH05-LO05",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "A patient can speak normally but reports difficulty swallowing. Which term most accurately documents the complaint?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Dysphagia"
+        },
+        {
+          "id": "B",
+          "text": "Dysphasia"
+        },
+        {
+          "id": "C",
+          "text": "Dysuria"
+        },
+        {
+          "id": "D",
+          "text": "Hyperemesis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dysphagia concerns difficulty eating or swallowing; dysphasia concerns difficulty speaking.",
+      "incorrectChoiceExplanations": {
+        "B": "Dysphasia describes speaking difficulty, which is not the complaint.",
+        "C": "Dysuria concerns painful or difficult urination.",
+        "D": "Hyperemesis concerns excessive vomiting."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "II.D: Spelling and meaning"
+        },
+        {
+          "sourceId": "slides",
+          "locator": "PDF page 6"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Dysphagia concerns difficulty eating or swallowing; dysphasia concerns difficulty speaking.",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "The two terms differ by only one letter.",
+      "whyNotBest": "Dysphasia describes speaking difficulty, which is not the complaint.",
+      "keyDistinction": "Dysphagia concerns difficulty eating or swallowing; dysphasia concerns difficulty speaking.",
+      "reviewFocus": "Dysphagia versus dysphasia",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH05(1).docx",
+          "label": "Chapter 5 outline",
+          "section": "Anatomy of a Medical Term · Dysphagia versus dysphasia"
+        },
+        {
+          "sourceId": "slides",
+          "filename": "Lecture Slides- Medical Terminology.pdf",
+          "label": "Chapter 5 slides",
+          "section": "Anatomy of a Medical Term"
+        }
+      ]
+    },
+    {
+      "id": "CH05-Q006",
+      "version": 1,
+      "chapter": 5,
+      "topic": "Hepatomegaly",
+      "conceptId": "CH05-C006",
+      "learningObjectiveId": "CH05-LO05",
+      "questionType": "recall",
+      "difficulty": "moderate",
+      "question": "A record describes an enlarged liver. Which term matches that finding?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Hepatomegaly"
+        },
+        {
+          "id": "B",
+          "text": "Nephritis"
+        },
+        {
+          "id": "C",
+          "text": "Pneumonitis"
+        },
+        {
+          "id": "D",
+          "text": "Hydrocephalus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hepatomegaly is enlargement of the liver.",
+      "incorrectChoiceExplanations": {
+        "B": "Nephritis is not the liver-enlargement term.",
+        "C": "Pneumonitis refers to a different organ and condition.",
+        "D": "Hydrocephalus is not enlargement of the liver."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "quiz",
+          "locator": "Sample quiz item 9: Liver enlargement"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Hepatomegaly is enlargement of the liver.",
+      "reviewFocus": "Hepatomegaly",
+      "reviewReferences": [
+        {
+          "sourceId": "quiz",
+          "filename": "Chapter5_Quiz.txt",
+          "label": "Chapter 5 class quiz",
+          "section": "Liver enlargement"
+        }
+      ]
+    },
+    {
+      "id": "CH05-Q010",
+      "version": 1,
+      "chapter": 5,
+      "topic": "Proximal and distal",
+      "conceptId": "CH05-C010",
+      "learningObjectiveId": "CH05-LO03",
+      "questionType": "conceptual",
+      "difficulty": "moderate",
+      "question": "A forearm wound is closer to the elbow than to the wrist. Relative to the wrist, how should its location be described?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Proximal"
+        },
+        {
+          "id": "B",
+          "text": "Distal"
+        },
+        {
+          "id": "C",
+          "text": "Medial"
+        },
+        {
+          "id": "D",
+          "text": "Superficial"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Proximal means closer to the trunk along an extremity; distal means farther away.",
+      "incorrectChoiceExplanations": {
+        "B": "Distal would indicate farther toward the free end relative to the wrist.",
+        "C": "Medial describes a midline relationship rather than distance along the limb.",
+        "D": "Superficial describes tissue depth, not distance along the limb."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "VI.A.5: Proximal and distal"
+        },
+        {
+          "sourceId": "slides",
+          "locator": "PDF page 24"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Proximal means closer to the trunk along an extremity; distal means farther away.",
+      "reviewFocus": "Proximal and distal",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH05(1).docx",
+          "label": "Chapter 5 outline",
+          "section": "Common Direction, Movement, and Position Terms · Proximal and distal"
+        },
+        {
+          "sourceId": "slides",
+          "filename": "Lecture Slides- Medical Terminology.pdf",
+          "label": "Chapter 5 slides",
+          "section": "Directional Terms"
+        }
+      ]
+    },
+    {
+      "id": "CH05-Q011",
+      "version": 1,
+      "chapter": 5,
+      "topic": "Medial and lateral",
+      "conceptId": "CH05-C011",
+      "learningObjectiveId": "CH05-LO03",
+      "questionType": "conceptual",
+      "difficulty": "moderate",
+      "question": "Two marks are at the same height on the chest. One is nearer the midline. Relative to the farther mark, the nearer mark is:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Medial"
+        },
+        {
+          "id": "B",
+          "text": "Lateral"
+        },
+        {
+          "id": "C",
+          "text": "Superior"
+        },
+        {
+          "id": "D",
+          "text": "Inferior"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Medial means closer to the midline; lateral means farther from it.",
+      "incorrectChoiceExplanations": {
+        "B": "This reverses the midline relationship.",
+        "C": "The marks are at the same height, so superior does not describe the stated distinction.",
+        "D": "The marks are at the same height, so inferior does not describe the stated distinction."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "VI.A.4: Medial and lateral"
+        },
+        {
+          "sourceId": "slides",
+          "locator": "PDF page 21"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Medial means closer to the midline; lateral means farther from it.",
+      "reviewFocus": "Medial and lateral",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH05(1).docx",
+          "label": "Chapter 5 outline",
+          "section": "Common Direction, Movement, and Position Terms · Medial and lateral"
+        },
+        {
+          "sourceId": "slides",
+          "filename": "Lecture Slides- Medical Terminology.pdf",
+          "label": "Chapter 5 slides",
+          "section": "Medial & Lateral"
+        }
+      ]
+    },
+    {
+      "id": "CH05-Q015",
+      "version": 2,
+      "chapter": 5,
+      "topic": "Patient right and left",
+      "conceptId": "CH05-C015",
+      "learningObjectiveId": "CH05-LO03",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "You face a patient with an injury on their right upper arm and another on their right wrist. Which description correctly uses the patient’s side and the upper-arm injury’s relation to the wrist?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Right arm; proximal to the wrist"
+        },
+        {
+          "id": "B",
+          "text": "Left arm; proximal to the wrist"
+        },
+        {
+          "id": "C",
+          "text": "Right arm; distal to the wrist"
+        },
+        {
+          "id": "D",
+          "text": "Left arm; distal to the wrist"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Anatomic side belongs to the patient. The upper arm is nearer the trunk than the wrist, so it is proximal.",
+      "incorrectChoiceExplanations": {
+        "B": "The location is on the patient’s right, even if it appears on the observer’s left.",
+        "C": "The upper arm is proximal, not distal, to the wrist.",
+        "D": "This reverses both the side and the relation."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "VI.A.2: Right and left"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Anatomic right and left are the patient’s sides, not the observer’s.",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Facing the patient can tempt the observer to reverse right and left.",
+      "whyNotBest": "The location is on the patient’s right, even if it appears on the observer’s left.",
+      "keyDistinction": "Anatomic side belongs to the patient. The upper arm is nearer the trunk than the wrist, so it is proximal.",
+      "reviewFocus": "Patient right and left",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH05(1).docx",
+          "label": "Chapter 5 outline",
+          "section": "Common Direction, Movement, and Position Terms · Patient right and left"
+        }
+      ]
+    },
+    {
+      "id": "CH05-Q023",
+      "version": 2,
+      "chapter": 5,
+      "topic": "Symbols and accepted usage",
+      "conceptId": "CH05-C023",
+      "learningObjectiveId": "CH05-LO06",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "An EMT learns a shortcut symbol that coworkers use informally. Its meaning is unclear to other local care teams. What is the best documentation choice?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Use clear wording or a symbol accepted in the service area"
+        },
+        {
+          "id": "B",
+          "text": "Use it because the EMT’s own crew understands it"
+        },
+        {
+          "id": "C",
+          "text": "Use it in the written report, but write it out only during spoken handoff"
+        },
+        {
+          "id": "D",
+          "text": "Use the informal symbol alongside another undefined abbreviation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Acceptance and shared understanding matter across the care team, not just within one crew.",
+      "incorrectChoiceExplanations": {
+        "B": "Understanding by one crew is insufficient for communication across the care team.",
+        "C": "Written communication also needs shared meaning.",
+        "D": "A second undefined shorthand term does not resolve ambiguity."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "VIII.B–C: Accepted abbreviations and symbols"
+        },
+        {
+          "sourceId": "slides",
+          "locator": "PDF page 39"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Acceptance and shared understanding matter across the care team, not just within one crew.",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Familiarity within the crew can make the symbol seem clear.",
+      "whyNotBest": "Understanding by one crew is insufficient for communication across the care team.",
+      "keyDistinction": "Acceptance and shared understanding matter across the care team, not just within one crew.",
+      "reviewFocus": "Symbols and accepted usage",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH05(1).docx",
+          "label": "Chapter 5 outline",
+          "section": "Abbreviations, Acronyms, and Symbols · Symbols and accepted usage"
+        },
+        {
+          "sourceId": "slides",
+          "filename": "Lecture Slides- Medical Terminology.pdf",
+          "label": "Chapter 5 slides",
+          "section": "Abbreviations, Acronyms, and Symbols"
+        }
+      ]
+    },
+    {
+      "id": "CH05-Q027",
+      "version": 1,
+      "chapter": 5,
+      "topic": "Fowler versus semi-Fowler positioning",
+      "conceptId": "CH05-C027",
+      "learningObjectiveId": "CH05-LO04",
+      "questionType": "recall",
+      "difficulty": "moderate",
+      "question": "A stretcher back is raised from 45 degrees to 90 degrees. Which position change is documented?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Semi-Fowler to high-Fowler"
+        },
+        {
+          "id": "B",
+          "text": "High-Fowler to semi-Fowler"
+        },
+        {
+          "id": "C",
+          "text": "Supine to prone"
+        },
+        {
+          "id": "D",
+          "text": "Prone to recovery"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "The supplied position definitions identify 45 degrees as semi-Fowler and 90 degrees as high-Fowler.",
+      "incorrectChoiceExplanations": {
+        "B": "This reverses the elevations.",
+        "C": "The patient is elevated, not changed from face up to face down.",
+        "D": "These do not describe the stated back-angle change."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "VI.D. Anatomic positions"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Fowler versus semi-Fowler positioning",
+      "reviewFocus": "Fowler versus semi-Fowler positioning",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH05(1).docx",
+          "label": "Chapter 5 outline",
+          "section": "Common Direction, Movement, and Position Terms · Fowler versus semi-Fowler positioning"
+        }
+      ],
+      "retirementReason": "Repeats the same 45°/90° position distinction already tested by CH05-Q021."
+    },
+    {
+      "chapter": 5,
+      "topic": "Word root definition",
+      "learningObjectiveId": "CH05-LO02",
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "II. Anatomy of a Medical Term"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH05(1).docx",
+          "label": "Chapter 5 outline",
+          "section": "II. Anatomy of a Medical Term"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "id": "CH05-FB001",
+      "version": 2,
+      "format": "mcq",
+      "questionType": "recall",
+      "question": "The main part of a medical term that carries its central meaning is the _____.",
+      "conceptId": "CH05-C028",
+      "reviewFocus": "Word root definition",
+      "includeInCourseExam": true,
+      "includeInLearning": false,
+      "sourceQuestionIds": [
+        "CH05-Q028"
+      ],
+      "difficulty": "moderate",
+      "correctAnswer": "A",
+      "explanation": "The root carries the basic meaning; a prefix precedes it, a suffix follows it, and a combining vowel links components.",
+      "blankMultipleChoice": true,
+      "choices": [
+        {
+          "id": "A",
+          "text": "word root"
+        },
+        {
+          "id": "B",
+          "text": "prefix"
+        },
+        {
+          "id": "C",
+          "text": "suffix"
+        },
+        {
+          "id": "D",
+          "text": "combining vowel"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "A prefix modifies meaning at the beginning of the term.",
+        "C": "A suffix occurs at the end of the term.",
+        "D": "A combining vowel joins word components rather than carrying the central meaning."
+      },
+      "retirementReason": "Duplicate recall of a fact already tested by a retained question."
+    },
+    {
+      "chapter": 5,
+      "topic": "Analgesic components",
+      "learningObjectiveId": "CH05-LO05",
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "VII.A.2.d: Analgesic"
+        },
+        {
+          "sourceId": "slides",
+          "locator": "PDF page 36"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH05(1).docx",
+          "label": "Chapter 5 outline",
+          "section": "Breaking Terms Apart · Analgesic components"
+        },
+        {
+          "sourceId": "slides",
+          "filename": "Lecture Slides- Medical Terminology.pdf",
+          "label": "Chapter 5 slides",
+          "section": "Breaking Terms Apart"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "id": "CH05-FB002",
+      "version": 2,
+      "format": "mcq",
+      "questionType": "recall",
+      "question": "The prefix an- in analgesic means _____.",
+      "conceptId": "CH05-C022",
+      "reviewFocus": "Analgesic components",
+      "includeInCourseExam": true,
+      "includeInLearning": false,
+      "sourceQuestionIds": [
+        "CH05-Q022"
+      ],
+      "difficulty": "moderate",
+      "correctAnswer": "A",
+      "explanation": "An- means without or absence of; alges means pain; -ic means pertaining to.",
+      "blankMultipleChoice": true,
+      "choices": [
+        {
+          "id": "A",
+          "text": "without"
+        },
+        {
+          "id": "B",
+          "text": "above normal"
+        },
+        {
+          "id": "C",
+          "text": "below normal"
+        },
+        {
+          "id": "D",
+          "text": "painful or difficult"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "This corresponds to hyper-, not an-.",
+        "C": "This corresponds to hypo-, not an-.",
+        "D": "This corresponds to dys-, not an-."
+      },
+      "retirementReason": "Duplicate recall of a fact already tested by a retained question."
     }
   ],
-  "auditDate": "2026-10-08"
+  "auditDate": "2026-10-08",
+  "reviewStatus": "Question-quality audit completed; course-specific ranges identified; conflicting BLS items withheld."
 }

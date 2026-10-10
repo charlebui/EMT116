@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "bankVersion": "1.1.0",
+  "bankVersion": "1.2.0",
   "chapter": 8,
   "title": "Lifting and Moving Patients",
-  "updated": "2026-10-08",
+  "updated": "2026-10-10",
   "sources": [
     {
       "id": "outline",
@@ -47,13 +47,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "The Wheeled Ambulance Stretcher \u00b7 Rolling versus carrying"
+          "section": "The Wheeled Ambulance Stretcher · Rolling versus carrying"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Backboards \u00b7 Backboard role in movement"
+          "section": "Backboards · Backboard role in movement"
         }
       ]
     },
@@ -67,7 +67,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Directions and Commands \u00b7 Coordinated team movement"
+          "section": "Directions and Commands · Coordinated team movement"
         }
       ]
     },
@@ -81,7 +81,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Body Mechanics \u00b7 Load distance and lifting strain"
+          "section": "Body Mechanics · Load distance and lifting strain"
         },
         {
           "sourceId": "outline",
@@ -101,7 +101,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Body Mechanics \u00b7 Power lift"
+          "section": "Body Mechanics · Power lift"
         }
       ]
     },
@@ -115,13 +115,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Body Mechanics \u00b7 Straight versus upright back"
+          "section": "Body Mechanics · Straight versus upright back"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Principles of Safe Reaching and Pulling \u00b7 Safe reaching"
+          "section": "Principles of Safe Reaching and Pulling · Safe reaching"
         }
       ]
     },
@@ -135,13 +135,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Body Mechanics \u00b7 Power grip"
+          "section": "Body Mechanics · Power grip"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Nonurgent Moves \u00b7 Draw sheet transfer"
+          "section": "Nonurgent Moves · Draw sheet transfer"
         }
       ]
     },
@@ -155,7 +155,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Principles of Safe Lifting and Carrying \u00b7 Weight and lifting resources"
+          "section": "Principles of Safe Lifting and Carrying · Weight and lifting resources"
         }
       ]
     },
@@ -169,13 +169,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Principles of Safe Lifting and Carrying \u00b7 Stair chair selection"
+          "section": "Principles of Safe Lifting and Carrying · Stair chair selection"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Personnel Considerations \u00b7 Pain during stair movement"
+          "section": "Personnel Considerations · Pain during stair movement"
         }
       ]
     },
@@ -189,19 +189,19 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Emergency Moves \u00b7 Emergency move priority"
+          "section": "Emergency Moves · Emergency move priority"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Emergency Moves \u00b7 One-person emergency vehicle removal"
+          "section": "Emergency Moves · One-person emergency vehicle removal"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Emergency Moves \u00b7 Emergency drag techniques"
+          "section": "Emergency Moves · Emergency drag techniques"
         }
       ]
     },
@@ -215,13 +215,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Urgent Moves \u00b7 Urgent versus emergency move"
+          "section": "Urgent Moves · Urgent versus emergency move"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Urgent Moves \u00b7 Rapid extrication indications"
+          "section": "Urgent Moves · Rapid extrication indications"
         }
       ]
     },
@@ -235,13 +235,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Nonurgent Moves \u00b7 Nonurgent lift selection"
+          "section": "Nonurgent Moves · Nonurgent lift selection"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Nonurgent Moves \u00b7 Extremity lift in confined space"
+          "section": "Nonurgent Moves · Extremity lift in confined space"
         }
       ]
     },
@@ -255,7 +255,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Geriatrics \u00b7 Geriatric packaging"
+          "section": "Geriatrics · Geriatric packaging"
         }
       ]
     },
@@ -283,7 +283,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Bariatrics \u00b7 Equipment capacity versus provider safety"
+          "section": "Bariatrics · Equipment capacity versus provider safety"
         }
       ]
     },
@@ -297,19 +297,19 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Additional Patient-Moving Equipment \u00b7 Specialized stretcher selection"
+          "section": "Additional Patient-Moving Equipment · Specialized stretcher selection"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Additional Patient-Moving Equipment \u00b7 Scoop stretcher access requirement"
+          "section": "Additional Patient-Moving Equipment · Scoop stretcher access requirement"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Additional Patient-Moving Equipment \u00b7 Powered stretcher benefit and limits"
+          "section": "Additional Patient-Moving Equipment · Powered stretcher benefit and limits"
         }
       ]
     },
@@ -323,7 +323,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Additional Patient-Moving Equipment \u00b7 Decontamination between patients"
+          "section": "Additional Patient-Moving Equipment · Decontamination between patients"
         }
       ]
     },
@@ -337,31 +337,31 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Patient Positioning \u00b7 Unresponsive patient positioning"
+          "section": "Patient Positioning · Unresponsive patient positioning"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Patient Positioning \u00b7 Chest discomfort and breathing"
+          "section": "Patient Positioning · Chest discomfort and breathing"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Backboards \u00b7 Positioning with competing needs"
+          "section": "Backboards · Positioning with competing needs"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Patient Positioning \u00b7 Pregnancy with supine hypotension"
+          "section": "Patient Positioning · Pregnancy with supine hypotension"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Patient Positioning \u00b7 Vomiting and position tradeoffs"
+          "section": "Patient Positioning · Vomiting and position tradeoffs"
         }
       ]
     }
@@ -369,62 +369,74 @@
   "questions": [
     {
       "id": "CH08-Q001",
-      "version": 1,
+      "version": 2,
       "chapter": 8,
-      "topic": "Rolling versus carrying",
+      "topic": "Choosing equipment for stairs and level transport",
       "conceptId": "CH08-C001",
       "learningObjectiveId": "CH08-LO01",
       "questionType": "best_answer",
       "difficulty": "moderate",
-      "question": "A stable patient is secured to a wheeled stretcher on a clear, level route to the ambulance. Which movement plan is most appropriate?",
+      "question": "An alert patient with generalized weakness cannot walk down a narrow flight of stairs. The patient has no suspected trauma and can tolerate sitting upright. Beyond the stairs is a clear, level route to the ambulance. Which movement plan best fits both parts of the route?",
       "choices": [
         {
           "id": "A",
-          "text": "Roll the stretcher along the route"
+          "text": "Use a stair chair on the stairs, then transfer to a wheeled stretcher for the level route"
         },
         {
           "id": "B",
-          "text": "Carry the stretcher with four providers along the entire route"
+          "text": "Use a backboard on the stairs, then transfer to a wheeled stretcher for the level route"
         },
         {
           "id": "C",
-          "text": "Transfer the patient to a backboard solely to carry the same route"
+          "text": "Use a wheeled stretcher for both the stairs and the level route"
         },
         {
           "id": "D",
-          "text": "Use a stair chair to replace the stretcher despite the absence of stairs"
+          "text": "Use a stair chair for both the stairs and ambulance transport"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Rolling is preferred when the situation permits because it reduces the need for carrying.",
+      "explanation": "A stair chair suits a conscious patient who can tolerate sitting during movement on stairs. After the stairs, transfer to the wheeled stretcher for rolling movement to the ambulance and transport.",
       "incorrectChoiceExplanations": {
-        "B": "Four providers can improve carrying safety, but unnecessary carrying adds lifting demands.",
-        "C": "A backboard is not needed merely to replace available rolling transport.",
-        "D": "The scenario provides no stair or seated-transport need."
+        "B": "A backboard is appropriate on stairs when the patient is unresponsive, needs to remain supine, or requires immobilization. This patient can sit upright and has no suspected trauma.",
+        "C": "Wheeled ambulance stretchers are generally not taken up or down stairs. A stair chair better fits this conscious, seated patient on the narrow stairway.",
+        "D": "A stair chair brings a conscious patient down to the stretcher. The wheeled ambulance stretcher is the device used for the subsequent route and ambulance transport."
       },
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "II. The Wheeled Ambulance Stretcher"
+          "locator": "II.A.2–3. Wheeled stretcher limitations and rolling; VII.E.1–4. Stair chair; VII.F.1–2. Supine stair carry"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "Rolling versus carrying",
+      "diagnosticIntent": "Match movement equipment to patient positioning needs and changing route conditions",
       "secondMostPlausibleAnswer": "B",
-      "whyTempting": "Four providers can make a necessary carry safer.",
-      "whyNotBest": "Four providers can improve carrying safety, but unnecessary carrying adds lifting demands.",
-      "keyDistinction": "Rolling is preferred when the situation permits because it reduces the need for carrying.",
-      "reviewFocus": "Rolling versus carrying",
+      "whyTempting": "A backboard can be used to carry a patient down stairs and transfer to a stretcher.",
+      "whyNotBest": "Its stair-carry indications concern patients who are unresponsive, must remain supine, or require immobilization; the patient described can sit upright.",
+      "keyDistinction": "Choose a stair chair for a conscious patient who can sit on stairs, then a wheeled stretcher for the accessible level route.",
+      "reviewFocus": "Stair chair indications and wheeled stretcher limitations",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "The Wheeled Ambulance Stretcher \u00b7 Rolling versus carrying"
+          "section": "The Wheeled Ambulance Stretcher · Principles of Safe Lifting and Carrying"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Match movement equipment to patient positioning needs and changing route conditions"
+      }
     },
     {
       "id": "CH08-Q002",
@@ -481,9 +493,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Directions and Commands \u00b7 Coordinated team movement"
+          "section": "Directions and Commands · Coordinated team movement"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Coordinated team movement"
+      }
     },
     {
       "id": "CH08-Q003",
@@ -494,7 +518,7 @@
       "learningObjectiveId": "CH08-LO03",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "Which adjustment most directly reduces leverage and strain on an EMT\u2019s back during a lift?",
+      "question": "Which adjustment most directly reduces leverage and strain on an EMT’s back during a lift?",
       "choices": [
         {
           "id": "A",
@@ -536,9 +560,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Body Mechanics \u00b7 Load distance and lifting strain"
+          "section": "Body Mechanics · Load distance and lifting strain"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Body mechanics definition"
+      }
     },
     {
       "id": "CH08-Q004",
@@ -553,19 +589,19 @@
       "choices": [
         {
           "id": "A",
-          "text": "Balance the feet \u2192 bend the legs with back upright \u2192 grasp close to the body \u2192 extend the legs"
+          "text": "Balance the feet → bend the legs with back upright → grasp close to the body → extend the legs"
         },
         {
           "id": "B",
-          "text": "Balance the feet \u2192 bend the waist with knees straight \u2192 grasp \u2192 extend the back"
+          "text": "Balance the feet → bend the waist with knees straight → grasp → extend the back"
         },
         {
           "id": "C",
-          "text": "Lock the knees \u2192 reach forward with extended arms \u2192 raise with the shoulders"
+          "text": "Lock the knees → reach forward with extended arms → raise with the shoulders"
         },
         {
           "id": "D",
-          "text": "Bend the legs \u2192 grasp \u2192 twist the torso while rising"
+          "text": "Bend the legs → grasp → twist the torso while rising"
         }
       ],
       "correctAnswer": "A",
@@ -591,20 +627,32 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Body Mechanics \u00b7 Power lift"
+          "section": "Body Mechanics · Power lift"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Power lift"
+      }
     },
     {
       "id": "CH08-Q005",
-      "version": 1,
+      "version": 2,
       "chapter": 8,
       "topic": "Straight versus upright back",
       "conceptId": "CH08-C005",
       "learningObjectiveId": "CH08-LO05",
-      "questionType": "best_answer",
+      "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "An EMT says, \u201cMy back stayed straight,\u201d but lifted while bent far forward at the hips. What is the best assessment of the technique?",
+      "question": "An EMT says, “My back stayed straight,” but lifted while bent far forward at the hips. What is the best assessment of the technique?",
       "choices": [
         {
           "id": "A",
@@ -640,19 +688,27 @@
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
       "diagnosticIntent": "Straight versus upright back",
-      "secondMostPlausibleAnswer": "B",
-      "whyTempting": "A straight back is an important part of proper mechanics.",
-      "whyNotBest": "Straightness alone does not maintain the upright load alignment.",
-      "keyDistinction": "Keeping the back straight does not make lifting safe when the torso is significantly bent forward at the hips.",
       "reviewFocus": "Straight versus upright back",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Body Mechanics \u00b7 Straight versus upright back"
+          "section": "Body Mechanics · Straight versus upright back"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Straight versus upright back"
+      }
     },
     {
       "id": "CH08-Q006",
@@ -705,44 +761,56 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Body Mechanics \u00b7 Power grip"
+          "section": "Body Mechanics · Power grip"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Power grip"
+      }
     },
     {
       "id": "CH08-Q007",
-      "version": 1,
+      "version": 2,
       "chapter": 8,
       "topic": "Draw sheet transfer",
       "conceptId": "CH08-C007",
       "learningObjectiveId": "CH08-LO06",
-      "questionType": "best_answer",
+      "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "A supine patient needs transfer from a bed to a nearby stretcher. Two rescuers plan a draw sheet move. Which approach fits this method?",
+      "question": "A stable supine patient has no suspected spinal injury and needs to slide from a bed onto an adjacent stretcher of similar height. A draw sheet is already beneath the patient. Which method uses that sheet as intended?",
       "choices": [
         {
           "id": "A",
-          "text": "Use the sheet or blanket beneath the patient to support the coordinated transfer"
+          "text": "A coordinated transfer with rescuers gripping the sheet close to the patient"
         },
         {
           "id": "B",
-          "text": "Pull the patient\u2019s shirt while the second rescuer pushes the legs"
+          "text": "A direct carry with rescuers supporting the shoulders, hips, and legs"
         },
         {
           "id": "C",
-          "text": "One rescuer pulls both wrists while the other holds the bed stationary"
+          "text": "An extremity lift with one rescuer at the head and one at the feet"
         },
         {
           "id": "D",
-          "text": "Use a direct carry but leave the sheet on the bed"
+          "text": "A ground lift with rescuers positioned side by side"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "A draw sheet transfer uses the sheet or blanket beneath the patient with two or more rescuers.",
+      "explanation": "A draw-sheet transfer uses the underlying sheet to support the coordinated move between adjacent surfaces. The other choices are different lifting methods.",
       "incorrectChoiceExplanations": {
-        "B": "Clothing traction is not the draw sheet method.",
-        "C": "Wrist traction is not a sheet-supported transfer.",
-        "D": "A direct carry is a different technique."
+        "B": "A direct carry uses body support rather than the underlying sheet.",
+        "C": "An extremity lift does not use the sheet for the transfer.",
+        "D": "A ground lift is intended for a patient on the ground."
       },
       "sourceReferences": [
         {
@@ -753,20 +821,28 @@
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "Draw sheet transfer",
-      "secondMostPlausibleAnswer": "B",
-      "whyTempting": "Both plans involve two rescuers, but the support used matters.",
-      "whyNotBest": "Clothing traction is not the draw sheet method.",
-      "keyDistinction": "A draw sheet transfer uses the sheet or blanket beneath the patient with two or more rescuers.",
+      "diagnosticIntent": "Identify a draw-sheet transfer from the surfaces and support used.",
       "reviewFocus": "Draw sheet transfer",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Nonurgent Moves \u00b7 Draw sheet transfer"
+          "section": "Nonurgent Moves · Draw sheet transfer"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Identify a draw-sheet transfer from the surfaces and support used."
+      }
     },
     {
       "id": "CH08-Q008",
@@ -806,7 +882,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VI.B\u2013C. Safe reaching and pulling"
+          "locator": "VI.B–C. Safe reaching and pulling"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -819,44 +895,56 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Principles of Safe Reaching and Pulling \u00b7 Safe reaching"
+          "section": "Principles of Safe Reaching and Pulling · Safe reaching"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Safe reaching"
+      }
     },
     {
       "id": "CH08-Q009",
-      "version": 1,
+      "version": 2,
       "chapter": 8,
       "topic": "Weight and lifting resources",
       "conceptId": "CH08-C009",
       "learningObjectiveId": "CH08-LO07",
       "questionType": "best_answer",
       "difficulty": "moderate",
-      "question": "Two EMTs are preparing to lift a stable patient estimated at 280 lb. Their stretcher can support the patient. What additional requirement remains?",
+      "question": "The course’s manual-lifting guidance calls for at least four providers for patients over 250 lb. Two EMTs prepare to manually lift a stable 280-lb patient. The stretcher’s capacity is sufficient. What should they do?",
       "choices": [
         {
           "id": "A",
-          "text": "Arrange at least four providers for the lift"
+          "text": "Obtain enough assistance to meet the lifting guidance before starting"
         },
         {
           "id": "B",
-          "text": "Proceed with two because the equipment capacity is sufficient"
+          "text": "Proceed because the stretcher’s capacity exceeds the patient’s weight"
         },
         {
           "id": "C",
-          "text": "Attempt one lift with two before deciding whether assistance is needed"
+          "text": "Proceed using a power grip, then request help if the lift feels difficult"
         },
         {
           "id": "D",
-          "text": "Use a power grip to substitute for additional providers"
+          "text": "Move the patient to the ambulance first and request help with loading"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "The provided lifting guidance calls for at least four providers for a patient over 250 lb; equipment capacity and personnel capacity are separate concerns.",
+      "explanation": "Equipment capacity and personnel capacity are separate. Arrange assistance before the manual lift, not after testing an unsafe load.",
       "incorrectChoiceExplanations": {
-        "B": "Equipment capacity does not establish that two providers can lift safely.",
-        "C": "Assistance should be arranged before an unsafe trial.",
-        "D": "A good grip does not replace adequate lifting personnel."
+        "B": "The rating establishes an equipment limit, not that two providers can lift safely.",
+        "C": "Good grip technique does not replace the required personnel.",
+        "D": "Moving the patient first does not solve the staffing problem for the initial lift."
       },
       "sourceReferences": [
         {
@@ -867,20 +955,32 @@
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "Weight and lifting resources",
+      "diagnosticIntent": "Distinguish the course’s personnel guidance from equipment capacity.",
       "secondMostPlausibleAnswer": "B",
-      "whyTempting": "Checking equipment capacity is necessary.",
-      "whyNotBest": "Equipment capacity does not establish that two providers can lift safely.",
-      "keyDistinction": "The provided lifting guidance calls for at least four providers for a patient over 250 lb; equipment capacity and personnel capacity are separate concerns.",
+      "whyTempting": "Checking the stretcher rating is necessary, but does not complete the lifting plan.",
+      "whyNotBest": "The rating establishes an equipment limit, not that two providers can lift safely.",
+      "keyDistinction": "Equipment capacity and personnel capacity are separate. Arrange assistance before the manual lift, not after testing an unsafe load.",
       "reviewFocus": "Weight and lifting resources",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Principles of Safe Lifting and Carrying \u00b7 Weight and lifting resources"
+          "section": "Principles of Safe Lifting and Carrying · Weight and lifting resources"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Distinguish the course’s personnel guidance from equipment capacity."
+      }
     },
     {
       "id": "CH08-Q010",
@@ -937,9 +1037,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Principles of Safe Lifting and Carrying \u00b7 Stair chair selection"
+          "section": "Principles of Safe Lifting and Carrying · Stair chair selection"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Stair chair selection"
+      }
     },
     {
       "id": "CH08-Q011",
@@ -973,13 +1085,13 @@
       "explanation": "A provider who develops sharp pain should stop the move safely and request help rather than continue risking injury.",
       "incorrectChoiceExplanations": {
         "B": "A changed grip does not establish that continuing is safe.",
-        "C": "The patient\u2019s ability to walk safely has not been established.",
+        "C": "The patient’s ability to walk safely has not been established.",
         "D": "Rushing increases movement risk."
       },
       "sourceReferences": [
         {
           "sourceId": "quiz",
-          "locator": "Question 2 \u00b7 sudden sharp pain during stair-chair carry"
+          "locator": "Question 2 · sudden sharp pain during stair-chair carry"
         },
         {
           "sourceId": "outline",
@@ -1000,20 +1112,32 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Personnel Considerations \u00b7 Pain during stair movement"
+          "section": "Personnel Considerations · Pain during stair movement"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Pain during stair movement"
+      }
     },
     {
       "id": "CH08-Q012",
-      "version": 1,
+      "version": 2,
       "chapter": 8,
       "topic": "Emergency move priority",
       "conceptId": "CH08-C012",
       "learningObjectiveId": "CH08-LO09",
       "questionType": "best_answer",
       "difficulty": "moderate",
-      "question": "Smoke and flames are advancing toward a trapped patient, and the crew cannot protect the patient at the current location. What takes priority?",
+      "question": "Smoke and flames are advancing toward a patient already accessible to the crew. The crew has a safe route out but cannot remain safely at the current location. What takes priority?",
       "choices": [
         {
           "id": "A",
@@ -1042,7 +1166,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "IX.A\u2013C. Emergency Moves"
+          "locator": "IX.A–C. Emergency Moves"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -1059,9 +1183,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Emergency Moves \u00b7 Emergency move priority"
+          "section": "Emergency Moves · Emergency move priority"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Emergency move priority"
+      }
     },
     {
       "id": "CH08-Q013",
@@ -1076,23 +1212,23 @@
       "choices": [
         {
           "id": "A",
-          "text": "Clear the legs from the pedals \u2192 turn the back toward the open door \u2192 support under the shoulders and head \u2192 drag to safety"
+          "text": "Clear the legs from the pedals → turn the back toward the open door → support under the shoulders and head → drag to safety"
         },
         {
           "id": "B",
-          "text": "Pull the torso out first \u2192 free the legs afterward \u2192 support the head once outside"
+          "text": "Pull the torso out first → free the legs afterward → support the head once outside"
         },
         {
           "id": "C",
-          "text": "Leave the feet at the pedals \u2192 pull both wrists through the door"
+          "text": "Leave the feet at the pedals → pull both wrists through the door"
         },
         {
           "id": "D",
-          "text": "Turn the chest toward the door \u2192 lift by the forearms without supporting the head"
+          "text": "Turn the chest toward the door → lift by the forearms without supporting the head"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "The technique clears the legs first, turns the back toward the opening, and supports the patient through the armpits with the head against the rescuer\u2019s body.",
+      "explanation": "The technique clears the legs first, turns the back toward the opening, and supports the patient through the armpits with the head against the rescuer’s body.",
       "incorrectChoiceExplanations": {
         "B": "Pulling first risks leaving the legs caught and delays head support.",
         "C": "The legs must be cleared and the described technique supports the upper body and head.",
@@ -1114,9 +1250,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Emergency Moves \u00b7 One-person emergency vehicle removal"
+          "section": "Emergency Moves · One-person emergency vehicle removal"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "One-person emergency vehicle removal"
+      }
     },
     {
       "id": "CH08-Q014",
@@ -1143,15 +1291,15 @@
         },
         {
           "id": "D",
-          "text": "Routine transfer without regard to the patient\u2019s condition"
+          "text": "Routine transfer without regard to the patient’s condition"
         }
       ],
       "correctAnswer": "A",
       "explanation": "Shock can require an urgent move; urgent movement allows brief consideration of spinal protection while proceeding quickly.",
       "incorrectChoiceExplanations": {
         "B": "An urgent care need at a safe scene is distinguished from movement forced by immediate danger.",
-        "C": "A safe scene does not make an unstable patient\u2019s move nonurgent.",
-        "D": "The patient\u2019s condition determines urgency."
+        "C": "A safe scene does not make an unstable patient’s move nonurgent.",
+        "D": "The patient’s condition determines urgency."
       },
       "sourceReferences": [
         {
@@ -1173,9 +1321,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Urgent Moves \u00b7 Urgent versus emergency move"
+          "section": "Urgent Moves · Urgent versus emergency move"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Urgent versus emergency move"
+      }
     },
     {
       "id": "CH08-Q015",
@@ -1232,9 +1392,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Urgent Moves \u00b7 Rapid extrication indications"
+          "section": "Urgent Moves · Rapid extrication indications"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Rapid extrication indications"
+      }
     },
     {
       "id": "CH08-Q016",
@@ -1291,9 +1463,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Nonurgent Moves \u00b7 Nonurgent lift selection"
+          "section": "Nonurgent Moves · Nonurgent lift selection"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Nonurgent lift selection"
+      }
     },
     {
       "id": "CH08-Q017",
@@ -1308,7 +1492,7 @@
       "choices": [
         {
           "id": "A",
-          "text": "Consider a device such as a vacuum mattress that can accommodate the patient\u2019s shape"
+          "text": "Consider a device such as a vacuum mattress that can accommodate the patient’s shape"
         },
         {
           "id": "B",
@@ -1326,7 +1510,7 @@
       "correctAnswer": "A",
       "explanation": "Geriatric skeletal changes can make rigid supine packaging harmful; a vacuum mattress is an alternative that molds around the patient.",
       "incorrectChoiceExplanations": {
-        "B": "Reassurance helps, but does not resolve a surface that cannot safely accommodate the patient\u2019s spinal curvature.",
+        "B": "Reassurance helps, but does not resolve a surface that cannot safely accommodate the patient’s spinal curvature.",
         "C": "The rigid surface may contribute to the problem.",
         "D": "Positioning should account for skeletal changes."
       },
@@ -1341,8 +1525,8 @@
       "contentBasis": "Uploaded course materials only",
       "diagnosticIntent": "Geriatric packaging",
       "secondMostPlausibleAnswer": "B",
-      "whyTempting": "A compassionate explanation helps reduce the patient\u2019s fear.",
-      "whyNotBest": "Reassurance helps, but does not resolve a surface that cannot safely accommodate the patient\u2019s spinal curvature.",
+      "whyTempting": "A compassionate explanation helps reduce the patient’s fear.",
+      "whyNotBest": "Reassurance helps, but does not resolve a surface that cannot safely accommodate the patient’s spinal curvature.",
       "keyDistinction": "Geriatric skeletal changes can make rigid supine packaging harmful; a vacuum mattress is an alternative that molds around the patient.",
       "reviewFocus": "Geriatric packaging",
       "reviewReferences": [
@@ -1350,9 +1534,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Geriatrics \u00b7 Geriatric packaging"
+          "section": "Geriatrics · Geriatric packaging"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Geriatric packaging"
+      }
     },
     {
       "id": "CH08-Q018",
@@ -1408,18 +1604,30 @@
           "section": "XIII. Bariatrics"
         }
       ],
-      "definitionQuestion": true
+      "definitionQuestion": true,
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Bariatrics definition"
+      }
     },
     {
       "id": "CH08-Q019",
-      "version": 1,
+      "version": 2,
       "chapter": 8,
       "topic": "Equipment capacity versus provider safety",
       "conceptId": "CH08-C019",
       "learningObjectiveId": "CH08-LO14",
-      "questionType": "best_answer",
+      "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "A bariatric stretcher\u2019s rated capacity exceeds the patient\u2019s weight. What can the crew conclude from that fact alone?",
+      "question": "A bariatric stretcher’s rated capacity exceeds the patient’s weight. What can the crew conclude from that fact alone?",
       "choices": [
         {
           "id": "A",
@@ -1455,19 +1663,27 @@
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
       "diagnosticIntent": "Equipment capacity versus provider safety",
-      "secondMostPlausibleAnswer": "B",
-      "whyTempting": "The rating is an essential equipment check.",
-      "whyNotBest": "Equipment strength does not establish crew lifting ability.",
-      "keyDistinction": "Higher equipment capacity does not remove the danger to providers; safe movement still requires resource and route planning.",
       "reviewFocus": "Equipment capacity versus provider safety",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Bariatrics \u00b7 Equipment capacity versus provider safety"
+          "section": "Bariatrics · Equipment capacity versus provider safety"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Equipment capacity versus provider safety"
+      }
     },
     {
       "id": "CH08-Q020",
@@ -1507,7 +1723,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "XIV.D\u2013I. Additional Patient-Moving Equipment"
+          "locator": "XIV.D–I. Additional Patient-Moving Equipment"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -1520,18 +1736,30 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Additional Patient-Moving Equipment \u00b7 Specialized stretcher selection"
+          "section": "Additional Patient-Moving Equipment · Specialized stretcher selection"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Specialized stretcher selection"
+      }
     },
     {
       "id": "CH08-Q021",
-      "version": 1,
+      "version": 2,
       "chapter": 8,
       "topic": "Decontamination between patients",
       "conceptId": "CH08-C021",
       "learningObjectiveId": "CH08-LO16",
-      "questionType": "best_answer",
+      "questionType": "conceptual",
       "difficulty": "moderate",
       "question": "After transporting a patient, a stretcher has no visible soil. What determines whether it is ready for the next patient?",
       "choices": [
@@ -1569,28 +1797,36 @@
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
       "diagnosticIntent": "Decontamination between patients",
-      "secondMostPlausibleAnswer": "B",
-      "whyTempting": "Inspection is useful, but visual cleanliness is not the whole requirement.",
-      "whyNotBest": "Invisible contamination is not excluded by appearance.",
-      "keyDistinction": "Equipment must be decontaminated after use to protect patients and crews, following local procedures.",
       "reviewFocus": "Decontamination between patients",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Additional Patient-Moving Equipment \u00b7 Decontamination between patients"
+          "section": "Additional Patient-Moving Equipment · Decontamination between patients"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Decontamination between patients"
+      }
     },
     {
       "id": "CH08-Q022",
-      "version": 3,
+      "version": 4,
       "chapter": 8,
       "topic": "Unresponsive patient positioning",
       "conceptId": "CH08-C022",
       "learningObjectiveId": "CH08-LO17",
-      "questionType": "best_answer",
+      "questionType": "conceptual",
       "difficulty": "moderate",
       "question": "An unresponsive patient is breathing adequately and has no suspected spinal, hip, or pelvic injury. Which position best matches transport positioning guidance?",
       "choices": [
@@ -1628,19 +1864,27 @@
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
       "diagnosticIntent": "Unresponsive patient positioning",
-      "secondMostPlausibleAnswer": "B",
-      "whyTempting": "Supine positioning is appropriate for some other conditions, including shock.",
-      "whyNotBest": "An unresponsive patient breathing adequately without the stated injuries benefits from side positioning for airway drainage.",
-      "keyDistinction": "The recovery position is indicated for an unresponsive patient without the specified suspected injuries.",
       "reviewFocus": "Unresponsive patient positioning",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Patient Positioning \u00b7 Unresponsive patient positioning"
+          "section": "Patient Positioning · Unresponsive patient positioning"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Unresponsive patient positioning"
+      }
     },
     {
       "id": "CH08-Q023",
@@ -1697,9 +1941,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Patient Positioning \u00b7 Chest discomfort and breathing"
+          "section": "Patient Positioning · Chest discomfort and breathing"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Chest discomfort and breathing"
+      }
     },
     {
       "id": "CH08-Q024",
@@ -1710,7 +1966,7 @@
       "learningObjectiveId": "CH08-LO17",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "Which pairing correctly matches positioning to the patient\u2019s needs?",
+      "question": "Which pairing correctly matches positioning to the patient’s needs?",
       "choices": [
         {
           "id": "A",
@@ -1743,7 +1999,7 @@
         },
         {
           "sourceId": "transcript",
-          "locator": "Patient positioning \u00b7 nausea, vomiting, and preventing aspiration"
+          "locator": "Patient positioning · nausea, vomiting, and preventing aspiration"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -1756,9 +2012,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Backboards \u00b7 Positioning with competing needs"
+          "section": "Backboards · Positioning with competing needs"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Positioning with competing needs"
+      }
     },
     {
       "id": "CH08-Q025",
@@ -1802,7 +2070,7 @@
         },
         {
           "sourceId": "transcript",
-          "locator": "Late-pregnancy positioning \u00b7 reducing pressure on major vessels"
+          "locator": "Late-pregnancy positioning · reducing pressure on major vessels"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -1815,9 +2083,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Patient Positioning \u00b7 Pregnancy with supine hypotension"
+          "section": "Patient Positioning · Pregnancy with supine hypotension"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Pregnancy with supine hypotension"
+      }
     },
     {
       "id": "CH08-Q026",
@@ -1828,7 +2108,7 @@
       "learningObjectiveId": "CH08-LO01",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "Which use fits the backboard\u2019s described patient-moving role?",
+      "question": "Which use fits the backboard’s described patient-moving role?",
       "choices": [
         {
           "id": "A",
@@ -1870,9 +2150,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Backboards \u00b7 Backboard role in movement"
+          "section": "Backboards · Backboard role in movement"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Backboard role in movement"
+      }
     },
     {
       "id": "CH08-Q027",
@@ -1895,7 +2187,7 @@
         },
         {
           "id": "C",
-          "text": "Clothes drag: pull the wrists; blanket drag: pull the patient\u2019s shirt"
+          "text": "Clothes drag: pull the wrists; blanket drag: pull the patient’s shirt"
         },
         {
           "id": "D",
@@ -1925,9 +2217,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Emergency Moves \u00b7 Emergency drag techniques"
+          "section": "Emergency Moves · Emergency drag techniques"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Emergency drag techniques"
+      }
     },
     {
       "id": "CH08-Q028",
@@ -1980,9 +2284,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Nonurgent Moves \u00b7 Extremity lift in confined space"
+          "section": "Nonurgent Moves · Extremity lift in confined space"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Extremity lift in confined space"
+      }
     },
     {
       "id": "CH08-Q029",
@@ -2013,7 +2329,7 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "The scoop\u2019s parts fit around the patient from both sides, so access to both is needed.",
+      "explanation": "The scoop’s parts fit around the patient from both sides, so access to both is needed.",
       "incorrectChoiceExplanations": {
         "B": "Head access alone does not supply the described bilateral fitting.",
         "C": "One-sided access does not meet the supplied requirement.",
@@ -2035,9 +2351,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Additional Patient-Moving Equipment \u00b7 Scoop stretcher access requirement"
+          "section": "Additional Patient-Moving Equipment · Scoop stretcher access requirement"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Scoop stretcher access requirement"
+      }
     },
     {
       "id": "CH08-Q030",
@@ -2048,7 +2376,7 @@
       "learningObjectiveId": "CH08-LO15",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "What is the principal advantage of a powered wheeled stretcher\u2019s undercarriage?",
+      "question": "What is the principal advantage of a powered wheeled stretcher’s undercarriage?",
       "choices": [
         {
           "id": "A",
@@ -2090,9 +2418,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Additional Patient-Moving Equipment \u00b7 Powered stretcher benefit and limits"
+          "section": "Additional Patient-Moving Equipment · Powered stretcher benefit and limits"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Powered stretcher benefit and limits"
+      }
     },
     {
       "id": "CH08-Q031",
@@ -2127,7 +2467,7 @@
       "incorrectChoiceExplanations": {
         "B": "Convenient monitoring should not override airway concerns.",
         "C": "Comfort does not replace airway assessment.",
-        "D": "The position should respond to the patient\u2019s current needs."
+        "D": "The position should respond to the patient’s current needs."
       },
       "sourceReferences": [
         {
@@ -2145,9 +2485,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Patient Positioning \u00b7 Vomiting and position tradeoffs"
+          "section": "Patient Positioning · Vomiting and position tradeoffs"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Vomiting and position tradeoffs"
+      }
     },
     {
       "id": "CH08-Q032",
@@ -2203,130 +2555,18 @@
           "label": "Chapter 8 outline",
           "section": "V. Body Mechanics"
         }
-      ]
-    },
-    {
-      "chapter": 8,
-      "topic": "Bariatrics definition",
-      "learningObjectiveId": "CH08-LO13",
-      "sourceReferences": [
-        {
-          "sourceId": "outline",
-          "locator": "XIII. Bariatrics"
-        }
       ],
-      "reviewReferences": [
-        {
-          "sourceId": "outline",
-          "filename": "9781284243796_LOUT_CH08(1).docx",
-          "label": "Chapter 8 outline",
-          "section": "XIII. Bariatrics"
-        }
-      ],
-      "contentBasis": "Uploaded course materials only",
-      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
-      "id": "CH08-FB001",
-      "version": 2,
-      "format": "mcq",
-      "questionType": "recall",
-      "question": "The branch of medicine dealing with the causes, prevention, and treatment of obesity is _____.",
-      "conceptId": "CH08-C018",
-      "reviewFocus": "Bariatrics definition",
-      "includeInCourseExam": true,
-      "includeInLearning": false,
-      "sourceQuestionIds": [
-        "CH08-Q018"
-      ],
-      "difficulty": "moderate",
-      "correctAnswer": "A",
-      "explanation": "Bariatrics concerns obesity and associated diseases; geriatrics, spinal protection, and respiratory assessment concern other needs.",
-      "blankMultipleChoice": true,
-      "choices": [
-        {
-          "id": "A",
-          "text": "bariatrics"
-        },
-        {
-          "id": "B",
-          "text": "geriatrics"
-        },
-        {
-          "id": "C",
-          "text": "pediatrics"
-        },
-        {
-          "id": "D",
-          "text": "pharmacology"
-        }
-      ],
-      "incorrectChoiceExplanations": {
-        "B": "Geriatrics concerns older adults.",
-        "C": "Pediatrics concerns infants and children.",
-        "D": "Pharmacology concerns medications."
-      }
-    },
-    {
-      "chapter": 8,
-      "topic": "Pregnancy with supine hypotension",
-      "learningObjectiveId": "CH08-LO17",
-      "sourceReferences": [
-        {
-          "sourceId": "outline",
-          "locator": "XV.A.3. Patient Positioning"
-        },
-        {
-          "sourceId": "transcript",
-          "locator": "Late-pregnancy positioning \u00b7 reducing pressure on major vessels"
-        }
-      ],
-      "reviewReferences": [
-        {
-          "sourceId": "outline",
-          "filename": "9781284243796_LOUT_CH08(1).docx",
-          "label": "Chapter 8 outline",
-          "section": "Patient Positioning \u00b7 Pregnancy with supine hypotension"
-        }
-      ],
-      "contentBasis": "Uploaded course materials only",
-      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
-      "id": "CH08-FB002",
-      "version": 2,
-      "format": "mcq",
-      "questionType": "recall",
-      "question": "For a pregnant patient who becomes hypotensive while supine, the recommended position is _____.",
-      "conceptId": "CH08-C025",
-      "reviewFocus": "Pregnancy with supine hypotension",
-      "includeInCourseExam": true,
-      "includeInLearning": false,
-      "sourceQuestionIds": [
-        "CH08-Q025"
-      ],
-      "difficulty": "moderate",
-      "correctAnswer": "A",
-      "explanation": "Late-pregnancy patients who are hypotensive or uncomfortable supine should be positioned and transported on the left side.",
-      "blankMultipleChoice": true,
-      "choices": [
-        {
-          "id": "A",
-          "text": "left lateral"
-        },
-        {
-          "id": "B",
-          "text": "right lateral"
-        },
-        {
-          "id": "C",
-          "text": "supine"
-        },
-        {
-          "id": "D",
-          "text": "prone"
-        }
-      ],
-      "incorrectChoiceExplanations": {
-        "B": "The supplied positioning guidance specifies the left side.",
-        "C": "Remaining supine does not relieve the uterine pressure described.",
-        "D": "Prone positioning is not the indicated change."
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Body mechanics definition"
       }
     }
   ],
@@ -2419,7 +2659,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "XIV.D\u2013I. Additional Patient-Moving Equipment"
+          "locator": "XIV.D–I. Additional Patient-Moving Equipment"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -2478,7 +2718,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Bariatrics \u00b7 Bariatrics definition"
+          "section": "Bariatrics · Bariatrics definition"
         }
       ]
     },
@@ -2499,7 +2739,7 @@
         },
         {
           "id": "B",
-          "text": "The maximum load stated on a stretcher\u2019s equipment label"
+          "text": "The maximum load stated on a stretcher’s equipment label"
         },
         {
           "id": "C",
@@ -2507,7 +2747,7 @@
         },
         {
           "id": "D",
-          "text": "The patient\u2019s preferred position during transport"
+          "text": "The patient’s preferred position during transport"
         }
       ],
       "correctAnswer": "A",
@@ -2533,7 +2773,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Body Mechanics \u00b7 Body mechanics definition"
+          "section": "Body Mechanics · Body mechanics definition"
         }
       ]
     },
@@ -2570,7 +2810,7 @@
       "incorrectChoiceExplanations": {
         "B": "A wheeled stretcher is generally not taken up or down stairs.",
         "C": "A backboard fits patients needing supine movement or spinal restriction, which are not established here.",
-        "D": "A scoop\u2019s separation does not make it the preferred seated stair device."
+        "D": "A scoop’s separation does not make it the preferred seated stair device."
       },
       "sourceReferences": [
         {
@@ -2592,7 +2832,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Principles of Safe Lifting and Carrying \u00b7 Stair chair selection"
+          "section": "Principles of Safe Lifting and Carrying · Stair chair selection"
         }
       ]
     },
@@ -2651,7 +2891,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Nonurgent Moves \u00b7 Nonurgent lift selection"
+          "section": "Nonurgent Moves · Nonurgent lift selection"
         }
       ]
     },
@@ -2710,7 +2950,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Patient Positioning \u00b7 Unresponsive patient positioning"
+          "section": "Patient Positioning · Unresponsive patient positioning"
         }
       ]
     },
@@ -2769,7 +3009,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Patient Positioning \u00b7 Chest discomfort and breathing"
+          "section": "Patient Positioning · Chest discomfort and breathing"
         }
       ]
     },
@@ -2815,7 +3055,7 @@
         },
         {
           "sourceId": "transcript",
-          "locator": "Late-pregnancy positioning \u00b7 reducing pressure on major vessels"
+          "locator": "Late-pregnancy positioning · reducing pressure on major vessels"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -2828,7 +3068,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Patient Positioning \u00b7 Pregnancy with supine hypotension"
+          "section": "Patient Positioning · Pregnancy with supine hypotension"
         }
       ]
     },
@@ -2841,7 +3081,7 @@
       "learningObjectiveId": "CH08-LO01",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "Which use fits the backboard\u2019s described patient-moving role?",
+      "question": "Which use fits the backboard’s described patient-moving role?",
       "choices": [
         {
           "id": "A",
@@ -2883,7 +3123,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Backboards \u00b7 Backboard role in movement"
+          "section": "Backboards · Backboard role in movement"
         }
       ]
     },
@@ -2938,7 +3178,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Nonurgent Moves \u00b7 Extremity lift in confined space"
+          "section": "Nonurgent Moves · Extremity lift in confined space"
         }
       ]
     },
@@ -2951,7 +3191,7 @@
       "learningObjectiveId": "CH08-LO15",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "What is the principal advantage of a powered wheeled stretcher\u2019s undercarriage?",
+      "question": "What is the principal advantage of a powered wheeled stretcher’s undercarriage?",
       "choices": [
         {
           "id": "A",
@@ -2993,7 +3233,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Additional Patient-Moving Equipment \u00b7 Powered stretcher benefit and limits"
+          "section": "Additional Patient-Moving Equipment · Powered stretcher benefit and limits"
         }
       ]
     },
@@ -3012,7 +3252,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Body Mechanics \u00b7 Power grip"
+          "section": "Body Mechanics · Power grip"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -3033,10 +3273,10 @@
       "checkpoints": [
         "Place the hands so the palms are up.",
         "Wrap the fingers fully around the handle.",
-        "Use the hand\u2019s full grip rather than supporting the load on fingertips."
+        "Use the hand’s full grip rather than supporting the load on fingertips."
       ],
-      "modelAnswer": "Place the hands so the palms are up. Wrap the fingers fully around the handle. Use the hand\u2019s full grip rather than supporting the load on fingertips.",
-      "explanation": "Place the hands so the palms are up. Wrap the fingers fully around the handle. Use the hand\u2019s full grip rather than supporting the load on fingertips."
+      "modelAnswer": "Place the hands so the palms are up. Wrap the fingers fully around the handle. Use the hand’s full grip rather than supporting the load on fingertips.",
+      "explanation": "Place the hands so the palms are up. Wrap the fingers fully around the handle. Use the hand’s full grip rather than supporting the load on fingertips."
     },
     {
       "chapter": 8,
@@ -3049,7 +3289,7 @@
         },
         {
           "sourceId": "outline",
-          "locator": "IX.A\u2013C. Emergency Moves"
+          "locator": "IX.A–C. Emergency Moves"
         }
       ],
       "reviewReferences": [
@@ -3057,13 +3297,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Urgent Moves \u00b7 Urgent versus emergency move"
+          "section": "Urgent Moves · Urgent versus emergency move"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Emergency Moves \u00b7 Emergency move priority"
+          "section": "Emergency Moves · Emergency move priority"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -3084,10 +3324,10 @@
       "difficulty": "moderate",
       "checkpoints": [
         "An emergency move removes the patient from an immediate danger that prevents safe care.",
-        "An urgent move is needed when the patient\u2019s condition requires prompt removal and transport, even when the scene itself is not immediately dangerous."
+        "An urgent move is needed when the patient’s condition requires prompt removal and transport, even when the scene itself is not immediately dangerous."
       ],
-      "modelAnswer": "An emergency move removes the patient from an immediate danger that prevents safe care. An urgent move is needed when the patient\u2019s condition requires prompt removal and transport, even when the scene itself is not immediately dangerous.",
-      "explanation": "An emergency move removes the patient from an immediate danger that prevents safe care. An urgent move is needed when the patient\u2019s condition requires prompt removal and transport, even when the scene itself is not immediately dangerous."
+      "modelAnswer": "An emergency move removes the patient from an immediate danger that prevents safe care. An urgent move is needed when the patient’s condition requires prompt removal and transport, even when the scene itself is not immediately dangerous.",
+      "explanation": "An emergency move removes the patient from an immediate danger that prevents safe care. An urgent move is needed when the patient’s condition requires prompt removal and transport, even when the scene itself is not immediately dangerous."
     },
     {
       "chapter": 8,
@@ -3139,7 +3379,7 @@
         },
         {
           "sourceId": "transcript",
-          "locator": "Late-pregnancy positioning \u00b7 reducing pressure on major vessels"
+          "locator": "Late-pregnancy positioning · reducing pressure on major vessels"
         }
       ],
       "reviewReferences": [
@@ -3147,7 +3387,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH08(1).docx",
           "label": "Chapter 8 outline",
-          "section": "Patient Positioning \u00b7 Pregnancy with supine hypotension"
+          "section": "Patient Positioning · Pregnancy with supine hypotension"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -3171,7 +3411,606 @@
         "left lateral"
       ],
       "explanation": "Late-pregnancy patients who are hypotensive or uncomfortable supine should be positioned and transported on the left side."
+    },
+    {
+      "id": "CH08-Q001",
+      "version": 1,
+      "chapter": 8,
+      "topic": "Rolling versus carrying",
+      "conceptId": "CH08-C001",
+      "learningObjectiveId": "CH08-LO01",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "A stable patient is secured to a wheeled stretcher on a clear, level route to the ambulance. Which movement plan is most appropriate?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Roll the stretcher along the route"
+        },
+        {
+          "id": "B",
+          "text": "Carry the stretcher with four providers along the entire route"
+        },
+        {
+          "id": "C",
+          "text": "Transfer the patient to a backboard solely to carry the same route"
+        },
+        {
+          "id": "D",
+          "text": "Use a stair chair to replace the stretcher despite the absence of stairs"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Rolling is preferred when the situation permits because it reduces the need for carrying.",
+      "incorrectChoiceExplanations": {
+        "B": "Four providers can improve carrying safety, but unnecessary carrying adds lifting demands.",
+        "C": "A backboard is not needed merely to replace available rolling transport.",
+        "D": "The scenario provides no stair or seated-transport need."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "II. The Wheeled Ambulance Stretcher"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Rolling versus carrying",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Four providers can make a necessary carry safer.",
+      "whyNotBest": "Four providers can improve carrying safety, but unnecessary carrying adds lifting demands.",
+      "keyDistinction": "Rolling is preferred when the situation permits because it reduces the need for carrying.",
+      "reviewFocus": "Rolling versus carrying",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH08(1).docx",
+          "label": "Chapter 8 outline",
+          "section": "The Wheeled Ambulance Stretcher · Rolling versus carrying"
+        }
+      ]
+    },
+    {
+      "id": "CH08-Q005",
+      "version": 1,
+      "chapter": 8,
+      "topic": "Straight versus upright back",
+      "conceptId": "CH08-C005",
+      "learningObjectiveId": "CH08-LO05",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "An EMT says, “My back stayed straight,” but lifted while bent far forward at the hips. What is the best assessment of the technique?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "It can still strain the back because the torso was not upright over the pelvis"
+        },
+        {
+          "id": "B",
+          "text": "It is safe because straightness alone prevents strain regardless of torso angle"
+        },
+        {
+          "id": "C",
+          "text": "It is safer than a leg-powered lift because the hips provide all the lifting force"
+        },
+        {
+          "id": "D",
+          "text": "It is safe if the hands are held farther from the legs"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Keeping the back straight does not make lifting safe when the torso is significantly bent forward at the hips.",
+      "incorrectChoiceExplanations": {
+        "B": "Straightness alone does not maintain the upright load alignment.",
+        "C": "A leg-powered lift with proper alignment is the preferred method.",
+        "D": "Holding the load farther away adds strain."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "V.A.5. Back injury risks"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Straight versus upright back",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "A straight back is an important part of proper mechanics.",
+      "whyNotBest": "Straightness alone does not maintain the upright load alignment.",
+      "keyDistinction": "Keeping the back straight does not make lifting safe when the torso is significantly bent forward at the hips.",
+      "reviewFocus": "Straight versus upright back",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH08(1).docx",
+          "label": "Chapter 8 outline",
+          "section": "Body Mechanics · Straight versus upright back"
+        }
+      ]
+    },
+    {
+      "id": "CH08-Q007",
+      "version": 1,
+      "chapter": 8,
+      "topic": "Draw sheet transfer",
+      "conceptId": "CH08-C007",
+      "learningObjectiveId": "CH08-LO06",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "A supine patient needs transfer from a bed to a nearby stretcher. Two rescuers plan a draw sheet move. Which approach fits this method?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Use the sheet or blanket beneath the patient to support the coordinated transfer"
+        },
+        {
+          "id": "B",
+          "text": "Pull the patient’s shirt while the second rescuer pushes the legs"
+        },
+        {
+          "id": "C",
+          "text": "One rescuer pulls both wrists while the other holds the bed stationary"
+        },
+        {
+          "id": "D",
+          "text": "Use a direct carry but leave the sheet on the bed"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "A draw sheet transfer uses the sheet or blanket beneath the patient with two or more rescuers.",
+      "incorrectChoiceExplanations": {
+        "B": "Clothing traction is not the draw sheet method.",
+        "C": "Wrist traction is not a sheet-supported transfer.",
+        "D": "A direct carry is a different technique."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "XI.D.2. Draw sheet method; VI.C. Bed drag"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Draw sheet transfer",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Both plans involve two rescuers, but the support used matters.",
+      "whyNotBest": "Clothing traction is not the draw sheet method.",
+      "keyDistinction": "A draw sheet transfer uses the sheet or blanket beneath the patient with two or more rescuers.",
+      "reviewFocus": "Draw sheet transfer",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH08(1).docx",
+          "label": "Chapter 8 outline",
+          "section": "Nonurgent Moves · Draw sheet transfer"
+        }
+      ]
+    },
+    {
+      "id": "CH08-Q009",
+      "version": 1,
+      "chapter": 8,
+      "topic": "Weight and lifting resources",
+      "conceptId": "CH08-C009",
+      "learningObjectiveId": "CH08-LO07",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "Two EMTs are preparing to lift a stable patient estimated at 280 lb. Their stretcher can support the patient. What additional requirement remains?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Arrange at least four providers for the lift"
+        },
+        {
+          "id": "B",
+          "text": "Proceed with two because the equipment capacity is sufficient"
+        },
+        {
+          "id": "C",
+          "text": "Attempt one lift with two before deciding whether assistance is needed"
+        },
+        {
+          "id": "D",
+          "text": "Use a power grip to substitute for additional providers"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "The provided lifting guidance calls for at least four providers for a patient over 250 lb; equipment capacity and personnel capacity are separate concerns.",
+      "incorrectChoiceExplanations": {
+        "B": "Equipment capacity does not establish that two providers can lift safely.",
+        "C": "Assistance should be arranged before an unsafe trial.",
+        "D": "A good grip does not replace adequate lifting personnel."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "VII.C. Patient weight"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Weight and lifting resources",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Checking equipment capacity is necessary.",
+      "whyNotBest": "Equipment capacity does not establish that two providers can lift safely.",
+      "keyDistinction": "The provided lifting guidance calls for at least four providers for a patient over 250 lb; equipment capacity and personnel capacity are separate concerns.",
+      "reviewFocus": "Weight and lifting resources",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH08(1).docx",
+          "label": "Chapter 8 outline",
+          "section": "Principles of Safe Lifting and Carrying · Weight and lifting resources"
+        }
+      ]
+    },
+    {
+      "id": "CH08-Q019",
+      "version": 1,
+      "chapter": 8,
+      "topic": "Equipment capacity versus provider safety",
+      "conceptId": "CH08-C019",
+      "learningObjectiveId": "CH08-LO14",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "A bariatric stretcher’s rated capacity exceeds the patient’s weight. What can the crew conclude from that fact alone?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The rating supports equipment selection, but personnel, route, and lifting assistance still require evaluation"
+        },
+        {
+          "id": "B",
+          "text": "The rating guarantees that the usual two-person crew can manually lift the patient"
+        },
+        {
+          "id": "C",
+          "text": "A higher capacity eliminates the need to plan loading into the ambulance"
+        },
+        {
+          "id": "D",
+          "text": "Additional personnel are required only after the first lifting attempt fails"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Higher equipment capacity does not remove the danger to providers; safe movement still requires resource and route planning.",
+      "incorrectChoiceExplanations": {
+        "B": "Equipment strength does not establish crew lifting ability.",
+        "C": "Ambulance loading remains part of the move plan.",
+        "D": "Help should be arranged before an unsafe attempt."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "XIII.C. Higher-capacity equipment; XVII. Personnel Considerations"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Equipment capacity versus provider safety",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "The rating is an essential equipment check.",
+      "whyNotBest": "Equipment strength does not establish crew lifting ability.",
+      "keyDistinction": "Higher equipment capacity does not remove the danger to providers; safe movement still requires resource and route planning.",
+      "reviewFocus": "Equipment capacity versus provider safety",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH08(1).docx",
+          "label": "Chapter 8 outline",
+          "section": "Bariatrics · Equipment capacity versus provider safety"
+        }
+      ]
+    },
+    {
+      "id": "CH08-Q021",
+      "version": 1,
+      "chapter": 8,
+      "topic": "Decontamination between patients",
+      "conceptId": "CH08-C021",
+      "learningObjectiveId": "CH08-LO16",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "After transporting a patient, a stretcher has no visible soil. What determines whether it is ready for the next patient?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Completion of the required post-use decontamination process under local procedures"
+        },
+        {
+          "id": "B",
+          "text": "Visual appearance alone because no visible soil means no contamination"
+        },
+        {
+          "id": "C",
+          "text": "Secure storage alone because contamination ends once equipment is put away"
+        },
+        {
+          "id": "D",
+          "text": "Replacement of the mattress alone while leaving the frame and straps unaddressed"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Equipment must be decontaminated after use to protect patients and crews, following local procedures.",
+      "incorrectChoiceExplanations": {
+        "B": "Invisible contamination is not excluded by appearance.",
+        "C": "Storage does not replace decontamination.",
+        "D": "The process concerns equipment after use, not just one component."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "XIV.J. Decontamination"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Decontamination between patients",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Inspection is useful, but visual cleanliness is not the whole requirement.",
+      "whyNotBest": "Invisible contamination is not excluded by appearance.",
+      "keyDistinction": "Equipment must be decontaminated after use to protect patients and crews, following local procedures.",
+      "reviewFocus": "Decontamination between patients",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH08(1).docx",
+          "label": "Chapter 8 outline",
+          "section": "Additional Patient-Moving Equipment · Decontamination between patients"
+        }
+      ]
+    },
+    {
+      "id": "CH08-Q022",
+      "version": 3,
+      "chapter": 8,
+      "topic": "Unresponsive patient positioning",
+      "conceptId": "CH08-C022",
+      "learningObjectiveId": "CH08-LO17",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "An unresponsive patient is breathing adequately and has no suspected spinal, hip, or pelvic injury. Which position best matches transport positioning guidance?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Recovery position"
+        },
+        {
+          "id": "B",
+          "text": "Supine position"
+        },
+        {
+          "id": "C",
+          "text": "Fowler position"
+        },
+        {
+          "id": "D",
+          "text": "Prone position"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "The recovery position is indicated for an unresponsive patient without the specified suspected injuries.",
+      "incorrectChoiceExplanations": {
+        "B": "An unresponsive patient breathing adequately without the stated injuries benefits from side positioning for airway drainage.",
+        "C": "Fowler is generally used for a responsive patient who can maintain the position and benefits from sitting.",
+        "D": "Prone is not the stated recovery-position guidance."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "XV.A.4. Patient Positioning"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Unresponsive patient positioning",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Supine positioning is appropriate for some other conditions, including shock.",
+      "whyNotBest": "An unresponsive patient breathing adequately without the stated injuries benefits from side positioning for airway drainage.",
+      "keyDistinction": "The recovery position is indicated for an unresponsive patient without the specified suspected injuries.",
+      "reviewFocus": "Unresponsive patient positioning",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH08(1).docx",
+          "label": "Chapter 8 outline",
+          "section": "Patient Positioning · Unresponsive patient positioning"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "topic": "Bariatrics definition",
+      "learningObjectiveId": "CH08-LO13",
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "XIII. Bariatrics"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH08(1).docx",
+          "label": "Chapter 8 outline",
+          "section": "XIII. Bariatrics"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "id": "CH08-FB001",
+      "version": 2,
+      "format": "mcq",
+      "questionType": "recall",
+      "question": "The branch of medicine dealing with the causes, prevention, and treatment of obesity is _____.",
+      "conceptId": "CH08-C018",
+      "reviewFocus": "Bariatrics definition",
+      "includeInCourseExam": true,
+      "includeInLearning": false,
+      "sourceQuestionIds": [
+        "CH08-Q018"
+      ],
+      "difficulty": "moderate",
+      "correctAnswer": "A",
+      "explanation": "Bariatrics concerns obesity and associated diseases; geriatrics, spinal protection, and respiratory assessment concern other needs.",
+      "blankMultipleChoice": true,
+      "choices": [
+        {
+          "id": "A",
+          "text": "bariatrics"
+        },
+        {
+          "id": "B",
+          "text": "geriatrics"
+        },
+        {
+          "id": "C",
+          "text": "pediatrics"
+        },
+        {
+          "id": "D",
+          "text": "pharmacology"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "Geriatrics concerns older adults.",
+        "C": "Pediatrics concerns infants and children.",
+        "D": "Pharmacology concerns medications."
+      },
+      "retirementReason": "Duplicate recall of a fact already tested by a retained question."
+    },
+    {
+      "chapter": 8,
+      "topic": "Pregnancy with supine hypotension",
+      "learningObjectiveId": "CH08-LO17",
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "XV.A.3. Patient Positioning"
+        },
+        {
+          "sourceId": "transcript",
+          "locator": "Late-pregnancy positioning · reducing pressure on major vessels"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH08(1).docx",
+          "label": "Chapter 8 outline",
+          "section": "Patient Positioning · Pregnancy with supine hypotension"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "id": "CH08-FB002",
+      "version": 2,
+      "format": "mcq",
+      "questionType": "recall",
+      "question": "For a pregnant patient who becomes hypotensive while supine, the recommended position is _____.",
+      "conceptId": "CH08-C025",
+      "reviewFocus": "Pregnancy with supine hypotension",
+      "includeInCourseExam": true,
+      "includeInLearning": false,
+      "sourceQuestionIds": [
+        "CH08-Q025"
+      ],
+      "difficulty": "moderate",
+      "correctAnswer": "A",
+      "explanation": "Late-pregnancy patients who are hypotensive or uncomfortable supine should be positioned and transported on the left side.",
+      "blankMultipleChoice": true,
+      "choices": [
+        {
+          "id": "A",
+          "text": "left lateral"
+        },
+        {
+          "id": "B",
+          "text": "right lateral"
+        },
+        {
+          "id": "C",
+          "text": "supine"
+        },
+        {
+          "id": "D",
+          "text": "prone"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "The supplied positioning guidance specifies the left side.",
+        "C": "Remaining supine does not relieve the uterine pressure described.",
+        "D": "Prone positioning is not the indicated change."
+      },
+      "retirementReason": "Duplicate recall of a fact already tested by a retained question."
+    },
+    {
+      "id": "CH08-Q012",
+      "version": 1,
+      "chapter": 8,
+      "topic": "Emergency move priority",
+      "conceptId": "CH08-C012",
+      "learningObjectiveId": "CH08-LO09",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "Smoke and flames are advancing toward a trapped patient, and the crew cannot protect the patient at the current location. What takes priority?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Move the patient to safety promptly while minimizing avoidable spinal movement"
+        },
+        {
+          "id": "B",
+          "text": "Complete the primary assessment and all indicated spinal packaging before moving"
+        },
+        {
+          "id": "C",
+          "text": "Wait for a full nonurgent lift plan despite the advancing hazard"
+        },
+        {
+          "id": "D",
+          "text": "Use the mechanism of injury alone to decide whether the hazard matters"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "An immediate threat that cannot be controlled justifies an emergency move before assessment and care at the unsafe location.",
+      "incorrectChoiceExplanations": {
+        "B": "Delaying for complete assessment and packaging prolongs exposure to the hazard.",
+        "C": "Nonurgent planning does not fit advancing fire.",
+        "D": "The direct scene threat itself requires action."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "IX.A–C. Emergency Moves"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Emergency move priority",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Assessment and spinal protection matter, but the scene threat changes the timing.",
+      "whyNotBest": "Delaying for complete assessment and packaging prolongs exposure to the hazard.",
+      "keyDistinction": "An immediate threat that cannot be controlled justifies an emergency move before assessment and care at the unsafe location.",
+      "reviewFocus": "Emergency move priority",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH08(1).docx",
+          "label": "Chapter 8 outline",
+          "section": "Emergency Moves · Emergency move priority"
+        }
+      ]
     }
   ],
-  "auditDate": "2026-10-08"
+  "auditDate": "2026-10-08",
+  "reviewStatus": "Question-quality audit completed; course-specific ranges identified; conflicting BLS items withheld."
 }

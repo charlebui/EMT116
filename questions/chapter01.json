@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "bankVersion": "1.1.0",
+  "bankVersion": "1.2.0",
   "chapter": 1,
   "title": "EMS Systems",
-  "updated": "2026-10-08",
-  "reviewStatus": "source-reviewed, not independently verified",
+  "updated": "2026-10-10",
+  "reviewStatus": "Question-quality audit completed; course-specific ranges identified; conflicting BLS items withheld.",
   "defaultFilter": {
     "includeInCourseExam": true
   },
@@ -72,7 +72,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "Course Description \u00b7 Certification and licensure"
+          "section": "Course Description · Certification and licensure"
         }
       ]
     },
@@ -92,13 +92,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "Licensure Requirements \u00b7 ADA course summary"
+          "section": "Licensure Requirements · ADA course summary"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "Licensure Requirements \u00b7 Local requirements"
+          "section": "Licensure Requirements · Local requirements"
         }
       ]
     },
@@ -118,7 +118,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "Overview of the EMS System \u00b7 EMS development milestones"
+          "section": "Overview of the EMS System · EMS development milestones"
         }
       ]
     },
@@ -144,13 +144,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "Levels of Training \u00b7 EMR role and continuity"
+          "section": "Levels of Training · EMR role and continuity"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "Levels of Training \u00b7 Paramedic preparation and scope"
+          "section": "Levels of Training · Paramedic preparation and scope"
         }
       ]
     },
@@ -184,7 +184,7 @@
     },
     {
       "id": "CH01-LO08",
-      "text": "Describe how medical direction of an EMS system works and the EMT\u2019s role in the process.",
+      "text": "Describe how medical direction of an EMS system works and the EMT’s role in the process.",
       "coverageStatus": "sampled",
       "coverageNote": "",
       "reviewReferences": [
@@ -198,7 +198,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "Components of the EMS System \u00b7 Standing orders versus online direction"
+          "section": "Components of the EMS System · Standing orders versus online direction"
         }
       ]
     },
@@ -244,19 +244,19 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "Components of the EMS System \u00b7 Closing CQI loop"
+          "section": "Components of the EMS System · Closing CQI loop"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "VII. Components of the EMS System \u00b7 Continuous quality improvement"
+          "section": "VII. Components of the EMS System · Continuous quality improvement"
         }
       ]
     },
     {
       "id": "CH01-LO11",
-      "text": "Characterize the EMT\u2019s role in disease and injury prevention and public education in the community.",
+      "text": "Characterize the EMT’s role in disease and injury prevention and public education in the community.",
       "coverageStatus": "sampled",
       "coverageNote": "",
       "reviewReferences": [
@@ -270,7 +270,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "VII. Components of the EMS System \u00b7 Prevention and public education"
+          "section": "VII. Components of the EMS System · Prevention and public education"
         }
       ]
     },
@@ -310,7 +310,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "VIII. Roles and Responsibilities of the EMT \u00b7 Professional attributes"
+          "section": "VIII. Roles and Responsibilities of the EMT · Professional attributes"
         }
       ]
     },
@@ -324,7 +324,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "Roles and Responsibilities of the EMT \u00b7 Patient privacy"
+          "section": "Roles and Responsibilities of the EMT · Patient privacy"
         }
       ]
     }
@@ -354,7 +354,7 @@
         },
         {
           "id": "D",
-          "text": "The physician\u2019s written standing orders alone"
+          "text": "The physician’s written standing orders alone"
         }
       ],
       "correctAnswer": "A",
@@ -387,7 +387,19 @@
           "section": "V. Overview of the EMS System"
         }
       ],
-      "definitionQuestion": true
+      "definitionQuestion": true,
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "EMS system definition"
+      }
     },
     {
       "id": "CH01-Q002",
@@ -401,19 +413,19 @@
       "choices": [
         {
           "id": "A",
-          "text": "EMR \u2192 EMT \u2192 AEMT \u2192 paramedic"
+          "text": "EMR → EMT → AEMT → paramedic"
         },
         {
           "id": "B",
-          "text": "EMT \u2192 EMR \u2192 AEMT \u2192 paramedic"
+          "text": "EMT → EMR → AEMT → paramedic"
         },
         {
           "id": "C",
-          "text": "EMR \u2192 AEMT \u2192 EMT \u2192 paramedic"
+          "text": "EMR → AEMT → EMT → paramedic"
         },
         {
           "id": "D",
-          "text": "EMR \u2192 EMT \u2192 paramedic \u2192 AEMT"
+          "text": "EMR → EMT → paramedic → AEMT"
         }
       ],
       "correctAnswer": "A",
@@ -445,7 +457,19 @@
           "label": "Chapter 1 slides",
           "section": "EMS Training and Licensure Levels"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "The ordered levels are EMR, EMT, AEMT, and paramedic."
+      }
     },
     {
       "id": "CH01-Q003",
@@ -476,14 +500,14 @@
       ],
       "correctAnswer": "A",
       "explanation": "Certification and state permission to function are separate parts of qualification.",
-      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 9\u201311",
+      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 9–11",
       "verificationStatus": "source-reviewed; not independently verified",
       "contentBasis": "Uploaded course materials only",
       "includeInCourseExam": true,
       "sourceReferences": [
         {
           "sourceId": "slides",
-          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 9\u201311"
+          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 9–11"
         }
       ],
       "incorrectChoiceExplanations": {
@@ -503,7 +527,19 @@
           "label": "Chapter 1 slides",
           "section": "Licensure Requirements"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Certification and state permission to function are separate parts of qualification."
+      }
     },
     {
       "id": "CH01-Q004",
@@ -534,14 +570,14 @@
       ],
       "correctAnswer": "A",
       "explanation": "The White Paper highlighted deficiencies and prompted improvements in modern EMS.",
-      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 12\u201314",
+      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 12–14",
       "verificationStatus": "source-reviewed; not independently verified",
       "contentBasis": "Uploaded course materials only",
       "includeInCourseExam": true,
       "sourceReferences": [
         {
           "sourceId": "slides",
-          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 12\u201314"
+          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 12–14"
         }
       ],
       "incorrectChoiceExplanations": {
@@ -561,7 +597,19 @@
           "label": "Chapter 1 slides",
           "section": "History of EMS"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "The White Paper highlighted deficiencies and prompted improvements in modern EMS."
+      }
     },
     {
       "id": "CH01-Q005",
@@ -620,37 +668,49 @@
           "label": "Chapter 1 slides",
           "section": "Emergency Medical Technicians"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Basic airway adjuncts are included in EMT care in the provider-level overview."
+      }
     },
     {
       "id": "CH01-Q006",
-      "version": 2,
+      "version": 3,
       "chapter": 1,
       "topic": "Other responders",
       "learningObjectiveId": "CH01-LO06",
       "questionType": "best_answer",
       "difficulty": "hard",
-      "question": "On a safe scene, a first-aid-trained bystander offers to help. The EMT has not established what the bystander can safely do. What should happen before assigning a patient-care task?",
+      "question": "At a safe scene, a first-aid-trained bystander offers to help. Before assigning them a patient-care task, what should the EMT establish?",
       "choices": [
         {
           "id": "A",
-          "text": "Clarify their abilities and give a specific task appropriate to those abilities"
+          "text": "Whether the bystander can perform that task safely"
         },
         {
           "id": "B",
-          "text": "Assign the task first, then supervise and correct any technique problems"
+          "text": "Whether the task will shorten the time on scene"
         },
         {
           "id": "C",
-          "text": "Ask them to choose whichever task seems most urgent"
+          "text": "Whether the patient prefers a bystander to perform the task"
         },
         {
           "id": "D",
-          "text": "Use their willingness to help as evidence that they can perform the task"
+          "text": "Whether another bystander has performed the task before"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Direction should match demonstrated abilities rather than assuming willingness equals preparation.",
+      "explanation": "The task must match this helper’s abilities. Saving time or having patient agreement does not establish the helper’s competence.",
       "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 20, 43",
       "verificationStatus": "source-reviewed; not independently verified",
       "contentBasis": "Uploaded course materials only",
@@ -662,18 +722,18 @@
         }
       ],
       "incorrectChoiceExplanations": {
-        "B": "Supervision is valuable but does not replace checking suitability before assigning care.",
-        "C": "The EMT should coordinate roles rather than delegate task selection without knowing abilities.",
-        "D": "Good intentions do not establish competence."
+        "B": "Efficiency matters after a safe task assignment has been established.",
+        "C": "Patient preference does not establish the helper’s ability.",
+        "D": "Another person’s experience does not establish this helper’s ability."
       },
       "conceptId": "other_responders",
       "yield": "high",
       "yieldBasis": "Inferred study priority, not an official exam blueprint",
-      "diagnosticIntent": "Direction should match demonstrated abilities rather than assuming willingness equals preparation.",
+      "diagnosticIntent": "Match a helper’s task to their demonstrated ability.",
       "secondMostPlausibleAnswer": "B",
-      "whyTempting": "This alternative addresses part of the situation.",
-      "whyNotBest": "Supervision is valuable but does not replace checking suitability before assigning care.",
-      "keyDistinction": "Direction should match demonstrated abilities rather than assuming willingness equals preparation.",
+      "whyTempting": "A helper may reduce delays, but efficiency depends on a safe assignment.",
+      "whyNotBest": "Efficiency matters after a safe task assignment has been established.",
+      "keyDistinction": "The task must match this helper’s abilities. Saving time or having patient agreement does not establish the helper’s competence.",
       "reviewFocus": "Other responders",
       "reviewReferences": [
         {
@@ -682,7 +742,19 @@
           "label": "Chapter 1 slides",
           "section": "Emergency Medical Responder (EMR)"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Match a helper’s task to their demonstrated ability."
+      }
     },
     {
       "id": "CH01-Q007",
@@ -741,7 +813,19 @@
           "label": "Chapter 1 slides",
           "section": "Components of the EMS System"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "People-centered care includes accessible, coordinated, preventive, evidence-based services."
+      }
     },
     {
       "id": "CH01-Q008",
@@ -772,14 +856,14 @@
       ],
       "correctAnswer": "A",
       "explanation": "Live physician instructions by radio or phone are online/direct control.",
-      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 28\u201329",
+      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 28–29",
       "verificationStatus": "source-reviewed; not independently verified",
       "contentBasis": "Uploaded course materials only",
       "includeInCourseExam": true,
       "sourceReferences": [
         {
           "sourceId": "slides",
-          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 28\u201329"
+          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 28–29"
         }
       ],
       "incorrectChoiceExplanations": {
@@ -799,7 +883,19 @@
           "label": "Chapter 1 slides",
           "section": "Medical Direction"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Live physician instructions by radio or phone are online/direct control."
+      }
     },
     {
       "id": "CH01-Q009",
@@ -830,14 +926,14 @@
       ],
       "correctAnswer": "A",
       "explanation": "MIH is a community care-delivery approach; community paramedicine is an associated specially prepared role.",
-      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 32\u201333",
+      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 32–33",
       "verificationStatus": "source-reviewed; not independently verified",
       "contentBasis": "Uploaded course materials only",
       "includeInCourseExam": true,
       "sourceReferences": [
         {
           "sourceId": "slides",
-          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 32\u201333"
+          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 32–33"
         }
       ],
       "incorrectChoiceExplanations": {
@@ -857,7 +953,19 @@
           "label": "Chapter 1 slides",
           "section": "Mobile Integrated Health Care"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "MIH is a community care-delivery approach; community paramedicine is an associated specially prepared role."
+      }
     },
     {
       "id": "CH01-Q010",
@@ -915,7 +1023,19 @@
           "label": "Chapter 1 slides",
           "section": "Continuous Quality Improvement (CQI)"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "CQI evaluates the system and uses findings to improve care."
+      }
     },
     {
       "id": "CH01-Q011",
@@ -957,7 +1077,7 @@
         },
         {
           "sourceId": "outline",
-          "locator": "VII.N. Prevention and public education \u00b7 Primary and secondary prevention"
+          "locator": "VII.N. Prevention and public education · Primary and secondary prevention"
         }
       ],
       "incorrectChoiceExplanations": {
@@ -977,37 +1097,49 @@
           "label": "Chapter 1 slides",
           "section": "Prevention and Public Education"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Impaired-driving prevention targets the initiating event."
+      }
     },
     {
       "id": "CH01-Q012",
-      "version": 2,
+      "version": 3,
       "chapter": 1,
       "topic": "Equipment readiness",
       "learningObjectiveId": "CH01-LO12",
       "questionType": "best_answer",
       "difficulty": "hard",
-      "question": "A required piece of equipment fails the pre-shift check. Which action best fulfills the EMT\u2019s readiness responsibility?",
+      "question": "A required airway device fails the pre-shift check. A replacement is available at the station. What best completes the EMT’s readiness responsibility?",
       "choices": [
         {
           "id": "A",
-          "text": "Report and resolve the fault through the readiness process before relying on that equipment"
+          "text": "Replace it, verify the replacement, and report the fault"
         },
         {
           "id": "B",
-          "text": "Document the fault and leave replacement to the next shift"
+          "text": "Record the fault and rely on the spare during the next call"
         },
         {
           "id": "C",
-          "text": "Carry the faulty device as a backup because another unit may be available"
+          "text": "Report the fault and leave replacement to the next shift"
         },
         {
           "id": "D",
-          "text": "Check it again only if a call requires its use"
+          "text": "Repeat the check after the ambulance is dispatched"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Readiness requires acting on a known fault rather than merely recording or postponing it.",
+      "explanation": "Readiness requires usable, checked equipment before it is needed. Reporting the fault supports follow-up but does not itself restore readiness.",
       "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 43",
       "verificationStatus": "source-reviewed; not independently verified",
       "contentBasis": "Uploaded course materials only",
@@ -1019,18 +1151,18 @@
         }
       ],
       "incorrectChoiceExplanations": {
-        "B": "Documentation matters, but unresolved equipment is not made ready by the entry.",
-        "C": "Possible availability elsewhere does not establish the faulty device\u2019s readiness.",
-        "D": "Discovering a known fault again during care risks preventable delay."
+        "B": "A spare helps only after its suitability and function have been checked.",
+        "C": "Reporting is appropriate, but an available replacement should be addressed before the next call.",
+        "D": "Waiting until dispatch creates an avoidable delay."
       },
       "conceptId": "equipment_readiness",
       "yield": "high",
       "yieldBasis": "Inferred study priority, not an official exam blueprint",
-      "diagnosticIntent": "Readiness requires acting on a known fault rather than merely recording or postponing it.",
+      "diagnosticIntent": "Complete equipment readiness rather than stopping at documentation.",
       "secondMostPlausibleAnswer": "B",
-      "whyTempting": "This alternative addresses part of the situation.",
-      "whyNotBest": "Documentation matters, but unresolved equipment is not made ready by the entry.",
-      "keyDistinction": "Readiness requires acting on a known fault rather than merely recording or postponing it.",
+      "whyTempting": "Recording the fault and carrying a spare address part of the problem.",
+      "whyNotBest": "A spare helps only after its suitability and function have been checked.",
+      "keyDistinction": "Readiness requires usable, checked equipment before it is needed. Reporting the fault supports follow-up but does not itself restore readiness.",
       "reviewFocus": "Equipment readiness",
       "reviewReferences": [
         {
@@ -1039,60 +1171,72 @@
           "label": "Chapter 1 slides",
           "section": "Roles and Responsibilities of the EMT"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Complete equipment readiness rather than stopping at documentation."
+      }
     },
     {
       "id": "CH01-Q013",
-      "version": 2,
+      "version": 3,
       "chapter": 1,
       "topic": "Professionalism",
       "learningObjectiveId": "CH01-LO13",
       "questionType": "best_answer",
       "difficulty": "hard",
-      "question": "A frightened patient is rude but poses no safety threat. Which response best supports professional communication?",
+      "question": "A frightened patient speaks angrily but remains cooperative and poses no safety threat. Which response best supports the assessment?",
       "choices": [
         {
           "id": "A",
-          "text": "Acknowledge the fear, remain respectful, and explain the next steps"
+          "text": "Acknowledge the fear and explain the next assessment step"
         },
         {
           "id": "B",
-          "text": "Focus on the assessment without discussing feelings so transport is not delayed"
+          "text": "Use brief clinical questions and leave the emotional concerns for the hospital"
         },
         {
           "id": "C",
-          "text": "Promise that the patient will recover to reduce anxiety"
+          "text": "Ask a relative to answer so the patient can stop talking"
         },
         {
           "id": "D",
-          "text": "Explain that cooperation must improve before the crew can continue care"
+          "text": "Explain the likely diagnosis before asking about the patient’s concerns"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Respectful acknowledgment and clear information support cooperation without misleading the patient.",
-      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 44\u201345; course quiz Q14",
+      "explanation": "Acknowledging fear and explaining what happens next can support cooperation without making an unsupported diagnosis or bypassing the patient.",
+      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 44–45; course quiz Q14",
       "verificationStatus": "source-reviewed; not independently verified",
       "contentBasis": "Uploaded course materials only",
       "includeInCourseExam": true,
       "sourceReferences": [
         {
           "sourceId": "slides",
-          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 44\u201345; course quiz Q14"
+          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 44–45; course quiz Q14"
         }
       ],
       "incorrectChoiceExplanations": {
-        "B": "Assessment remains important, but ignoring distress can undermine communication.",
-        "C": "An unsupported outcome guarantee is not honest reassurance.",
-        "D": "Care should not be made conditional on politeness when no safety threat is present."
+        "B": "Clinical questions are needed, but acknowledging distress can improve communication now.",
+        "C": "Collateral information may help, but this cooperative patient can still provide their own history.",
+        "D": "An initial impression is not a confirmed diagnosis; first hear the patient’s concern."
       },
       "conceptId": "professionalism",
       "yield": "high",
       "yieldBasis": "Inferred study priority, not an official exam blueprint",
-      "diagnosticIntent": "Respectful acknowledgment and clear information support cooperation without misleading the patient.",
+      "diagnosticIntent": "Use honest reassurance to support patient communication.",
       "secondMostPlausibleAnswer": "B",
-      "whyTempting": "This alternative addresses part of the situation.",
-      "whyNotBest": "Assessment remains important, but ignoring distress can undermine communication.",
-      "keyDistinction": "Respectful acknowledgment and clear information support cooperation without misleading the patient.",
+      "whyTempting": "Focused questions can keep care moving, but emotional distress also affects cooperation.",
+      "whyNotBest": "Clinical questions are needed, but acknowledging distress can improve communication now.",
+      "keyDistinction": "Acknowledging fear and explaining what happens next can support cooperation without making an unsupported diagnosis or bypassing the patient.",
       "reviewFocus": "Professionalism",
       "reviewReferences": [
         {
@@ -1101,7 +1245,19 @@
           "label": "Chapter 1 slides",
           "section": "Roles and Responsibilities of the EMT"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Use honest reassurance to support patient communication."
+      }
     },
     {
       "id": "CH01-Q014",
@@ -1111,11 +1267,11 @@
       "learningObjectiveId": "CH01-LO14",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "Which disclosure best fits the EMT\u2019s patient-confidentiality responsibility?",
+      "question": "Which disclosure best fits the EMT’s patient-confidentiality responsibility?",
       "choices": [
         {
           "id": "A",
-          "text": "Relevant findings to the clinician accepting the patient\u2019s care"
+          "text": "Relevant findings to the clinician accepting the patient’s care"
         },
         {
           "id": "B",
@@ -1139,7 +1295,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VIII.E\u2013F. Patient confidentiality and HIPAA"
+          "locator": "VIII.E–F. Patient confidentiality and HIPAA"
         }
       ],
       "incorrectChoiceExplanations": {
@@ -1158,9 +1314,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "Roles and Responsibilities of the EMT \u00b7 Patient privacy"
+          "section": "Roles and Responsibilities of the EMT · Patient privacy"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "The Chapter 1 outline permits relevant communication with those treating the patient."
+      }
     },
     {
       "id": "CH01-Q016",
@@ -1174,19 +1342,19 @@
       "choices": [
         {
           "id": "A",
-          "text": "Plan \u2192 do \u2192 study \u2192 act"
+          "text": "Plan → do → study → act"
         },
         {
           "id": "B",
-          "text": "Plan \u2192 study \u2192 do \u2192 act"
+          "text": "Plan → study → do → act"
         },
         {
           "id": "C",
-          "text": "Plan \u2192 do \u2192 act \u2192 study"
+          "text": "Plan → do → act → study"
         },
         {
           "id": "D",
-          "text": "Do \u2192 plan \u2192 study \u2192 act"
+          "text": "Do → plan → study → act"
         }
       ],
       "correctAnswer": "A",
@@ -1218,7 +1386,19 @@
           "label": "Chapter 1 slides",
           "section": "Continuous Quality Improvement (CQI)"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "The cycle tests a planned change, studies the result, and then acts on the findings."
+      }
     },
     {
       "id": "CH01-Q017",
@@ -1276,7 +1456,19 @@
           "label": "Chapter 1 slides",
           "section": "Patient Safety"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "The underlying problem is missing information needed for the decision."
+      }
     },
     {
       "id": "CH01-Q018",
@@ -1334,7 +1526,19 @@
           "label": "Chapter 1 slides",
           "section": "Patient Safety"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "The provider fails to follow a known requirement."
+      }
     },
     {
       "id": "CH01-Q019",
@@ -1392,7 +1596,19 @@
           "label": "Chapter 1 slides",
           "section": "Patient Safety"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "The error is execution of a known routine task."
+      }
     },
     {
       "id": "CH01-Q021",
@@ -1451,37 +1667,49 @@
           "label": "Chapter 1 slides",
           "section": "Advanced Emergency Medical Technician"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "The course distinguishes limited AEMT ALS from basic EMT care and extensive paramedic ALS."
+      }
     },
     {
       "id": "CH01-Q022",
-      "version": 2,
+      "version": 3,
       "chapter": 1,
       "topic": "Continuity of care",
       "learningObjectiveId": "CH01-LO12",
       "questionType": "best_answer",
       "difficulty": "hard",
-      "question": "The receiving team asks what has changed during transport. What information best maintains continuity of care?",
+      "question": "During transport, a patient’s blood pressure fell and mental status worsened before improving after an intervention. What handoff best preserves continuity of care?",
       "choices": [
         {
           "id": "A",
-          "text": "The initial findings, subsequent changes, interventions, and responses"
+          "text": "Initial findings, the deterioration, the intervention, and the response"
         },
         {
           "id": "B",
-          "text": "Only the final vital signs because the hospital will perform its own assessment"
+          "text": "The latest vital signs and current mental status"
         },
         {
           "id": "C",
-          "text": "Only the treatments performed because earlier findings are no longer current"
+          "text": "The intervention and the time it was performed"
         },
         {
           "id": "D",
-          "text": "The written report later, without a current clinical handoff"
+          "text": "The original complaint and initial vital signs"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "A clinical handoff should connect the field course and treatments with receiving care.",
+      "explanation": "The receiving team needs the clinical course and response, not just a snapshot or a treatment list.",
       "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 31, 44",
       "verificationStatus": "source-reviewed; not independently verified",
       "contentBasis": "Uploaded course materials only",
@@ -1493,18 +1721,18 @@
         }
       ],
       "incorrectChoiceExplanations": {
-        "B": "Final values alone may obscure trends and important earlier findings.",
-        "C": "Interventions need clinical context and response information.",
-        "D": "A later report does not replace timely communication needed for ongoing care."
+        "B": "Current findings matter but omit the deterioration and treatment response.",
+        "C": "Treatment details need the findings that prompted them and the response.",
+        "D": "Initial findings omit the changes during transport."
       },
       "conceptId": "continuity_of_care",
       "yield": "high",
       "yieldBasis": "Inferred study priority, not an official exam blueprint",
-      "diagnosticIntent": "A clinical handoff should connect the field course and treatments with receiving care.",
+      "diagnosticIntent": "Communicate trends and intervention responses in handoff.",
       "secondMostPlausibleAnswer": "B",
-      "whyTempting": "This alternative addresses part of the situation.",
-      "whyNotBest": "Final values alone may obscure trends and important earlier findings.",
-      "keyDistinction": "A clinical handoff should connect the field course and treatments with receiving care.",
+      "whyTempting": "The latest condition is essential, but does not explain the course of care.",
+      "whyNotBest": "Current findings matter but omit the deterioration and treatment response.",
+      "keyDistinction": "The receiving team needs the clinical course and response, not just a snapshot or a treatment list.",
       "reviewFocus": "Continuity of care",
       "reviewReferences": [
         {
@@ -1513,7 +1741,19 @@
           "label": "Chapter 1 slides",
           "section": "Integration of Health Services"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Communicate trends and intervention responses in handoff."
+      }
     },
     {
       "id": "CH01-Q024",
@@ -1544,14 +1784,14 @@
       ],
       "correctAnswer": "A",
       "explanation": "Just Culture balances fairness, learning, and accountability for behavioral choices.",
-      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 35\u201337",
+      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 35–37",
       "verificationStatus": "source-reviewed; not independently verified",
       "contentBasis": "Uploaded course materials only",
       "includeInCourseExam": true,
       "sourceReferences": [
         {
           "sourceId": "slides",
-          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 35\u201337"
+          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 35–37"
         }
       ],
       "incorrectChoiceExplanations": {
@@ -1572,7 +1812,19 @@
           "label": "Chapter 1 slides",
           "section": "Evaluation"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Just Culture balances fairness, learning, and accountability for behavioral choices."
+      }
     },
     {
       "id": "CH01-Q034",
@@ -1611,7 +1863,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "II.B\u2013C; slides 19"
+          "locator": "II.B–C; slides 19"
         }
       ],
       "verificationStatus": "source-reviewed; not independently verified",
@@ -1628,9 +1880,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "Course Description \u00b7 Certification and licensure"
+          "section": "Course Description · Certification and licensure"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Certification assesses entry competence; licensure is the state process governing permission to function."
+      }
     },
     {
       "id": "CH01-Q036",
@@ -1686,23 +1950,35 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "Licensure Requirements \u00b7 ADA course summary"
+          "section": "Licensure Requirements · ADA course summary"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "The chapter discusses fair employment and possible modifications while retaining the required functions and qualifications."
+      }
     },
     {
       "id": "CH01-Q038",
-      "version": 2,
+      "version": 3,
       "chapter": 1,
       "topic": "Local requirements",
       "learningObjectiveId": "CH01-LO03",
-      "questionType": "best_answer",
+      "questionType": "conceptual",
       "difficulty": "hard",
       "question": "An EMT moves to a new state. What should they establish before practicing there?",
       "choices": [
         {
           "id": "A",
-          "text": "That they meet the destination state\u2019s applicable licensure and practice requirements"
+          "text": "That they meet the destination state’s applicable licensure and practice requirements"
         },
         {
           "id": "B",
@@ -1718,11 +1994,11 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "The destination state\u2019s requirements control permission to practice there.",
+      "explanation": "The destination state’s requirements control permission to practice there.",
       "incorrectChoiceExplanations": {
         "B": "National-level preparation is relevant but does not establish all destination requirements.",
         "C": "Familiar skills do not replace state authorization.",
-        "D": "The former director does not determine the destination state\u2019s permission."
+        "D": "The former director does not determine the destination state’s permission."
       },
       "sourceReferences": [
         {
@@ -1736,20 +2012,28 @@
       "conceptId": "local_requirements",
       "yield": "high",
       "yieldBasis": "Inferred study priority, not an official exam blueprint",
-      "diagnosticIntent": "The destination state\u2019s requirements control permission to practice there.",
-      "secondMostPlausibleAnswer": "B",
-      "whyTempting": "This alternative addresses part of the situation.",
-      "whyNotBest": "National-level preparation is relevant but does not establish all destination requirements.",
-      "keyDistinction": "The destination state\u2019s requirements control permission to practice there.",
+      "diagnosticIntent": "The destination state’s requirements control permission to practice there.",
       "reviewFocus": "Local requirements",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "Licensure Requirements \u00b7 Local requirements"
+          "section": "Licensure Requirements · Local requirements"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "The destination state’s requirements control permission to practice there."
+      }
     },
     {
       "id": "CH01-Q060",
@@ -1804,9 +2088,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "Components of the EMS System \u00b7 Closing CQI loop"
+          "section": "Components of the EMS System · Closing CQI loop"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "PDSA requires using the measured results to decide what to do next."
+      }
     },
     {
       "id": "CH01-Q101",
@@ -1817,7 +2113,7 @@
       "learningObjectiveId": "CH01-LO08",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "An EMT follows a written standing order that authorizes care for the patient\u2019s condition. How does this differ from receiving patient-specific instructions by radio?",
+      "question": "An EMT follows a written standing order that authorizes care for the patient’s condition. How does this differ from receiving patient-specific instructions by radio?",
       "choices": [
         {
           "id": "A",
@@ -1859,9 +2155,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "Components of the EMS System \u00b7 Standing orders versus online direction"
+          "section": "Components of the EMS System · Standing orders versus online direction"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Standing orders versus online direction"
+      }
     },
     {
       "id": "CH01-Q102",
@@ -1884,7 +2192,7 @@
         },
         {
           "id": "C",
-          "text": "Function as the ambulance\u2019s primary transport-care provider solely because the EMR arrived first"
+          "text": "Function as the ambulance’s primary transport-care provider solely because the EMR arrived first"
         },
         {
           "id": "D",
@@ -1914,9 +2222,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "Levels of Training \u00b7 EMR role and continuity"
+          "section": "Levels of Training · EMR role and continuity"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "EMR role and continuity"
+      }
     },
     {
       "id": "CH01-Q103",
@@ -1956,7 +2276,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VI.F\u2013H. EMT, AEMT, and paramedic training"
+          "locator": "VI.F–H. EMT, AEMT, and paramedic training"
         }
       ],
       "verificationStatus": "Reviewed against uploaded class material; not independently verified",
@@ -1969,9 +2289,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "Levels of Training \u00b7 Paramedic preparation and scope"
+          "section": "Levels of Training · Paramedic preparation and scope"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Paramedic preparation and scope"
+      }
     },
     {
       "id": "CH01-Q104",
@@ -2024,9 +2356,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "Overview of the EMS System \u00b7 EMS development milestones"
+          "section": "Overview of the EMS System · EMS development milestones"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "EMS development milestones"
+      }
     },
     {
       "id": "CH01-Q106",
@@ -2066,7 +2410,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VII. Components of the EMS System \u00b7 Continuous quality improvement"
+          "locator": "VII. Components of the EMS System · Continuous quality improvement"
         }
       ],
       "verificationStatus": "Reviewed against uploaded class material; not independently verified",
@@ -2080,9 +2424,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "VII. Components of the EMS System \u00b7 Continuous quality improvement"
+          "section": "VII. Components of the EMS System · Continuous quality improvement"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "CQI definition"
+      }
     },
     {
       "id": "CH01-Q107",
@@ -2093,7 +2449,7 @@
       "learningObjectiveId": "CH01-LO11",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "A crash still occurs, but a properly worn seat belt reduces the occupant\u2019s injuries. Which prevention category describes that protective effect?",
+      "question": "A crash still occurs, but a properly worn seat belt reduces the occupant’s injuries. Which prevention category describes that protective effect?",
       "choices": [
         {
           "id": "A",
@@ -2122,7 +2478,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VII. Components of the EMS System \u00b7 Prevention and public education"
+          "locator": "VII. Components of the EMS System · Prevention and public education"
         }
       ],
       "verificationStatus": "Reviewed against uploaded class material; not independently verified",
@@ -2135,9 +2491,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "VII. Components of the EMS System \u00b7 Prevention and public education"
+          "section": "VII. Components of the EMS System · Prevention and public education"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Secondary prevention"
+      }
     },
     {
       "id": "CH01-Q108",
@@ -2148,7 +2516,7 @@
       "learningObjectiveId": "CH01-LO13",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "An EMT makes a patient\u2019s needs central when coordinating care and communicating concerns to the receiving team. Which professional attribute does this most directly demonstrate?",
+      "question": "An EMT makes a patient’s needs central when coordinating care and communicating concerns to the receiving team. Which professional attribute does this most directly demonstrate?",
       "choices": [
         {
           "id": "A",
@@ -2168,7 +2536,7 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Patient advocacy means keeping the patient\u2019s needs at the center of care.",
+      "explanation": "Patient advocacy means keeping the patient’s needs at the center of care.",
       "incorrectChoiceExplanations": {
         "B": "Confidence supports practice but does not specifically define representing patient needs.",
         "C": "Efficient use of time is a different attribute.",
@@ -2177,7 +2545,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VIII. Roles and Responsibilities of the EMT \u00b7 Professional attributes"
+          "locator": "VIII. Roles and Responsibilities of the EMT · Professional attributes"
         }
       ],
       "verificationStatus": "Reviewed against uploaded class material; not independently verified",
@@ -2190,128 +2558,20 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "VIII. Roles and Responsibilities of the EMT \u00b7 Professional attributes"
-        }
-      ]
-    },
-    {
-      "chapter": 1,
-      "topic": "CQI definition",
-      "learningObjectiveId": "CH01-LO10",
-      "sourceReferences": [
-        {
-          "sourceId": "outline",
-          "locator": "VII. Components of the EMS System \u00b7 Continuous quality improvement"
+          "section": "VIII. Roles and Responsibilities of the EMT · Professional attributes"
         }
       ],
-      "reviewReferences": [
-        {
-          "sourceId": "outline",
-          "filename": "9781284243796_LOUT_CH01(1).docx",
-          "label": "Chapter 1 outline",
-          "section": "VII. Components of the EMS System \u00b7 Continuous quality improvement"
-        }
-      ],
-      "contentBasis": "Uploaded course materials only",
-      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
-      "id": "CH01-FB001",
-      "version": 2,
-      "format": "mcq",
-      "questionType": "recall",
-      "question": "The ongoing process for evaluating and improving EMS care and system performance is called _____.",
-      "conceptId": "CH01-C106",
-      "reviewFocus": "CQI definition",
-      "includeInCourseExam": true,
-      "includeInLearning": false,
-      "sourceQuestionIds": [
-        "CH01-Q106"
-      ],
-      "difficulty": "moderate",
-      "correctAnswer": "A",
-      "explanation": "CQI uses continuing review and improvement to support better care; licensure, medical direction, and initial education have different purposes.",
-      "blankMultipleChoice": true,
-      "choices": [
-        {
-          "id": "A",
-          "text": "continuous quality improvement"
-        },
-        {
-          "id": "B",
-          "text": "medical direction"
-        },
-        {
-          "id": "C",
-          "text": "primary prevention"
-        },
-        {
-          "id": "D",
-          "text": "licensure"
-        }
-      ],
-      "incorrectChoiceExplanations": {
-        "B": "Medical direction authorizes and oversees clinical care.",
-        "C": "Primary prevention aims to prevent illness or injury events.",
-        "D": "Licensure grants permission to practice."
-      }
-    },
-    {
-      "chapter": 1,
-      "topic": "Certification and licensure",
-      "learningObjectiveId": "CH01-LO02",
-      "sourceReferences": [
-        {
-          "sourceId": "outline",
-          "locator": "II.B\u2013C; slides 19"
-        }
-      ],
-      "reviewReferences": [
-        {
-          "sourceId": "outline",
-          "filename": "9781284243796_LOUT_CH01(1).docx",
-          "label": "Chapter 1 outline",
-          "section": "Course Description \u00b7 Certification and licensure"
-        }
-      ],
-      "contentBasis": "Uploaded course materials only",
-      "verificationStatus": "source-reviewed; not independently verified",
-      "id": "CH01-FB002",
-      "version": 2,
-      "format": "mcq",
-      "questionType": "recall",
-      "question": "State permission to practice as an EMT is called _____.",
-      "conceptId": "certification_and_licensure",
-      "reviewFocus": "Certification and licensure",
-      "includeInCourseExam": true,
-      "includeInLearning": false,
-      "sourceQuestionIds": [
-        "CH01-Q034"
-      ],
-      "difficulty": "moderate",
-      "correctAnswer": "A",
-      "explanation": "Certification assesses entry competence; licensure is the state process governing permission to function.",
-      "blankMultipleChoice": true,
-      "choices": [
-        {
-          "id": "A",
-          "text": "licensure"
-        },
-        {
-          "id": "B",
-          "text": "certification"
-        },
-        {
-          "id": "C",
-          "text": "medical direction"
-        },
-        {
-          "id": "D",
-          "text": "accreditation"
-        }
-      ],
-      "incorrectChoiceExplanations": {
-        "B": "Certification assesses competence rather than granting state permission.",
-        "C": "Medical direction governs clinical care and orders.",
-        "D": "Accreditation concerns an organization or educational program rather than individual practice permission."
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Patient advocacy"
       }
     }
   ],
@@ -2454,14 +2714,14 @@
       ],
       "correctAnswer": "B",
       "explanation": "Course completion is one part of the requirements. A, C, and D incorrectly replace other applicable requirements.",
-      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 9\u201311",
+      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 9–11",
       "verificationStatus": "source-reviewed; not independently verified",
       "contentBasis": "uploaded_course_material",
       "includeInCourseExam": true,
       "sourceReferences": [
         {
           "sourceId": "slides",
-          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 9\u201311"
+          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 9–11"
         }
       ],
       "incorrectChoiceExplanations": {
@@ -2502,14 +2762,14 @@
       ],
       "correctAnswer": "C",
       "explanation": "The 1966 report is the listed turning point. Agenda 2050 is much later; the textbook is associated with 1971; the Act with 1973.",
-      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 12\u201314",
+      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 12–14",
       "verificationStatus": "source-reviewed; not independently verified",
       "contentBasis": "uploaded_course_material",
       "includeInCourseExam": true,
       "sourceReferences": [
         {
           "sourceId": "slides",
-          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 12\u201314"
+          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 12–14"
         }
       ],
       "incorrectChoiceExplanations": {
@@ -2700,14 +2960,14 @@
       ],
       "correctAnswer": "A",
       "explanation": "Real-time physician instructions by phone or radio are online/direct control. Off-line control includes standing orders; scheduling is administration; certification assesses competence.",
-      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 28\u201329",
+      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 28–29",
       "verificationStatus": "source-reviewed; not independently verified",
       "contentBasis": "uploaded_course_material",
       "includeInCourseExam": true,
       "sourceReferences": [
         {
           "sourceId": "slides",
-          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 28\u201329"
+          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 28–29"
         }
       ],
       "incorrectChoiceExplanations": {
@@ -2748,14 +3008,14 @@
       ],
       "correctAnswer": "D",
       "explanation": "MIH describes a care delivery approach, and community paramedicine is an associated role with additional training. A narrows MIH incorrectly; B denies the training requirement; C confuses a delivery model with the four provider levels.",
-      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 32\u201333",
+      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 32–33",
       "verificationStatus": "source-reviewed; not independently verified",
       "contentBasis": "uploaded_course_material",
       "includeInCourseExam": true,
       "sourceReferences": [
         {
           "sourceId": "slides",
-          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 32\u201333"
+          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 32–33"
         }
       ],
       "incorrectChoiceExplanations": {
@@ -2944,7 +3204,7 @@
       ],
       "correctAnswer": "D",
       "explanation": "Respectful, compassionate communication supports care. A provides an unsupported guarantee; B and C interfere with care and disregard the patient's distress.",
-      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 44\u201345; course quiz Q14",
+      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 44–45; course quiz Q14",
       "verificationStatus": "source-reviewed; not independently verified",
       "secondMostPlausibleAnswer": "A",
       "whyTempting": "Reassurance can seem compassionate.",
@@ -2955,7 +3215,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides",
-          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 44\u201345; course quiz Q14"
+          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 44–45; course quiz Q14"
         }
       ],
       "incorrectChoiceExplanations": {
@@ -3045,7 +3305,7 @@
       ],
       "correctAnswer": "C",
       "explanation": "The medical director oversees clinical care. Administrative roles handle important operational work but do not replace clinical medical direction.",
-      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 28\u201330",
+      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 28–30",
       "verificationStatus": "source-reviewed; not independently verified",
       "secondMostPlausibleAnswer": "B",
       "whyTempting": "An officer may be available and have authority.",
@@ -3056,7 +3316,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides",
-          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 28\u201330"
+          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 28–30"
         }
       ],
       "incorrectChoiceExplanations": {
@@ -3487,7 +3747,7 @@
       ],
       "correctAnswer": "A",
       "explanation": "Just Culture balances learning, fairness, and accountability for behavioral choices. Blanket punishment misses that balance; eliminating accountability or ignoring near misses defeats learning.",
-      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 35\u201337",
+      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 35–37",
       "verificationStatus": "source-reviewed; not independently verified",
       "secondMostPlausibleAnswer": "B",
       "whyTempting": "Punishment can seem to enforce accountability.",
@@ -3498,7 +3758,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides",
-          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 35\u201337"
+          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 35–37"
         }
       ],
       "incorrectChoiceExplanations": {
@@ -3684,14 +3944,14 @@
       ],
       "correctAnswer": "A",
       "explanation": "Scene evaluation, safety, appropriate resources, access, and assessment are explicit responsibilities. B exposes the crew; C displaces safety and care with administration; D transfers the hazard to an untrained person.",
-      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 43\u201344",
+      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 43–44",
       "verificationStatus": "source-reviewed; not independently verified",
       "contentBasis": "uploaded_course_material",
       "includeInCourseExam": true,
       "sourceReferences": [
         {
           "sourceId": "slides",
-          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 43\u201344"
+          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 43–44"
         }
       ],
       "incorrectChoiceExplanations": {
@@ -3733,14 +3993,14 @@
       ],
       "correctAnswer": "B",
       "explanation": "Standing orders are off-line medical direction; later audit for improvement is CQI. The other pairings misclassify one or both activities.",
-      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 28\u201329, 36",
+      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 28–29, 36",
       "verificationStatus": "source-reviewed; not independently verified",
       "contentBasis": "uploaded_course_material",
       "includeInCourseExam": true,
       "sourceReferences": [
         {
           "sourceId": "slides",
-          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 28\u201329, 36"
+          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 28–29, 36"
         }
       ],
       "incorrectChoiceExplanations": {
@@ -3936,7 +4196,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VI.E\u2013H; slides 18"
+          "locator": "VI.E–H; slides 18"
         }
       ],
       "verificationStatus": "source-reviewed; not independently verified",
@@ -3984,7 +4244,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "II.B\u2013C; slides 19"
+          "locator": "II.B–C; slides 19"
         }
       ],
       "verificationStatus": "source-reviewed; not independently verified",
@@ -4128,7 +4388,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "IV.A.2\u20133, IV.C"
+          "locator": "IV.A.2–3, IV.C"
         }
       ],
       "verificationStatus": "source-reviewed; not independently verified",
@@ -4658,7 +4918,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VI.A\u2013C; VI.F\u2013H"
+          "locator": "VI.A–C; VI.F–H"
         }
       ],
       "verificationStatus": "source-reviewed; not independently verified",
@@ -4855,7 +5115,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VII.D.3\u20134"
+          "locator": "VII.D.3–4"
         }
       ],
       "verificationStatus": "source-reviewed; not independently verified",
@@ -4903,7 +5163,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VI.A\u2013C"
+          "locator": "VI.A–C"
         }
       ],
       "verificationStatus": "source-reviewed; not independently verified",
@@ -4997,7 +5257,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VII.D\u2013E"
+          "locator": "VII.D–E"
         }
       ],
       "verificationStatus": "source-reviewed; not independently verified",
@@ -5048,7 +5308,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VII.G.1\u20133"
+          "locator": "VII.G.1–3"
         }
       ],
       "verificationStatus": "source-reviewed; not independently verified",
@@ -6476,7 +6736,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VIII.E\u2013F"
+          "locator": "VIII.E–F"
         }
       ],
       "verificationStatus": "source-reviewed; not independently verified",
@@ -6498,7 +6758,7 @@
       "learningObjectiveId": "CH01-LO14",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "Which statement correctly describes an EMT\u2019s confidentiality responsibilities?",
+      "question": "Which statement correctly describes an EMT’s confidentiality responsibilities?",
       "choices": [
         {
           "id": "A",
@@ -6718,7 +6978,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VIII.B.16\u201318"
+          "locator": "VIII.B.16–18"
         }
       ],
       "verificationStatus": "source-reviewed; not independently verified",
@@ -6765,7 +7025,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VIII.C.5,7\u20138"
+          "locator": "VIII.C.5,7–8"
         }
       ],
       "verificationStatus": "source-reviewed; not independently verified",
@@ -7190,11 +7450,11 @@
       "learningObjectiveId": "CH01-LO14",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "Which disclosure best fits the EMT\u2019s patient-confidentiality responsibility?",
+      "question": "Which disclosure best fits the EMT’s patient-confidentiality responsibility?",
       "choices": [
         {
           "id": "A",
-          "text": "Relevant findings to the clinician accepting the patient\u2019s care"
+          "text": "Relevant findings to the clinician accepting the patient’s care"
         },
         {
           "id": "B",
@@ -7320,14 +7580,14 @@
       "correctAnswer": "A",
       "explanation": "Certification assesses entry competence; licensure is the state process governing permission to function.",
       "incorrectChoiceExplanations": {
-        "B": "Certification does not automatically confer every state\u2019s practice permission.",
+        "B": "Certification does not automatically confer every state’s practice permission.",
         "C": "Attendance and employment guarantees do not define these processes.",
         "D": "Clinical protocols and equipment approval are different functions."
       },
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "II.B\u2013C; slides 19"
+          "locator": "II.B–C; slides 19"
         }
       ],
       "verificationStatus": "source-reviewed; not independently verified",
@@ -7344,7 +7604,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "Course Description \u00b7 Certification and licensure"
+          "section": "Course Description · Certification and licensure"
         }
       ]
     },
@@ -7399,7 +7659,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "Overview of the EMS System \u00b7 EMS development milestones"
+          "section": "Overview of the EMS System · EMS development milestones"
         }
       ]
     },
@@ -7418,7 +7678,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "Components of the EMS System \u00b7 Standing orders versus online direction"
+          "section": "Components of the EMS System · Standing orders versus online direction"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -7454,11 +7714,11 @@
         },
         {
           "sourceId": "outline",
-          "locator": "VII.N. Prevention and public education \u00b7 Primary and secondary prevention"
+          "locator": "VII.N. Prevention and public education · Primary and secondary prevention"
         },
         {
           "sourceId": "outline",
-          "locator": "VII. Components of the EMS System \u00b7 Prevention and public education"
+          "locator": "VII. Components of the EMS System · Prevention and public education"
         }
       ],
       "reviewReferences": [
@@ -7472,7 +7732,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "VII. Components of the EMS System \u00b7 Prevention and public education"
+          "section": "VII. Components of the EMS System · Prevention and public education"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -7505,7 +7765,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VII. Components of the EMS System \u00b7 Continuous quality improvement"
+          "locator": "VII. Components of the EMS System · Continuous quality improvement"
         }
       ],
       "reviewReferences": [
@@ -7513,7 +7773,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "VII. Components of the EMS System \u00b7 Continuous quality improvement"
+          "section": "VII. Components of the EMS System · Continuous quality improvement"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -7545,7 +7805,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "II.B\u2013C; slides 19"
+          "locator": "II.B–C; slides 19"
         }
       ],
       "reviewReferences": [
@@ -7553,7 +7813,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH01(1).docx",
           "label": "Chapter 1 outline",
-          "section": "Course Description \u00b7 Certification and licensure"
+          "section": "Course Description · Certification and licensure"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -7579,6 +7839,437 @@
         "license"
       ],
       "explanation": "Certification assesses entry competence; licensure is the state process governing permission to function."
+    },
+    {
+      "id": "CH01-Q006",
+      "version": 2,
+      "chapter": 1,
+      "topic": "Other responders",
+      "learningObjectiveId": "CH01-LO06",
+      "questionType": "best_answer",
+      "difficulty": "hard",
+      "question": "On a safe scene, a first-aid-trained bystander offers to help. The EMT has not established what the bystander can safely do. What should happen before assigning a patient-care task?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Clarify their abilities and give a specific task appropriate to those abilities"
+        },
+        {
+          "id": "B",
+          "text": "Assign the task first, then supervise and correct any technique problems"
+        },
+        {
+          "id": "C",
+          "text": "Ask them to choose whichever task seems most urgent"
+        },
+        {
+          "id": "D",
+          "text": "Use their willingness to help as evidence that they can perform the task"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Direction should match demonstrated abilities rather than assuming willingness equals preparation.",
+      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 20, 43",
+      "verificationStatus": "source-reviewed; not independently verified",
+      "contentBasis": "Uploaded course materials only",
+      "includeInCourseExam": true,
+      "sourceReferences": [
+        {
+          "sourceId": "slides",
+          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 20, 43"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "Supervision is valuable but does not replace checking suitability before assigning care.",
+        "C": "The EMT should coordinate roles rather than delegate task selection without knowing abilities.",
+        "D": "Good intentions do not establish competence."
+      },
+      "conceptId": "other_responders",
+      "yield": "high",
+      "yieldBasis": "Inferred study priority, not an official exam blueprint",
+      "diagnosticIntent": "Direction should match demonstrated abilities rather than assuming willingness equals preparation.",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "This alternative addresses part of the situation.",
+      "whyNotBest": "Supervision is valuable but does not replace checking suitability before assigning care.",
+      "keyDistinction": "Direction should match demonstrated abilities rather than assuming willingness equals preparation.",
+      "reviewFocus": "Other responders",
+      "reviewReferences": [
+        {
+          "sourceId": "slides",
+          "filename": "Lecture Slides- EMS Systems.pdf",
+          "label": "Chapter 1 slides",
+          "section": "Emergency Medical Responder (EMR)"
+        }
+      ]
+    },
+    {
+      "id": "CH01-Q012",
+      "version": 2,
+      "chapter": 1,
+      "topic": "Equipment readiness",
+      "learningObjectiveId": "CH01-LO12",
+      "questionType": "best_answer",
+      "difficulty": "hard",
+      "question": "A required piece of equipment fails the pre-shift check. Which action best fulfills the EMT’s readiness responsibility?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Report and resolve the fault through the readiness process before relying on that equipment"
+        },
+        {
+          "id": "B",
+          "text": "Document the fault and leave replacement to the next shift"
+        },
+        {
+          "id": "C",
+          "text": "Carry the faulty device as a backup because another unit may be available"
+        },
+        {
+          "id": "D",
+          "text": "Check it again only if a call requires its use"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Readiness requires acting on a known fault rather than merely recording or postponing it.",
+      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 43",
+      "verificationStatus": "source-reviewed; not independently verified",
+      "contentBasis": "Uploaded course materials only",
+      "includeInCourseExam": true,
+      "sourceReferences": [
+        {
+          "sourceId": "slides",
+          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 43"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "Documentation matters, but unresolved equipment is not made ready by the entry.",
+        "C": "Possible availability elsewhere does not establish the faulty device’s readiness.",
+        "D": "Discovering a known fault again during care risks preventable delay."
+      },
+      "conceptId": "equipment_readiness",
+      "yield": "high",
+      "yieldBasis": "Inferred study priority, not an official exam blueprint",
+      "diagnosticIntent": "Readiness requires acting on a known fault rather than merely recording or postponing it.",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "This alternative addresses part of the situation.",
+      "whyNotBest": "Documentation matters, but unresolved equipment is not made ready by the entry.",
+      "keyDistinction": "Readiness requires acting on a known fault rather than merely recording or postponing it.",
+      "reviewFocus": "Equipment readiness",
+      "reviewReferences": [
+        {
+          "sourceId": "slides",
+          "filename": "Lecture Slides- EMS Systems.pdf",
+          "label": "Chapter 1 slides",
+          "section": "Roles and Responsibilities of the EMT"
+        }
+      ]
+    },
+    {
+      "id": "CH01-Q013",
+      "version": 2,
+      "chapter": 1,
+      "topic": "Professionalism",
+      "learningObjectiveId": "CH01-LO13",
+      "questionType": "best_answer",
+      "difficulty": "hard",
+      "question": "A frightened patient is rude but poses no safety threat. Which response best supports professional communication?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Acknowledge the fear, remain respectful, and explain the next steps"
+        },
+        {
+          "id": "B",
+          "text": "Focus on the assessment without discussing feelings so transport is not delayed"
+        },
+        {
+          "id": "C",
+          "text": "Promise that the patient will recover to reduce anxiety"
+        },
+        {
+          "id": "D",
+          "text": "Explain that cooperation must improve before the crew can continue care"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Respectful acknowledgment and clear information support cooperation without misleading the patient.",
+      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 44–45; course quiz Q14",
+      "verificationStatus": "source-reviewed; not independently verified",
+      "contentBasis": "Uploaded course materials only",
+      "includeInCourseExam": true,
+      "sourceReferences": [
+        {
+          "sourceId": "slides",
+          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 44–45; course quiz Q14"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "Assessment remains important, but ignoring distress can undermine communication.",
+        "C": "An unsupported outcome guarantee is not honest reassurance.",
+        "D": "Care should not be made conditional on politeness when no safety threat is present."
+      },
+      "conceptId": "professionalism",
+      "yield": "high",
+      "yieldBasis": "Inferred study priority, not an official exam blueprint",
+      "diagnosticIntent": "Respectful acknowledgment and clear information support cooperation without misleading the patient.",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "This alternative addresses part of the situation.",
+      "whyNotBest": "Assessment remains important, but ignoring distress can undermine communication.",
+      "keyDistinction": "Respectful acknowledgment and clear information support cooperation without misleading the patient.",
+      "reviewFocus": "Professionalism",
+      "reviewReferences": [
+        {
+          "sourceId": "slides",
+          "filename": "Lecture Slides- EMS Systems.pdf",
+          "label": "Chapter 1 slides",
+          "section": "Roles and Responsibilities of the EMT"
+        }
+      ]
+    },
+    {
+      "id": "CH01-Q022",
+      "version": 2,
+      "chapter": 1,
+      "topic": "Continuity of care",
+      "learningObjectiveId": "CH01-LO12",
+      "questionType": "best_answer",
+      "difficulty": "hard",
+      "question": "The receiving team asks what has changed during transport. What information best maintains continuity of care?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The initial findings, subsequent changes, interventions, and responses"
+        },
+        {
+          "id": "B",
+          "text": "Only the final vital signs because the hospital will perform its own assessment"
+        },
+        {
+          "id": "C",
+          "text": "Only the treatments performed because earlier findings are no longer current"
+        },
+        {
+          "id": "D",
+          "text": "The written report later, without a current clinical handoff"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "A clinical handoff should connect the field course and treatments with receiving care.",
+      "sourceReference": "Lecture Slides- EMS Systems.pdf, PDF pages 31, 44",
+      "verificationStatus": "source-reviewed; not independently verified",
+      "contentBasis": "Uploaded course materials only",
+      "includeInCourseExam": true,
+      "sourceReferences": [
+        {
+          "sourceId": "slides",
+          "locator": "Lecture Slides- EMS Systems.pdf, PDF pages 31, 44"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "Final values alone may obscure trends and important earlier findings.",
+        "C": "Interventions need clinical context and response information.",
+        "D": "A later report does not replace timely communication needed for ongoing care."
+      },
+      "conceptId": "continuity_of_care",
+      "yield": "high",
+      "yieldBasis": "Inferred study priority, not an official exam blueprint",
+      "diagnosticIntent": "A clinical handoff should connect the field course and treatments with receiving care.",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "This alternative addresses part of the situation.",
+      "whyNotBest": "Final values alone may obscure trends and important earlier findings.",
+      "keyDistinction": "A clinical handoff should connect the field course and treatments with receiving care.",
+      "reviewFocus": "Continuity of care",
+      "reviewReferences": [
+        {
+          "sourceId": "slides",
+          "filename": "Lecture Slides- EMS Systems.pdf",
+          "label": "Chapter 1 slides",
+          "section": "Integration of Health Services"
+        }
+      ]
+    },
+    {
+      "id": "CH01-Q038",
+      "version": 2,
+      "chapter": 1,
+      "topic": "Local requirements",
+      "learningObjectiveId": "CH01-LO03",
+      "questionType": "best_answer",
+      "difficulty": "hard",
+      "question": "An EMT moves to a new state. What should they establish before practicing there?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "That they meet the destination state’s applicable licensure and practice requirements"
+        },
+        {
+          "id": "B",
+          "text": "That their existing certification covers the same national provider level"
+        },
+        {
+          "id": "C",
+          "text": "That the new employer uses skills familiar from the old service"
+        },
+        {
+          "id": "D",
+          "text": "That their former medical director approves the move"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "The destination state’s requirements control permission to practice there.",
+      "incorrectChoiceExplanations": {
+        "B": "National-level preparation is relevant but does not establish all destination requirements.",
+        "C": "Familiar skills do not replace state authorization.",
+        "D": "The former director does not determine the destination state’s permission."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "IV.A.10; Enhancements content connections"
+        }
+      ],
+      "verificationStatus": "source-reviewed; not independently verified",
+      "contentBasis": "Uploaded course materials only",
+      "includeInCourseExam": true,
+      "conceptId": "local_requirements",
+      "yield": "high",
+      "yieldBasis": "Inferred study priority, not an official exam blueprint",
+      "diagnosticIntent": "The destination state’s requirements control permission to practice there.",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "This alternative addresses part of the situation.",
+      "whyNotBest": "National-level preparation is relevant but does not establish all destination requirements.",
+      "keyDistinction": "The destination state’s requirements control permission to practice there.",
+      "reviewFocus": "Local requirements",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH01(1).docx",
+          "label": "Chapter 1 outline",
+          "section": "Licensure Requirements · Local requirements"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "topic": "CQI definition",
+      "learningObjectiveId": "CH01-LO10",
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "VII. Components of the EMS System · Continuous quality improvement"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH01(1).docx",
+          "label": "Chapter 1 outline",
+          "section": "VII. Components of the EMS System · Continuous quality improvement"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "id": "CH01-FB001",
+      "version": 2,
+      "format": "mcq",
+      "questionType": "recall",
+      "question": "The ongoing process for evaluating and improving EMS care and system performance is called _____.",
+      "conceptId": "CH01-C106",
+      "reviewFocus": "CQI definition",
+      "includeInCourseExam": true,
+      "includeInLearning": false,
+      "sourceQuestionIds": [
+        "CH01-Q106"
+      ],
+      "difficulty": "moderate",
+      "correctAnswer": "A",
+      "explanation": "CQI uses continuing review and improvement to support better care; licensure, medical direction, and initial education have different purposes.",
+      "blankMultipleChoice": true,
+      "choices": [
+        {
+          "id": "A",
+          "text": "continuous quality improvement"
+        },
+        {
+          "id": "B",
+          "text": "medical direction"
+        },
+        {
+          "id": "C",
+          "text": "primary prevention"
+        },
+        {
+          "id": "D",
+          "text": "licensure"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "Medical direction authorizes and oversees clinical care.",
+        "C": "Primary prevention aims to prevent illness or injury events.",
+        "D": "Licensure grants permission to practice."
+      },
+      "retirementReason": "Duplicate recall of a fact already tested by a retained question."
+    },
+    {
+      "chapter": 1,
+      "topic": "Certification and licensure",
+      "learningObjectiveId": "CH01-LO02",
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "II.B–C; slides 19"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH01(1).docx",
+          "label": "Chapter 1 outline",
+          "section": "Course Description · Certification and licensure"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "source-reviewed; not independently verified",
+      "id": "CH01-FB002",
+      "version": 2,
+      "format": "mcq",
+      "questionType": "recall",
+      "question": "State permission to practice as an EMT is called _____.",
+      "conceptId": "certification_and_licensure",
+      "reviewFocus": "Certification and licensure",
+      "includeInCourseExam": true,
+      "includeInLearning": false,
+      "sourceQuestionIds": [
+        "CH01-Q034"
+      ],
+      "difficulty": "moderate",
+      "correctAnswer": "A",
+      "explanation": "Certification assesses entry competence; licensure is the state process governing permission to function.",
+      "blankMultipleChoice": true,
+      "choices": [
+        {
+          "id": "A",
+          "text": "licensure"
+        },
+        {
+          "id": "B",
+          "text": "certification"
+        },
+        {
+          "id": "C",
+          "text": "medical direction"
+        },
+        {
+          "id": "D",
+          "text": "accreditation"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "Certification assesses competence rather than granting state permission.",
+        "C": "Medical direction governs clinical care and orders.",
+        "D": "Accreditation concerns an organization or educational program rather than individual practice permission."
+      },
+      "retirementReason": "Duplicate recall of a fact already tested by a retained question."
     }
   ],
   "auditDate": "2026-10-08"

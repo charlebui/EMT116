@@ -77,12 +77,12 @@ export function chapterLearningPool(pool,rows){
  }
  return seen.size===current.size?[...pool]:pool.filter(q=>!seen.has(q.id));
 }
-// Comprehensive exams sample the full MCQ pool each time; repeats across exams are allowed.
+// Mock exams use a separate answered-question cycle; the stored mode key preserves history.
 export function comprehensiveLearningPool(pool,rows){
- return pool.filter(q=>formatOf(q)==='mcq'&&q.includeInCourseExam!==false);
+ return chapterLearningPool(pool.filter(q=>formatOf(q)==='mcq'&&q.includeInCourseExam!==false),rows.filter(r=>r.mode==='comprehensive'));
 }
 export function selectComprehensiveBatch(pool,rows){
- return selectQuestions(comprehensiveLearningPool(pool,rows),'comprehensive',50,rows);
+ return selectQuestions(comprehensiveLearningPool(pool,rows),'comprehensive',100,rows);
 }
 export function selectChapterBatch(pool,rows){
  return selectQuestions(chapterLearningPool(pool,rows),'chapter',10,rows);
@@ -98,7 +98,8 @@ export function validateProgress(p,bank){
  const ids=new Set();for(const e of p.history){if(typeof e.id!=='string'||ids.has(e.id)||!Number.isFinite(e.completedAt)||!Array.isArray(e.items)||!e.items.length||e.items.length>1000)throw new Error('Invalid exam history.');ids.add(e.id);
  const seen=new Set();for(const i of e.items){if(typeof i.id!=='string'||seen.has(i.id)||!Number.isInteger(i.version)||!validAttempt(i,map.get(i.id)?.version===i.version?map.get(i.id):undefined))throw new Error('Invalid question attempt.');if(i.guessed!=null&&typeof i.guessed!=='boolean')throw new Error('Invalid guess marker.');if(i.retestFor!=null&&(typeof i.retestFor!=='object'||typeof i.retestFor.id!=='string'||!Number.isInteger(i.retestFor.version)))throw new Error('Invalid review target.');seen.add(i.id);}
  if(!Number.isFinite(e.score)||e.score<0||e.score>100)throw new Error('Invalid score.');}
- return {schemaVersion:1,history:p.history.map(e=>({id:e.id,completedAt:e.completedAt,mode:typeof e.mode==='string'?e.mode:'Imported',secondsPerQuestion:[0,90,120].includes(e.secondsPerQuestion)?e.secondsPerQuestion:0,score:e.items.every(i=>map.get(i.id)?.version===i.version)?grade(e.items,bank).score:e.score,items:e.items.map(i=>({id:i.id,version:i.version,answer:i.answer,order:i.order,flagged:!!i.flagged,guessed:!!i.guessed,retestFor:i.retestFor?{id:i.retestFor.id,version:i.retestFor.version}:null,format:i.format||formatOf(map.get(i.id)),response:typeof i.response==='string'?i.response:'',revealed:!!i.revealed,selfRating:i.selfRating||null}))})),active:null};
+ if(p.learned!=null&&(!Array.isArray(p.learned)||p.learned.some(x=>!x||typeof x.id!=='string'||!Number.isInteger(x.version)||!Number.isFinite(x.at)||x.at<0)))throw new Error('Invalid learned markers.');
+ return {schemaVersion:1,learned:(p.learned||[]).map(x=>({id:x.id,version:x.version,at:x.at})),history:p.history.map(e=>({id:e.id,completedAt:e.completedAt,mode:typeof e.mode==='string'?e.mode:'Imported',secondsPerQuestion:[0,90,120].includes(e.secondsPerQuestion)?e.secondsPerQuestion:0,score:e.items.every(i=>map.get(i.id)?.version===i.version)?grade(e.items,bank).score:e.score,items:e.items.map(i=>({id:i.id,version:i.version,answer:i.answer,order:i.order,flagged:!!i.flagged,guessed:!!i.guessed,retestFor:i.retestFor?{id:i.retestFor.id,version:i.retestFor.version}:null,format:i.format||formatOf(map.get(i.id)),response:typeof i.response==='string'?i.response:'',revealed:!!i.revealed,selfRating:i.selfRating||null}))})),active:null};
 }
 
 export function validAttempt(item,q){

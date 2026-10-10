@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "bankVersion": "1.1.0",
+  "bankVersion": "1.2.0",
   "chapter": 7,
   "title": "Life Span Development",
-  "updated": "2026-10-08",
+  "updated": "2026-10-10",
   "sources": [
     {
       "id": "objectives",
@@ -21,25 +21,25 @@
       "id": "slides1",
       "filename": "Lecture Slides - Life Span Development Part I.pdf",
       "role": "Uploaded course material",
-      "label": "Chapter 7 slides \u00b7 Part 1"
+      "label": "Chapter 7 slides · Part 1"
     },
     {
       "id": "slides2",
       "filename": "Lecture Slides- Life Span Development Part II.pdf",
       "role": "Uploaded course material",
-      "label": "Chapter 7 slides \u00b7 Part 2"
+      "label": "Chapter 7 slides · Part 2"
     },
     {
       "id": "transcript1",
       "filename": "Life Span Development Part I-English.txt",
       "role": "Uploaded course material",
-      "label": "Chapter 7 lecture \u00b7 Part 1"
+      "label": "Chapter 7 lecture · Part 1"
     },
     {
       "id": "transcript2",
       "filename": "Life Span Development Part II-English.txt",
       "role": "Uploaded course material",
-      "label": "Chapter 7 lecture \u00b7 Part 2"
+      "label": "Chapter 7 lecture · Part 2"
     }
   ],
   "learningObjectives": [
@@ -52,262 +52,262 @@
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Life-stage designations"
         },
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Neonates and Infants; Toddlers; Older Adults"
         },
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Life Span Development Part II.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 2",
-          "section": "Older Adults \u00b7 age category"
+          "label": "Chapter 7 slides · Part 2",
+          "section": "Older Adults · age category"
         }
       ]
     },
     {
       "id": "CH07-LO02",
-      "text": "Describe the major physical and psychosocial characteristics of an infant\u2019s life.",
+      "text": "Describe the major physical and psychosocial characteristics of an infant’s life.",
       "coverageStatus": "sampled",
       "coverageNote": "",
       "reviewReferences": [
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Infant airway anatomy"
         },
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Infant airway positioning"
         },
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Infant breathing mechanics"
         },
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Neonatal reflexes"
         },
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Infant milestones"
         },
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Fontanelle closure"
         },
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Separation anxiety"
         },
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
-          "section": "Neonates and Infants \u00b7 nervous-system reflexes"
+          "label": "Chapter 7 slides · Part 1",
+          "section": "Neonates and Infants · nervous-system reflexes"
         },
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
-          "section": "Neonates and Infants \u00b7 Reflexes"
+          "label": "Chapter 7 slides · Part 1",
+          "section": "Neonates and Infants · Reflexes"
         }
       ]
     },
     {
       "id": "CH07-LO03",
-      "text": "Describe the major physical and psychosocial characteristics of a toddler\u2019s and preschooler\u2019s life.",
+      "text": "Describe the major physical and psychosocial characteristics of a toddler’s and preschooler’s life.",
       "coverageStatus": "sampled",
       "coverageNote": "",
       "reviewReferences": [
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Preschool vital signs"
         },
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Developing respiratory muscles"
         },
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Autonomy and language"
         },
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
-          "section": "Toddlers and Preschoolers \u00b7 Psychosocial changes"
+          "label": "Chapter 7 slides · Part 1",
+          "section": "Toddlers and Preschoolers · Psychosocial changes"
         }
       ]
     },
     {
       "id": "CH07-LO04",
-      "text": "Describe the major physical and psychosocial characteristics of a school-age child\u2019s life.",
+      "text": "Describe the major physical and psychosocial characteristics of a school-age child’s life.",
       "coverageStatus": "sampled",
       "coverageNote": "",
       "reviewReferences": [
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Moral reasoning"
         },
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Conscience versus punishment"
         },
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Life Span Development Part II.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 2",
+          "label": "Chapter 7 slides · Part 2",
           "section": "Regression with illness"
         },
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
-          "section": "School-Age Children \u00b7 psychosocial changes"
+          "label": "Chapter 7 slides · Part 1",
+          "section": "School-Age Children · psychosocial changes"
         }
       ]
     },
     {
       "id": "CH07-LO05",
-      "text": "Describe the major physical and psychosocial characteristics of an adolescent\u2019s life.",
+      "text": "Describe the major physical and psychosocial characteristics of an adolescent’s life.",
       "coverageStatus": "sampled",
       "coverageNote": "",
       "reviewReferences": [
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Adolescent privacy"
         },
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Adolescent physiology"
         },
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Adolescent risk and identity"
         }
       ]
     },
     {
       "id": "CH07-LO06",
-      "text": "Describe the major physical and psychosocial characteristics of an early adult\u2019s life.",
+      "text": "Describe the major physical and psychosocial characteristics of an early adult’s life.",
       "coverageStatus": "sampled",
       "coverageNote": "",
       "reviewReferences": [
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Early-adult physiologic peak"
         },
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Early-adult psychosocial priorities"
         }
       ]
     },
     {
       "id": "CH07-LO07",
-      "text": "Describe the major physical and psychosocial characteristics of a middle adult\u2019s life.",
+      "text": "Describe the major physical and psychosocial characteristics of a middle adult’s life.",
       "coverageStatus": "sampled",
       "coverageNote": "",
       "reviewReferences": [
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Middle-adult responsibilities"
         },
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Middle-adult health changes"
         }
       ]
     },
     {
       "id": "CH07-LO08",
-      "text": "Describe the major physical and psychosocial characteristics of an older adult\u2019s life.",
+      "text": "Describe the major physical and psychosocial characteristics of an older adult’s life.",
       "coverageStatus": "sampled",
       "coverageNote": "",
       "reviewReferences": [
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Life Span Development Part II.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 2",
+          "label": "Chapter 7 slides · Part 2",
           "section": "Older-adult respiratory reserve"
         },
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Life Span Development Part II.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 2",
+          "label": "Chapter 7 slides · Part 2",
           "section": "Older-adult renal changes"
         },
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Life Span Development Part II.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 2",
+          "label": "Chapter 7 slides · Part 2",
           "section": "Sensory changes versus cognition"
         },
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Life Span Development Part II.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 2",
+          "label": "Chapter 7 slides · Part 2",
           "section": "Older-adult head injury susceptibility"
         },
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Life Span Development Part II.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 2",
-          "section": "Older Adults \u00b7 Age-related cough and gag changes"
+          "label": "Chapter 7 slides · Part 2",
+          "section": "Older Adults · Age-related cough and gag changes"
         },
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Life Span Development Part II.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 2",
-          "section": "Older Adults \u00b7 psychosocial changes"
+          "label": "Chapter 7 slides · Part 2",
+          "section": "Older Adults · psychosocial changes"
         },
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Life Span Development Part II.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 2",
-          "section": "Older Adults \u00b7 Psychosocial changes"
+          "label": "Chapter 7 slides · Part 2",
+          "section": "Older Adults · Psychosocial changes"
         }
       ]
     }
@@ -342,7 +342,7 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "These ages fall within school-age (6\u201312), adolescent (12\u201318), early adult (19\u201340), and middle adult (41\u201360) ranges.",
+      "explanation": "These ages fall within school-age (6–12), adolescent (12–18), early adult (19–40), and middle adult (41–60) ranges.",
       "incorrectChoiceExplanations": {
         "B": "An 8-year-old is school-age, 35 is early adult, and 52 is middle adult.",
         "C": "A 16-year-old is an adolescent, and 52 is middle adult.",
@@ -351,7 +351,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 19 \u00b7 Life-stage designations"
+          "locator": "PDF page 19 · Life-stage designations"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -363,10 +363,22 @@
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Life-stage designations"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Life-stage designations"
+      }
     },
     {
       "id": "CH07-Q002",
@@ -406,7 +418,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 5 \u00b7 Infant airway anatomy"
+          "locator": "PDF page 5 · Infant airway anatomy"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -418,21 +430,33 @@
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Infant airway anatomy"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Infant airway anatomy"
+      }
     },
     {
       "id": "CH07-Q003",
-      "version": 1,
+      "version": 2,
       "chapter": 7,
       "topic": "Infant airway positioning",
       "conceptId": "CH07-C003",
       "learningObjectiveId": "CH07-LO02",
-      "questionType": "best_answer",
+      "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "Why can excessive neck flexion or extension compromise a small infant\u2019s airway?",
+      "question": "Why can excessive neck flexion or extension compromise a small infant’s airway?",
       "choices": [
         {
           "id": "A",
@@ -448,7 +472,7 @@
         },
         {
           "id": "D",
-          "text": "The infant\u2019s small tongue leaves enough room to tolerate any neck position"
+          "text": "The infant’s small tongue leaves enough room to tolerate any neck position"
         }
       ],
       "correctAnswer": "A",
@@ -461,30 +485,38 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 5 \u00b7 Infant airway positioning"
+          "locator": "PDF page 5 · Infant airway positioning"
         },
         {
           "sourceId": "quiz",
-          "locator": "Question 2 \u00b7 airway flexion and extension"
+          "locator": "Question 2 · airway flexion and extension"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
       "diagnosticIntent": "Infant airway positioning",
-      "secondMostPlausibleAnswer": "B",
-      "whyTempting": "The occiput does affect positioning, making an adjustment seem appropriate.",
-      "whyNotBest": "A large occiput does not justify maximal extension.",
-      "keyDistinction": "A proportionately large occiput and flexible trachea make excessive flexion or extension capable of occluding the airway.",
       "reviewFocus": "Infant airway positioning",
       "reviewReferences": [
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Infant airway positioning"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Infant airway positioning"
+      }
     },
     {
       "id": "CH07-Q004",
@@ -507,15 +539,15 @@
         },
         {
           "id": "C",
-          "text": "The infant\u2019s more vertical ribs produce the same chest expansion pattern as an adult"
+          "text": "The infant’s more vertical ribs produce the same chest expansion pattern as an adult"
         },
         {
           "id": "D",
-          "text": "The infant\u2019s smaller abdominal organs leave room for predominantly upper-chest expansion"
+          "text": "The infant’s smaller abdominal organs leave room for predominantly upper-chest expansion"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "The infant\u2019s less rigid rib cage and horizontal ribs help explain the prominent abdominal movement.",
+      "explanation": "The infant’s less rigid rib cage and horizontal ribs help explain the prominent abdominal movement.",
       "incorrectChoiceExplanations": {
         "B": "The infant rib cage is flexible, and the diaphragm is important to ventilation.",
         "C": "Infant ribs are more horizontal than adult ribs.",
@@ -524,11 +556,11 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 5 \u00b7 Infant breathing mechanics"
+          "locator": "PDF page 5 · Infant breathing mechanics"
         },
         {
           "sourceId": "quiz",
-          "locator": "Question 4 \u00b7 belly breathing"
+          "locator": "Question 4 · belly breathing"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -540,10 +572,22 @@
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Infant breathing mechanics"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Infant breathing mechanics"
+      }
     },
     {
       "id": "CH07-Q005",
@@ -583,7 +627,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 7 \u00b7 Neonatal reflexes"
+          "locator": "PDF page 7 · Neonatal reflexes"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -595,10 +639,22 @@
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Neonatal reflexes"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Neonatal reflexes"
+      }
     },
     {
       "id": "CH07-Q006",
@@ -613,19 +669,19 @@
       "choices": [
         {
           "id": "A",
-          "text": "Tracks objects \u2192 sits upright and babbles \u2192 walks with minimal assistance"
+          "text": "Tracks objects → sits upright and babbles → walks with minimal assistance"
         },
         {
           "id": "B",
-          "text": "Walks with assistance \u2192 tracks objects \u2192 begins babbling"
+          "text": "Walks with assistance → tracks objects → begins babbling"
         },
         {
           "id": "C",
-          "text": "Sits and babbles \u2192 walks with assistance \u2192 recognizes familiar faces for the first time"
+          "text": "Sits and babbles → walks with assistance → recognizes familiar faces for the first time"
         },
         {
           "id": "D",
-          "text": "Tracks objects \u2192 completes toilet training \u2192 begins sitting upright"
+          "text": "Tracks objects → completes toilet training → begins sitting upright"
         }
       ],
       "correctAnswer": "A",
@@ -638,7 +694,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 8 \u00b7 Infant milestones"
+          "locator": "PDF page 8 · Infant milestones"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -650,10 +706,22 @@
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Infant milestones"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Infant milestones"
+      }
     },
     {
       "id": "CH07-Q007",
@@ -693,7 +761,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 9 \u00b7 Fontanelle closure"
+          "locator": "PDF page 9 · Fontanelle closure"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -705,19 +773,31 @@
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Fontanelle closure"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Fontanelle closure"
+      }
     },
     {
       "id": "CH07-Q008",
-      "version": 3,
+      "version": 4,
       "chapter": 7,
       "topic": "Separation anxiety",
       "conceptId": "CH07-C008",
       "learningObjectiveId": "CH07-LO02",
-      "questionType": "best_answer",
+      "questionType": "conceptual",
       "difficulty": "moderate",
       "question": "A 10-month-old becomes distressed when the caregiver steps away but settles when the caregiver returns. What is the best developmental interpretation?",
       "choices": [
@@ -748,37 +828,45 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 13 \u00b7 Separation anxiety"
+          "locator": "PDF page 13 · Separation anxiety"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
       "diagnosticIntent": "Separation anxiety",
-      "secondMostPlausibleAnswer": "B",
-      "whyTempting": "Both separation anxiety and insecure attachment concern caregiver relationships.",
-      "whyNotBest": "An infant with this attachment pattern may avoid or resist the caregiver; distress that settles on reunion does not establish that pattern.",
-      "keyDistinction": "Distress linked to caregiver separation is consistent with common separation anxiety in older infants.",
       "reviewFocus": "Separation anxiety",
       "reviewReferences": [
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Separation anxiety"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Separation anxiety"
+      }
     },
     {
       "id": "CH07-Q009",
-      "version": 1,
+      "version": 2,
       "chapter": 7,
       "topic": "Preschool vital signs",
       "conceptId": "CH07-C009",
       "learningObjectiveId": "CH07-LO03",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "A calm 5-year-old has a pulse of 110/min, respirations of 23/min, and systolic pressure of 90 mm Hg. How do these values compare with expected preschool ranges?",
+      "question": "A calm 5-year-old has a pulse of 110/min, respirations of 23/min, and systolic pressure of 90 mm Hg. How do these values compare with the supplied course’s preschool reference ranges?",
       "choices": [
         {
           "id": "A",
@@ -790,7 +878,7 @@
         },
         {
           "id": "C",
-          "text": "The respiratory rate is below range because preschoolers normally breathe 30\u201340/min"
+          "text": "The respiratory rate is below range because preschoolers normally breathe 30–40/min"
         },
         {
           "id": "D",
@@ -798,16 +886,16 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "The supplied preschool ranges are pulse 80\u2013140, respirations 20\u201325, and systolic pressure 80\u2013100; all three fit. These values alone do not establish overall stability.",
+      "explanation": "The supplied preschool ranges are pulse 80–140, respirations 20–25, and systolic pressure 80–100; all three fit. These values alone do not establish overall stability.",
       "incorrectChoiceExplanations": {
         "B": "Preschool pulse range differs from the adult range.",
-        "C": "The supplied preschool respiratory range is 20\u201325.",
+        "C": "The supplied preschool respiratory range is 20–25.",
         "D": "The supplied systolic range includes 90."
       },
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 16 \u00b7 Preschool vital signs"
+          "locator": "PDF page 16 · Preschool vital signs"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -819,19 +907,31 @@
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Preschool vital signs"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Preschool vital signs"
+      }
     },
     {
       "id": "CH07-Q010",
-      "version": 2,
+      "version": 3,
       "chapter": 7,
       "topic": "Developing respiratory muscles",
       "conceptId": "CH07-C010",
       "learningObjectiveId": "CH07-LO03",
-      "questionType": "best_answer",
+      "questionType": "conceptual",
       "difficulty": "moderate",
       "question": "Why does sustained increased breathing effort warrant concern in a preschooler?",
       "choices": [
@@ -853,7 +953,7 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Young children\u2019s underdeveloped respiratory muscles make sustained breathing effort difficult to maintain.",
+      "explanation": "Young children’s underdeveloped respiratory muscles make sustained breathing effort difficult to maintain.",
       "incorrectChoiceExplanations": {
         "B": "Rate alone does not establish adequate ventilation.",
         "C": "Cardiovascular similarities do not establish mature respiratory muscles.",
@@ -862,37 +962,45 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 17 \u00b7 Developing respiratory muscles"
+          "locator": "PDF page 17 · Developing respiratory muscles"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
       "diagnosticIntent": "Developing respiratory muscles",
-      "secondMostPlausibleAnswer": "B",
-      "whyTempting": "An increased rate can be a response to respiratory demand.",
-      "whyNotBest": "Rate alone does not establish adequate ventilation.",
-      "keyDistinction": "Young children\u2019s underdeveloped respiratory muscles make sustained breathing effort difficult to maintain.",
       "reviewFocus": "Developing respiratory muscles",
       "reviewReferences": [
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Developing respiratory muscles"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Developing respiratory muscles"
+      }
     },
     {
       "id": "CH07-Q011",
-      "version": 1,
+      "version": 2,
       "chapter": 7,
       "topic": "Autonomy and language",
       "conceptId": "CH07-C011",
       "learningObjectiveId": "CH07-LO03",
-      "questionType": "best_answer",
+      "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "A 3-year-old insists on holding the assessment equipment and repeatedly says, \u201cI do it.\u201d Which developmental concept best explains this behavior?",
+      "question": "A 3-year-old insists on holding the assessment equipment and repeatedly says, “I do it.” Which developmental concept best explains this behavior?",
       "choices": [
         {
           "id": "A",
@@ -914,37 +1022,45 @@
       "correctAnswer": "A",
       "explanation": "Toddlers and preschoolers develop independence and language for expressing themselves.",
       "incorrectChoiceExplanations": {
-        "B": "Peer-approval reasoning does not best explain the toddler\u2019s desire to do things independently.",
+        "B": "Peer-approval reasoning does not best explain the toddler’s desire to do things independently.",
         "C": "The child is not in the adolescent stage.",
         "D": "This is developing autonomy rather than late-life adjustment."
       },
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 18 \u00b7 Autonomy and language"
+          "locator": "PDF page 18 · Autonomy and language"
         },
         {
           "sourceId": "transcript1",
-          "locator": "Toddlers and preschoolers \u00b7 autonomy versus shame and doubt"
+          "locator": "Toddlers and preschoolers · autonomy versus shame and doubt"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
       "diagnosticIntent": "Autonomy and language",
-      "secondMostPlausibleAnswer": "B",
-      "whyTempting": "Both stages involve a growing sense of self.",
-      "whyNotBest": "Peer-approval reasoning does not best explain the toddler\u2019s desire to do things independently.",
-      "keyDistinction": "Toddlers and preschoolers develop independence and language for expressing themselves.",
       "reviewFocus": "Autonomy and language",
       "reviewReferences": [
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Autonomy and language"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Autonomy and language"
+      }
     },
     {
       "id": "CH07-Q012",
@@ -955,7 +1071,7 @@
       "learningObjectiveId": "CH07-LO04",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "A school-age child says, \u201cI followed the rule because my friends would think badly of me if I did not.\u201d Which reasoning level is most consistent with this explanation?",
+      "question": "A school-age child says, “I followed the rule because my friends would think badly of me if I did not.” Which reasoning level is most consistent with this explanation?",
       "choices": [
         {
           "id": "A",
@@ -984,7 +1100,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 21 \u00b7 Moral reasoning"
+          "locator": "PDF page 21 · Moral reasoning"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -996,21 +1112,33 @@
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Moral reasoning"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Moral reasoning"
+      }
     },
     {
       "id": "CH07-Q013",
-      "version": 1,
+      "version": 2,
       "chapter": 7,
       "topic": "Conscience versus punishment",
       "conceptId": "CH07-C013",
       "learningObjectiveId": "CH07-LO04",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "A child explains, \u201cEven if nobody found out, I would still think it was wrong.\u201d Which reasoning level best matches this explanation?",
+      "question": "A person explains, “I would oppose an unfair rule even if my friends approved of it, because it violates a principle I believe should apply to everyone.” Which level of moral reasoning does this illustrate?",
       "choices": [
         {
           "id": "A",
@@ -1018,52 +1146,64 @@
         },
         {
           "id": "B",
-          "text": "Preconventional"
-        },
-        {
-          "id": "C",
           "text": "Conventional"
         },
         {
+          "id": "C",
+          "text": "Preconventional"
+        },
+        {
           "id": "D",
-          "text": "Anxious-avoidant attachment"
+          "text": "Autonomy versus shame and doubt"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "A decision guided by conscience rather than punishment or approval matches postconventional reasoning.",
+      "explanation": "The reasoning appeals to a principle beyond approval or punishment. That is the distinction tested by postconventional reasoning; a person’s age alone does not establish the level.",
       "incorrectChoiceExplanations": {
-        "B": "The child is not primarily trying to avoid punishment.",
-        "C": "The explanation does not depend on other people\u2019s approval.",
-        "D": "Attachment is a caregiver relationship concept, not a moral reasoning level."
+        "B": "Conventional reasoning emphasizes rules and social approval.",
+        "C": "Preconventional reasoning emphasizes personal rewards and punishment.",
+        "D": "Autonomy versus shame and doubt is a developmental conflict, not a moral-reasoning level."
       },
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 21 \u00b7 Conscience versus punishment"
+          "locator": "PDF page 21 · Conscience versus punishment"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "Conscience versus punishment",
+      "diagnosticIntent": "Distinguish principled reasoning from compliance for approval.",
       "reviewFocus": "Conscience versus punishment",
       "reviewReferences": [
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Conscience versus punishment"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Distinguish principled reasoning from compliance for approval."
+      }
     },
     {
       "id": "CH07-Q014",
-      "version": 1,
+      "version": 2,
       "chapter": 7,
       "topic": "Regression with illness",
       "conceptId": "CH07-C014",
       "learningObjectiveId": "CH07-LO04",
-      "questionType": "best_answer",
+      "questionType": "conceptual",
       "difficulty": "moderate",
       "question": "An 8-year-old who is normally independent becomes clingy and uses younger-sounding speech during a painful illness. What is the best interpretation of the behavior alone?",
       "choices": [
@@ -1073,7 +1213,7 @@
         },
         {
           "id": "B",
-          "text": "The behavior proves the child\u2019s usual school-age abilities were never present"
+          "text": "The behavior proves the child’s usual school-age abilities were never present"
         },
         {
           "id": "C",
@@ -1087,33 +1227,41 @@
       "correctAnswer": "A",
       "explanation": "School-age children can regress during illness or injury; the behavior should be interpreted in its clinical context.",
       "incorrectChoiceExplanations": {
-        "B": "A temporary response does not disprove the child\u2019s usual abilities.",
+        "B": "A temporary response does not disprove the child’s usual abilities.",
         "C": "Behavior during illness does not change the age-stage classification.",
         "D": "Regression is compatible with illness or injury."
       },
       "sourceReferences": [
         {
           "sourceId": "slides2",
-          "locator": "PDF page 22 \u00b7 Regression with illness"
+          "locator": "PDF page 22 · Regression with illness"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
       "diagnosticIntent": "Regression with illness",
-      "secondMostPlausibleAnswer": "B",
-      "whyTempting": "The current behavior can resemble a younger developmental level.",
-      "whyNotBest": "A temporary response does not disprove the child\u2019s usual abilities.",
-      "keyDistinction": "School-age children can regress during illness or injury; the behavior should be interpreted in its clinical context.",
       "reviewFocus": "Regression with illness",
       "reviewReferences": [
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Life Span Development Part II.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 2",
+          "label": "Chapter 7 slides · Part 2",
           "section": "Regression with illness"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Regression with illness"
+      }
     },
     {
       "id": "CH07-Q015",
@@ -1148,16 +1296,16 @@
       "incorrectChoiceExplanations": {
         "B": "Family input may help, but constant family presence can inhibit sensitive disclosure.",
         "C": "Relevant sensitive questions should not simply be omitted.",
-        "D": "Adult-like physiology does not justify bypassing the patient\u2019s own history."
+        "D": "Adult-like physiology does not justify bypassing the patient’s own history."
       },
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 24 \u00b7 Adolescent privacy"
+          "locator": "PDF page 24 · Adolescent privacy"
         },
         {
           "sourceId": "quiz",
-          "locator": "Question 1 \u00b7 private pregnancy questions"
+          "locator": "Question 1 · private pregnancy questions"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -1173,10 +1321,22 @@
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Adolescent privacy"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Adolescent privacy"
+      }
     },
     {
       "id": "CH07-Q016",
@@ -1216,7 +1376,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 22 \u00b7 Adolescent physiology"
+          "locator": "PDF page 22 · Adolescent physiology"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -1228,10 +1388,22 @@
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Adolescent physiology"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Adolescent physiology"
+      }
     },
     {
       "id": "CH07-Q017",
@@ -1271,7 +1443,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 25 \u00b7 Adolescent risk and identity"
+          "locator": "PDF page 25 · Adolescent risk and identity"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -1283,41 +1455,53 @@
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Adolescent risk and identity"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Adolescent risk and identity"
+      }
     },
     {
       "id": "CH07-Q018",
-      "version": 1,
+      "version": 2,
       "chapter": 7,
       "topic": "Early-adult physiologic peak",
       "conceptId": "CH07-C018",
       "learningObjectiveId": "CH07-LO06",
       "questionType": "recall",
       "difficulty": "moderate",
-      "question": "During which period is the body generally functioning at its optimal physiologic level?",
+      "question": "Which age range does the supplied life-span material describe as a period of optimal physiologic function?",
       "choices": [
         {
           "id": "A",
-          "text": "19\u201325 years"
+          "text": "19–25 years"
         },
         {
           "id": "B",
-          "text": "12\u201318 years"
+          "text": "12–18 years"
         },
         {
           "id": "C",
-          "text": "41\u201360 years"
+          "text": "41–60 years"
         },
         {
           "id": "D",
-          "text": "61\u201375 years"
+          "text": "61–75 years"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "The materials identify approximately ages 19\u201325 as the period of optimal body function, while individual health varies.",
+      "explanation": "The materials identify approximately ages 19–25 as the period of optimal body function, while individual health varies.",
       "incorrectChoiceExplanations": {
         "B": "Adolescence is still a period of maturation.",
         "C": "Middle adulthood includes increasing age-related changes.",
@@ -1326,7 +1510,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 28 \u00b7 Early-adult physiologic peak"
+          "locator": "PDF page 28 · Early-adult physiologic peak"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -1338,10 +1522,22 @@
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Early-adult physiologic peak"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Early-adult physiologic peak"
+      }
     },
     {
       "id": "CH07-Q019",
@@ -1381,7 +1577,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 28 \u00b7 Early-adult psychosocial priorities"
+          "locator": "PDF page 28 · Early-adult psychosocial priorities"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -1393,21 +1589,33 @@
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Early-adult psychosocial priorities"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Early-adult psychosocial priorities"
+      }
     },
     {
       "id": "CH07-Q020",
-      "version": 2,
+      "version": 3,
       "chapter": 7,
       "topic": "Middle-adult responsibilities",
       "conceptId": "CH07-C020",
       "learningObjectiveId": "CH07-LO07",
-      "questionType": "best_answer",
+      "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "A 50-year-old reports stress from paying a child\u2019s college expenses while arranging care for an aging parent. Which developmental pattern best fits?",
+      "question": "A 50-year-old reports stress from paying a child’s college expenses while arranging care for an aging parent. Which developmental pattern best fits?",
       "choices": [
         {
           "id": "A",
@@ -1436,26 +1644,34 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 31 \u00b7 Middle-adult responsibilities"
+          "locator": "PDF page 31 · Middle-adult responsibilities"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
       "diagnosticIntent": "Middle-adult responsibilities",
-      "secondMostPlausibleAnswer": "B",
-      "whyTempting": "Early adults also experience family and financial stress.",
-      "whyNotBest": "The scenario describes simultaneous support of two generations, a supplied middle-adult pattern.",
-      "keyDistinction": "Middle adults may support children and aging parents while managing finances and life goals.",
       "reviewFocus": "Middle-adult responsibilities",
       "reviewReferences": [
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Middle-adult responsibilities"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Middle-adult responsibilities"
+      }
     },
     {
       "id": "CH07-Q021",
@@ -1495,7 +1711,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 30 \u00b7 Middle-adult health changes"
+          "locator": "PDF page 30 · Middle-adult health changes"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -1507,10 +1723,22 @@
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Middle-adult health changes"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Middle-adult health changes"
+      }
     },
     {
       "id": "CH07-Q022",
@@ -1550,7 +1778,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides2",
-          "locator": "PDF page 4 \u00b7 Older-adult respiratory reserve"
+          "locator": "PDF page 4 · Older-adult respiratory reserve"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -1562,10 +1790,22 @@
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Life Span Development Part II.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 2",
+          "label": "Chapter 7 slides · Part 2",
           "section": "Older-adult respiratory reserve"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Older-adult respiratory reserve"
+      }
     },
     {
       "id": "CH07-Q023",
@@ -1605,7 +1845,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides2",
-          "locator": "PDF page 8 \u00b7 Older-adult renal changes"
+          "locator": "PDF page 8 · Older-adult renal changes"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -1617,19 +1857,31 @@
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Life Span Development Part II.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 2",
+          "label": "Chapter 7 slides · Part 2",
           "section": "Older-adult renal changes"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Older-adult renal changes"
+      }
     },
     {
       "id": "CH07-Q024",
-      "version": 1,
+      "version": 2,
       "chapter": 7,
       "topic": "Sensory changes versus cognition",
       "conceptId": "CH07-C024",
       "learningObjectiveId": "CH07-LO08",
-      "questionType": "best_answer",
+      "questionType": "conceptual",
       "difficulty": "moderate",
       "question": "An older patient responds slowly to a spoken question but gives a coherent answer after it is repeated clearly. What is the best interpretation?",
       "choices": [
@@ -1660,26 +1912,34 @@
       "sourceReferences": [
         {
           "sourceId": "slides2",
-          "locator": "PDF page 9 \u00b7 Sensory changes versus cognition"
+          "locator": "PDF page 9 · Sensory changes versus cognition"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
       "diagnosticIntent": "Sensory changes versus cognition",
-      "secondMostPlausibleAnswer": "B",
-      "whyTempting": "Delayed responses can occur with cognitive impairment, but are not specific to it.",
-      "whyNotBest": "A delay alone does not establish cognitive impairment.",
-      "keyDistinction": "Older adults can have sensory changes and slower neural responses while retaining knowledge and skills.",
       "reviewFocus": "Sensory changes versus cognition",
       "reviewReferences": [
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Life Span Development Part II.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 2",
+          "label": "Chapter 7 slides · Part 2",
           "section": "Sensory changes versus cognition"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Sensory changes versus cognition"
+      }
     },
     {
       "id": "CH07-Q025",
@@ -1719,7 +1979,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides2",
-          "locator": "PDF page 10 \u00b7 Older-adult head injury susceptibility"
+          "locator": "PDF page 10 · Older-adult head injury susceptibility"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -1731,10 +1991,22 @@
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Life Span Development Part II.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 2",
+          "label": "Chapter 7 slides · Part 2",
           "section": "Older-adult head injury susceptibility"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Older-adult head injury susceptibility"
+      }
     },
     {
       "id": "CH07-Q026",
@@ -1765,7 +2037,7 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "The supplied stages identify the first month as neonatal, later first-year patients as infants, ages 1\u20133 as toddlers, and 61+ as older adults.",
+      "explanation": "The supplied stages identify the first month as neonatal, later first-year patients as infants, ages 1–3 as toddlers, and 61+ as older adults.",
       "incorrectChoiceExplanations": {
         "B": "This shifts several patients into later or earlier categories.",
         "C": "The 6-month-old is an infant, not a preschooler; the 2-year-old is a toddler.",
@@ -1778,7 +2050,7 @@
         },
         {
           "sourceId": "slides2",
-          "locator": "Older Adults \u00b7 age category"
+          "locator": "Older Adults · age category"
         }
       ],
       "verificationStatus": "Reviewed against uploaded class material; not independently verified",
@@ -1790,16 +2062,28 @@
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Neonates and Infants; Toddlers; Older Adults"
         },
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Life Span Development Part II.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 2",
-          "section": "Older Adults \u00b7 age category"
+          "label": "Chapter 7 slides · Part 2",
+          "section": "Older Adults · age category"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Neonate infant toddler and older-adult categories"
+      }
     },
     {
       "id": "CH07-Q027",
@@ -1810,7 +2094,7 @@
       "learningObjectiveId": "CH07-LO02",
       "questionType": "recall",
       "difficulty": "moderate",
-      "question": "Touching a neonate\u2019s cheek causes a head turn, while placing an object in the palm causes the fingers to close. Which reflexes occur in that order?",
+      "question": "Touching a neonate’s cheek causes a head turn, while placing an object in the palm causes the fingers to close. Which reflexes occur in that order?",
       "choices": [
         {
           "id": "A",
@@ -1839,7 +2123,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "Neonates and Infants \u00b7 nervous-system reflexes"
+          "locator": "Neonates and Infants · nervous-system reflexes"
         }
       ],
       "verificationStatus": "Reviewed against uploaded class material; not independently verified",
@@ -1851,10 +2135,22 @@
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
-          "section": "Neonates and Infants \u00b7 nervous-system reflexes"
+          "label": "Chapter 7 slides · Part 1",
+          "section": "Neonates and Infants · nervous-system reflexes"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Rooting and palmar grasp reflexes"
+      }
     },
     {
       "id": "CH07-Q028",
@@ -1865,7 +2161,7 @@
       "learningObjectiveId": "CH07-LO04",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "A child says, \u201cI did it so I would get the prize and avoid being punished.\u201d Which reasoning level best matches that explanation?",
+      "question": "A child says, “I did it so I would get the prize and avoid being punished.” Which reasoning level best matches that explanation?",
       "choices": [
         {
           "id": "A",
@@ -1894,7 +2190,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "School-Age Children \u00b7 psychosocial changes"
+          "locator": "School-Age Children · psychosocial changes"
         }
       ],
       "verificationStatus": "Reviewed against uploaded class material; not independently verified",
@@ -1906,10 +2202,22 @@
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
-          "section": "School-Age Children \u00b7 psychosocial changes"
+          "label": "Chapter 7 slides · Part 1",
+          "section": "School-Age Children · psychosocial changes"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Preconventional reasoning"
+      }
     },
     {
       "id": "CH07-Q029",
@@ -1949,7 +2257,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides2",
-          "locator": "Older Adults \u00b7 respiratory system"
+          "locator": "Older Adults · respiratory system"
         }
       ],
       "verificationStatus": "Reviewed against uploaded class material; not independently verified",
@@ -1961,10 +2269,22 @@
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Life Span Development Part II.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 2",
-          "section": "Older Adults \u00b7 Age-related cough and gag changes"
+          "label": "Chapter 7 slides · Part 2",
+          "section": "Older Adults · Age-related cough and gag changes"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Age-related cough and gag changes"
+      }
     },
     {
       "id": "CH07-Q030",
@@ -2004,7 +2324,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides2",
-          "locator": "Older Adults \u00b7 psychosocial changes"
+          "locator": "Older Adults · psychosocial changes"
         }
       ],
       "verificationStatus": "Reviewed against uploaded class material; not independently verified",
@@ -2016,10 +2336,22 @@
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Life Span Development Part II.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 2",
-          "section": "Older Adults \u00b7 psychosocial changes"
+          "label": "Chapter 7 slides · Part 2",
+          "section": "Older Adults · psychosocial changes"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Older-adult medication access"
+      }
     },
     {
       "id": "CH07-Q031",
@@ -2059,7 +2391,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "Neonates and Infants \u00b7 Reflexes"
+          "locator": "Neonates and Infants · Reflexes"
         }
       ],
       "verificationStatus": "Reviewed against uploaded class material; not independently verified",
@@ -2072,10 +2404,22 @@
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
-          "section": "Neonates and Infants \u00b7 Reflexes"
+          "label": "Chapter 7 slides · Part 1",
+          "section": "Neonates and Infants · Reflexes"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Rooting reflex definition"
+      }
     },
     {
       "id": "CH07-Q032",
@@ -2115,7 +2459,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "Toddlers and Preschoolers \u00b7 Psychosocial changes"
+          "locator": "Toddlers and Preschoolers · Psychosocial changes"
         }
       ],
       "verificationStatus": "Reviewed against uploaded class material; not independently verified",
@@ -2128,10 +2472,22 @@
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
-          "section": "Toddlers and Preschoolers \u00b7 Psychosocial changes"
+          "label": "Chapter 7 slides · Part 1",
+          "section": "Toddlers and Preschoolers · Psychosocial changes"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Separation anxiety definition"
+      }
     },
     {
       "id": "CH07-Q033",
@@ -2171,7 +2527,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides2",
-          "locator": "Older Adults \u00b7 Psychosocial changes"
+          "locator": "Older Adults · Psychosocial changes"
         }
       ],
       "verificationStatus": "Reviewed against uploaded class material; not independently verified",
@@ -2183,129 +2539,21 @@
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Life Span Development Part II.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 2",
-          "section": "Older Adults \u00b7 Psychosocial changes"
-        }
-      ]
-    },
-    {
-      "chapter": 7,
-      "topic": "Rooting reflex definition",
-      "learningObjectiveId": "CH07-LO02",
-      "sourceReferences": [
-        {
-          "sourceId": "slides1",
-          "locator": "Neonates and Infants \u00b7 Reflexes"
+          "label": "Chapter 7 slides · Part 2",
+          "section": "Older Adults · Psychosocial changes"
         }
       ],
-      "reviewReferences": [
-        {
-          "sourceId": "slides1",
-          "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
-          "section": "Neonates and Infants \u00b7 Reflexes"
-        }
-      ],
-      "contentBasis": "Uploaded course materials only",
-      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
-      "id": "CH07-FB001",
-      "version": 2,
-      "format": "mcq",
-      "questionType": "recall",
-      "question": "Turning toward a touch on the cheek to seek food is the _____ reflex.",
-      "conceptId": "CH07-C031",
-      "reviewFocus": "Rooting reflex definition",
-      "includeInCourseExam": true,
-      "includeInLearning": false,
-      "sourceQuestionIds": [
-        "CH07-Q031"
-      ],
-      "difficulty": "moderate",
-      "correctAnswer": "A",
-      "explanation": "The rooting reflex turns the head toward a cheek stimulus; palmar grasp and Moro responses differ.",
-      "blankMultipleChoice": true,
-      "choices": [
-        {
-          "id": "A",
-          "text": "rooting"
-        },
-        {
-          "id": "B",
-          "text": "Moro"
-        },
-        {
-          "id": "C",
-          "text": "palmar grasp"
-        },
-        {
-          "id": "D",
-          "text": "sucking"
-        }
-      ],
-      "incorrectChoiceExplanations": {
-        "B": "Moro is the startle response.",
-        "C": "Palmar grasp closes the fingers around an object in the palm.",
-        "D": "Sucking is distinct from turning toward a cheek touch."
-      }
-    },
-    {
-      "chapter": 7,
-      "topic": "Separation anxiety definition",
-      "learningObjectiveId": "CH07-LO03",
-      "sourceReferences": [
-        {
-          "sourceId": "slides1",
-          "locator": "Toddlers and Preschoolers \u00b7 Psychosocial changes"
-        }
-      ],
-      "reviewReferences": [
-        {
-          "sourceId": "slides1",
-          "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
-          "section": "Toddlers and Preschoolers \u00b7 Psychosocial changes"
-        }
-      ],
-      "contentBasis": "Uploaded course materials only",
-      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
-      "id": "CH07-FB002",
-      "version": 2,
-      "format": "mcq",
-      "questionType": "recall",
-      "question": "Distress when apart from a caregiver is called _____.",
-      "conceptId": "CH07-C032",
-      "reviewFocus": "Separation anxiety definition",
-      "includeInCourseExam": true,
-      "includeInLearning": false,
-      "sourceQuestionIds": [
-        "CH07-Q032"
-      ],
-      "difficulty": "moderate",
-      "correctAnswer": "A",
-      "explanation": "Separation anxiety is distress during separation; bonding, moral reasoning, and breathing development are different concepts.",
-      "blankMultipleChoice": true,
-      "choices": [
-        {
-          "id": "A",
-          "text": "separation anxiety"
-        },
-        {
-          "id": "B",
-          "text": "secure attachment"
-        },
-        {
-          "id": "C",
-          "text": "regression"
-        },
-        {
-          "id": "D",
-          "text": "conventional reasoning"
-        }
-      ],
-      "incorrectChoiceExplanations": {
-        "B": "Secure attachment is an emotional bond, not the name for separation distress.",
-        "C": "Regression is a return to an earlier developmental pattern.",
-        "D": "Conventional reasoning concerns social approval and rules."
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Older-adult isolation"
       }
     }
   ],
@@ -2348,7 +2596,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 13 \u00b7 Separation anxiety"
+          "locator": "PDF page 13 · Separation anxiety"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -2398,7 +2646,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 22 \u00b7 Adolescent physiology"
+          "locator": "PDF page 22 · Adolescent physiology"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -2444,7 +2692,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 28 \u00b7 Early-adult psychosocial priorities"
+          "locator": "PDF page 28 · Early-adult psychosocial priorities"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -2461,7 +2709,7 @@
       "learningObjectiveId": "CH07-LO07",
       "questionType": "best_answer",
       "difficulty": "moderate",
-      "question": "A 50-year-old reports stress from paying a child\u2019s college expenses while arranging care for an aging parent. Which developmental pattern best fits?",
+      "question": "A 50-year-old reports stress from paying a child’s college expenses while arranging care for an aging parent. Which developmental pattern best fits?",
       "choices": [
         {
           "id": "A",
@@ -2490,7 +2738,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 31 \u00b7 Middle-adult responsibilities"
+          "locator": "PDF page 31 · Middle-adult responsibilities"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -2531,7 +2779,7 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "The infant\u2019s less rigid rib cage and horizontal ribs help explain the prominent abdominal movement.",
+      "explanation": "The infant’s less rigid rib cage and horizontal ribs help explain the prominent abdominal movement.",
       "incorrectChoiceExplanations": {
         "B": "The rib cage is flexible and the diaphragm functions.",
         "C": "The diaphragm functions and is important in ventilation.",
@@ -2540,11 +2788,11 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 5 \u00b7 Infant breathing mechanics"
+          "locator": "PDF page 5 · Infant breathing mechanics"
         },
         {
           "sourceId": "quiz",
-          "locator": "Question 4 \u00b7 belly breathing"
+          "locator": "Question 4 · belly breathing"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -2556,7 +2804,7 @@
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Infant breathing mechanics"
         }
       ]
@@ -2582,7 +2830,7 @@
         },
         {
           "id": "C",
-          "text": "The infant\u2019s distress necessarily shows that the caregiver has failed to establish trust"
+          "text": "The infant’s distress necessarily shows that the caregiver has failed to establish trust"
         },
         {
           "id": "D",
@@ -2599,7 +2847,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 13 \u00b7 Separation anxiety"
+          "locator": "PDF page 13 · Separation anxiety"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -2615,7 +2863,7 @@
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Separation anxiety"
         }
       ]
@@ -2649,7 +2897,7 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Young children\u2019s underdeveloped respiratory muscles make sustained breathing effort difficult to maintain.",
+      "explanation": "Young children’s underdeveloped respiratory muscles make sustained breathing effort difficult to maintain.",
       "incorrectChoiceExplanations": {
         "B": "Rate alone does not guarantee adequate ventilation or prevent fatigue.",
         "C": "Similarity in one system does not establish mature respiratory muscles.",
@@ -2658,7 +2906,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 17 \u00b7 Developing respiratory muscles"
+          "locator": "PDF page 17 · Developing respiratory muscles"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -2668,13 +2916,13 @@
       "secondMostPlausibleAnswer": "B",
       "whyTempting": "An increased rate can be a response to respiratory demand.",
       "whyNotBest": "Rate alone does not guarantee adequate ventilation or prevent fatigue.",
-      "keyDistinction": "Young children\u2019s underdeveloped respiratory muscles make sustained breathing effort difficult to maintain.",
+      "keyDistinction": "Young children’s underdeveloped respiratory muscles make sustained breathing effort difficult to maintain.",
       "reviewFocus": "Developing respiratory muscles",
       "reviewReferences": [
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Developing respiratory muscles"
         }
       ]
@@ -2717,7 +2965,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "PDF page 25 \u00b7 Adolescent risk and identity"
+          "locator": "PDF page 25 · Adolescent risk and identity"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -2729,7 +2977,7 @@
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
+          "label": "Chapter 7 slides · Part 1",
           "section": "Adolescent risk and identity"
         }
       ]
@@ -2747,19 +2995,19 @@
       "choices": [
         {
           "id": "A",
-          "text": "Reduced lung elasticity and a stiffer chest \u2192 greater work of breathing \u2192 reduced reserve"
+          "text": "Reduced lung elasticity and a stiffer chest → greater work of breathing → reduced reserve"
         },
         {
           "id": "B",
-          "text": "Increased alveolar surface area \u2192 less gas exchange \u2192 greater respiratory reserve"
+          "text": "Increased alveolar surface area → less gas exchange → greater respiratory reserve"
         },
         {
           "id": "C",
-          "text": "Stronger cough reflex \u2192 more retained secretions \u2192 reduced breathing effort"
+          "text": "Stronger cough reflex → more retained secretions → reduced breathing effort"
         },
         {
           "id": "D",
-          "text": "More elastic lungs \u2192 stiffer chest \u2192 effortless ventilation"
+          "text": "More elastic lungs → stiffer chest → effortless ventilation"
         }
       ],
       "correctAnswer": "A",
@@ -2772,7 +3020,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides2",
-          "locator": "PDF page 4 \u00b7 Older-adult respiratory reserve"
+          "locator": "PDF page 4 · Older-adult respiratory reserve"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -2784,7 +3032,7 @@
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Life Span Development Part II.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 2",
+          "label": "Chapter 7 slides · Part 2",
           "section": "Older-adult respiratory reserve"
         }
       ]
@@ -2827,7 +3075,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides2",
-          "locator": "PDF page 10 \u00b7 Older-adult head injury susceptibility"
+          "locator": "PDF page 10 · Older-adult head injury susceptibility"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -2839,7 +3087,7 @@
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Life Span Development Part II.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 2",
+          "label": "Chapter 7 slides · Part 2",
           "section": "Older-adult head injury susceptibility"
         }
       ]
@@ -2882,7 +3130,7 @@
       "sourceReferences": [
         {
           "sourceId": "slides2",
-          "locator": "Older Adults \u00b7 respiratory system"
+          "locator": "Older Adults · respiratory system"
         }
       ],
       "verificationStatus": "Reviewed against uploaded class material; not independently verified",
@@ -2894,8 +3142,8 @@
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Life Span Development Part II.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 2",
-          "section": "Older Adults \u00b7 respiratory system"
+          "label": "Chapter 7 slides · Part 2",
+          "section": "Older Adults · respiratory system"
         }
       ]
     },
@@ -2906,14 +3154,14 @@
       "sourceReferences": [
         {
           "sourceId": "slides2",
-          "locator": "PDF page 4 \u00b7 Older-adult respiratory reserve"
+          "locator": "PDF page 4 · Older-adult respiratory reserve"
         }
       ],
       "reviewReferences": [
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Life Span Development Part II.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 2",
+          "label": "Chapter 7 slides · Part 2",
           "section": "Older-adult respiratory reserve"
         }
       ],
@@ -2946,14 +3194,14 @@
       "sourceReferences": [
         {
           "sourceId": "slides2",
-          "locator": "PDF page 9 \u00b7 Sensory changes versus cognition"
+          "locator": "PDF page 9 · Sensory changes versus cognition"
         }
       ],
       "reviewReferences": [
         {
           "sourceId": "slides2",
           "filename": "Lecture Slides- Life Span Development Part II.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 2",
+          "label": "Chapter 7 slides · Part 2",
           "section": "Sensory changes versus cognition"
         }
       ],
@@ -2986,15 +3234,15 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "Neonates and Infants \u00b7 Reflexes"
+          "locator": "Neonates and Infants · Reflexes"
         }
       ],
       "reviewReferences": [
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
-          "section": "Neonates and Infants \u00b7 Reflexes"
+          "label": "Chapter 7 slides · Part 1",
+          "section": "Neonates and Infants · Reflexes"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -3025,15 +3273,15 @@
       "sourceReferences": [
         {
           "sourceId": "slides1",
-          "locator": "Toddlers and Preschoolers \u00b7 Psychosocial changes"
+          "locator": "Toddlers and Preschoolers · Psychosocial changes"
         }
       ],
       "reviewReferences": [
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides - Life Span Development Part I.pdf",
-          "label": "Chapter 7 slides \u00b7 Part 1",
-          "section": "Toddlers and Preschoolers \u00b7 Psychosocial changes"
+          "label": "Chapter 7 slides · Part 1",
+          "section": "Toddlers and Preschoolers · Psychosocial changes"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -3056,7 +3304,716 @@
         "separation anxiety"
       ],
       "explanation": "Separation anxiety is distress during separation; bonding, moral reasoning, and breathing development are different concepts."
+    },
+    {
+      "id": "CH07-Q003",
+      "version": 1,
+      "chapter": 7,
+      "topic": "Infant airway positioning",
+      "conceptId": "CH07-C003",
+      "learningObjectiveId": "CH07-LO02",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "Why can excessive neck flexion or extension compromise a small infant’s airway?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The large occiput and flexible trachea make positioning important"
+        },
+        {
+          "id": "B",
+          "text": "The large occiput makes maximum extension the most reliable position"
+        },
+        {
+          "id": "C",
+          "text": "The trachea is rigid, so changing neck position mainly changes oxygen demand"
+        },
+        {
+          "id": "D",
+          "text": "The infant’s small tongue leaves enough room to tolerate any neck position"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "A proportionately large occiput and flexible trachea make excessive flexion or extension capable of occluding the airway.",
+      "incorrectChoiceExplanations": {
+        "B": "A large occiput does not justify maximal extension.",
+        "C": "The infant trachea is flexible rather than rigid.",
+        "D": "The tongue is relatively large, and airway position matters."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "slides1",
+          "locator": "PDF page 5 · Infant airway positioning"
+        },
+        {
+          "sourceId": "quiz",
+          "locator": "Question 2 · airway flexion and extension"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Infant airway positioning",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "The occiput does affect positioning, making an adjustment seem appropriate.",
+      "whyNotBest": "A large occiput does not justify maximal extension.",
+      "keyDistinction": "A proportionately large occiput and flexible trachea make excessive flexion or extension capable of occluding the airway.",
+      "reviewFocus": "Infant airway positioning",
+      "reviewReferences": [
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides - Life Span Development Part I.pdf",
+          "label": "Chapter 7 slides · Part 1",
+          "section": "Infant airway positioning"
+        }
+      ]
+    },
+    {
+      "id": "CH07-Q008",
+      "version": 3,
+      "chapter": 7,
+      "topic": "Separation anxiety",
+      "conceptId": "CH07-C008",
+      "learningObjectiveId": "CH07-LO02",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "A 10-month-old becomes distressed when the caregiver steps away but settles when the caregiver returns. What is the best developmental interpretation?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Separation anxiety"
+        },
+        {
+          "id": "B",
+          "text": "An anxious-avoidant attachment pattern"
+        },
+        {
+          "id": "C",
+          "text": "A Moro response"
+        },
+        {
+          "id": "D",
+          "text": "Preconventional moral reasoning"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Distress linked to caregiver separation is consistent with common separation anxiety in older infants.",
+      "incorrectChoiceExplanations": {
+        "B": "An infant with this attachment pattern may avoid or resist the caregiver; distress that settles on reunion does not establish that pattern.",
+        "C": "The Moro response is a startle reflex.",
+        "D": "This concerns reward and punishment, not separation from a caregiver."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "slides1",
+          "locator": "PDF page 13 · Separation anxiety"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Separation anxiety",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Both separation anxiety and insecure attachment concern caregiver relationships.",
+      "whyNotBest": "An infant with this attachment pattern may avoid or resist the caregiver; distress that settles on reunion does not establish that pattern.",
+      "keyDistinction": "Distress linked to caregiver separation is consistent with common separation anxiety in older infants.",
+      "reviewFocus": "Separation anxiety",
+      "reviewReferences": [
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides - Life Span Development Part I.pdf",
+          "label": "Chapter 7 slides · Part 1",
+          "section": "Separation anxiety"
+        }
+      ]
+    },
+    {
+      "id": "CH07-Q009",
+      "version": 1,
+      "chapter": 7,
+      "topic": "Preschool vital signs",
+      "conceptId": "CH07-C009",
+      "learningObjectiveId": "CH07-LO03",
+      "questionType": "conceptual",
+      "difficulty": "moderate",
+      "question": "A calm 5-year-old has a pulse of 110/min, respirations of 23/min, and systolic pressure of 90 mm Hg. How do these values compare with expected preschool ranges?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "All three fall within expected preschool ranges"
+        },
+        {
+          "id": "B",
+          "text": "The pulse is above range because an adult upper limit applies"
+        },
+        {
+          "id": "C",
+          "text": "The respiratory rate is below range because preschoolers normally breathe 30–40/min"
+        },
+        {
+          "id": "D",
+          "text": "The systolic pressure is above range because preschool values should be below 80 mm Hg"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "The supplied preschool ranges are pulse 80–140, respirations 20–25, and systolic pressure 80–100; all three fit. These values alone do not establish overall stability.",
+      "incorrectChoiceExplanations": {
+        "B": "Preschool pulse range differs from the adult range.",
+        "C": "The supplied preschool respiratory range is 20–25.",
+        "D": "The supplied systolic range includes 90."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "slides1",
+          "locator": "PDF page 16 · Preschool vital signs"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Preschool vital signs",
+      "reviewFocus": "Preschool vital signs",
+      "reviewReferences": [
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides - Life Span Development Part I.pdf",
+          "label": "Chapter 7 slides · Part 1",
+          "section": "Preschool vital signs"
+        }
+      ]
+    },
+    {
+      "id": "CH07-Q010",
+      "version": 2,
+      "chapter": 7,
+      "topic": "Developing respiratory muscles",
+      "conceptId": "CH07-C010",
+      "learningObjectiveId": "CH07-LO03",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "Why does sustained increased breathing effort warrant concern in a preschooler?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Immature respiratory muscles may fatigue during prolonged increased effort"
+        },
+        {
+          "id": "B",
+          "text": "A faster respiratory rate assures an adequate volume with each breath"
+        },
+        {
+          "id": "C",
+          "text": "Adult-like cardiovascular findings establish adult-like respiratory reserve"
+        },
+        {
+          "id": "D",
+          "text": "A lower metabolic demand makes prolonged respiratory effort easier to sustain"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Young children’s underdeveloped respiratory muscles make sustained breathing effort difficult to maintain.",
+      "incorrectChoiceExplanations": {
+        "B": "Rate alone does not establish adequate ventilation.",
+        "C": "Cardiovascular similarities do not establish mature respiratory muscles.",
+        "D": "The concern is limited respiratory reserve and muscle fatigue, not a protective low demand."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "slides1",
+          "locator": "PDF page 17 · Developing respiratory muscles"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Developing respiratory muscles",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "An increased rate can be a response to respiratory demand.",
+      "whyNotBest": "Rate alone does not establish adequate ventilation.",
+      "keyDistinction": "Young children’s underdeveloped respiratory muscles make sustained breathing effort difficult to maintain.",
+      "reviewFocus": "Developing respiratory muscles",
+      "reviewReferences": [
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides - Life Span Development Part I.pdf",
+          "label": "Chapter 7 slides · Part 1",
+          "section": "Developing respiratory muscles"
+        }
+      ]
+    },
+    {
+      "id": "CH07-Q011",
+      "version": 1,
+      "chapter": 7,
+      "topic": "Autonomy and language",
+      "conceptId": "CH07-C011",
+      "learningObjectiveId": "CH07-LO03",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "A 3-year-old insists on holding the assessment equipment and repeatedly says, “I do it.” Which developmental concept best explains this behavior?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Developing autonomy and ability to express preferences"
+        },
+        {
+          "id": "B",
+          "text": "School-age conventional reasoning driven primarily by peer approval"
+        },
+        {
+          "id": "C",
+          "text": "Adolescent identity development driven primarily by body-image concerns"
+        },
+        {
+          "id": "D",
+          "text": "Older-adult adjustment to loss of independence"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Toddlers and preschoolers develop independence and language for expressing themselves.",
+      "incorrectChoiceExplanations": {
+        "B": "Peer-approval reasoning does not best explain the toddler’s desire to do things independently.",
+        "C": "The child is not in the adolescent stage.",
+        "D": "This is developing autonomy rather than late-life adjustment."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "slides1",
+          "locator": "PDF page 18 · Autonomy and language"
+        },
+        {
+          "sourceId": "transcript1",
+          "locator": "Toddlers and preschoolers · autonomy versus shame and doubt"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Autonomy and language",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Both stages involve a growing sense of self.",
+      "whyNotBest": "Peer-approval reasoning does not best explain the toddler’s desire to do things independently.",
+      "keyDistinction": "Toddlers and preschoolers develop independence and language for expressing themselves.",
+      "reviewFocus": "Autonomy and language",
+      "reviewReferences": [
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides - Life Span Development Part I.pdf",
+          "label": "Chapter 7 slides · Part 1",
+          "section": "Autonomy and language"
+        }
+      ]
+    },
+    {
+      "id": "CH07-Q013",
+      "version": 1,
+      "chapter": 7,
+      "topic": "Conscience versus punishment",
+      "conceptId": "CH07-C013",
+      "learningObjectiveId": "CH07-LO04",
+      "questionType": "conceptual",
+      "difficulty": "moderate",
+      "question": "A child explains, “Even if nobody found out, I would still think it was wrong.” Which reasoning level best matches this explanation?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Postconventional"
+        },
+        {
+          "id": "B",
+          "text": "Preconventional"
+        },
+        {
+          "id": "C",
+          "text": "Conventional"
+        },
+        {
+          "id": "D",
+          "text": "Anxious-avoidant attachment"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "A decision guided by conscience rather than punishment or approval matches postconventional reasoning.",
+      "incorrectChoiceExplanations": {
+        "B": "The child is not primarily trying to avoid punishment.",
+        "C": "The explanation does not depend on other people’s approval.",
+        "D": "Attachment is a caregiver relationship concept, not a moral reasoning level."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "slides1",
+          "locator": "PDF page 21 · Conscience versus punishment"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Conscience versus punishment",
+      "reviewFocus": "Conscience versus punishment",
+      "reviewReferences": [
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides - Life Span Development Part I.pdf",
+          "label": "Chapter 7 slides · Part 1",
+          "section": "Conscience versus punishment"
+        }
+      ]
+    },
+    {
+      "id": "CH07-Q014",
+      "version": 1,
+      "chapter": 7,
+      "topic": "Regression with illness",
+      "conceptId": "CH07-C014",
+      "learningObjectiveId": "CH07-LO04",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "An 8-year-old who is normally independent becomes clingy and uses younger-sounding speech during a painful illness. What is the best interpretation of the behavior alone?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Illness can cause temporary regression to an earlier developmental pattern"
+        },
+        {
+          "id": "B",
+          "text": "The behavior proves the child’s usual school-age abilities were never present"
+        },
+        {
+          "id": "C",
+          "text": "The behavior means the child should now be classified as a toddler"
+        },
+        {
+          "id": "D",
+          "text": "School-age independence makes regression incompatible with illness"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "School-age children can regress during illness or injury; the behavior should be interpreted in its clinical context.",
+      "incorrectChoiceExplanations": {
+        "B": "A temporary response does not disprove the child’s usual abilities.",
+        "C": "Behavior during illness does not change the age-stage classification.",
+        "D": "Regression is compatible with illness or injury."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "slides2",
+          "locator": "PDF page 22 · Regression with illness"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Regression with illness",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "The current behavior can resemble a younger developmental level.",
+      "whyNotBest": "A temporary response does not disprove the child’s usual abilities.",
+      "keyDistinction": "School-age children can regress during illness or injury; the behavior should be interpreted in its clinical context.",
+      "reviewFocus": "Regression with illness",
+      "reviewReferences": [
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Life Span Development Part II.pdf",
+          "label": "Chapter 7 slides · Part 2",
+          "section": "Regression with illness"
+        }
+      ]
+    },
+    {
+      "id": "CH07-Q018",
+      "version": 1,
+      "chapter": 7,
+      "topic": "Early-adult physiologic peak",
+      "conceptId": "CH07-C018",
+      "learningObjectiveId": "CH07-LO06",
+      "questionType": "recall",
+      "difficulty": "moderate",
+      "question": "During which period is the body generally functioning at its optimal physiologic level?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "19–25 years"
+        },
+        {
+          "id": "B",
+          "text": "12–18 years"
+        },
+        {
+          "id": "C",
+          "text": "41–60 years"
+        },
+        {
+          "id": "D",
+          "text": "61–75 years"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "The materials identify approximately ages 19–25 as the period of optimal body function, while individual health varies.",
+      "incorrectChoiceExplanations": {
+        "B": "Adolescence is still a period of maturation.",
+        "C": "Middle adulthood includes increasing age-related changes.",
+        "D": "Older adulthood includes reduced physiologic reserves."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "slides1",
+          "locator": "PDF page 28 · Early-adult physiologic peak"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Early-adult physiologic peak",
+      "reviewFocus": "Early-adult physiologic peak",
+      "reviewReferences": [
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides - Life Span Development Part I.pdf",
+          "label": "Chapter 7 slides · Part 1",
+          "section": "Early-adult physiologic peak"
+        }
+      ]
+    },
+    {
+      "id": "CH07-Q020",
+      "version": 2,
+      "chapter": 7,
+      "topic": "Middle-adult responsibilities",
+      "conceptId": "CH07-C020",
+      "learningObjectiveId": "CH07-LO07",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "A 50-year-old reports stress from paying a child’s college expenses while arranging care for an aging parent. Which developmental pattern best fits?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Middle-adult financial and caregiving demands across generations"
+        },
+        {
+          "id": "B",
+          "text": "Early-adult establishment of work and a first independent household"
+        },
+        {
+          "id": "C",
+          "text": "Adolescent identity development centered on peer acceptance"
+        },
+        {
+          "id": "D",
+          "text": "Later-adult adjustment primarily to retirement and personal dependence"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Middle adults may support children and aging parents while managing finances and life goals.",
+      "incorrectChoiceExplanations": {
+        "B": "The scenario describes simultaneous support of two generations, a supplied middle-adult pattern.",
+        "C": "The responsibilities and age in the scenario match middle adulthood.",
+        "D": "The supplied middle-adult pattern better explains the active intergenerational responsibilities."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "slides1",
+          "locator": "PDF page 31 · Middle-adult responsibilities"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Middle-adult responsibilities",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Early adults also experience family and financial stress.",
+      "whyNotBest": "The scenario describes simultaneous support of two generations, a supplied middle-adult pattern.",
+      "keyDistinction": "Middle adults may support children and aging parents while managing finances and life goals.",
+      "reviewFocus": "Middle-adult responsibilities",
+      "reviewReferences": [
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides - Life Span Development Part I.pdf",
+          "label": "Chapter 7 slides · Part 1",
+          "section": "Middle-adult responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "CH07-Q024",
+      "version": 1,
+      "chapter": 7,
+      "topic": "Sensory changes versus cognition",
+      "conceptId": "CH07-C024",
+      "learningObjectiveId": "CH07-LO08",
+      "questionType": "best_answer",
+      "difficulty": "moderate",
+      "question": "An older patient responds slowly to a spoken question but gives a coherent answer after it is repeated clearly. What is the best interpretation?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Hearing or slower processing may affect the response; age alone does not establish loss of knowledge or decision-making ability"
+        },
+        {
+          "id": "B",
+          "text": "The delay proves cognitive impairment even though the eventual answer is coherent"
+        },
+        {
+          "id": "C",
+          "text": "Normal aging necessarily produces deafness, so further communication is unlikely to help"
+        },
+        {
+          "id": "D",
+          "text": "A coherent answer means sensory function must be unchanged"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Older adults can have sensory changes and slower neural responses while retaining knowledge and skills.",
+      "incorrectChoiceExplanations": {
+        "B": "A delay alone does not establish cognitive impairment.",
+        "C": "Sensory decline varies; deafness is not inevitable.",
+        "D": "Coherent answers do not rule out hearing difficulty."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "slides2",
+          "locator": "PDF page 9 · Sensory changes versus cognition"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Sensory changes versus cognition",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Delayed responses can occur with cognitive impairment, but are not specific to it.",
+      "whyNotBest": "A delay alone does not establish cognitive impairment.",
+      "keyDistinction": "Older adults can have sensory changes and slower neural responses while retaining knowledge and skills.",
+      "reviewFocus": "Sensory changes versus cognition",
+      "reviewReferences": [
+        {
+          "sourceId": "slides2",
+          "filename": "Lecture Slides- Life Span Development Part II.pdf",
+          "label": "Chapter 7 slides · Part 2",
+          "section": "Sensory changes versus cognition"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "topic": "Rooting reflex definition",
+      "learningObjectiveId": "CH07-LO02",
+      "sourceReferences": [
+        {
+          "sourceId": "slides1",
+          "locator": "Neonates and Infants · Reflexes"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides - Life Span Development Part I.pdf",
+          "label": "Chapter 7 slides · Part 1",
+          "section": "Neonates and Infants · Reflexes"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "id": "CH07-FB001",
+      "version": 2,
+      "format": "mcq",
+      "questionType": "recall",
+      "question": "Turning toward a touch on the cheek to seek food is the _____ reflex.",
+      "conceptId": "CH07-C031",
+      "reviewFocus": "Rooting reflex definition",
+      "includeInCourseExam": true,
+      "includeInLearning": false,
+      "sourceQuestionIds": [
+        "CH07-Q031"
+      ],
+      "difficulty": "moderate",
+      "correctAnswer": "A",
+      "explanation": "The rooting reflex turns the head toward a cheek stimulus; palmar grasp and Moro responses differ.",
+      "blankMultipleChoice": true,
+      "choices": [
+        {
+          "id": "A",
+          "text": "rooting"
+        },
+        {
+          "id": "B",
+          "text": "Moro"
+        },
+        {
+          "id": "C",
+          "text": "palmar grasp"
+        },
+        {
+          "id": "D",
+          "text": "sucking"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "Moro is the startle response.",
+        "C": "Palmar grasp closes the fingers around an object in the palm.",
+        "D": "Sucking is distinct from turning toward a cheek touch."
+      },
+      "retirementReason": "Duplicate recall of a fact already tested by a retained question."
+    },
+    {
+      "chapter": 7,
+      "topic": "Separation anxiety definition",
+      "learningObjectiveId": "CH07-LO03",
+      "sourceReferences": [
+        {
+          "sourceId": "slides1",
+          "locator": "Toddlers and Preschoolers · Psychosocial changes"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "slides1",
+          "filename": "Lecture Slides - Life Span Development Part I.pdf",
+          "label": "Chapter 7 slides · Part 1",
+          "section": "Toddlers and Preschoolers · Psychosocial changes"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "id": "CH07-FB002",
+      "version": 2,
+      "format": "mcq",
+      "questionType": "recall",
+      "question": "Distress when apart from a caregiver is called _____.",
+      "conceptId": "CH07-C032",
+      "reviewFocus": "Separation anxiety definition",
+      "includeInCourseExam": true,
+      "includeInLearning": false,
+      "sourceQuestionIds": [
+        "CH07-Q032"
+      ],
+      "difficulty": "moderate",
+      "correctAnswer": "A",
+      "explanation": "Separation anxiety is distress during separation; bonding, moral reasoning, and breathing development are different concepts.",
+      "blankMultipleChoice": true,
+      "choices": [
+        {
+          "id": "A",
+          "text": "separation anxiety"
+        },
+        {
+          "id": "B",
+          "text": "secure attachment"
+        },
+        {
+          "id": "C",
+          "text": "regression"
+        },
+        {
+          "id": "D",
+          "text": "conventional reasoning"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "Secure attachment is an emotional bond, not the name for separation distress.",
+        "C": "Regression is a return to an earlier developmental pattern.",
+        "D": "Conventional reasoning concerns social approval and rules."
+      },
+      "retirementReason": "Duplicate recall of a fact already tested by a retained question."
     }
   ],
-  "auditDate": "2026-10-08"
+  "auditDate": "2026-10-08",
+  "reviewStatus": "Question-quality audit completed; course-specific ranges identified; conflicting BLS items withheld."
 }

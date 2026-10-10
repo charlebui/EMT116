@@ -7,6 +7,7 @@ export function isAnswered(item,q){
  return Boolean(item.answer);
 }
 export function isCorrect(item,q){
+ if(item.guessed)return false;
  if(formatOf(q)==='active_recall')return isAnswered(item,q)&&item.selfRating==='correct'&&Boolean(String(item.response??'').trim());
  if(formatOf(q)==='fill_blank'){const value=normalizeAnswer(item.response);return Boolean(value)&&q.acceptedAnswers.some(a=>normalizeAnswer(a)===value);}
  return item.answer===q.correctAnswer;

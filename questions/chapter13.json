@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "bankVersion": "1.1.0",
+  "bankVersion": "1.2.0",
   "chapter": 13,
   "title": "Shock",
-  "updated": "2026-10-08",
+  "updated": "2026-10-10",
   "sources": [
     {
       "id": "outline",
@@ -27,25 +27,25 @@
       "id": "slides1",
       "filename": "Lecture Slides- Shock Part I.pdf",
       "role": "Lecture slides",
-      "label": "Chapter 13 slides \u00b7 Part 1"
+      "label": "Chapter 13 slides · Part 1"
     },
     {
       "id": "slides2",
       "filename": "Lecture Slides- Shock Part II.pdf",
       "role": "Lecture slides",
-      "label": "Chapter 13 slides \u00b7 Part 2"
+      "label": "Chapter 13 slides · Part 2"
     },
     {
       "id": "transcript1",
       "filename": "Shock Part I-English.txt",
       "role": "Lecture transcript",
-      "label": "Chapter 13 lecture \u00b7 Part 1"
+      "label": "Chapter 13 lecture · Part 1"
     },
     {
       "id": "transcript2",
       "filename": "Shock Part II-English.txt",
       "role": "Lecture transcript",
-      "label": "Chapter 13 lecture \u00b7 Part 2"
+      "label": "Chapter 13 lecture · Part 2"
     }
   ],
   "learningObjectives": [
@@ -59,55 +59,55 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Pathophysiology \u00b7 Shock definition"
+          "section": "Pathophysiology · Shock definition"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Pathophysiology \u00b7 Perfusion triangle"
+          "section": "Pathophysiology · Perfusion triangle"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Pathophysiology \u00b7 Waste removal in shock"
+          "section": "Pathophysiology · Waste removal in shock"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Pathophysiology \u00b7 Carbon dioxide transport"
+          "section": "Pathophysiology · Carbon dioxide transport"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Pathophysiology \u00b7 Sympathetic compensation"
+          "section": "Pathophysiology · Sympathetic compensation"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Pathophysiology \u00b7 Cool skin during compensation"
+          "section": "Pathophysiology · Cool skin during compensation"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Pathophysiology \u00b7 Pulse pressure calculation"
+          "section": "Pathophysiology · Pulse pressure calculation"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Pathophysiology \u00b7 Preload contractility afterload"
+          "section": "Pathophysiology · Preload contractility afterload"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Pathophysiology \u00b7 Shock: oxygen delivery, nutrients, and waste removal"
+          "section": "Pathophysiology · Shock: oxygen delivery, nutrients, and waste removal"
         },
         {
           "sourceId": "outline",
@@ -127,31 +127,31 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Causes of Shock \u00b7 Three basic causes"
+          "section": "Causes of Shock · Three basic causes"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Causes of Shock \u00b7 Nonhemorrhagic volume loss"
+          "section": "Causes of Shock · Nonhemorrhagic volume loss"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Causes of Shock \u00b7 Burn-related volume loss"
+          "section": "Causes of Shock · Burn-related volume loss"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Causes of Shock \u00b7 Internal loss risk"
+          "section": "Causes of Shock · Internal loss risk"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Causes of Shock \u00b7 Expanded vascular container"
+          "section": "Causes of Shock · Expanded vascular container"
         }
       ]
     },
@@ -165,115 +165,115 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Cardiogenic mechanism"
+          "section": "Types of Shock · Cardiogenic mechanism"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Cardiogenic pulmonary edema"
+          "section": "Types of Shock · Cardiogenic pulmonary edema"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Cardiogenic versus hypovolemic"
+          "section": "Types of Shock · Cardiogenic versus hypovolemic"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Obstructive causes"
+          "section": "Types of Shock · Obstructive causes"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Tamponade mechanism"
+          "section": "Types of Shock · Tamponade mechanism"
         },
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides- Shock Part I.pdf",
-          "label": "Chapter 13 slides \u00b7 Part 1",
-          "section": "Cardiac tamponade \u00b7 pericardial fluid and ventricular filling"
+          "label": "Chapter 13 slides · Part 1",
+          "section": "Cardiac tamponade · pericardial fluid and ventricular filling"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Tension pneumothorax mechanism"
+          "section": "Types of Shock · Tension pneumothorax mechanism"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Massive pulmonary embolism"
+          "section": "Types of Shock · Massive pulmonary embolism"
         },
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides- Shock Part I.pdf",
-          "label": "Chapter 13 slides \u00b7 Part 1",
-          "section": "Pulmonary embolism \u00b7 right-ventricular backup"
+          "label": "Chapter 13 slides · Part 1",
+          "section": "Pulmonary embolism · right-ventricular backup"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Distributive shock"
+          "section": "Types of Shock · Distributive shock"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Septic vascular dysfunction"
+          "section": "Types of Shock · Septic vascular dysfunction"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Sepsis as mixed vessel and volume problem"
+          "section": "Types of Shock · Sepsis as mixed vessel and volume problem"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Infection context"
+          "section": "Types of Shock · Infection context"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Neurogenic vessel control"
+          "section": "Types of Shock · Neurogenic vessel control"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Neurogenic clinical pattern"
+          "section": "Types of Shock · Neurogenic clinical pattern"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Anaphylactic multisystem findings"
+          "section": "Types of Shock · Anaphylactic multisystem findings"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Sensitization"
+          "section": "Types of Shock · Sensitization"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Psychogenic mechanism"
+          "section": "Types of Shock · Psychogenic mechanism"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Hemorrhagic versus nonhemorrhagic"
+          "section": "Types of Shock · Hemorrhagic versus nonhemorrhagic"
         },
         {
           "sourceId": "outline",
@@ -293,67 +293,67 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "The Progression of Shock \u00b7 Compensated shock with maintained pressure"
+          "section": "The Progression of Shock · Compensated shock with maintained pressure"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "The Progression of Shock \u00b7 Decompensation trend"
+          "section": "The Progression of Shock · Decompensation trend"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "The Progression of Shock \u00b7 Peripheral pulses in late shock"
+          "section": "The Progression of Shock · Peripheral pulses in late shock"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "The Progression of Shock \u00b7 Pediatric hypotension"
+          "section": "The Progression of Shock · Pediatric hypotension"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "The Progression of Shock \u00b7 Delayed capillary refill"
+          "section": "The Progression of Shock · Delayed capillary refill"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "The Progression of Shock \u00b7 Warm skin exception"
+          "section": "The Progression of Shock · Warm skin exception"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "The Progression of Shock \u00b7 Symptoms as warning findings"
+          "section": "The Progression of Shock · Symptoms as warning findings"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "The Progression of Shock \u00b7 No field proof of irreversibility"
+          "section": "The Progression of Shock · No field proof of irreversibility"
         },
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides- Shock Part I.pdf",
-          "label": "Chapter 13 slides \u00b7 Part 1",
-          "section": "Progression of shock \u00b7 no way to assess irreversibility"
+          "label": "Chapter 13 slides · Part 1",
+          "section": "Progression of shock · no way to assess irreversibility"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "The Progression of Shock \u00b7 Older-patient medication effects"
+          "section": "The Progression of Shock · Older-patient medication effects"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "The Progression of Shock \u00b7 Narrowing pulse pressure trend"
+          "section": "The Progression of Shock · Narrowing pulse pressure trend"
         }
       ]
     },
@@ -367,43 +367,43 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Patient Assessment for Shock \u00b7 Immediate hemorrhage priority"
+          "section": "Patient Assessment for Shock · Immediate hemorrhage priority"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Patient Assessment for Shock \u00b7 Cause-focused history"
+          "section": "Patient Assessment for Shock · Cause-focused history"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Patient Assessment for Shock \u00b7 Distal then central pulse"
+          "section": "Patient Assessment for Shock · Distal then central pulse"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Patient Assessment for Shock \u00b7 High-risk mechanism before obvious signs"
+          "section": "Patient Assessment for Shock · High-risk mechanism before obvious signs"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Patient Assessment for Shock \u00b7 Secondary examination timing"
+          "section": "Patient Assessment for Shock · Secondary examination timing"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Patient Assessment for Shock \u00b7 Reassessment components"
+          "section": "Patient Assessment for Shock · Reassessment components"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Patient Assessment for Shock \u00b7 Deterioration changes the plan"
+          "section": "Patient Assessment for Shock · Deterioration changes the plan"
         }
       ]
     },
@@ -417,85 +417,85 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Bleeding despite direct pressure"
+          "section": "Emergency Medical Care for Shock · Bleeding despite direct pressure"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Internal bleeding care"
+          "section": "Emergency Medical Care for Shock · Internal bleeding care"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Inadequate ventilation in shock"
+          "section": "Emergency Medical Care for Shock · Inadequate ventilation in shock"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Preventing heat loss"
+          "section": "Emergency Medical Care for Shock · Preventing heat loss"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Oral intake during shock"
+          "section": "Emergency Medical Care for Shock · Oral intake during shock"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Cardiogenic positioning"
+          "section": "Emergency Medical Care for Shock · Cardiogenic positioning"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Nitroglycerin with cardiogenic hypotension"
+          "section": "Emergency Medical Care for Shock · Nitroglycerin with cardiogenic hypotension"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Tension pneumothorax and ALS timing"
+          "section": "Emergency Medical Care for Shock · Tension pneumothorax and ALS timing"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Septic shock handoff"
+          "section": "Emergency Medical Care for Shock · Septic shock handoff"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Neurogenic supportive care"
+          "section": "Emergency Medical Care for Shock · Neurogenic supportive care"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Anaphylaxis and exposure history priority"
+          "section": "Emergency Medical Care for Shock · Anaphylaxis and exposure history priority"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Fainting and injury assessment"
+          "section": "Emergency Medical Care for Shock · Fainting and injury assessment"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Scheduled reassessment and new changes"
+          "section": "Emergency Medical Care for Shock · Scheduled reassessment and new changes"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Tamponade: support versus definitive treatment"
+          "section": "Emergency Medical Care for Shock · Tamponade: support versus definitive treatment"
         }
       ]
     }
@@ -552,9 +552,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Pathophysiology \u00b7 Shock definition"
+          "section": "Pathophysiology · Shock definition"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Shock definition"
+      }
     },
     {
       "id": "CH13-Q002",
@@ -607,9 +619,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Pathophysiology \u00b7 Perfusion triangle"
+          "section": "Pathophysiology · Perfusion triangle"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Perfusion triangle"
+      }
     },
     {
       "id": "CH13-Q003",
@@ -662,9 +686,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Pathophysiology \u00b7 Waste removal in shock"
+          "section": "Pathophysiology · Waste removal in shock"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Waste removal in shock"
+      }
     },
     {
       "id": "CH13-Q004",
@@ -717,9 +753,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Pathophysiology \u00b7 Carbon dioxide transport"
+          "section": "Pathophysiology · Carbon dioxide transport"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Carbon dioxide transport"
+      }
     },
     {
       "id": "CH13-Q005",
@@ -772,9 +820,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Pathophysiology \u00b7 Sympathetic compensation"
+          "section": "Pathophysiology · Sympathetic compensation"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Sympathetic compensation"
+      }
     },
     {
       "id": "CH13-Q006",
@@ -827,9 +887,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Pathophysiology \u00b7 Cool skin during compensation"
+          "section": "Pathophysiology · Cool skin during compensation"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Cool skin during compensation"
+      }
     },
     {
       "id": "CH13-Q007",
@@ -840,7 +912,7 @@
       "learningObjectiveId": "CH13-LO01",
       "questionType": "multi_step",
       "difficulty": "challenging",
-      "question": "A patient\u2019s blood pressure is 102/82 mm Hg. What is the pulse pressure, and how should it be interpreted in the shock assessment?",
+      "question": "A patient’s blood pressure is 102/82 mm Hg. What is the pulse pressure, and how should it be interpreted in the shock assessment?",
       "choices": [
         {
           "id": "A",
@@ -860,7 +932,7 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Pulse pressure is systolic minus diastolic: 102 \u2212 82 = 20. A value below 25 may occur in shock but is not a standalone diagnosis.",
+      "explanation": "Pulse pressure is systolic minus diastolic: 102 − 82 = 20. A value below 25 may occur in shock but is not a standalone diagnosis.",
       "incorrectChoiceExplanations": {
         "B": "82 is the diastolic pressure, not the difference.",
         "C": "102 is the systolic pressure.",
@@ -882,9 +954,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Pathophysiology \u00b7 Pulse pressure calculation"
+          "section": "Pathophysiology · Pulse pressure calculation"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Pulse pressure calculation"
+      }
     },
     {
       "id": "CH13-Q008",
@@ -937,9 +1021,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Pathophysiology \u00b7 Preload contractility afterload"
+          "section": "Pathophysiology · Preload contractility afterload"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Preload contractility afterload"
+      }
     },
     {
       "id": "CH13-Q009",
@@ -992,9 +1088,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Causes of Shock \u00b7 Three basic causes"
+          "section": "Causes of Shock · Three basic causes"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Three basic causes"
+      }
     },
     {
       "id": "CH13-Q010",
@@ -1047,9 +1155,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Causes of Shock \u00b7 Nonhemorrhagic volume loss"
+          "section": "Causes of Shock · Nonhemorrhagic volume loss"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Nonhemorrhagic volume loss"
+      }
     },
     {
       "id": "CH13-Q011",
@@ -1093,7 +1213,7 @@
         },
         {
           "sourceId": "quiz",
-          "locator": "Question 9 \u00b7 plasma loss in burns"
+          "locator": "Question 9 · plasma loss in burns"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -1106,9 +1226,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Causes of Shock \u00b7 Burn-related volume loss"
+          "section": "Causes of Shock · Burn-related volume loss"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Burn-related volume loss"
+      }
     },
     {
       "id": "CH13-Q012",
@@ -1161,9 +1293,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Causes of Shock \u00b7 Internal loss risk"
+          "section": "Causes of Shock · Internal loss risk"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Internal loss risk"
+      }
     },
     {
       "id": "CH13-Q013",
@@ -1216,9 +1360,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Causes of Shock \u00b7 Expanded vascular container"
+          "section": "Causes of Shock · Expanded vascular container"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Expanded vascular container"
+      }
     },
     {
       "id": "CH13-Q014",
@@ -1271,9 +1427,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Cardiogenic mechanism"
+          "section": "Types of Shock · Cardiogenic mechanism"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Cardiogenic mechanism"
+      }
     },
     {
       "id": "CH13-Q015",
@@ -1326,9 +1494,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Cardiogenic pulmonary edema"
+          "section": "Types of Shock · Cardiogenic pulmonary edema"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Cardiogenic pulmonary edema"
+      }
     },
     {
       "id": "CH13-Q016",
@@ -1381,9 +1561,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Cardiogenic versus hypovolemic"
+          "section": "Types of Shock · Cardiogenic versus hypovolemic"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Cardiogenic versus hypovolemic"
+      }
     },
     {
       "id": "CH13-Q017",
@@ -1436,9 +1628,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Obstructive causes"
+          "section": "Types of Shock · Obstructive causes"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Obstructive causes"
+      }
     },
     {
       "id": "CH13-Q018",
@@ -1482,7 +1686,7 @@
         },
         {
           "sourceId": "slides1",
-          "locator": "Cardiac tamponade \u00b7 pericardial fluid and ventricular filling"
+          "locator": "Cardiac tamponade · pericardial fluid and ventricular filling"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -1495,15 +1699,27 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Tamponade mechanism"
+          "section": "Types of Shock · Tamponade mechanism"
         },
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides- Shock Part I.pdf",
-          "label": "Chapter 13 slides \u00b7 Part 1",
-          "section": "Cardiac tamponade \u00b7 pericardial fluid and ventricular filling"
+          "label": "Chapter 13 slides · Part 1",
+          "section": "Cardiac tamponade · pericardial fluid and ventricular filling"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Tamponade mechanism"
+      }
     },
     {
       "id": "CH13-Q019",
@@ -1547,7 +1763,7 @@
         },
         {
           "sourceId": "transcript1",
-          "locator": "Tension pneumothorax \u00b7 pressure on heart and great vessels"
+          "locator": "Tension pneumothorax · pressure on heart and great vessels"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -1560,9 +1776,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Tension pneumothorax mechanism"
+          "section": "Types of Shock · Tension pneumothorax mechanism"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Tension pneumothorax mechanism"
+      }
     },
     {
       "id": "CH13-Q020",
@@ -1606,7 +1834,7 @@
         },
         {
           "sourceId": "slides1",
-          "locator": "Pulmonary embolism \u00b7 right-ventricular backup"
+          "locator": "Pulmonary embolism · right-ventricular backup"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -1619,15 +1847,27 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Massive pulmonary embolism"
+          "section": "Types of Shock · Massive pulmonary embolism"
         },
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides- Shock Part I.pdf",
-          "label": "Chapter 13 slides \u00b7 Part 1",
-          "section": "Pulmonary embolism \u00b7 right-ventricular backup"
+          "label": "Chapter 13 slides · Part 1",
+          "section": "Pulmonary embolism · right-ventricular backup"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Massive pulmonary embolism"
+      }
     },
     {
       "id": "CH13-Q021",
@@ -1680,9 +1920,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Distributive shock"
+          "section": "Types of Shock · Distributive shock"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Distributive shock"
+      }
     },
     {
       "id": "CH13-Q022",
@@ -1735,9 +1987,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Septic vascular dysfunction"
+          "section": "Types of Shock · Septic vascular dysfunction"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Septic vascular dysfunction"
+      }
     },
     {
       "id": "CH13-Q023",
@@ -1790,9 +2054,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Sepsis as mixed vessel and volume problem"
+          "section": "Types of Shock · Sepsis as mixed vessel and volume problem"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Sepsis as mixed vessel and volume problem"
+      }
     },
     {
       "id": "CH13-Q024",
@@ -1836,7 +2112,7 @@
         },
         {
           "sourceId": "transcript1",
-          "locator": "Septic shock \u00b7 infection, fever, altered mental status, and low blood pressure"
+          "locator": "Septic shock · infection, fever, altered mental status, and low blood pressure"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -1849,9 +2125,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Infection context"
+          "section": "Types of Shock · Infection context"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Infection context"
+      }
     },
     {
       "id": "CH13-Q025",
@@ -1904,9 +2192,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Neurogenic vessel control"
+          "section": "Types of Shock · Neurogenic vessel control"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Neurogenic vessel control"
+      }
     },
     {
       "id": "CH13-Q026",
@@ -1950,7 +2250,7 @@
         },
         {
           "sourceId": "transcript1",
-          "locator": "Neurogenic shock \u00b7 low pressure, slow heart rate, warm dry skin"
+          "locator": "Neurogenic shock · low pressure, slow heart rate, warm dry skin"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -1963,9 +2263,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Neurogenic clinical pattern"
+          "section": "Types of Shock · Neurogenic clinical pattern"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Neurogenic clinical pattern"
+      }
     },
     {
       "id": "CH13-Q027",
@@ -2009,7 +2321,7 @@
         },
         {
           "sourceId": "transcript1",
-          "locator": "Anaphylactic shock \u00b7 signs by body system"
+          "locator": "Anaphylactic shock · signs by body system"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -2022,9 +2334,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Anaphylactic multisystem findings"
+          "section": "Types of Shock · Anaphylactic multisystem findings"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Anaphylactic multisystem findings"
+      }
     },
     {
       "id": "CH13-Q028",
@@ -2077,9 +2401,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Sensitization"
+          "section": "Types of Shock · Sensitization"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Sensitization"
+      }
     },
     {
       "id": "CH13-Q029",
@@ -2132,9 +2468,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Psychogenic mechanism"
+          "section": "Types of Shock · Psychogenic mechanism"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Psychogenic mechanism"
+      }
     },
     {
       "id": "CH13-Q030",
@@ -2187,9 +2535,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Hemorrhagic versus nonhemorrhagic"
+          "section": "Types of Shock · Hemorrhagic versus nonhemorrhagic"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Hemorrhagic versus nonhemorrhagic"
+      }
     },
     {
       "id": "CH13-Q031",
@@ -2242,9 +2602,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "The Progression of Shock \u00b7 Compensated shock with maintained pressure"
+          "section": "The Progression of Shock · Compensated shock with maintained pressure"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Compensated shock with maintained pressure"
+      }
     },
     {
       "id": "CH13-Q032",
@@ -2297,9 +2669,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "The Progression of Shock \u00b7 Decompensation trend"
+          "section": "The Progression of Shock · Decompensation trend"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Decompensation trend"
+      }
     },
     {
       "id": "CH13-Q033",
@@ -2343,7 +2727,7 @@
         },
         {
           "sourceId": "quiz",
-          "locator": "Questions 6 and 21 \u00b7 absent peripheral pulses"
+          "locator": "Questions 6 and 21 · absent peripheral pulses"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -2356,9 +2740,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "The Progression of Shock \u00b7 Peripheral pulses in late shock"
+          "section": "The Progression of Shock · Peripheral pulses in late shock"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Peripheral pulses in late shock"
+      }
     },
     {
       "id": "CH13-Q034",
@@ -2411,9 +2807,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "The Progression of Shock \u00b7 Pediatric hypotension"
+          "section": "The Progression of Shock · Pediatric hypotension"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Pediatric hypotension"
+      }
     },
     {
       "id": "CH13-Q035",
@@ -2457,7 +2865,7 @@
         },
         {
           "sourceId": "quiz",
-          "locator": "Question 11 \u00b7 pediatric capillary refill"
+          "locator": "Question 11 · pediatric capillary refill"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -2470,9 +2878,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "The Progression of Shock \u00b7 Delayed capillary refill"
+          "section": "The Progression of Shock · Delayed capillary refill"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Delayed capillary refill"
+      }
     },
     {
       "id": "CH13-Q036",
@@ -2525,9 +2945,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "The Progression of Shock \u00b7 Warm skin exception"
+          "section": "The Progression of Shock · Warm skin exception"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Warm skin exception"
+      }
     },
     {
       "id": "CH13-Q037",
@@ -2571,7 +3003,7 @@
         },
         {
           "sourceId": "transcript1",
-          "locator": "Compensated shock table \u00b7 thirst, anxiety, weak rapid pulse"
+          "locator": "Compensated shock table · thirst, anxiety, weak rapid pulse"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -2584,9 +3016,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "The Progression of Shock \u00b7 Symptoms as warning findings"
+          "section": "The Progression of Shock · Symptoms as warning findings"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Symptoms as warning findings"
+      }
     },
     {
       "id": "CH13-Q038",
@@ -2630,7 +3074,7 @@
         },
         {
           "sourceId": "slides1",
-          "locator": "Progression of shock \u00b7 no way to assess irreversibility"
+          "locator": "Progression of shock · no way to assess irreversibility"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -2643,15 +3087,27 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "The Progression of Shock \u00b7 No field proof of irreversibility"
+          "section": "The Progression of Shock · No field proof of irreversibility"
         },
         {
           "sourceId": "slides1",
           "filename": "Lecture Slides- Shock Part I.pdf",
-          "label": "Chapter 13 slides \u00b7 Part 1",
-          "section": "Progression of shock \u00b7 no way to assess irreversibility"
+          "label": "Chapter 13 slides · Part 1",
+          "section": "Progression of shock · no way to assess irreversibility"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "No field proof of irreversibility"
+      }
     },
     {
       "id": "CH13-Q039",
@@ -2704,9 +3160,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "The Progression of Shock \u00b7 Older-patient medication effects"
+          "section": "The Progression of Shock · Older-patient medication effects"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Older-patient medication effects"
+      }
     },
     {
       "id": "CH13-Q040",
@@ -2717,7 +3185,7 @@
       "learningObjectiveId": "CH13-LO04",
       "questionType": "multi_step",
       "difficulty": "challenging",
-      "question": "A patient\u2019s pressures change from 120/80 to 108/88 mm Hg while restlessness and pallor increase. How does the pressure trend add to the assessment?",
+      "question": "A patient’s pressures change from 120/80 to 108/88 mm Hg while restlessness and pallor increase. How does the pressure trend add to the assessment?",
       "choices": [
         {
           "id": "A",
@@ -2759,9 +3227,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "The Progression of Shock \u00b7 Narrowing pulse pressure trend"
+          "section": "The Progression of Shock · Narrowing pulse pressure trend"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Narrowing pulse pressure trend"
+      }
     },
     {
       "id": "CH13-Q041",
@@ -2818,9 +3298,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Patient Assessment for Shock \u00b7 Immediate hemorrhage priority"
+          "section": "Patient Assessment for Shock · Immediate hemorrhage priority"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Immediate hemorrhage priority"
+      }
     },
     {
       "id": "CH13-Q042",
@@ -2877,9 +3369,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Patient Assessment for Shock \u00b7 Cause-focused history"
+          "section": "Patient Assessment for Shock · Cause-focused history"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Cause-focused history"
+      }
     },
     {
       "id": "CH13-Q043",
@@ -2932,9 +3436,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Patient Assessment for Shock \u00b7 Distal then central pulse"
+          "section": "Patient Assessment for Shock · Distal then central pulse"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Distal then central pulse"
+      }
     },
     {
       "id": "CH13-Q044",
@@ -2991,9 +3507,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Patient Assessment for Shock \u00b7 High-risk mechanism before obvious signs"
+          "section": "Patient Assessment for Shock · High-risk mechanism before obvious signs"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "High-risk mechanism before obvious signs"
+      }
     },
     {
       "id": "CH13-Q045",
@@ -3050,9 +3578,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Patient Assessment for Shock \u00b7 Secondary examination timing"
+          "section": "Patient Assessment for Shock · Secondary examination timing"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Secondary examination timing"
+      }
     },
     {
       "id": "CH13-Q046",
@@ -3105,9 +3645,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Patient Assessment for Shock \u00b7 Reassessment components"
+          "section": "Patient Assessment for Shock · Reassessment components"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Reassessment components"
+      }
     },
     {
       "id": "CH13-Q047",
@@ -3118,7 +3670,7 @@
       "learningObjectiveId": "CH13-LO05",
       "questionType": "multi_step",
       "difficulty": "challenging",
-      "question": "During transport, a shock patient\u2019s mental status declines and breathing becomes shallow. What should the EMT reassess and address first?",
+      "question": "During transport, a shock patient’s mental status declines and breathing becomes shallow. What should the EMT reassess and address first?",
       "choices": [
         {
           "id": "A",
@@ -3160,44 +3712,56 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Patient Assessment for Shock \u00b7 Deterioration changes the plan"
+          "section": "Patient Assessment for Shock · Deterioration changes the plan"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Deterioration changes the plan"
+      }
     },
     {
       "id": "CH13-Q048",
-      "version": 2,
+      "version": 3,
       "chapter": 13,
       "topic": "Bleeding despite direct pressure",
       "conceptId": "CH13-C048",
       "learningObjectiveId": "CH13-LO06",
       "questionType": "best_answer",
       "difficulty": "challenging",
-      "question": "Life-threatening bleeding from an extremity continues despite effective direct pressure. Which intervention addresses the unresolved threat?",
+      "question": "Direct pressure has not quickly controlled life-threatening bleeding from an extremity. Which intervention best addresses the continuing blood loss?",
       "choices": [
         {
           "id": "A",
-          "text": "A tourniquet"
+          "text": "Apply a tourniquet"
         },
         {
           "id": "B",
-          "text": "An additional loose dressing"
+          "text": "Apply a pressure dressing and continue monitoring before escalating"
         },
         {
           "id": "C",
-          "text": "Limb elevation alone"
+          "text": "Elevate the limb while a partner obtains baseline vital signs"
         },
         {
           "id": "D",
-          "text": "A nonrebreathing mask"
+          "text": "Give oxygen and proceed with the secondary examination"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Persistent life-threatening extremity bleeding requires effective hemorrhage control; a tourniquet can address it.",
+      "explanation": "Persistent life-threatening extremity bleeding needs effective hemorrhage control. Do not delay indicated tourniquet use for monitoring or other supportive measures.",
       "incorrectChoiceExplanations": {
-        "B": "A loose dressing does not control the persistent severe hemorrhage.",
-        "C": "Elevation alone does not replace needed hemorrhage control.",
-        "D": "Oxygen does not stop the blood loss."
+        "B": "A dressing can support bleeding control, but persistent life-threatening bleeding after pressure calls for escalation.",
+        "C": "Elevation and vital signs do not control the unresolved hemorrhage.",
+        "D": "Oxygen and examination do not stop blood loss."
       },
       "sourceReferences": [
         {
@@ -3206,26 +3770,38 @@
         },
         {
           "sourceId": "quiz",
-          "locator": "Question 1 \u00b7 tourniquet for persistent wrist bleeding"
+          "locator": "Question 1 · tourniquet for persistent wrist bleeding"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "Bleeding despite direct pressure",
+      "diagnosticIntent": "Escalate hemorrhage control when direct pressure is not quickly effective.",
       "secondMostPlausibleAnswer": "B",
-      "whyTempting": "Additional dressings may seem like the next step after direct pressure.",
-      "whyNotBest": "A loose dressing does not control the persistent severe hemorrhage.",
-      "keyDistinction": "Persistent life-threatening extremity bleeding requires effective hemorrhage control; a tourniquet can address it.",
+      "whyTempting": "A pressure dressing can help in other wounds, but the severity and failed pressure determine escalation.",
+      "whyNotBest": "A dressing can support bleeding control, but persistent life-threatening bleeding after pressure calls for escalation.",
+      "keyDistinction": "Persistent life-threatening extremity bleeding needs effective hemorrhage control. Do not delay indicated tourniquet use for monitoring or other supportive measures.",
       "reviewFocus": "Bleeding despite direct pressure",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Bleeding despite direct pressure"
+          "section": "Emergency Medical Care for Shock · Bleeding despite direct pressure"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Escalate hemorrhage control when direct pressure is not quickly effective."
+      }
     },
     {
       "id": "CH13-Q049",
@@ -3282,9 +3858,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Internal bleeding care"
+          "section": "Emergency Medical Care for Shock · Internal bleeding care"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Internal bleeding care"
+      }
     },
     {
       "id": "CH13-Q050",
@@ -3341,9 +3929,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Inadequate ventilation in shock"
+          "section": "Emergency Medical Care for Shock · Inadequate ventilation in shock"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Inadequate ventilation in shock"
+      }
     },
     {
       "id": "CH13-Q051",
@@ -3396,9 +3996,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Preventing heat loss"
+          "section": "Emergency Medical Care for Shock · Preventing heat loss"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Preventing heat loss"
+      }
     },
     {
       "id": "CH13-Q052",
@@ -3451,44 +4063,56 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Oral intake during shock"
+          "section": "Emergency Medical Care for Shock · Oral intake during shock"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Oral intake during shock"
+      }
     },
     {
       "id": "CH13-Q053",
-      "version": 1,
+      "version": 2,
       "chapter": 13,
       "topic": "Cardiogenic positioning",
       "conceptId": "CH13-C053",
       "learningObjectiveId": "CH13-LO06",
       "questionType": "best_answer",
       "difficulty": "challenging",
-      "question": "An alert patient with cardiogenic shock is severely short of breath and cannot tolerate lying flat. How should positioning be selected?",
+      "question": "An alert patient with cardiogenic shock is severely short of breath and becomes more distressed when laid flat. What should guide positioning?",
       "choices": [
         {
           "id": "A",
-          "text": "Use a position that eases breathing while providing support and monitoring perfusion"
+          "text": "Choose a supported position that eases breathing and reassess perfusion"
         },
         {
           "id": "B",
-          "text": "Require the supine position solely because all shock patients should lie flat"
+          "text": "Keep the patient flat because that is the usual general shock position"
         },
         {
           "id": "C",
-          "text": "Have the patient walk to improve circulation"
+          "text": "Elevate the legs while keeping the torso flat to maximize venous return"
         },
         {
           "id": "D",
-          "text": "Choose a position without considering breathing or blood pressure"
+          "text": "Use the upright position and stop monitoring pressure once breathing feels easier"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Cardiogenic care specifically includes a position that eases breathing, with ongoing support and assessment.",
+      "explanation": "The general positioning approach must be adapted to the patient’s breathing needs. Positioning for comfort does not remove the need to monitor perfusion.",
       "incorrectChoiceExplanations": {
-        "B": "The general supine preference does not override the patient\u2019s breathing difficulty.",
-        "C": "Exertion is not appropriate support for a poorly perfused patient.",
-        "D": "Positioning must consider the patient\u2019s actual condition."
+        "B": "A general preference does not override worsening respiratory distress when flat.",
+        "C": "The patient cannot tolerate a flat torso; this change does not address that problem.",
+        "D": "Improved comfort does not establish stable circulation."
       },
       "sourceReferences": [
         {
@@ -3499,20 +4123,32 @@
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "Cardiogenic positioning",
+      "diagnosticIntent": "Adapt shock positioning to cardiogenic respiratory distress.",
       "secondMostPlausibleAnswer": "B",
-      "whyTempting": "Supine positioning is a general shock measure, but this patient\u2019s breathing requires an appropriate adjustment.",
-      "whyNotBest": "The general supine preference does not override the patient\u2019s breathing difficulty.",
-      "keyDistinction": "Cardiogenic care specifically includes a position that eases breathing, with ongoing support and assessment.",
+      "whyTempting": "Supine positioning is a familiar shock measure, but this patient cannot tolerate it.",
+      "whyNotBest": "A general preference does not override worsening respiratory distress when flat.",
+      "keyDistinction": "The general positioning approach must be adapted to the patient’s breathing needs. Positioning for comfort does not remove the need to monitor perfusion.",
       "reviewFocus": "Cardiogenic positioning",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Cardiogenic positioning"
+          "section": "Emergency Medical Care for Shock · Cardiogenic positioning"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Adapt shock positioning to cardiogenic respiratory distress."
+      }
     },
     {
       "id": "CH13-Q054",
@@ -3545,7 +4181,7 @@
       "correctAnswer": "A",
       "explanation": "The supplied cardiogenic-shock care excludes nitroglycerin in the hypotensive patient.",
       "incorrectChoiceExplanations": {
-        "B": "Nitroglycerin\u2019s concern here is hypotension, not increased clot formation.",
+        "B": "Nitroglycerin’s concern here is hypotension, not increased clot formation.",
         "C": "It relaxes coronary vessels rather than constricting them.",
         "D": "Venous relaxation reduces venous return."
       },
@@ -3565,9 +4201,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Nitroglycerin with cardiogenic hypotension"
+          "section": "Emergency Medical Care for Shock · Nitroglycerin with cardiogenic hypotension"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Nitroglycerin with cardiogenic hypotension"
+      }
     },
     {
       "id": "CH13-Q055",
@@ -3624,9 +4272,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Tension pneumothorax and ALS timing"
+          "section": "Emergency Medical Care for Shock · Tension pneumothorax and ALS timing"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Tension pneumothorax and ALS timing"
+      }
     },
     {
       "id": "CH13-Q056",
@@ -3679,9 +4339,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Septic shock handoff"
+          "section": "Emergency Medical Care for Shock · Septic shock handoff"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Septic shock handoff"
+      }
     },
     {
       "id": "CH13-Q057",
@@ -3734,9 +4406,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Neurogenic supportive care"
+          "section": "Emergency Medical Care for Shock · Neurogenic supportive care"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Neurogenic supportive care"
+      }
     },
     {
       "id": "CH13-Q058",
@@ -3793,44 +4477,56 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Anaphylaxis and exposure history priority"
+          "section": "Emergency Medical Care for Shock · Anaphylaxis and exposure history priority"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Anaphylaxis and exposure history priority"
+      }
     },
     {
       "id": "CH13-Q059",
-      "version": 1,
+      "version": 2,
       "chapter": 13,
       "topic": "Fainting and injury assessment",
       "conceptId": "CH13-C059",
       "learningObjectiveId": "CH13-LO06",
       "questionType": "best_answer",
       "difficulty": "challenging",
-      "question": "An older patient fainted after an upsetting event and now appears alert, but reports being unable to walk after the fall. What approach is appropriate?",
+      "question": "An older patient briefly fainted after an upsetting event. They are alert again but now cannot walk because of pain after the fall. What is the best plan?",
       "choices": [
         {
           "id": "A",
-          "text": "Assess for injury and other serious causes, and arrange prompt evaluation rather than assuming uncomplicated fainting"
+          "text": "Assess for injury and other causes of syncope and arrange prompt evaluation"
         },
         {
           "id": "B",
-          "text": "Treat the emotional trigger as proof that no injury assessment is needed"
+          "text": "Use the emotional trigger and recovery of consciousness to classify the episode as uncomplicated fainting"
         },
         {
           "id": "C",
-          "text": "Ask the patient to walk repeatedly to confirm the event was psychogenic"
+          "text": "Help the patient stand to see whether walking returns before assessing injuries"
         },
         {
           "id": "D",
-          "text": "Cancel transport solely because consciousness returned"
+          "text": "Focus on injury alone because recovery of consciousness excludes another medical cause"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Recovery of consciousness does not exclude injury or a serious cause of syncope, especially with a new functional deficit.",
+      "explanation": "The emotional trigger may be relevant, but neither it nor recovery excludes injury or a serious cause of syncope. Assess both the fall and the preceding event.",
       "incorrectChoiceExplanations": {
-        "B": "A trigger does not rule out injury from the fall.",
-        "C": "Repeated forced walking is not the appropriate response to a possible injury.",
-        "D": "The patient still needs evaluation."
+        "B": "A plausible trigger does not exclude competing causes or the new injury concern.",
+        "C": "Do not use a walking trial before assessing a possible injury.",
+        "D": "The underlying medical event still needs evaluation."
       },
       "sourceReferences": [
         {
@@ -3841,20 +4537,32 @@
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "Fainting and injury assessment",
+      "diagnosticIntent": "Avoid closing the assessment after an apparent emotional faint.",
       "secondMostPlausibleAnswer": "B",
-      "whyTempting": "The emotional trigger may explain a brief faint, but it does not explain away the post-fall deficit.",
-      "whyNotBest": "A trigger does not rule out injury from the fall.",
-      "keyDistinction": "Recovery of consciousness does not exclude injury or a serious cause of syncope, especially with a new functional deficit.",
+      "whyTempting": "The trigger fits a transient faint, but the new post-fall deficit requires further evaluation.",
+      "whyNotBest": "A plausible trigger does not exclude competing causes or the new injury concern.",
+      "keyDistinction": "The emotional trigger may be relevant, but neither it nor recovery excludes injury or a serious cause of syncope. Assess both the fall and the preceding event.",
       "reviewFocus": "Fainting and injury assessment",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Fainting and injury assessment"
+          "section": "Emergency Medical Care for Shock · Fainting and injury assessment"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Avoid closing the assessment after an apparent emotional faint."
+      }
     },
     {
       "id": "CH13-Q060",
@@ -3907,9 +4615,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Scheduled reassessment and new changes"
+          "section": "Emergency Medical Care for Shock · Scheduled reassessment and new changes"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Scheduled reassessment and new changes"
+      }
     },
     {
       "id": "CH13-Q061",
@@ -3962,13 +4682,25 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Pathophysiology \u00b7 Shock: oxygen delivery, nutrients, and waste removal"
+          "section": "Pathophysiology · Shock: oxygen delivery, nutrients, and waste removal"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Shock: oxygen delivery, nutrients, and waste removal"
+      }
     },
     {
       "id": "CH13-Q062",
-      "version": 2,
+      "version": 3,
       "chapter": 13,
       "topic": "Tamponade: support versus definitive treatment",
       "conceptId": "CH13-C062",
@@ -3995,7 +4727,7 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Tamponade restricts cardiac filling and can cause obstructive shock. Oxygen and other EMT support help sustain the patient, but definitive treatment requires surgery. With worsening perfusion, provide support and begin prompt transport; arrange ALS assistance without postponing needed definitive care.",
+      "explanation": "Tamponade restricts cardiac filling and can cause obstructive shock. Oxygen and EMT support do not relieve that restriction. With worsening perfusion, begin prompt transport for treatment of the cause and arrange ALS assistance without postponing needed care.",
       "incorrectChoiceExplanations": {
         "B": "ALS support may be useful, but waiting postpones definitive care for a deteriorating patient. Arrange assistance while transport proceeds when available.",
         "C": "Oxygen saturation does not establish adequate blood flow. Even an improved oxygen reading does not correct the fluid restricting cardiac filling.",
@@ -4004,26 +4736,38 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VI.D. Secondary assessment; VII.A\u2013C. Shock care and cardiac tamponade"
+          "locator": "VI.D. Secondary assessment; VII.A–C. Shock care and cardiac tamponade"
         }
       ],
       "verificationStatus": "Reviewed against uploaded class material; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
       "diagnosticIntent": "Prioritize definitive care over waiting for potentially useful field support",
-      "reviewFocus": "Tamponade \u00b7 transport versus waiting for ALS",
+      "reviewFocus": "Tamponade · transport versus waiting for ALS",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Tamponade: support versus definitive treatment"
+          "section": "Emergency Medical Care for Shock · Tamponade: support versus definitive treatment"
         }
       ],
       "secondMostPlausibleAnswer": "B",
       "whyTempting": "ALS can offer additional monitoring and support for a critically ill patient, so waiting for that help may initially seem safer.",
       "whyNotBest": "ALS support may be useful, but waiting postpones definitive care for a deteriorating patient. Arrange assistance while transport proceeds when available.",
-      "keyDistinction": "Tamponade restricts cardiac filling and can cause obstructive shock. Oxygen and other EMT support help sustain the patient, but definitive treatment requires surgery. With worsening perfusion, provide support and begin prompt transport; arrange ALS assistance without postponing needed definitive care."
+      "keyDistinction": "Supportive oxygen does not relieve restricted cardiac filling; deteriorating perfusion requires prompt transport for treatment of the cause.",
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Prioritize definitive care over waiting for potentially useful field support"
+      }
     },
     {
       "id": "CH13-Q063",
@@ -4079,7 +4823,19 @@
           "label": "Chapter 13 outline",
           "section": "IV.C. Psychogenic shock"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Syncope definition"
+      }
     },
     {
       "id": "CH13-Q064",
@@ -4135,246 +4891,18 @@
           "label": "Chapter 13 outline",
           "section": "II. Pathophysiology"
         }
-      ]
-    },
-    {
-      "chapter": 13,
-      "topic": "Pulse pressure definition",
-      "learningObjectiveId": "CH13-LO01",
-      "sourceReferences": [
-        {
-          "sourceId": "outline",
-          "locator": "II. Pathophysiology"
-        }
       ],
-      "reviewReferences": [
-        {
-          "sourceId": "outline",
-          "filename": "9781284243796_LOUT_CH13(1).docx",
-          "label": "Chapter 13 outline",
-          "section": "II. Pathophysiology"
-        }
-      ],
-      "contentBasis": "Uploaded course materials only",
-      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
-      "id": "CH13-FB001",
-      "version": 2,
-      "format": "mcq",
-      "questionType": "recall",
-      "question": "The difference between systolic and diastolic blood pressure is _____ pressure.",
-      "conceptId": "CH13-C064",
-      "reviewFocus": "Pulse pressure definition",
-      "includeInCourseExam": true,
-      "includeInLearning": false,
-      "sourceQuestionIds": [
-        "CH13-Q064"
-      ],
-      "difficulty": "moderate",
-      "correctAnswer": "A",
-      "explanation": "Pulse pressure is systolic minus diastolic pressure; diastolic pressure, systolic pressure, and pulse rate describe the other measures.",
-      "blankMultipleChoice": true,
-      "choices": [
-        {
-          "id": "A",
-          "text": "pulse"
-        },
-        {
-          "id": "B",
-          "text": "systolic"
-        },
-        {
-          "id": "C",
-          "text": "diastolic"
-        },
-        {
-          "id": "D",
-          "text": "mean arterial"
-        }
-      ],
-      "incorrectChoiceExplanations": {
-        "B": "Systolic pressure is the peak arterial pressure during contraction.",
-        "C": "Diastolic pressure is the lower pressure during relaxation.",
-        "D": "Mean arterial pressure is an average rather than this difference."
-      }
-    },
-    {
-      "chapter": 13,
-      "topic": "Nonhemorrhagic volume loss",
-      "learningObjectiveId": "CH13-LO02",
-      "sourceReferences": [
-        {
-          "sourceId": "outline",
-          "locator": "III. Causes of Shock; IV. Types of Shock"
-        }
-      ],
-      "reviewReferences": [
-        {
-          "sourceId": "outline",
-          "filename": "9781284243796_LOUT_CH13(1).docx",
-          "label": "Chapter 13 outline",
-          "section": "Causes of Shock \u00b7 Nonhemorrhagic volume loss"
-        }
-      ],
-      "contentBasis": "Uploaded course materials only",
-      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
-      "id": "CH13-FB002",
-      "version": 2,
-      "format": "mcq",
-      "questionType": "recall",
-      "question": "Shock from substantial vomiting and diarrhea is _____ shock.",
-      "conceptId": "CH13-C010",
-      "reviewFocus": "Nonhemorrhagic volume loss",
-      "includeInCourseExam": true,
-      "includeInLearning": false,
-      "sourceQuestionIds": [
-        "CH13-Q010"
-      ],
-      "difficulty": "moderate",
-      "correctAnswer": "A",
-      "explanation": "Substantial gastrointestinal fluid loss can produce nonhemorrhagic hypovolemic shock.",
-      "blankMultipleChoice": true,
-      "choices": [
-        {
-          "id": "A",
-          "text": "hypovolemic"
-        },
-        {
-          "id": "B",
-          "text": "cardiogenic"
-        },
-        {
-          "id": "C",
-          "text": "obstructive"
-        },
-        {
-          "id": "D",
-          "text": "neurogenic"
-        }
-      ],
-      "incorrectChoiceExplanations": {
-        "B": "Cardiogenic shock results from pump failure.",
-        "C": "Obstructive shock results from a physical restriction of circulation.",
-        "D": "Neurogenic shock involves loss of sympathetic vascular tone."
-      }
-    },
-    {
-      "chapter": 13,
-      "topic": "Decompensation trend",
-      "learningObjectiveId": "CH13-LO04",
-      "sourceReferences": [
-        {
-          "sourceId": "outline",
-          "locator": "V. The Progression of Shock; VI.B. Circulation"
-        }
-      ],
-      "reviewReferences": [
-        {
-          "sourceId": "outline",
-          "filename": "9781284243796_LOUT_CH13(1).docx",
-          "label": "Chapter 13 outline",
-          "section": "The Progression of Shock \u00b7 Decompensation trend"
-        }
-      ],
-      "contentBasis": "Uploaded course materials only",
-      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
-      "id": "CH13-FB003",
-      "version": 2,
-      "format": "mcq",
-      "questionType": "recall",
-      "question": "Shock with failing compensation, falling blood pressure, and declining responsiveness is _____ shock.",
-      "conceptId": "CH13-C032",
-      "reviewFocus": "Decompensation trend",
-      "includeInCourseExam": true,
-      "includeInLearning": false,
-      "sourceQuestionIds": [
-        "CH13-Q032"
-      ],
-      "difficulty": "moderate",
-      "correctAnswer": "A",
-      "explanation": "Falling pressure with worsening mental status indicates failing compensation and worsening perfusion.",
-      "blankMultipleChoice": true,
-      "choices": [
-        {
-          "id": "A",
-          "text": "decompensated"
-        },
-        {
-          "id": "B",
-          "text": "compensated"
-        },
-        {
-          "id": "C",
-          "text": "irreversible"
-        },
-        {
-          "id": "D",
-          "text": "psychogenic"
-        }
-      ],
-      "incorrectChoiceExplanations": {
-        "B": "Compensated shock can maintain blood pressure despite poor perfusion.",
-        "C": "A falling pressure alone does not establish irreversible shock.",
-        "D": "Psychogenic describes a cause rather than this stage of failing compensation."
-      }
-    },
-    {
-      "chapter": 13,
-      "topic": "Syncope definition",
-      "learningObjectiveId": "CH13-LO03",
-      "sourceReferences": [
-        {
-          "sourceId": "outline",
-          "locator": "IV.C. Psychogenic shock"
-        }
-      ],
-      "reviewReferences": [
-        {
-          "sourceId": "outline",
-          "filename": "9781284243796_LOUT_CH13(1).docx",
-          "label": "Chapter 13 outline",
-          "section": "IV.C. Psychogenic shock"
-        }
-      ],
-      "contentBasis": "Uploaded course materials only",
-      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
-      "id": "CH13-FB004",
-      "version": 2,
-      "format": "mcq",
-      "questionType": "recall",
-      "question": "A brief loss of consciousness from inadequate cerebral blood flow is _____.",
-      "conceptId": "CH13-C063",
-      "reviewFocus": "Syncope definition",
-      "includeInCourseExam": true,
-      "includeInLearning": false,
-      "sourceQuestionIds": [
-        "CH13-Q063"
-      ],
-      "difficulty": "moderate",
-      "correctAnswer": "A",
-      "explanation": "Syncope means fainting or temporary loss of consciousness associated with reduced cerebral perfusion. It is not synonymous with confusion, seizure activity, or hemorrhage.",
-      "blankMultipleChoice": true,
-      "choices": [
-        {
-          "id": "A",
-          "text": "syncope"
-        },
-        {
-          "id": "B",
-          "text": "seizure"
-        },
-        {
-          "id": "C",
-          "text": "delirium"
-        },
-        {
-          "id": "D",
-          "text": "hypovolemia"
-        }
-      ],
-      "incorrectChoiceExplanations": {
-        "B": "A seizure is not the term for this transient cerebral-perfusion event.",
-        "C": "Delirium describes altered cognition rather than this brief loss of consciousness.",
-        "D": "Hypovolemia means low circulating volume."
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Pulse pressure definition"
       }
     }
   ],
@@ -4476,7 +5004,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Tamponade: support versus definitive treatment"
+          "section": "Emergency Medical Care for Shock · Tamponade: support versus definitive treatment"
         }
       ]
     },
@@ -4531,7 +5059,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Pathophysiology \u00b7 Waste removal in shock"
+          "section": "Pathophysiology · Waste removal in shock"
         }
       ]
     },
@@ -4544,7 +5072,7 @@
       "learningObjectiveId": "CH13-LO01",
       "questionType": "multi_step",
       "difficulty": "challenging",
-      "question": "A patient\u2019s blood pressure is 102/82 mm Hg. What is the pulse pressure, and how should it be interpreted in the shock assessment?",
+      "question": "A patient’s blood pressure is 102/82 mm Hg. What is the pulse pressure, and how should it be interpreted in the shock assessment?",
       "choices": [
         {
           "id": "A",
@@ -4564,7 +5092,7 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Pulse pressure is systolic minus diastolic: 102 \u2212 82 = 20. A value below 25 may occur in shock but is not a standalone diagnosis.",
+      "explanation": "Pulse pressure is systolic minus diastolic: 102 − 82 = 20. A value below 25 may occur in shock but is not a standalone diagnosis.",
       "incorrectChoiceExplanations": {
         "B": "82 is the diastolic pressure, not the difference.",
         "C": "Adding the two values does not calculate pulse pressure.",
@@ -4586,7 +5114,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Pathophysiology \u00b7 Pulse pressure calculation"
+          "section": "Pathophysiology · Pulse pressure calculation"
         }
       ]
     },
@@ -4632,7 +5160,7 @@
         },
         {
           "sourceId": "quiz",
-          "locator": "Question 9 \u00b7 plasma loss in burns"
+          "locator": "Question 9 · plasma loss in burns"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -4645,7 +5173,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Causes of Shock \u00b7 Burn-related volume loss"
+          "section": "Causes of Shock · Burn-related volume loss"
         }
       ]
     },
@@ -4674,7 +5202,7 @@
         },
         {
           "id": "D",
-          "text": "The lungs\u2019 fluid buildup excludes a cardiac cause of poor perfusion"
+          "text": "The lungs’ fluid buildup excludes a cardiac cause of poor perfusion"
         }
       ],
       "correctAnswer": "A",
@@ -4700,7 +5228,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Cardiogenic pulmonary edema"
+          "section": "Types of Shock · Cardiogenic pulmonary edema"
         }
       ]
     },
@@ -4746,7 +5274,7 @@
         },
         {
           "sourceId": "transcript1",
-          "locator": "Tension pneumothorax \u00b7 pressure on heart and great vessels"
+          "locator": "Tension pneumothorax · pressure on heart and great vessels"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -4759,7 +5287,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Tension pneumothorax mechanism"
+          "section": "Types of Shock · Tension pneumothorax mechanism"
         }
       ]
     },
@@ -4814,7 +5342,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Distributive shock"
+          "section": "Types of Shock · Distributive shock"
         }
       ]
     },
@@ -4869,7 +5397,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Sensitization"
+          "section": "Types of Shock · Sensitization"
         }
       ]
     },
@@ -4915,7 +5443,7 @@
         },
         {
           "sourceId": "quiz",
-          "locator": "Question 11 \u00b7 pediatric capillary refill"
+          "locator": "Question 11 · pediatric capillary refill"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -4928,7 +5456,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "The Progression of Shock \u00b7 Delayed capillary refill"
+          "section": "The Progression of Shock · Delayed capillary refill"
         }
       ]
     },
@@ -4974,7 +5502,7 @@
         },
         {
           "sourceId": "quiz",
-          "locator": "Question 1 \u00b7 tourniquet for persistent wrist bleeding"
+          "locator": "Question 1 · tourniquet for persistent wrist bleeding"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -4991,7 +5519,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Bleeding despite direct pressure"
+          "section": "Emergency Medical Care for Shock · Bleeding despite direct pressure"
         }
       ]
     },
@@ -5046,7 +5574,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Nitroglycerin with cardiogenic hypotension"
+          "section": "Emergency Medical Care for Shock · Nitroglycerin with cardiogenic hypotension"
         }
       ]
     },
@@ -5105,7 +5633,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Tension pneumothorax and ALS timing"
+          "section": "Emergency Medical Care for Shock · Tension pneumothorax and ALS timing"
         }
       ]
     },
@@ -5160,7 +5688,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Septic shock handoff"
+          "section": "Emergency Medical Care for Shock · Septic shock handoff"
         }
       ]
     },
@@ -5179,7 +5707,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "The Progression of Shock \u00b7 Compensated shock with maintained pressure"
+          "section": "The Progression of Shock · Compensated shock with maintained pressure"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -5219,7 +5747,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Obstructive causes"
+          "section": "Types of Shock · Obstructive causes"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -5255,7 +5783,7 @@
         },
         {
           "sourceId": "transcript1",
-          "locator": "Neurogenic shock \u00b7 low pressure, slow heart rate, warm dry skin"
+          "locator": "Neurogenic shock · low pressure, slow heart rate, warm dry skin"
         }
       ],
       "reviewReferences": [
@@ -5263,7 +5791,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Types of Shock \u00b7 Neurogenic clinical pattern"
+          "section": "Types of Shock · Neurogenic clinical pattern"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -5295,7 +5823,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VI.D. Secondary assessment; VII.A\u2013C. Shock care and cardiac tamponade"
+          "locator": "VI.D. Secondary assessment; VII.A–C. Shock care and cardiac tamponade"
         }
       ],
       "reviewReferences": [
@@ -5303,7 +5831,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Emergency Medical Care for Shock \u00b7 Tamponade: support versus definitive treatment"
+          "section": "Emergency Medical Care for Shock · Tamponade: support versus definitive treatment"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -5383,7 +5911,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "Causes of Shock \u00b7 Nonhemorrhagic volume loss"
+          "section": "Causes of Shock · Nonhemorrhagic volume loss"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -5425,7 +5953,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH13(1).docx",
           "label": "Chapter 13 outline",
-          "section": "The Progression of Shock \u00b7 Decompensation trend"
+          "section": "The Progression of Shock · Decompensation trend"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -5489,7 +6017,492 @@
         "fainting"
       ],
       "explanation": "Syncope means fainting or temporary loss of consciousness associated with reduced cerebral perfusion. It is not synonymous with confusion, seizure activity, or hemorrhage."
+    },
+    {
+      "id": "CH13-Q048",
+      "version": 2,
+      "chapter": 13,
+      "topic": "Bleeding despite direct pressure",
+      "conceptId": "CH13-C048",
+      "learningObjectiveId": "CH13-LO06",
+      "questionType": "best_answer",
+      "difficulty": "challenging",
+      "question": "Life-threatening bleeding from an extremity continues despite effective direct pressure. Which intervention addresses the unresolved threat?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A tourniquet"
+        },
+        {
+          "id": "B",
+          "text": "An additional loose dressing"
+        },
+        {
+          "id": "C",
+          "text": "Limb elevation alone"
+        },
+        {
+          "id": "D",
+          "text": "A nonrebreathing mask"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Persistent life-threatening extremity bleeding requires effective hemorrhage control; a tourniquet can address it.",
+      "incorrectChoiceExplanations": {
+        "B": "A loose dressing does not control the persistent severe hemorrhage.",
+        "C": "Elevation alone does not replace needed hemorrhage control.",
+        "D": "Oxygen does not stop the blood loss."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "VII. Emergency Medical Care for Shock"
+        },
+        {
+          "sourceId": "quiz",
+          "locator": "Question 1 · tourniquet for persistent wrist bleeding"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Bleeding despite direct pressure",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Additional dressings may seem like the next step after direct pressure.",
+      "whyNotBest": "A loose dressing does not control the persistent severe hemorrhage.",
+      "keyDistinction": "Persistent life-threatening extremity bleeding requires effective hemorrhage control; a tourniquet can address it.",
+      "reviewFocus": "Bleeding despite direct pressure",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH13(1).docx",
+          "label": "Chapter 13 outline",
+          "section": "Emergency Medical Care for Shock · Bleeding despite direct pressure"
+        }
+      ]
+    },
+    {
+      "id": "CH13-Q053",
+      "version": 1,
+      "chapter": 13,
+      "topic": "Cardiogenic positioning",
+      "conceptId": "CH13-C053",
+      "learningObjectiveId": "CH13-LO06",
+      "questionType": "best_answer",
+      "difficulty": "challenging",
+      "question": "An alert patient with cardiogenic shock is severely short of breath and cannot tolerate lying flat. How should positioning be selected?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Use a position that eases breathing while providing support and monitoring perfusion"
+        },
+        {
+          "id": "B",
+          "text": "Require the supine position solely because all shock patients should lie flat"
+        },
+        {
+          "id": "C",
+          "text": "Have the patient walk to improve circulation"
+        },
+        {
+          "id": "D",
+          "text": "Choose a position without considering breathing or blood pressure"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Cardiogenic care specifically includes a position that eases breathing, with ongoing support and assessment.",
+      "incorrectChoiceExplanations": {
+        "B": "The general supine preference does not override the patient’s breathing difficulty.",
+        "C": "Exertion is not appropriate support for a poorly perfused patient.",
+        "D": "Positioning must consider the patient’s actual condition."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "VII. Emergency Medical Care for Shock"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Cardiogenic positioning",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Supine positioning is a general shock measure, but this patient’s breathing requires an appropriate adjustment.",
+      "whyNotBest": "The general supine preference does not override the patient’s breathing difficulty.",
+      "keyDistinction": "Cardiogenic care specifically includes a position that eases breathing, with ongoing support and assessment.",
+      "reviewFocus": "Cardiogenic positioning",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH13(1).docx",
+          "label": "Chapter 13 outline",
+          "section": "Emergency Medical Care for Shock · Cardiogenic positioning"
+        }
+      ]
+    },
+    {
+      "id": "CH13-Q059",
+      "version": 1,
+      "chapter": 13,
+      "topic": "Fainting and injury assessment",
+      "conceptId": "CH13-C059",
+      "learningObjectiveId": "CH13-LO06",
+      "questionType": "best_answer",
+      "difficulty": "challenging",
+      "question": "An older patient fainted after an upsetting event and now appears alert, but reports being unable to walk after the fall. What approach is appropriate?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Assess for injury and other serious causes, and arrange prompt evaluation rather than assuming uncomplicated fainting"
+        },
+        {
+          "id": "B",
+          "text": "Treat the emotional trigger as proof that no injury assessment is needed"
+        },
+        {
+          "id": "C",
+          "text": "Ask the patient to walk repeatedly to confirm the event was psychogenic"
+        },
+        {
+          "id": "D",
+          "text": "Cancel transport solely because consciousness returned"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Recovery of consciousness does not exclude injury or a serious cause of syncope, especially with a new functional deficit.",
+      "incorrectChoiceExplanations": {
+        "B": "A trigger does not rule out injury from the fall.",
+        "C": "Repeated forced walking is not the appropriate response to a possible injury.",
+        "D": "The patient still needs evaluation."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "VII. Emergency Medical Care for Shock"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Fainting and injury assessment",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "The emotional trigger may explain a brief faint, but it does not explain away the post-fall deficit.",
+      "whyNotBest": "A trigger does not rule out injury from the fall.",
+      "keyDistinction": "Recovery of consciousness does not exclude injury or a serious cause of syncope, especially with a new functional deficit.",
+      "reviewFocus": "Fainting and injury assessment",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH13(1).docx",
+          "label": "Chapter 13 outline",
+          "section": "Emergency Medical Care for Shock · Fainting and injury assessment"
+        }
+      ]
+    },
+    {
+      "id": "CH13-Q062",
+      "version": 2,
+      "chapter": 13,
+      "topic": "Tamponade: support versus definitive treatment",
+      "conceptId": "CH13-C062",
+      "learningObjectiveId": "CH13-LO06",
+      "questionType": "best_answer",
+      "difficulty": "challenging",
+      "question": "A patient with suspected cardiac tamponade has a blood pressure of 78/50 mm Hg, a weak pulse, and worsening responsiveness. The airway is patent and breathing is adequate. Transport can begin now, but ALS has not arrived. Which plan best addresses the immediate problem?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Provide oxygen, begin rapid transport, and continue reassessment while arranging ALS support en route if available."
+        },
+        {
+          "id": "B",
+          "text": "Provide oxygen, wait on scene for ALS, and reassess before deciding whether transport should begin."
+        },
+        {
+          "id": "C",
+          "text": "Provide oxygen and use improvement in oxygen saturation to decide whether rapid transport remains necessary."
+        },
+        {
+          "id": "D",
+          "text": "Provide oxygen, complete the full secondary examination on scene, and then arrange transport."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tamponade restricts cardiac filling and can cause obstructive shock. Oxygen and other EMT support help sustain the patient, but definitive treatment requires surgery. With worsening perfusion, provide support and begin prompt transport; arrange ALS assistance without postponing needed definitive care.",
+      "incorrectChoiceExplanations": {
+        "B": "ALS support may be useful, but waiting postpones definitive care for a deteriorating patient. Arrange assistance while transport proceeds when available.",
+        "C": "Oxygen saturation does not establish adequate blood flow. Even an improved oxygen reading does not correct the fluid restricting cardiac filling.",
+        "D": "Additional examination should be rapid and can continue en route. Completing the full examination on scene should not delay transport of a deteriorating shock patient."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "VI.D. Secondary assessment; VII.A–C. Shock care and cardiac tamponade"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Prioritize definitive care over waiting for potentially useful field support",
+      "reviewFocus": "Tamponade · transport versus waiting for ALS",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH13(1).docx",
+          "label": "Chapter 13 outline",
+          "section": "Emergency Medical Care for Shock · Tamponade: support versus definitive treatment"
+        }
+      ],
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "ALS can offer additional monitoring and support for a critically ill patient, so waiting for that help may initially seem safer.",
+      "whyNotBest": "ALS support may be useful, but waiting postpones definitive care for a deteriorating patient. Arrange assistance while transport proceeds when available.",
+      "keyDistinction": "Tamponade restricts cardiac filling and can cause obstructive shock. Oxygen and other EMT support help sustain the patient, but definitive treatment requires surgery. With worsening perfusion, provide support and begin prompt transport; arrange ALS assistance without postponing needed definitive care."
+    },
+    {
+      "chapter": 13,
+      "topic": "Pulse pressure definition",
+      "learningObjectiveId": "CH13-LO01",
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "II. Pathophysiology"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH13(1).docx",
+          "label": "Chapter 13 outline",
+          "section": "II. Pathophysiology"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "id": "CH13-FB001",
+      "version": 2,
+      "format": "mcq",
+      "questionType": "recall",
+      "question": "The difference between systolic and diastolic blood pressure is _____ pressure.",
+      "conceptId": "CH13-C064",
+      "reviewFocus": "Pulse pressure definition",
+      "includeInCourseExam": true,
+      "includeInLearning": false,
+      "sourceQuestionIds": [
+        "CH13-Q064"
+      ],
+      "difficulty": "moderate",
+      "correctAnswer": "A",
+      "explanation": "Pulse pressure is systolic minus diastolic pressure; diastolic pressure, systolic pressure, and pulse rate describe the other measures.",
+      "blankMultipleChoice": true,
+      "choices": [
+        {
+          "id": "A",
+          "text": "pulse"
+        },
+        {
+          "id": "B",
+          "text": "systolic"
+        },
+        {
+          "id": "C",
+          "text": "diastolic"
+        },
+        {
+          "id": "D",
+          "text": "mean arterial"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "Systolic pressure is the peak arterial pressure during contraction.",
+        "C": "Diastolic pressure is the lower pressure during relaxation.",
+        "D": "Mean arterial pressure is an average rather than this difference."
+      },
+      "retirementReason": "Duplicate recall of a fact already tested by a retained question."
+    },
+    {
+      "chapter": 13,
+      "topic": "Nonhemorrhagic volume loss",
+      "learningObjectiveId": "CH13-LO02",
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "III. Causes of Shock; IV. Types of Shock"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH13(1).docx",
+          "label": "Chapter 13 outline",
+          "section": "Causes of Shock · Nonhemorrhagic volume loss"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "id": "CH13-FB002",
+      "version": 2,
+      "format": "mcq",
+      "questionType": "recall",
+      "question": "Shock from substantial vomiting and diarrhea is _____ shock.",
+      "conceptId": "CH13-C010",
+      "reviewFocus": "Nonhemorrhagic volume loss",
+      "includeInCourseExam": true,
+      "includeInLearning": false,
+      "sourceQuestionIds": [
+        "CH13-Q010"
+      ],
+      "difficulty": "moderate",
+      "correctAnswer": "A",
+      "explanation": "Substantial gastrointestinal fluid loss can produce nonhemorrhagic hypovolemic shock.",
+      "blankMultipleChoice": true,
+      "choices": [
+        {
+          "id": "A",
+          "text": "hypovolemic"
+        },
+        {
+          "id": "B",
+          "text": "cardiogenic"
+        },
+        {
+          "id": "C",
+          "text": "obstructive"
+        },
+        {
+          "id": "D",
+          "text": "neurogenic"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "Cardiogenic shock results from pump failure.",
+        "C": "Obstructive shock results from a physical restriction of circulation.",
+        "D": "Neurogenic shock involves loss of sympathetic vascular tone."
+      },
+      "retirementReason": "Duplicate recall of a fact already tested by a retained question."
+    },
+    {
+      "chapter": 13,
+      "topic": "Decompensation trend",
+      "learningObjectiveId": "CH13-LO04",
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "V. The Progression of Shock; VI.B. Circulation"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH13(1).docx",
+          "label": "Chapter 13 outline",
+          "section": "The Progression of Shock · Decompensation trend"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "id": "CH13-FB003",
+      "version": 2,
+      "format": "mcq",
+      "questionType": "recall",
+      "question": "Shock with failing compensation, falling blood pressure, and declining responsiveness is _____ shock.",
+      "conceptId": "CH13-C032",
+      "reviewFocus": "Decompensation trend",
+      "includeInCourseExam": true,
+      "includeInLearning": false,
+      "sourceQuestionIds": [
+        "CH13-Q032"
+      ],
+      "difficulty": "moderate",
+      "correctAnswer": "A",
+      "explanation": "Falling pressure with worsening mental status indicates failing compensation and worsening perfusion.",
+      "blankMultipleChoice": true,
+      "choices": [
+        {
+          "id": "A",
+          "text": "decompensated"
+        },
+        {
+          "id": "B",
+          "text": "compensated"
+        },
+        {
+          "id": "C",
+          "text": "irreversible"
+        },
+        {
+          "id": "D",
+          "text": "psychogenic"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "Compensated shock can maintain blood pressure despite poor perfusion.",
+        "C": "A falling pressure alone does not establish irreversible shock.",
+        "D": "Psychogenic describes a cause rather than this stage of failing compensation."
+      },
+      "retirementReason": "Duplicate recall of a fact already tested by a retained question."
+    },
+    {
+      "chapter": 13,
+      "topic": "Syncope definition",
+      "learningObjectiveId": "CH13-LO03",
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "IV.C. Psychogenic shock"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH13(1).docx",
+          "label": "Chapter 13 outline",
+          "section": "IV.C. Psychogenic shock"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "id": "CH13-FB004",
+      "version": 2,
+      "format": "mcq",
+      "questionType": "recall",
+      "question": "A brief loss of consciousness from inadequate cerebral blood flow is _____.",
+      "conceptId": "CH13-C063",
+      "reviewFocus": "Syncope definition",
+      "includeInCourseExam": true,
+      "includeInLearning": false,
+      "sourceQuestionIds": [
+        "CH13-Q063"
+      ],
+      "difficulty": "moderate",
+      "correctAnswer": "A",
+      "explanation": "Syncope means fainting or temporary loss of consciousness associated with reduced cerebral perfusion. It is not synonymous with confusion, seizure activity, or hemorrhage.",
+      "blankMultipleChoice": true,
+      "choices": [
+        {
+          "id": "A",
+          "text": "syncope"
+        },
+        {
+          "id": "B",
+          "text": "seizure"
+        },
+        {
+          "id": "C",
+          "text": "delirium"
+        },
+        {
+          "id": "D",
+          "text": "hypovolemia"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "A seizure is not the term for this transient cerebral-perfusion event.",
+        "C": "Delirium describes altered cognition rather than this brief loss of consciousness.",
+        "D": "Hypovolemia means low circulating volume."
+      },
+      "retirementReason": "Duplicate recall of a fact already tested by a retained question."
     }
   ],
-  "auditDate": "2026-10-08"
+  "auditDate": "2026-10-08",
+  "reviewStatus": "Question-quality audit completed; course-specific ranges identified; conflicting BLS items withheld."
 }

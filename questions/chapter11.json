@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "bankVersion": "1.1.0",
+  "bankVersion": "1.2.0",
   "chapter": 11,
   "title": "Airway Management",
-  "updated": "2026-10-08",
+  "updated": "2026-10-10",
   "sources": [
     {
       "id": "outline",
@@ -27,37 +27,37 @@
       "id": "slides1",
       "filename": "Lecture Slides- Airway Management Part I.pdf",
       "role": "Lecture slides",
-      "label": "Chapter 11 slides \u00b7 Part 1"
+      "label": "Chapter 11 slides · Part 1"
     },
     {
       "id": "slides2",
       "filename": "Lecture Slides- Airway Management Part II.pdf",
       "role": "Lecture slides",
-      "label": "Chapter 11 slides \u00b7 Part 2"
+      "label": "Chapter 11 slides · Part 2"
     },
     {
       "id": "slides3",
       "filename": "Lecture Slides- Airway Management Part III.pdf",
       "role": "Lecture slides",
-      "label": "Chapter 11 slides \u00b7 Part 3"
+      "label": "Chapter 11 slides · Part 3"
     },
     {
       "id": "transcript1",
       "filename": "Airway Management Part I-English.txt",
       "role": "Lecture transcript",
-      "label": "Chapter 11 lecture \u00b7 Part 1"
+      "label": "Chapter 11 lecture · Part 1"
     },
     {
       "id": "transcript2",
       "filename": "Airway Management Part II-English.txt",
       "role": "Lecture transcript",
-      "label": "Chapter 11 lecture \u00b7 Part 2"
+      "label": "Chapter 11 lecture · Part 2"
     },
     {
       "id": "transcript3",
       "filename": "Airway Management Part III-English.txt",
       "role": "Lecture transcript",
-      "label": "Chapter 11 lecture \u00b7 Part 3"
+      "label": "Chapter 11 lecture · Part 3"
     }
   ],
   "learningObjectives": [
@@ -71,13 +71,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Anatomy of the Respiratory System \u00b7 Airway regions"
+          "section": "Anatomy of the Respiratory System · Airway regions"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Anatomy of the Respiratory System \u00b7 Protective airway structures"
+          "section": "Anatomy of the Respiratory System · Protective airway structures"
         }
       ]
     },
@@ -91,31 +91,31 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Pathophysiology of Respiration \u00b7 Pressure during inhalation"
+          "section": "Pathophysiology of Respiration · Pressure during inhalation"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Pathophysiology of Respiration \u00b7 External versus internal respiration"
+          "section": "Pathophysiology of Respiration · External versus internal respiration"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Pathophysiology of Respiration \u00b7 Surfactant"
+          "section": "Pathophysiology of Respiration · Surfactant"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Pathophysiology of Respiration \u00b7 Respiratory control"
+          "section": "Pathophysiology of Respiration · Respiratory control"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Pathophysiology of Respiration \u00b7 Ventilation\u2013perfusion mismatch"
+          "section": "Pathophysiology of Respiration · Ventilation–perfusion mismatch"
         },
         {
           "sourceId": "outline",
@@ -141,7 +141,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Adequate breathing"
+          "section": "Patient Assessment · Adequate breathing"
         }
       ]
     },
@@ -155,13 +155,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Fatigue versus improvement"
+          "section": "Patient Assessment · Fatigue versus improvement"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Abnormal respiratory patterns"
+          "section": "Patient Assessment · Abnormal respiratory patterns"
         }
       ]
     },
@@ -175,13 +175,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Adult apnea with a pulse"
+          "section": "Patient Assessment · Adult apnea with a pulse"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Pediatric apnea with a pulse"
+          "section": "Patient Assessment · Pediatric apnea with a pulse"
         }
       ]
     },
@@ -195,31 +195,31 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Pulse oximetry versus ventilation"
+          "section": "Patient Assessment · Pulse oximetry versus ventilation"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Carbon monoxide and oximetry"
+          "section": "Patient Assessment · Carbon monoxide and oximetry"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Poor peripheral perfusion"
+          "section": "Patient Assessment · Poor peripheral perfusion"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 End-tidal CO2 interpretation"
+          "section": "Patient Assessment · End-tidal CO2 interpretation"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Capnography versus capnometry"
+          "section": "Patient Assessment · Capnography versus capnometry"
         }
       ]
     },
@@ -233,19 +233,19 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Opening the Airway \u00b7 Airway patency"
+          "section": "Opening the Airway · Airway patency"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Special Considerations \u00b7 Stoma as airway route"
+          "section": "Special Considerations · Stoma as airway route"
         }
       ]
     },
     {
       "id": "CH11-LO08",
-      "text": "Describe how to perform the head tilt\u2013chin lift maneuver.",
+      "text": "Describe how to perform the head tilt–chin lift maneuver.",
       "coverageStatus": "sampled",
       "coverageNote": "",
       "reviewReferences": [
@@ -253,13 +253,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Opening the Airway \u00b7 Head tilt\u2013chin lift technique"
+          "section": "Opening the Airway · Head tilt–chin lift technique"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Opening the Airway \u00b7 Opening before mask ventilation"
+          "section": "Opening the Airway · Opening before mask ventilation"
         }
       ]
     },
@@ -273,7 +273,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Opening the Airway \u00b7 Jaw-thrust technique"
+          "section": "Opening the Airway · Jaw-thrust technique"
         }
       ]
     },
@@ -287,37 +287,37 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Suctioning \u00b7 Suction before ventilation"
+          "section": "Suctioning · Suction before ventilation"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Suctioning \u00b7 Suction time limits"
+          "section": "Suctioning · Suction time limits"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Suctioning \u00b7 Suction catheter selection"
+          "section": "Suctioning · Suction catheter selection"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Suctioning \u00b7 Material that suction cannot remove"
+          "section": "Suctioning · Material that suction cannot remove"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Suctioning \u00b7 Recurrent frothy secretions"
+          "section": "Suctioning · Recurrent frothy secretions"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "VII. Suctioning \u00b7 Equipment and catheter measurement"
+          "section": "VII. Suctioning · Equipment and catheter measurement"
         }
       ]
     },
@@ -331,25 +331,25 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Basic Airway Adjuncts \u00b7 OPA tolerance"
+          "section": "Basic Airway Adjuncts · OPA tolerance"
         },
         {
           "sourceId": "transcript2",
           "filename": "Airway Management Part II-English.txt",
-          "label": "Chapter 11 lecture \u00b7 Part 2",
+          "label": "Chapter 11 lecture · Part 2",
           "section": "Suction catheter measurement using the OPA sizing method"
         },
         {
           "sourceId": "transcript2",
           "filename": "Airway Management Part II-English.txt",
-          "label": "Chapter 11 lecture \u00b7 Part 2",
+          "label": "Chapter 11 lecture · Part 2",
           "section": "OPA indications, size, and insertion"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Basic Airway Adjuncts \u00b7 OPA sizing error"
+          "section": "Basic Airway Adjuncts · OPA sizing error"
         }
       ]
     },
@@ -363,18 +363,18 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Basic Airway Adjuncts \u00b7 OPA versus NPA selection"
+          "section": "Basic Airway Adjuncts · OPA versus NPA selection"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Basic Airway Adjuncts \u00b7 NPA contraindication"
+          "section": "Basic Airway Adjuncts · NPA contraindication"
         },
         {
           "sourceId": "transcript2",
           "filename": "Airway Management Part II-English.txt",
-          "label": "Chapter 11 lecture \u00b7 Part 2",
+          "label": "Chapter 11 lecture · Part 2",
           "section": "NPA precautions and gentle insertion"
         }
       ]
@@ -389,7 +389,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Maintaining the Airway \u00b7 Recovery position"
+          "section": "Maintaining the Airway · Recovery position"
         }
       ]
     },
@@ -403,13 +403,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Supplemental Oxygen \u00b7 Hypoxia with adequate ventilation"
+          "section": "Supplemental Oxygen · Hypoxia with adequate ventilation"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Supplemental Oxygen \u00b7 COPD and needed oxygen"
+          "section": "Supplemental Oxygen · COPD and needed oxygen"
         }
       ]
     },
@@ -423,25 +423,25 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Supplemental Oxygen \u00b7 Cylinder safety"
+          "section": "Supplemental Oxygen · Cylinder safety"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Supplemental Oxygen \u00b7 Oxygen and combustion"
+          "section": "Supplemental Oxygen · Oxygen and combustion"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Supplemental Oxygen \u00b7 Oxygen regulator and flowmeter roles"
+          "section": "Supplemental Oxygen · Oxygen regulator and flowmeter roles"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Supplemental Oxygen \u00b7 Position-dependent oxygen flowmeters"
+          "section": "Supplemental Oxygen · Position-dependent oxygen flowmeters"
         }
       ]
     },
@@ -455,7 +455,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Oxygen-Delivery Equipment \u00b7 NRB preparation"
+          "section": "Oxygen-Delivery Equipment · NRB preparation"
         }
       ]
     },
@@ -469,13 +469,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Oxygen-Delivery Equipment \u00b7 Cannula selection"
+          "section": "Oxygen-Delivery Equipment · Cannula selection"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Oxygen-Delivery Equipment \u00b7 Conventional cannula limits"
+          "section": "Oxygen-Delivery Equipment · Conventional cannula limits"
         }
       ]
     },
@@ -489,7 +489,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Oxygen-Delivery Equipment \u00b7 Humidification"
+          "section": "Oxygen-Delivery Equipment · Humidification"
         }
       ]
     },
@@ -503,13 +503,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisted and Artificial Ventilation \u00b7 Mouth-to-mask breaths"
+          "section": "Assisted and Artificial Ventilation · Mouth-to-mask breaths"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "X. Assisted and Artificial Ventilation \u00b7 Pocket-mask oxygen inlet"
+          "section": "X. Assisted and Artificial Ventilation · Pocket-mask oxygen inlet"
         }
       ]
     },
@@ -523,13 +523,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisted and Artificial Ventilation \u00b7 One-person mask seal"
+          "section": "Assisted and Artificial Ventilation · One-person mask seal"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisted and Artificial Ventilation \u00b7 Assisting spontaneous breaths"
+          "section": "Assisted and Artificial Ventilation · Assisting spontaneous breaths"
         }
       ]
     },
@@ -543,31 +543,31 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisted and Artificial Ventilation \u00b7 Adequate artificial ventilation"
+          "section": "Assisted and Artificial Ventilation · Adequate artificial ventilation"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisted and Artificial Ventilation \u00b7 Positive pressure and circulation"
+          "section": "Assisted and Artificial Ventilation · Positive pressure and circulation"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisted and Artificial Ventilation \u00b7 Gastric distention prevention"
+          "section": "Assisted and Artificial Ventilation · Gastric distention prevention"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisted and Artificial Ventilation \u00b7 Vomiting during ventilation"
+          "section": "Assisted and Artificial Ventilation · Vomiting during ventilation"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisted and Artificial Ventilation \u00b7 Ventilation reassessment: chest rise and seal"
+          "section": "Assisted and Artificial Ventilation · Ventilation reassessment: chest rise and seal"
         }
       ]
     },
@@ -581,43 +581,43 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Continuous Positive Airway Pressure \u00b7 CPAP candidate"
+          "section": "Continuous Positive Airway Pressure · CPAP candidate"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Continuous Positive Airway Pressure \u00b7 CPAP exhalation benefit"
+          "section": "Continuous Positive Airway Pressure · CPAP exhalation benefit"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Continuous Positive Airway Pressure \u00b7 CPAP and hypotension"
+          "section": "Continuous Positive Airway Pressure · CPAP and hypotension"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Continuous Positive Airway Pressure \u00b7 Deterioration on CPAP"
+          "section": "Continuous Positive Airway Pressure · Deterioration on CPAP"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Continuous Positive Airway Pressure \u00b7 CPAP equipment readiness"
+          "section": "Continuous Positive Airway Pressure · CPAP equipment readiness"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Continuous Positive Airway Pressure \u00b7 CPAP intolerance"
+          "section": "Continuous Positive Airway Pressure · CPAP intolerance"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "XI. Continuous Positive Airway Pressure \u00b7 Indications and contraindications"
+          "section": "XI. Continuous Positive Airway Pressure · Indications and contraindications"
         }
       ]
     },
@@ -631,31 +631,31 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Airway Obstruction \u00b7 Mild obstruction with effective cough"
+          "section": "Airway Obstruction · Mild obstruction with effective cough"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Airway Obstruction \u00b7 Poor air exchange during choking"
+          "section": "Airway Obstruction · Poor air exchange during choking"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Airway Obstruction \u00b7 Unresponsive obstruction and visible objects"
+          "section": "Airway Obstruction · Unresponsive obstruction and visible objects"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Airway Obstruction \u00b7 Dentures and ventilation"
+          "section": "Airway Obstruction · Dentures and ventilation"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Airway Obstruction \u00b7 Non-foreign-body airway obstruction"
+          "section": "Airway Obstruction · Non-foreign-body airway obstruction"
         }
       ]
     },
@@ -663,19 +663,19 @@
       "id": "CH11-LO24",
       "text": "Describe the four-step process of assisting with advanced life support (ALS) skills.",
       "coverageStatus": "partial_material",
-      "coverageNote": "ALS assistance tasks are supplied, but the objective\u2019s named four-step process is not enumerated. BE MAGIC is a separate six-step process.",
+      "coverageNote": "ALS assistance tasks are supplied, but the objective’s named four-step process is not enumerated. BE MAGIC is a separate six-step process.",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisting with ALS Airway Procedures \u00b7 EMT role during ALS airway care"
+          "section": "Assisting with ALS Airway Procedures · EMT role during ALS airway care"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisting with ALS Airway Procedures \u00b7 ALS setup and fallback equipment"
+          "section": "Assisting with ALS Airway Procedures · ALS setup and fallback equipment"
         }
       ]
     },
@@ -689,13 +689,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisting with ALS Airway Procedures \u00b7 Preoxygenation purpose"
+          "section": "Assisting with ALS Airway Procedures · Preoxygenation purpose"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisting with ALS Airway Procedures \u00b7 Preoxygenation quality"
+          "section": "Assisting with ALS Airway Procedures · Preoxygenation quality"
         }
       ]
     },
@@ -709,13 +709,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisting with ALS Airway Procedures \u00b7 BE MAGIC sequence"
+          "section": "Assisting with ALS Airway Procedures · BE MAGIC sequence"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisting with ALS Airway Procedures \u00b7 BE MAGIC failed attempt"
+          "section": "Assisting with ALS Airway Procedures · BE MAGIC failed attempt"
         }
       ]
     },
@@ -729,13 +729,13 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisting with ALS Airway Procedures \u00b7 Intubated patient deterioration"
+          "section": "Assisting with ALS Airway Procedures · Intubated patient deterioration"
         },
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisting with ALS Airway Procedures \u00b7 Ongoing tube monitoring"
+          "section": "Assisting with ALS Airway Procedures · Ongoing tube monitoring"
         }
       ]
     }
@@ -754,19 +754,19 @@
       "choices": [
         {
           "id": "A",
-          "text": "Pharynx \u2192 larynx \u2192 trachea \u2192 bronchi \u2192 bronchioles"
+          "text": "Pharynx → larynx → trachea → bronchi → bronchioles"
         },
         {
           "id": "B",
-          "text": "Pharynx \u2192 trachea \u2192 larynx \u2192 bronchioles \u2192 bronchi"
+          "text": "Pharynx → trachea → larynx → bronchioles → bronchi"
         },
         {
           "id": "C",
-          "text": "Larynx \u2192 pharynx \u2192 bronchi \u2192 trachea \u2192 bronchioles"
+          "text": "Larynx → pharynx → bronchi → trachea → bronchioles"
         },
         {
           "id": "D",
-          "text": "Pharynx \u2192 larynx \u2192 bronchioles \u2192 bronchi \u2192 trachea"
+          "text": "Pharynx → larynx → bronchioles → bronchi → trachea"
         }
       ],
       "correctAnswer": "A",
@@ -792,9 +792,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Anatomy of the Respiratory System \u00b7 Airway regions"
+          "section": "Anatomy of the Respiratory System · Airway regions"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Airway regions"
+      }
     },
     {
       "id": "CH11-Q002",
@@ -847,9 +859,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Anatomy of the Respiratory System \u00b7 Protective airway structures"
+          "section": "Anatomy of the Respiratory System · Protective airway structures"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Protective airway structures"
+      }
     },
     {
       "id": "CH11-Q003",
@@ -864,19 +888,19 @@
       "choices": [
         {
           "id": "A",
-          "text": "Diaphragm contracts \u2192 thoracic volume increases \u2192 intrathoracic pressure falls"
+          "text": "Diaphragm contracts → thoracic volume increases → intrathoracic pressure falls"
         },
         {
           "id": "B",
-          "text": "Diaphragm relaxes \u2192 thoracic volume increases \u2192 intrathoracic pressure rises"
+          "text": "Diaphragm relaxes → thoracic volume increases → intrathoracic pressure rises"
         },
         {
           "id": "C",
-          "text": "Diaphragm contracts \u2192 thoracic volume decreases \u2192 intrathoracic pressure rises"
+          "text": "Diaphragm contracts → thoracic volume decreases → intrathoracic pressure rises"
         },
         {
           "id": "D",
-          "text": "Diaphragm relaxes \u2192 thoracic volume decreases \u2192 intrathoracic pressure falls"
+          "text": "Diaphragm relaxes → thoracic volume decreases → intrathoracic pressure falls"
         }
       ],
       "correctAnswer": "A",
@@ -889,7 +913,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "III\u2013IV. Physiology and pathophysiology of respiration"
+          "locator": "III–IV. Physiology and pathophysiology of respiration"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -902,9 +926,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Pathophysiology of Respiration \u00b7 Pressure during inhalation"
+          "section": "Pathophysiology of Respiration · Pressure during inhalation"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Pressure during inhalation"
+      }
     },
     {
       "id": "CH11-Q004",
@@ -944,7 +980,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "III\u2013IV. Physiology and pathophysiology of respiration"
+          "locator": "III–IV. Physiology and pathophysiology of respiration"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -957,9 +993,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Pathophysiology of Respiration \u00b7 External versus internal respiration"
+          "section": "Pathophysiology of Respiration · External versus internal respiration"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "External versus internal respiration"
+      }
     },
     {
       "id": "CH11-Q005",
@@ -999,7 +1047,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "III\u2013IV. Physiology and pathophysiology of respiration"
+          "locator": "III–IV. Physiology and pathophysiology of respiration"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -1012,9 +1060,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Pathophysiology of Respiration \u00b7 Surfactant"
+          "section": "Pathophysiology of Respiration · Surfactant"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Surfactant"
+      }
     },
     {
       "id": "CH11-Q006",
@@ -1054,7 +1114,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "III\u2013IV. Physiology and pathophysiology of respiration"
+          "locator": "III–IV. Physiology and pathophysiology of respiration"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -1067,15 +1127,27 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Pathophysiology of Respiration \u00b7 Respiratory control"
+          "section": "Pathophysiology of Respiration · Respiratory control"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Respiratory control"
+      }
     },
     {
       "id": "CH11-Q007",
       "version": 1,
       "chapter": 11,
-      "topic": "Ventilation\u2013perfusion mismatch",
+      "topic": "Ventilation–perfusion mismatch",
       "conceptId": "CH11-C007",
       "learningObjectiveId": "CH11-LO02",
       "questionType": "multi_step",
@@ -1109,22 +1181,34 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "III\u2013IV. Physiology and pathophysiology of respiration"
+          "locator": "III–IV. Physiology and pathophysiology of respiration"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "Ventilation\u2013perfusion mismatch",
-      "reviewFocus": "Ventilation\u2013perfusion mismatch",
+      "diagnosticIntent": "Ventilation–perfusion mismatch",
+      "reviewFocus": "Ventilation–perfusion mismatch",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Pathophysiology of Respiration \u00b7 Ventilation\u2013perfusion mismatch"
+          "section": "Pathophysiology of Respiration · Ventilation–perfusion mismatch"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Ventilation–perfusion mismatch"
+      }
     },
     {
       "id": "CH11-Q008",
@@ -1177,9 +1261,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Adequate breathing"
+          "section": "Patient Assessment · Adequate breathing"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Adequate breathing"
+      }
     },
     {
       "id": "CH11-Q009",
@@ -1232,24 +1328,36 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Fatigue versus improvement"
+          "section": "Patient Assessment · Fatigue versus improvement"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Fatigue versus improvement"
+      }
     },
     {
       "id": "CH11-Q010",
-      "version": 1,
+      "version": 2,
       "chapter": 11,
       "topic": "Abnormal respiratory patterns",
       "conceptId": "CH11-C010",
       "learningObjectiveId": "CH11-LO04",
-      "questionType": "recall",
+      "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "Which pattern consists of progressively increasing respiratory depth and rate followed by apnea?",
+      "question": "Which breathing pattern repeatedly increases and then decreases in depth, followed by a period of apnea?",
       "choices": [
         {
           "id": "A",
-          "text": "Cheyne\u2013Stokes respirations"
+          "text": "Cheyne–Stokes respirations"
         },
         {
           "id": "B",
@@ -1265,11 +1373,11 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Cheyne\u2013Stokes breathing has a cyclical increase followed by an apneic interval.",
+      "explanation": "Cheyne–Stokes breathing has a recurring crescendo–decrescendo pattern separated by apnea. The rise and fall distinguish it from an irregular pattern without a cycle.",
       "incorrectChoiceExplanations": {
-        "B": "Kussmaul respirations are deep and rapid, associated with metabolic acidosis.",
-        "C": "Ataxic respirations are irregular without this recognizable cycle.",
-        "D": "Agonal gasps are ineffective isolated gasping efforts."
+        "B": "Kussmaul breathing is deep, rapid breathing rather than a waxing-and-waning apneic cycle.",
+        "C": "Ataxic breathing is irregular without the described repeating cycle.",
+        "D": "Agonal gasps are ineffective occasional gasping efforts."
       },
       "sourceReferences": [
         {
@@ -1280,16 +1388,28 @@
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "Abnormal respiratory patterns",
+      "diagnosticIntent": "Identify the full waxing-and-waning Cheyne–Stokes pattern.",
       "reviewFocus": "Abnormal respiratory patterns",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Abnormal respiratory patterns"
+          "section": "Patient Assessment · Abnormal respiratory patterns"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Identify the full waxing-and-waning Cheyne–Stokes pattern."
+      }
     },
     {
       "id": "CH11-Q011",
@@ -1308,7 +1428,7 @@
         },
         {
           "id": "B",
-          "text": "One breath every 2\u20133 seconds"
+          "text": "One breath every 2–3 seconds"
         },
         {
           "id": "C",
@@ -1342,24 +1462,36 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Adult apnea with a pulse"
+          "section": "Patient Assessment · Adult apnea with a pulse"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Adult apnea with a pulse"
+      }
     },
     {
       "id": "CH11-Q012",
-      "version": 2,
+      "version": 3,
       "chapter": 11,
       "topic": "Pediatric apnea with a pulse",
       "conceptId": "CH11-C012",
       "learningObjectiveId": "CH11-LO05",
       "questionType": "recall",
       "difficulty": "moderate",
-      "question": "A child is apneic, has a pulse, and has an open airway. Which timing fits assisted ventilation?",
+      "question": "An apneic child has an open airway and a definite pulse of 100/min. Which timing fits assisted ventilation?",
       "choices": [
         {
           "id": "A",
-          "text": "One breath every 2\u20133 seconds"
+          "text": "One breath every 2–3 seconds"
         },
         {
           "id": "B",
@@ -1375,11 +1507,11 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "The supplied airway guidance uses one breath every 2\u20133 seconds for children and infants with a pulse.",
+      "explanation": "The supplied airway guidance uses one breath every 2–3 seconds for children and infants with a pulse.",
       "incorrectChoiceExplanations": {
         "B": "This is the supplied adult interval.",
         "C": "This is slower than the supplied pediatric interval.",
-        "D": "The definite pulse does not call for routine pulseless CPR cycles."
+        "D": "This child’s stated pulse rate and presentation call for rescue breaths, not a pulseless CPR cycle."
       },
       "sourceReferences": [
         {
@@ -1397,18 +1529,30 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Pediatric apnea with a pulse"
+          "section": "Patient Assessment · Pediatric apnea with a pulse"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Pediatric apnea with a pulse"
+      }
     },
     {
       "id": "CH11-Q013",
-      "version": 1,
+      "version": 2,
       "chapter": 11,
       "topic": "Pulse oximetry versus ventilation",
       "conceptId": "CH11-C013",
       "learningObjectiveId": "CH11-LO06",
-      "questionType": "best_answer",
+      "questionType": "conceptual",
       "difficulty": "challenging",
       "question": "An oxygen-treated patient has SpO2 97%, but respirations are 6/min, shallow, and accompanied by declining alertness. What should guide immediate care?",
       "choices": [
@@ -1446,19 +1590,27 @@
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
       "diagnosticIntent": "Pulse oximetry versus ventilation",
-      "secondMostPlausibleAnswer": "B",
-      "whyTempting": "Oxygen is already improving saturation, but it does not provide the missing air movement.",
-      "whyNotBest": "A normal saturation does not exclude inadequate ventilation.",
-      "keyDistinction": "Pulse oximetry measures oxygen saturation, not ventilation; slow shallow breathing and declining alertness require ventilatory support.",
       "reviewFocus": "Pulse oximetry versus ventilation",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Pulse oximetry versus ventilation"
+          "section": "Patient Assessment · Pulse oximetry versus ventilation"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Pulse oximetry versus ventilation"
+      }
     },
     {
       "id": "CH11-Q014",
@@ -1511,24 +1663,36 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Carbon monoxide and oximetry"
+          "section": "Patient Assessment · Carbon monoxide and oximetry"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Carbon monoxide and oximetry"
+      }
     },
     {
       "id": "CH11-Q015",
-      "version": 1,
+      "version": 2,
       "chapter": 11,
       "topic": "Poor peripheral perfusion",
       "conceptId": "CH11-C015",
       "learningObjectiveId": "CH11-LO06",
-      "questionType": "best_answer",
+      "questionType": "conceptual",
       "difficulty": "challenging",
       "question": "A cold, poorly perfused patient has an unstable pulse-oximeter reading. Which approach is most appropriate?",
       "choices": [
         {
           "id": "A",
-          "text": "Evaluate the reading\u2019s reliability while assessing breathing, mental status, and skin findings"
+          "text": "Evaluate the reading’s reliability while assessing breathing, mental status, and skin findings"
         },
         {
           "id": "B",
@@ -1560,19 +1724,27 @@
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
       "diagnosticIntent": "Poor peripheral perfusion",
-      "secondMostPlausibleAnswer": "B",
-      "whyTempting": "Pulse oximetry can help guide care when reliable, but these conditions undermine confidence in the number.",
-      "whyNotBest": "The number can be inaccurate and should not replace assessment.",
-      "keyDistinction": "Cold vasoconstriction and hypoperfusion can impair pulse-oximeter reliability; clinical assessment remains essential.",
       "reviewFocus": "Poor peripheral perfusion",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Poor peripheral perfusion"
+          "section": "Patient Assessment · Poor peripheral perfusion"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Poor peripheral perfusion"
+      }
     },
     {
       "id": "CH11-Q016",
@@ -1625,9 +1797,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 End-tidal CO2 interpretation"
+          "section": "Patient Assessment · End-tidal CO2 interpretation"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "End-tidal CO2 interpretation"
+      }
     },
     {
       "id": "CH11-Q017",
@@ -1680,9 +1864,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Opening the Airway \u00b7 Airway patency"
+          "section": "Opening the Airway · Airway patency"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Airway patency"
+      }
     },
     {
       "id": "CH11-Q018",
@@ -1739,20 +1935,32 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Special Considerations \u00b7 Stoma as airway route"
+          "section": "Special Considerations · Stoma as airway route"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Stoma as airway route"
+      }
     },
     {
       "id": "CH11-Q019",
       "version": 1,
       "chapter": 11,
-      "topic": "Head tilt\u2013chin lift technique",
+      "topic": "Head tilt–chin lift technique",
       "conceptId": "CH11-C019",
       "learningObjectiveId": "CH11-LO08",
       "questionType": "recall",
       "difficulty": "moderate",
-      "question": "Which hand placement is appropriate for a head tilt\u2013chin lift in an unresponsive patient without suspected spinal injury?",
+      "question": "Which hand placement is appropriate for a head tilt–chin lift in an unresponsive patient without suspected spinal injury?",
       "choices": [
         {
           "id": "A",
@@ -1781,30 +1989,42 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VI.B. Head tilt\u2013chin lift"
+          "locator": "VI.B. Head tilt–chin lift"
         },
         {
           "sourceId": "transcript2",
-          "locator": "Head tilt\u2013chin lift and airway opening"
+          "locator": "Head tilt–chin lift and airway opening"
         },
         {
           "sourceId": "transcript2",
-          "locator": "Head tilt\u2013chin lift and airway opening"
+          "locator": "Head tilt–chin lift and airway opening"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "Head tilt\u2013chin lift technique",
-      "reviewFocus": "Head tilt\u2013chin lift technique",
+      "diagnosticIntent": "Head tilt–chin lift technique",
+      "reviewFocus": "Head tilt–chin lift technique",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Opening the Airway \u00b7 Head tilt\u2013chin lift technique"
+          "section": "Opening the Airway · Head tilt–chin lift technique"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Head tilt–chin lift technique"
+      }
     },
     {
       "id": "CH11-Q020",
@@ -1819,7 +2039,7 @@
       "choices": [
         {
           "id": "A",
-          "text": "Reopen the airway with an effective head tilt\u2013chin lift"
+          "text": "Reopen the airway with an effective head tilt–chin lift"
         },
         {
           "id": "B",
@@ -1844,7 +2064,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VI.B. Head tilt\u2013chin lift"
+          "locator": "VI.B. Head tilt–chin lift"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -1861,9 +2081,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Opening the Airway \u00b7 Opening before mask ventilation"
+          "section": "Opening the Airway · Opening before mask ventilation"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Opening before mask ventilation"
+      }
     },
     {
       "id": "CH11-Q021",
@@ -1916,9 +2148,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Opening the Airway \u00b7 Jaw-thrust technique"
+          "section": "Opening the Airway · Jaw-thrust technique"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Jaw-thrust technique"
+      }
     },
     {
       "id": "CH11-Q022",
@@ -1975,9 +2219,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Suctioning \u00b7 Suction before ventilation"
+          "section": "Suctioning · Suction before ventilation"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Suction before ventilation"
+      }
     },
     {
       "id": "CH11-Q023",
@@ -2030,9 +2286,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Suctioning \u00b7 Suction time limits"
+          "section": "Suctioning · Suction time limits"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Suction time limits"
+      }
     },
     {
       "id": "CH11-Q024",
@@ -2085,9 +2353,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Suctioning \u00b7 Suction catheter selection"
+          "section": "Suctioning · Suction catheter selection"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Suction catheter selection"
+      }
     },
     {
       "id": "CH11-Q025",
@@ -2140,9 +2420,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Suctioning \u00b7 Material that suction cannot remove"
+          "section": "Suctioning · Material that suction cannot remove"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Material that suction cannot remove"
+      }
     },
     {
       "id": "CH11-Q026",
@@ -2195,18 +2487,30 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Suctioning \u00b7 Recurrent frothy secretions"
+          "section": "Suctioning · Recurrent frothy secretions"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Recurrent frothy secretions"
+      }
     },
     {
       "id": "CH11-Q027",
-      "version": 1,
+      "version": 2,
       "chapter": 11,
       "topic": "OPA tolerance",
       "conceptId": "CH11-C027",
       "learningObjectiveId": "CH11-LO11",
-      "questionType": "best_answer",
+      "questionType": "conceptual",
       "difficulty": "challenging",
       "question": "An unresponsive patient begins gagging as an OPA is inserted. What should you do first?",
       "choices": [
@@ -2244,19 +2548,27 @@
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
       "diagnosticIntent": "OPA tolerance",
-      "secondMostPlausibleAnswer": "B",
-      "whyTempting": "An OPA can help an unresponsive patient, but only when the gag reflex is absent.",
-      "whyNotBest": "Unresponsiveness alone does not establish tolerance.",
-      "keyDistinction": "A gag reflex contraindicates OPA use even when the patient is unresponsive; remove it to limit vomiting and aspiration risk.",
       "reviewFocus": "OPA tolerance",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Basic Airway Adjuncts \u00b7 OPA tolerance"
+          "section": "Basic Airway Adjuncts · OPA tolerance"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "OPA tolerance"
+      }
     },
     {
       "id": "CH11-Q028",
@@ -2308,10 +2620,22 @@
         {
           "sourceId": "transcript2",
           "filename": "Airway Management Part II-English.txt",
-          "label": "Chapter 11 lecture \u00b7 Part 2",
+          "label": "Chapter 11 lecture · Part 2",
           "section": "Suction catheter measurement using the OPA sizing method"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "OPA measurement"
+      }
     },
     {
       "id": "CH11-Q029",
@@ -2363,10 +2687,22 @@
         {
           "sourceId": "transcript2",
           "filename": "Airway Management Part II-English.txt",
-          "label": "Chapter 11 lecture \u00b7 Part 2",
+          "label": "Chapter 11 lecture · Part 2",
           "section": "OPA indications, size, and insertion"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Adult OPA insertion"
+      }
     },
     {
       "id": "CH11-Q030",
@@ -2419,18 +2755,30 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Basic Airway Adjuncts \u00b7 OPA sizing error"
+          "section": "Basic Airway Adjuncts · OPA sizing error"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "OPA sizing error"
+      }
     },
     {
       "id": "CH11-Q031",
-      "version": 1,
+      "version": 2,
       "chapter": 11,
       "topic": "OPA versus NPA selection",
       "conceptId": "CH11-C031",
       "learningObjectiveId": "CH11-LO12",
-      "questionType": "best_answer",
+      "questionType": "conceptual",
       "difficulty": "challenging",
       "question": "A semi-conscious patient cannot maintain the airway, has an intact gag reflex, and has no signs of head or nasal trauma. Which adjunct is better suited?",
       "choices": [
@@ -2468,19 +2816,27 @@
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
       "diagnosticIntent": "OPA versus NPA selection",
-      "secondMostPlausibleAnswer": "B",
-      "whyTempting": "Both devices support patency, but gag tolerance determines the appropriate choice.",
-      "whyNotBest": "The gag reflex makes the OPA unsuitable despite its rigidity.",
-      "keyDistinction": "An NPA can support the airway in a patient with an intact gag reflex who cannot tolerate an OPA.",
       "reviewFocus": "OPA versus NPA selection",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Basic Airway Adjuncts \u00b7 OPA versus NPA selection"
+          "section": "Basic Airway Adjuncts · OPA versus NPA selection"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "OPA versus NPA selection"
+      }
     },
     {
       "id": "CH11-Q032",
@@ -2533,44 +2889,56 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Basic Airway Adjuncts \u00b7 NPA contraindication"
+          "section": "Basic Airway Adjuncts · NPA contraindication"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "NPA contraindication"
+      }
     },
     {
       "id": "CH11-Q033",
-      "version": 1,
+      "version": 2,
       "chapter": 11,
       "topic": "NPA resistance",
       "conceptId": "CH11-C033",
       "learningObjectiveId": "CH11-LO12",
       "questionType": "best_answer",
       "difficulty": "challenging",
-      "question": "During gentle insertion of a lubricated NPA, you meet resistance and bleeding begins. What should happen next?",
+      "question": "During gentle insertion of a lubricated NPA, resistance is followed by nasal bleeding. What should the EMT do next?",
       "choices": [
         {
           "id": "A",
-          "text": "Stop insertion and reassess the airway plan"
+          "text": "Stop and reassess the airway and suitability of nasal insertion"
         },
         {
           "id": "B",
-          "text": "Apply more pressure while keeping the same trajectory"
+          "text": "Try the other nostril immediately without reassessing the bleeding"
         },
         {
           "id": "C",
-          "text": "Finish seating it quickly before more blood accumulates"
+          "text": "Add lubricant and continue through the same resistance"
         },
         {
           "id": "D",
-          "text": "Rotate repeatedly against the resistance until the flange reaches the nostril"
+          "text": "Choose a longer NPA to pass beyond the resistance"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Resistance or bleeding calls for stopping and reassessing, rather than forcing the device.",
+      "explanation": "New bleeding and resistance require stopping and reassessing. Do not solve resistance by force or by continuing insertion without evaluating the problem.",
       "incorrectChoiceExplanations": {
-        "B": "Lubrication does not justify forcing against resistance.",
-        "C": "Completing insertion despite bleeding can worsen injury.",
-        "D": "Repeated manipulation against resistance can cause further trauma."
+        "B": "Another nostril might be considered in other circumstances, but the new bleeding first needs reassessment.",
+        "C": "Lubrication does not justify forcing against resistance.",
+        "D": "Additional length does not correct resistance and may worsen trauma."
       },
       "sourceReferences": [
         {
@@ -2581,29 +2949,41 @@
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "NPA resistance",
+      "diagnosticIntent": "Respond to an insertion complication before selecting another nasal approach.",
       "secondMostPlausibleAnswer": "B",
-      "whyTempting": "Completing an adjunct may help patency, but new bleeding makes continued forceful insertion inappropriate.",
-      "whyNotBest": "Lubrication does not justify forcing against resistance.",
-      "keyDistinction": "Resistance or bleeding calls for stopping and reassessing, rather than forcing the device.",
+      "whyTempting": "An alternate nostril can seem reasonable, but the new complication changes the next step.",
+      "whyNotBest": "Another nostril might be considered in other circumstances, but the new bleeding first needs reassessment.",
+      "keyDistinction": "New bleeding and resistance require stopping and reassessing. Do not solve resistance by force or by continuing insertion without evaluating the problem.",
       "reviewFocus": "NPA resistance",
       "reviewReferences": [
         {
           "sourceId": "transcript2",
           "filename": "Airway Management Part II-English.txt",
-          "label": "Chapter 11 lecture \u00b7 Part 2",
+          "label": "Chapter 11 lecture · Part 2",
           "section": "NPA precautions and gentle insertion"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Respond to an insertion complication before selecting another nasal approach."
+      }
     },
     {
       "id": "CH11-Q034",
-      "version": 1,
+      "version": 2,
       "chapter": 11,
       "topic": "Recovery position",
       "conceptId": "CH11-C034",
       "learningObjectiveId": "CH11-LO13",
-      "questionType": "best_answer",
+      "questionType": "conceptual",
       "difficulty": "challenging",
       "question": "An uninjured unresponsive patient is breathing regularly with adequate depth and equal chest rise. Which positioning choice helps maintain the airway?",
       "choices": [
@@ -2641,28 +3021,36 @@
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
       "diagnosticIntent": "Recovery position",
-      "secondMostPlausibleAnswer": "B",
-      "whyTempting": "Supine positioning facilitates ventilation when needed, but this patient currently breathes adequately.",
-      "whyNotBest": "Supine positioning is useful for procedures, but adequate breathing does not itself require assisted ventilation.",
-      "keyDistinction": "The recovery position helps maintain drainage and patency in an uninjured unconscious patient breathing adequately.",
       "reviewFocus": "Recovery position",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Maintaining the Airway \u00b7 Recovery position"
+          "section": "Maintaining the Airway · Recovery position"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Recovery position"
+      }
     },
     {
       "id": "CH11-Q035",
-      "version": 1,
+      "version": 2,
       "chapter": 11,
       "topic": "Hypoxia with adequate ventilation",
       "conceptId": "CH11-C035",
       "learningObjectiveId": "CH11-LO14",
-      "questionType": "best_answer",
+      "questionType": "conceptual",
       "difficulty": "challenging",
       "question": "A patient has adequate spontaneous rate and depth but reliable SpO2 of 88%. Which intervention directly addresses the identified deficit?",
       "choices": [
@@ -2700,19 +3088,27 @@
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
       "diagnosticIntent": "Hypoxia with adequate ventilation",
-      "secondMostPlausibleAnswer": "B",
-      "whyTempting": "Bag-mask ventilation can provide oxygen and air movement, but this presentation identifies oxygenation rather than inadequate ventilation.",
-      "whyNotBest": "Assisted ventilation is selected for inadequate air movement; low saturation alone does not establish that need.",
-      "keyDistinction": "Hypoxia requires supplemental oxygen even when spontaneous ventilation is adequate.",
       "reviewFocus": "Hypoxia with adequate ventilation",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Supplemental Oxygen \u00b7 Hypoxia with adequate ventilation"
+          "section": "Supplemental Oxygen · Hypoxia with adequate ventilation"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Hypoxia with adequate ventilation"
+      }
     },
     {
       "id": "CH11-Q036",
@@ -2765,9 +3161,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Supplemental Oxygen \u00b7 COPD and needed oxygen"
+          "section": "Supplemental Oxygen · COPD and needed oxygen"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "COPD and needed oxygen"
+      }
     },
     {
       "id": "CH11-Q037",
@@ -2820,9 +3228,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Supplemental Oxygen \u00b7 Cylinder safety"
+          "section": "Supplemental Oxygen · Cylinder safety"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Cylinder safety"
+      }
     },
     {
       "id": "CH11-Q038",
@@ -2875,9 +3295,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Supplemental Oxygen \u00b7 Oxygen and combustion"
+          "section": "Supplemental Oxygen · Oxygen and combustion"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Oxygen and combustion"
+      }
     },
     {
       "id": "CH11-Q039",
@@ -2892,15 +3324,15 @@
       "choices": [
         {
           "id": "A",
-          "text": "Inflate the reservoir, typically use 10\u201315 L/min, and adjust flow so the bag does not collapse with inspiration"
+          "text": "Inflate the reservoir, typically use 10–15 L/min, and adjust flow so the bag does not collapse with inspiration"
         },
         {
           "id": "B",
-          "text": "Inflate the reservoir and use the usual nasal-cannula range of 1\u20136 L/min"
+          "text": "Inflate the reservoir and use the usual nasal-cannula range of 1–6 L/min"
         },
         {
           "id": "C",
-          "text": "Leave the reservoir empty until the first inspiration, then use 10\u201315 L/min"
+          "text": "Leave the reservoir empty until the first inspiration, then use 10–15 L/min"
         },
         {
           "id": "D",
@@ -2910,7 +3342,7 @@
       "correctAnswer": "A",
       "explanation": "The reservoir must be filled, with sufficient flow to maintain oxygen supply during inspiration.",
       "incorrectChoiceExplanations": {
-        "B": "The NRB requires greater flow, usually 10\u201315 L/min, sufficient to maintain its reservoir.",
+        "B": "The NRB requires greater flow, usually 10–15 L/min, sufficient to maintain its reservoir.",
         "C": "The reservoir should be full before application.",
         "D": "Complete reservoir collapse indicates that the supply is inadequate."
       },
@@ -2930,9 +3362,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Oxygen-Delivery Equipment \u00b7 NRB preparation"
+          "section": "Oxygen-Delivery Equipment · NRB preparation"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "NRB preparation"
+      }
     },
     {
       "id": "CH11-Q040",
@@ -2989,9 +3433,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Oxygen-Delivery Equipment \u00b7 Cannula selection"
+          "section": "Oxygen-Delivery Equipment · Cannula selection"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Cannula selection"
+      }
     },
     {
       "id": "CH11-Q041",
@@ -3002,7 +3458,7 @@
       "learningObjectiveId": "CH11-LO17",
       "questionType": "conceptual",
       "difficulty": "moderate",
-      "question": "A patient\u2019s oxygenation remains inadequate at 6 L/min through a conventional low-flow nasal cannula. Which reasoning is appropriate?",
+      "question": "A patient’s oxygenation remains inadequate at 6 L/min through a conventional low-flow nasal cannula. Which reasoning is appropriate?",
       "choices": [
         {
           "id": "A",
@@ -3022,7 +3478,7 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "The conventional cannula has a usual 1\u20136 L/min range; persistent hypoxia requires reassessment of device and breathing support.",
+      "explanation": "The conventional cannula has a usual 1–6 L/min range; persistent hypoxia requires reassessment of device and breathing support.",
       "incorrectChoiceExplanations": {
         "B": "Higher conventional cannula flow can add discomfort without useful improvement.",
         "C": "A flow setting does not diagnose apnea.",
@@ -3044,9 +3500,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Oxygen-Delivery Equipment \u00b7 Conventional cannula limits"
+          "section": "Oxygen-Delivery Equipment · Conventional cannula limits"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Conventional cannula limits"
+      }
     },
     {
       "id": "CH11-Q042",
@@ -3073,7 +3541,7 @@
         },
         {
           "id": "D",
-          "text": "When oxygen flow needs to be increased beyond the device\u2019s recommended range"
+          "text": "When oxygen flow needs to be increased beyond the device’s recommended range"
         }
       ],
       "correctAnswer": "A",
@@ -3099,9 +3567,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Oxygen-Delivery Equipment \u00b7 Humidification"
+          "section": "Oxygen-Delivery Equipment · Humidification"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Humidification"
+      }
     },
     {
       "id": "CH11-Q043",
@@ -3154,9 +3634,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisted and Artificial Ventilation \u00b7 Mouth-to-mask breaths"
+          "section": "Assisted and Artificial Ventilation · Mouth-to-mask breaths"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Mouth-to-mask breaths"
+      }
     },
     {
       "id": "CH11-Q044",
@@ -3167,7 +3659,7 @@
       "learningObjectiveId": "CH11-LO20",
       "questionType": "recall",
       "difficulty": "moderate",
-      "question": "In the one-person C\u2013E grip for bag-mask ventilation, what do the fingers do?",
+      "question": "In the one-person C–E grip for bag-mask ventilation, what do the fingers do?",
       "choices": [
         {
           "id": "A",
@@ -3190,13 +3682,13 @@
       "explanation": "The grip holds the mask and lifts the bony jaw to maintain an airway and seal.",
       "incorrectChoiceExplanations": {
         "B": "Downward pressure without jaw support can impair patency.",
-        "C": "Closing the nostrils is not the C\u2013E mask grip.",
+        "C": "Closing the nostrils is not the C–E mask grip.",
         "D": "Soft-tissue compression can worsen obstruction."
       },
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "XII.A\u2013B. Assisted ventilation and bag-mask devices"
+          "locator": "XII.A–B. Assisted ventilation and bag-mask devices"
         },
         {
           "sourceId": "transcript3",
@@ -3213,9 +3705,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisted and Artificial Ventilation \u00b7 One-person mask seal"
+          "section": "Assisted and Artificial Ventilation · One-person mask seal"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "One-person mask seal"
+      }
     },
     {
       "id": "CH11-Q045",
@@ -3230,7 +3734,7 @@
       "choices": [
         {
           "id": "A",
-          "text": "Explain the procedure, establish a seal, initially synchronize with the patient\u2019s breaths, then adjust assistance to chest rise and an appropriate rate"
+          "text": "Explain the procedure, establish a seal, initially synchronize with the patient’s breaths, then adjust assistance to chest rise and an appropriate rate"
         },
         {
           "id": "B",
@@ -3255,7 +3759,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "XII.A\u2013B. Assisted ventilation and bag-mask devices"
+          "locator": "XII.A–B. Assisted ventilation and bag-mask devices"
         },
         {
           "sourceId": "transcript3",
@@ -3272,9 +3776,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisted and Artificial Ventilation \u00b7 Assisting spontaneous breaths"
+          "section": "Assisted and Artificial Ventilation · Assisting spontaneous breaths"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Assisting spontaneous breaths"
+      }
     },
     {
       "id": "CH11-Q046",
@@ -3327,9 +3843,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisted and Artificial Ventilation \u00b7 Adequate artificial ventilation"
+          "section": "Assisted and Artificial Ventilation · Adequate artificial ventilation"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Adequate artificial ventilation"
+      }
     },
     {
       "id": "CH11-Q047",
@@ -3382,44 +3910,56 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisted and Artificial Ventilation \u00b7 Positive pressure and circulation"
+          "section": "Assisted and Artificial Ventilation · Positive pressure and circulation"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Positive pressure and circulation"
+      }
     },
     {
       "id": "CH11-Q048",
-      "version": 1,
+      "version": 2,
       "chapter": 11,
       "topic": "Gastric distention prevention",
       "conceptId": "CH11-C048",
       "learningObjectiveId": "CH11-LO21",
       "questionType": "best_answer",
       "difficulty": "challenging",
-      "question": "The abdomen begins to inflate during bag-mask ventilation, and the operator is squeezing rapidly and forcefully. Which correction best reduces the contributing problem?",
+      "question": "During bag-mask ventilation, the abdomen begins to inflate. The airway is partly flexed and the operator is giving rapid, forceful breaths. What correction best addresses the likely cause?",
       "choices": [
         {
           "id": "A",
-          "text": "Recheck airway position and deliver slower, gentler breaths only to visible chest rise"
+          "text": "Reopen the airway and give controlled breaths just sufficient for chest rise"
         },
         {
           "id": "B",
-          "text": "Increase oxygen flow while keeping the same force and rate"
+          "text": "Increase oxygen flow while retaining the current ventilation technique"
         },
         {
           "id": "C",
-          "text": "Squeeze the full bag volume to force more air into the lungs"
+          "text": "Use suction first even though no vomit or secretions are present"
         },
         {
           "id": "D",
-          "text": "Continue unchanged because abdominal rise confirms effective ventilation"
+          "text": "Tighten the mask seal and continue with the same breath rate and force"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Poor airway position, excess pressure, and rapid breaths contribute to gastric distention; correct technique.",
+      "explanation": "Airway position and excessive rate or pressure can send air into the stomach. Correct those factors and observe chest rise.",
       "incorrectChoiceExplanations": {
-        "B": "Oxygen flow does not correct excessive rate or force.",
-        "C": "Larger volumes can worsen gastric inflation.",
-        "D": "Abdominal rise is not the desired evidence of lung ventilation."
+        "B": "Oxygen flow does not correct the pressure and airway-position problem.",
+        "C": "Suction should be ready if vomiting occurs, but does not correct gastric inflation without airway material.",
+        "D": "A good seal matters but does not justify continuing excessive rate and force."
       },
       "sourceReferences": [
         {
@@ -3430,20 +3970,32 @@
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "Gastric distention prevention",
+      "diagnosticIntent": "Correct the cause of gastric inflation rather than changing oxygen supply.",
       "secondMostPlausibleAnswer": "B",
-      "whyTempting": "Oxygen supply matters, but technique is the identified cause of the distention.",
-      "whyNotBest": "Oxygen flow does not correct excessive rate or force.",
-      "keyDistinction": "Poor airway position, excess pressure, and rapid breaths contribute to gastric distention; correct technique.",
+      "whyTempting": "Oxygen supply matters, but the described problem is delivery technique.",
+      "whyNotBest": "Oxygen flow does not correct the pressure and airway-position problem.",
+      "keyDistinction": "Airway position and excessive rate or pressure can send air into the stomach. Correct those factors and observe chest rise.",
       "reviewFocus": "Gastric distention prevention",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisted and Artificial Ventilation \u00b7 Gastric distention prevention"
+          "section": "Assisted and Artificial Ventilation · Gastric distention prevention"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Correct the cause of gastric inflation rather than changing oxygen supply."
+      }
     },
     {
       "id": "CH11-Q049",
@@ -3470,7 +4022,7 @@
         },
         {
           "id": "D",
-          "text": "Bag-mask breaths replacing the patient\u2019s spontaneous effort"
+          "text": "Bag-mask breaths replacing the patient’s spontaneous effort"
         }
       ],
       "correctAnswer": "A",
@@ -3500,9 +4052,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Continuous Positive Airway Pressure \u00b7 CPAP candidate"
+          "section": "Continuous Positive Airway Pressure · CPAP candidate"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "CPAP candidate"
+      }
     },
     {
       "id": "CH11-Q050",
@@ -3529,7 +4093,7 @@
         },
         {
           "id": "D",
-          "text": "Its pressure improves oxygenation without requiring ventilation\u2013perfusion matching"
+          "text": "Its pressure improves oxygenation without requiring ventilation–perfusion matching"
         }
       ],
       "correctAnswer": "A",
@@ -3555,9 +4119,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Continuous Positive Airway Pressure \u00b7 CPAP exhalation benefit"
+          "section": "Continuous Positive Airway Pressure · CPAP exhalation benefit"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "CPAP exhalation benefit"
+      }
     },
     {
       "id": "CH11-Q051",
@@ -3610,9 +4186,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Continuous Positive Airway Pressure \u00b7 CPAP and hypotension"
+          "section": "Continuous Positive Airway Pressure · CPAP and hypotension"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "CPAP and hypotension"
+      }
     },
     {
       "id": "CH11-Q052",
@@ -3665,9 +4253,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Continuous Positive Airway Pressure \u00b7 Deterioration on CPAP"
+          "section": "Continuous Positive Airway Pressure · Deterioration on CPAP"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Deterioration on CPAP"
+      }
     },
     {
       "id": "CH11-Q053",
@@ -3682,11 +4282,11 @@
       "choices": [
         {
           "id": "A",
-          "text": "Compare available oxygen with the device\u2019s demand for the expected transport time"
+          "text": "Compare available oxygen with the device’s demand for the expected transport time"
         },
         {
           "id": "B",
-          "text": "Select the cylinder based on its pressure without considering the device\u2019s flow demand"
+          "text": "Select the cylinder based on its pressure without considering the device’s flow demand"
         },
         {
           "id": "C",
@@ -3720,44 +4320,56 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Continuous Positive Airway Pressure \u00b7 CPAP equipment readiness"
+          "section": "Continuous Positive Airway Pressure · CPAP equipment readiness"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "CPAP equipment readiness"
+      }
     },
     {
       "id": "CH11-Q054",
-      "version": 1,
+      "version": 2,
       "chapter": 11,
       "topic": "CPAP intolerance",
       "conceptId": "CH11-C054",
       "learningObjectiveId": "CH11-LO22",
       "questionType": "best_answer",
       "difficulty": "challenging",
-      "question": "An otherwise suitable CPAP patient becomes anxious about the mask but remains alert and breathing adequately enough to cooperate. What is the best initial approach?",
+      "question": "An otherwise suitable CPAP patient is anxious about the mask but remains alert, cooperative, and able to protect the airway. What is the best initial response?",
       "choices": [
         {
           "id": "A",
-          "text": "Explain, reassure, and coach the patient while monitoring tolerance"
+          "text": "Explain the treatment and coach the patient while monitoring tolerance"
         },
         {
           "id": "B",
-          "text": "Secure the straps more firmly before discussing the patient\u2019s anxiety"
+          "text": "Stop CPAP immediately and return to the previous oxygen device"
         },
         {
           "id": "C",
-          "text": "Increase pressure to overcome the patient\u2019s resistance to breathing through the mask"
+          "text": "Tighten the straps first to improve the seal before discussing the anxiety"
         },
         {
           "id": "D",
-          "text": "Continue CPAP without reassessing if the patient becomes unable to cooperate"
+          "text": "Increase pressure to make each breath easier before reassessing tolerance"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Coaching can improve acceptance; CPAP should not be forced on a patient who cannot tolerate it.",
+      "explanation": "Coaching can help an alert cooperative patient tolerate CPAP. Continue monitoring; inability to cooperate or deterioration would require another plan.",
       "incorrectChoiceExplanations": {
-        "B": "A seal is important, but coaching rather than forcing is the initial response to anxiety.",
-        "C": "Higher pressure is not a correction for mask-related anxiety.",
-        "D": "Loss of cooperation can make CPAP unsuitable and requires reassessment."
+        "B": "Another device may be needed if tolerance fails, but initial coaching is appropriate for a still-cooperative patient.",
+        "C": "Tightening before addressing anxiety can worsen intolerance.",
+        "D": "Pressure should not be raised simply to overcome anxiety."
       },
       "sourceReferences": [
         {
@@ -3768,20 +4380,32 @@
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "CPAP intolerance",
+      "diagnosticIntent": "Distinguish initial mask anxiety from inability to tolerate CPAP.",
       "secondMostPlausibleAnswer": "B",
-      "whyTempting": "A good seal matters, but tightening against active resistance does not address anxiety safely.",
-      "whyNotBest": "A seal is important, but coaching rather than forcing is the initial response to anxiety.",
-      "keyDistinction": "Coaching can improve acceptance; CPAP should not be forced on a patient who cannot tolerate it.",
+      "whyTempting": "Changing devices may become necessary, but this patient can still cooperate with coaching.",
+      "whyNotBest": "Another device may be needed if tolerance fails, but initial coaching is appropriate for a still-cooperative patient.",
+      "keyDistinction": "Coaching can help an alert cooperative patient tolerate CPAP. Continue monitoring; inability to cooperate or deterioration would require another plan.",
       "reviewFocus": "CPAP intolerance",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Continuous Positive Airway Pressure \u00b7 CPAP intolerance"
+          "section": "Continuous Positive Airway Pressure · CPAP intolerance"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Distinguish initial mask anxiety from inability to tolerate CPAP."
+      }
     },
     {
       "id": "CH11-Q055",
@@ -3838,9 +4462,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Airway Obstruction \u00b7 Mild obstruction with effective cough"
+          "section": "Airway Obstruction · Mild obstruction with effective cough"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Mild obstruction with effective cough"
+      }
     },
     {
       "id": "CH11-Q056",
@@ -3851,7 +4487,7 @@
       "learningObjectiveId": "CH11-LO23",
       "questionType": "multi_step",
       "difficulty": "challenging",
-      "question": "A choking patient\u2019s cough becomes weak, speech stops, and cyanosis develops. Why should care change immediately?",
+      "question": "A choking patient’s cough becomes weak, speech stops, and cyanosis develops. Why should care change immediately?",
       "choices": [
         {
           "id": "A",
@@ -3893,9 +4529,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Airway Obstruction \u00b7 Poor air exchange during choking"
+          "section": "Airway Obstruction · Poor air exchange during choking"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Poor air exchange during choking"
+      }
     },
     {
       "id": "CH11-Q057",
@@ -3948,9 +4596,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Airway Obstruction \u00b7 Unresponsive obstruction and visible objects"
+          "section": "Airway Obstruction · Unresponsive obstruction and visible objects"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Unresponsive obstruction and visible objects"
+      }
     },
     {
       "id": "CH11-Q058",
@@ -4003,9 +4663,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Airway Obstruction \u00b7 Dentures and ventilation"
+          "section": "Airway Obstruction · Dentures and ventilation"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Dentures and ventilation"
+      }
     },
     {
       "id": "CH11-Q059",
@@ -4045,7 +4717,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "XVI.A\u2013B. Assisting with ALS airway procedures"
+          "locator": "XVI.A–B. Assisting with ALS airway procedures"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -4062,9 +4734,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisting with ALS Airway Procedures \u00b7 EMT role during ALS airway care"
+          "section": "Assisting with ALS Airway Procedures · EMT role during ALS airway care"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "EMT role during ALS airway care"
+      }
     },
     {
       "id": "CH11-Q060",
@@ -4104,7 +4788,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "XVI.A\u2013B. Assisting with ALS airway procedures"
+          "locator": "XVI.A–B. Assisting with ALS airway procedures"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -4117,9 +4801,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisting with ALS Airway Procedures \u00b7 ALS setup and fallback equipment"
+          "section": "Assisting with ALS Airway Procedures · ALS setup and fallback equipment"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "ALS setup and fallback equipment"
+      }
     },
     {
       "id": "CH11-Q061",
@@ -4159,7 +4855,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "XVI.B.1.a\u2013b. Preoxygenation"
+          "locator": "XVI.B.1.a–b. Preoxygenation"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -4172,9 +4868,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisting with ALS Airway Procedures \u00b7 Preoxygenation purpose"
+          "section": "Assisting with ALS Airway Procedures · Preoxygenation purpose"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Preoxygenation purpose"
+      }
     },
     {
       "id": "CH11-Q062",
@@ -4214,7 +4922,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "XVI.B.1.a\u2013b. Preoxygenation"
+          "locator": "XVI.B.1.a–b. Preoxygenation"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
@@ -4231,9 +4939,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisting with ALS Airway Procedures \u00b7 Preoxygenation quality"
+          "section": "Assisting with ALS Airway Procedures · Preoxygenation quality"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Preoxygenation quality"
+      }
     },
     {
       "id": "CH11-Q063",
@@ -4248,19 +4968,19 @@
       "choices": [
         {
           "id": "A",
-          "text": "Bag-mask preoxygenation \u2192 Evaluate difficulties \u2192 Manipulate patient \u2192 Attempt first pass \u2192 supraGlottic airway if needed \u2192 Confirm/correct"
+          "text": "Bag-mask preoxygenation → Evaluate difficulties → Manipulate patient → Attempt first pass → supraGlottic airway if needed → Confirm/correct"
         },
         {
           "id": "B",
-          "text": "Bag-mask preoxygenation \u2192 Attempt first pass \u2192 Evaluate difficulties \u2192 Confirm \u2192 Manipulate patient \u2192 supraGlottic airway"
+          "text": "Bag-mask preoxygenation → Attempt first pass → Evaluate difficulties → Confirm → Manipulate patient → supraGlottic airway"
         },
         {
           "id": "C",
-          "text": "Evaluate difficulties \u2192 Confirm placement \u2192 Bag-mask preoxygenation \u2192 Manipulate patient \u2192 Attempt first pass \u2192 supraGlottic airway"
+          "text": "Evaluate difficulties → Confirm placement → Bag-mask preoxygenation → Manipulate patient → Attempt first pass → supraGlottic airway"
         },
         {
           "id": "D",
-          "text": "Bag-mask preoxygenation \u2192 Manipulate patient \u2192 Confirm placement \u2192 Attempt first pass \u2192 Evaluate difficulties \u2192 supraGlottic airway"
+          "text": "Bag-mask preoxygenation → Manipulate patient → Confirm placement → Attempt first pass → Evaluate difficulties → supraGlottic airway"
         }
       ],
       "correctAnswer": "A",
@@ -4286,9 +5006,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisting with ALS Airway Procedures \u00b7 BE MAGIC sequence"
+          "section": "Assisting with ALS Airway Procedures · BE MAGIC sequence"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "BE MAGIC sequence"
+      }
     },
     {
       "id": "CH11-Q064",
@@ -4341,9 +5073,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisting with ALS Airway Procedures \u00b7 BE MAGIC failed attempt"
+          "section": "Assisting with ALS Airway Procedures · BE MAGIC failed attempt"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "BE MAGIC failed attempt"
+      }
     },
     {
       "id": "CH11-Q065",
@@ -4396,18 +5140,30 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisting with ALS Airway Procedures \u00b7 Intubated patient deterioration"
+          "section": "Assisting with ALS Airway Procedures · Intubated patient deterioration"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Intubated patient deterioration"
+      }
     },
     {
       "id": "CH11-Q066",
-      "version": 1,
+      "version": 2,
       "chapter": 11,
       "topic": "Ongoing tube monitoring",
       "conceptId": "CH11-C066",
       "learningObjectiveId": "CH11-LO27",
-      "questionType": "best_answer",
+      "questionType": "conceptual",
       "difficulty": "challenging",
       "question": "An ET tube was confirmed and secured before movement. Why must the EMT continue checking ventilation, perfusion, and tube position?",
       "choices": [
@@ -4445,19 +5201,27 @@
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
       "diagnosticIntent": "Ongoing tube monitoring",
-      "secondMostPlausibleAnswer": "B",
-      "whyTempting": "Securement helps preserve position, but it cannot replace ongoing assessment.",
-      "whyNotBest": "Securement reduces movement risk but does not eliminate complications.",
-      "keyDistinction": "Confirmation is not a one-time guarantee; the patient and airway must be monitored continuously.",
       "reviewFocus": "Ongoing tube monitoring",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisting with ALS Airway Procedures \u00b7 Ongoing tube monitoring"
+          "section": "Assisting with ALS Airway Procedures · Ongoing tube monitoring"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Ongoing tube monitoring"
+      }
     },
     {
       "id": "CH11-Q067",
@@ -4510,9 +5274,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Capnography versus capnometry"
+          "section": "Patient Assessment · Capnography versus capnometry"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Capnography versus capnometry"
+      }
     },
     {
       "id": "CH11-Q068",
@@ -4565,9 +5341,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisted and Artificial Ventilation \u00b7 Vomiting during ventilation"
+          "section": "Assisted and Artificial Ventilation · Vomiting during ventilation"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Vomiting during ventilation"
+      }
     },
     {
       "id": "CH11-Q069",
@@ -4607,7 +5395,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "X.B.5\u20136. Pressure regulators and flowmeters"
+          "locator": "X.B.5–6. Pressure regulators and flowmeters"
         }
       ],
       "verificationStatus": "Reviewed against uploaded class material; not independently verified",
@@ -4620,9 +5408,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Supplemental Oxygen \u00b7 Oxygen regulator and flowmeter roles"
+          "section": "Supplemental Oxygen · Oxygen regulator and flowmeter roles"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Oxygen regulator and flowmeter roles"
+      }
     },
     {
       "id": "CH11-Q070",
@@ -4641,7 +5441,7 @@
         },
         {
           "id": "B",
-          "text": "Turning the unit sideways changes the cylinder\u2019s stored pressure"
+          "text": "Turning the unit sideways changes the cylinder’s stored pressure"
         },
         {
           "id": "C",
@@ -4675,9 +5475,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Supplemental Oxygen \u00b7 Position-dependent oxygen flowmeters"
+          "section": "Supplemental Oxygen · Position-dependent oxygen flowmeters"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Position-dependent oxygen flowmeters"
+      }
     },
     {
       "id": "CH11-Q071",
@@ -4717,7 +5529,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "XII.B.5\u20137. Bag-mask ventilation and gastric distention"
+          "locator": "XII.B.5–7. Bag-mask ventilation and gastric distention"
         }
       ],
       "verificationStatus": "Reviewed against uploaded class material; not independently verified",
@@ -4734,9 +5546,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Assisted and Artificial Ventilation \u00b7 Ventilation reassessment: chest rise and seal"
+          "section": "Assisted and Artificial Ventilation · Ventilation reassessment: chest rise and seal"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Ventilation reassessment: chest rise and seal"
+      }
     },
     {
       "id": "CH11-Q072",
@@ -4776,7 +5600,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "X. Assisted and Artificial Ventilation \u00b7 Mouth-to-mouth and mouth-to-mask ventilation"
+          "locator": "X. Assisted and Artificial Ventilation · Mouth-to-mouth and mouth-to-mask ventilation"
         }
       ],
       "verificationStatus": "Reviewed against uploaded class material; not independently verified",
@@ -4789,9 +5613,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "X. Assisted and Artificial Ventilation \u00b7 Pocket-mask oxygen inlet"
+          "section": "X. Assisted and Artificial Ventilation · Pocket-mask oxygen inlet"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Dental appliances and the mask seal"
+      }
     },
     {
       "id": "CH11-Q073",
@@ -4844,9 +5680,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Airway Obstruction \u00b7 Non-foreign-body airway obstruction"
+          "section": "Airway Obstruction · Non-foreign-body airway obstruction"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Non-foreign-body airway obstruction"
+      }
     },
     {
       "id": "CH11-Q074",
@@ -4902,7 +5750,19 @@
           "label": "Chapter 11 outline",
           "section": "III. Physiology of Breathing"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Ventilation definition"
+      }
     },
     {
       "id": "CH11-Q075",
@@ -4958,7 +5818,19 @@
           "label": "Chapter 11 outline",
           "section": "III.D. Oxygenation"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Oxygenation definition"
+      }
     },
     {
       "id": "CH11-Q076",
@@ -4998,7 +5870,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "VII. Suctioning \u00b7 Equipment and catheter measurement"
+          "locator": "VII. Suctioning · Equipment and catheter measurement"
         }
       ],
       "verificationStatus": "Reviewed against uploaded class material; not independently verified",
@@ -5011,9 +5883,21 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "VII. Suctioning \u00b7 Equipment and catheter measurement"
+          "section": "VII. Suctioning · Equipment and catheter measurement"
         }
-      ]
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Suction catheter measurement"
+      }
     },
     {
       "id": "CH11-Q077",
@@ -5053,7 +5937,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "XI. Continuous Positive Airway Pressure \u00b7 Indications and contraindications"
+          "locator": "XI. Continuous Positive Airway Pressure · Indications and contraindications"
         }
       ],
       "verificationStatus": "Reviewed against uploaded class material; not independently verified",
@@ -5066,248 +5950,20 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "XI. Continuous Positive Airway Pressure \u00b7 Indications and contraindications"
-        }
-      ]
-    },
-    {
-      "chapter": 11,
-      "topic": "Ventilation definition",
-      "learningObjectiveId": "CH11-LO02",
-      "sourceReferences": [
-        {
-          "sourceId": "outline",
-          "locator": "III. Physiology of Breathing"
+          "section": "XI. Continuous Positive Airway Pressure · Indications and contraindications"
         }
       ],
-      "reviewReferences": [
-        {
-          "sourceId": "outline",
-          "filename": "9781284243796_LOUT_CH11(1).docx",
-          "label": "Chapter 11 outline",
-          "section": "III. Physiology of Breathing"
-        }
-      ],
-      "contentBasis": "Uploaded course materials only",
-      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
-      "id": "CH11-FB001",
-      "version": 2,
-      "format": "mcq",
-      "questionType": "recall",
-      "question": "The physical movement of air into and out of the lungs is _____.",
-      "conceptId": "CH11-C074",
-      "reviewFocus": "Ventilation definition",
-      "includeInCourseExam": true,
-      "includeInLearning": false,
-      "sourceQuestionIds": [
-        "CH11-Q074"
-      ],
-      "difficulty": "moderate",
-      "correctAnswer": "A",
-      "explanation": "Ventilation is air movement. Oxygenation, respiration, and perfusion describe the other processes.",
-      "blankMultipleChoice": true,
-      "choices": [
-        {
-          "id": "A",
-          "text": "ventilation"
-        },
-        {
-          "id": "B",
-          "text": "oxygenation"
-        },
-        {
-          "id": "C",
-          "text": "respiration"
-        },
-        {
-          "id": "D",
-          "text": "perfusion"
-        }
-      ],
-      "incorrectChoiceExplanations": {
-        "B": "Oxygenation is loading oxygen onto hemoglobin.",
-        "C": "Respiration refers to gas exchange.",
-        "D": "Perfusion is blood flow through tissues sufficient for their needs."
-      }
-    },
-    {
-      "chapter": 11,
-      "topic": "Capnography versus capnometry",
-      "learningObjectiveId": "CH11-LO06",
-      "sourceReferences": [
-        {
-          "sourceId": "outline",
-          "locator": "V.D. Assessment of respiration, pulse oximetry, and end-tidal CO2"
-        }
-      ],
-      "reviewReferences": [
-        {
-          "sourceId": "outline",
-          "filename": "9781284243796_LOUT_CH11(1).docx",
-          "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Capnography versus capnometry"
-        }
-      ],
-      "contentBasis": "Uploaded course materials only",
-      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
-      "id": "CH11-FB002",
-      "version": 2,
-      "format": "mcq",
-      "questionType": "recall",
-      "question": "Monitoring that supplies both an end-tidal CO\u2082 number and a waveform is _____.",
-      "conceptId": "CH11-C067",
-      "reviewFocus": "Capnography versus capnometry",
-      "includeInCourseExam": true,
-      "includeInLearning": false,
-      "sourceQuestionIds": [
-        "CH11-Q067"
-      ],
-      "difficulty": "moderate",
-      "correctAnswer": "A",
-      "explanation": "Capnography displays a waveform as well as a numeric value; capnometry supplies the number.",
-      "blankMultipleChoice": true,
-      "choices": [
-        {
-          "id": "A",
-          "text": "capnography"
-        },
-        {
-          "id": "B",
-          "text": "capnometry"
-        },
-        {
-          "id": "C",
-          "text": "pulse oximetry"
-        },
-        {
-          "id": "D",
-          "text": "an oxygen flowmeter"
-        }
-      ],
-      "incorrectChoiceExplanations": {
-        "B": "Capnometry provides a number without the waveform.",
-        "C": "Pulse oximetry estimates oxygen saturation.",
-        "D": "A flowmeter indicates oxygen flow, not exhaled CO\u2082 or a waveform."
-      }
-    },
-    {
-      "chapter": 11,
-      "topic": "OPA measurement",
-      "learningObjectiveId": "CH11-LO11",
-      "sourceReferences": [
-        {
-          "sourceId": "transcript2",
-          "locator": "Suction catheter measurement using the OPA sizing method"
-        }
-      ],
-      "reviewReferences": [
-        {
-          "sourceId": "transcript2",
-          "filename": "Airway Management Part II-English.txt",
-          "label": "Chapter 11 lecture \u00b7 Part 2",
-          "section": "Suction catheter measurement using the OPA sizing method"
-        }
-      ],
-      "contentBasis": "Uploaded course materials only",
-      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
-      "id": "CH11-FB003",
-      "version": 2,
-      "format": "mcq",
-      "questionType": "recall",
-      "question": "An OPA is measured from the corner of the mouth to the _____.",
-      "conceptId": "CH11-C028",
-      "reviewFocus": "OPA measurement",
-      "includeInCourseExam": true,
-      "includeInLearning": false,
-      "sourceQuestionIds": [
-        "CH11-Q028"
-      ],
-      "difficulty": "moderate",
-      "correctAnswer": "A",
-      "explanation": "The lecture describes measuring from the corner of the mouth to the earlobe or jaw angle for an oral airway.",
-      "blankMultipleChoice": true,
-      "choices": [
-        {
-          "id": "A",
-          "text": "earlobe"
-        },
-        {
-          "id": "B",
-          "text": "tip of the chin"
-        },
-        {
-          "id": "C",
-          "text": "opposite mouth corner"
-        },
-        {
-          "id": "D",
-          "text": "sternal notch"
-        }
-      ],
-      "incorrectChoiceExplanations": {
-        "B": "This distance does not measure the required OPA length.",
-        "C": "Mouth width does not establish OPA length.",
-        "D": "The sternal notch is not the supplied OPA measurement endpoint."
-      }
-    },
-    {
-      "chapter": 11,
-      "topic": "Adult apnea with a pulse",
-      "learningObjectiveId": "CH11-LO05",
-      "sourceReferences": [
-        {
-          "sourceId": "outline",
-          "locator": "V. Patient Assessment; XII.B. Artificial ventilation"
-        }
-      ],
-      "reviewReferences": [
-        {
-          "sourceId": "outline",
-          "filename": "9781284243796_LOUT_CH11(1).docx",
-          "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Adult apnea with a pulse"
-        }
-      ],
-      "contentBasis": "Uploaded course materials only",
-      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
-      "id": "CH11-FB004",
-      "version": 2,
-      "format": "mcq",
-      "questionType": "recall",
-      "question": "An apneic adult with a definite pulse receives one breath every _____ seconds.",
-      "conceptId": "CH11-C011",
-      "reviewFocus": "Adult apnea with a pulse",
-      "includeInCourseExam": true,
-      "includeInLearning": false,
-      "sourceQuestionIds": [
-        "CH11-Q011"
-      ],
-      "difficulty": "moderate",
-      "correctAnswer": "A",
-      "explanation": "An apneic adult with a pulse needs approximately 10 breaths/min, using gentle breaths sufficient for chest rise.",
-      "blankMultipleChoice": true,
-      "choices": [
-        {
-          "id": "A",
-          "text": "6"
-        },
-        {
-          "id": "B",
-          "text": "3"
-        },
-        {
-          "id": "C",
-          "text": "10"
-        },
-        {
-          "id": "D",
-          "text": "15"
-        }
-      ],
-      "incorrectChoiceExplanations": {
-        "B": "This is within the supplied pediatric interval, not the adult interval.",
-        "C": "This is longer than the supplied adult interval.",
-        "D": "This is longer than the supplied adult interval."
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "CPAP eligibility"
       }
     }
   ],
@@ -5455,7 +6111,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Adult apnea with a pulse"
+          "section": "Patient Assessment · Adult apnea with a pulse"
         }
       ]
     },
@@ -5472,7 +6128,7 @@
       "choices": [
         {
           "id": "A",
-          "text": "One breath every 2\u20133 seconds"
+          "text": "One breath every 2–3 seconds"
         },
         {
           "id": "B",
@@ -5488,7 +6144,7 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "The supplied airway guidance uses one breath every 2\u20133 seconds for children and infants with a pulse.",
+      "explanation": "The supplied airway guidance uses one breath every 2–3 seconds for children and infants with a pulse.",
       "incorrectChoiceExplanations": {
         "B": "This is the adult schedule, not the pediatric schedule.",
         "C": "This provides only 6 breaths/min.",
@@ -5510,7 +6166,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Pediatric apnea with a pulse"
+          "section": "Patient Assessment · Pediatric apnea with a pulse"
         }
       ]
     },
@@ -5565,7 +6221,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Suctioning \u00b7 Suction catheter selection"
+          "section": "Suctioning · Suction catheter selection"
         }
       ]
     },
@@ -5619,7 +6275,7 @@
         {
           "sourceId": "transcript2",
           "filename": "Airway Management Part II-English.txt",
-          "label": "Chapter 11 lecture \u00b7 Part 2",
+          "label": "Chapter 11 lecture · Part 2",
           "section": "Suction catheter measurement using the OPA sizing method"
         }
       ]
@@ -5674,7 +6330,7 @@
         {
           "sourceId": "transcript2",
           "filename": "Airway Management Part II-English.txt",
-          "label": "Chapter 11 lecture \u00b7 Part 2",
+          "label": "Chapter 11 lecture · Part 2",
           "section": "OPA indications, size, and insertion"
         }
       ]
@@ -5730,7 +6386,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Basic Airway Adjuncts \u00b7 OPA sizing error"
+          "section": "Basic Airway Adjuncts · OPA sizing error"
         }
       ]
     },
@@ -5747,7 +6403,7 @@
       "choices": [
         {
           "id": "A",
-          "text": "A nasal cannula with response-guided flow within the usual 1\u20136 L/min range"
+          "text": "A nasal cannula with response-guided flow within the usual 1–6 L/min range"
         },
         {
           "id": "B",
@@ -5789,7 +6445,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Oxygen-Delivery Equipment \u00b7 Cannula selection"
+          "section": "Oxygen-Delivery Equipment · Cannula selection"
         }
       ]
     },
@@ -5848,7 +6504,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Continuous Positive Airway Pressure \u00b7 CPAP candidate"
+          "section": "Continuous Positive Airway Pressure · CPAP candidate"
         }
       ]
     },
@@ -5903,7 +6559,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Continuous Positive Airway Pressure \u00b7 CPAP and hypotension"
+          "section": "Continuous Positive Airway Pressure · CPAP and hypotension"
         }
       ]
     },
@@ -5958,7 +6614,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Continuous Positive Airway Pressure \u00b7 CPAP equipment readiness"
+          "section": "Continuous Positive Airway Pressure · CPAP equipment readiness"
         }
       ]
     },
@@ -6000,7 +6656,7 @@
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "X.B.5\u20136. Pressure regulators and flowmeters"
+          "locator": "X.B.5–6. Pressure regulators and flowmeters"
         }
       ],
       "verificationStatus": "Reviewed against uploaded class material; not independently verified",
@@ -6013,7 +6669,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Supplemental Oxygen \u00b7 Oxygen regulator and flowmeter roles"
+          "section": "Supplemental Oxygen · Oxygen regulator and flowmeter roles"
         }
       ]
     },
@@ -6068,7 +6724,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Supplemental Oxygen \u00b7 Position-dependent oxygen flowmeters"
+          "section": "Supplemental Oxygen · Position-dependent oxygen flowmeters"
         }
       ]
     },
@@ -6123,7 +6779,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Airway Obstruction \u00b7 Dental appliances and the mask seal"
+          "section": "Airway Obstruction · Dental appliances and the mask seal"
         }
       ]
     },
@@ -6178,7 +6834,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Airway Obstruction \u00b7 Non-foreign-body airway obstruction"
+          "section": "Airway Obstruction · Non-foreign-body airway obstruction"
         }
       ]
     },
@@ -6197,7 +6853,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Pulse oximetry versus ventilation"
+          "section": "Patient Assessment · Pulse oximetry versus ventilation"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -6206,7 +6862,7 @@
       "version": 1,
       "format": "active_recall",
       "questionType": "active_recall",
-      "question": "An oxygen-treated patient has SpO\u2082 97% but is breathing 6/min with shallow breaths and declining alertness. Explain the immediate priority.",
+      "question": "An oxygen-treated patient has SpO₂ 97% but is breathing 6/min with shallow breaths and declining alertness. Explain the immediate priority.",
       "conceptId": "CH11-C013",
       "reviewFocus": "Pulse oximetry versus ventilation",
       "includeInCourseExam": false,
@@ -6218,10 +6874,10 @@
       "checkpoints": [
         "Recognize inadequate ventilation despite the reassuring saturation.",
         "Open and maintain the airway and assist ventilation with oxygen.",
-        "Reassess chest rise and the patient\u2019s response."
+        "Reassess chest rise and the patient’s response."
       ],
-      "modelAnswer": "Recognize inadequate ventilation despite the reassuring saturation. Open and maintain the airway and assist ventilation with oxygen. Reassess chest rise and the patient\u2019s response.",
-      "explanation": "Recognize inadequate ventilation despite the reassuring saturation. Open and maintain the airway and assist ventilation with oxygen. Reassess chest rise and the patient\u2019s response."
+      "modelAnswer": "Recognize inadequate ventilation despite the reassuring saturation. Open and maintain the airway and assist ventilation with oxygen. Reassess chest rise and the patient’s response.",
+      "explanation": "Recognize inadequate ventilation despite the reassuring saturation. Open and maintain the airway and assist ventilation with oxygen. Reassess chest rise and the patient’s response."
     },
     {
       "chapter": 11,
@@ -6238,7 +6894,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Suctioning \u00b7 Suction time limits"
+          "section": "Suctioning · Suction time limits"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -6280,7 +6936,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Oxygen-Delivery Equipment \u00b7 NRB preparation"
+          "section": "Oxygen-Delivery Equipment · NRB preparation"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -6300,11 +6956,11 @@
       "difficulty": "moderate",
       "checkpoints": [
         "Inflate the reservoir before applying the mask.",
-        "Typically use 10\u201315 L/min.",
+        "Typically use 10–15 L/min.",
         "Adjust flow so the reservoir does not collapse during inspiration."
       ],
-      "modelAnswer": "Inflate the reservoir before applying the mask. Typically use 10\u201315 L/min. Adjust flow so the reservoir does not collapse during inspiration.",
-      "explanation": "Inflate the reservoir before applying the mask. Typically use 10\u201315 L/min. Adjust flow so the reservoir does not collapse during inspiration."
+      "modelAnswer": "Inflate the reservoir before applying the mask. Typically use 10–15 L/min. Adjust flow so the reservoir does not collapse during inspiration.",
+      "explanation": "Inflate the reservoir before applying the mask. Typically use 10–15 L/min. Adjust flow so the reservoir does not collapse during inspiration."
     },
     {
       "chapter": 11,
@@ -6321,7 +6977,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Continuous Positive Airway Pressure \u00b7 Deterioration on CPAP"
+          "section": "Continuous Positive Airway Pressure · Deterioration on CPAP"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -6400,7 +7056,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Capnography versus capnometry"
+          "section": "Patient Assessment · Capnography versus capnometry"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -6409,7 +7065,7 @@
       "version": 1,
       "format": "fill_blank",
       "questionType": "fill_blank",
-      "question": "Monitoring that supplies both an end-tidal CO\u2082 number and a waveform is _____.",
+      "question": "Monitoring that supplies both an end-tidal CO₂ number and a waveform is _____.",
       "conceptId": "CH11-C067",
       "reviewFocus": "Capnography versus capnometry",
       "includeInCourseExam": false,
@@ -6439,7 +7095,7 @@
         {
           "sourceId": "transcript2",
           "filename": "Airway Management Part II-English.txt",
-          "label": "Chapter 11 lecture \u00b7 Part 2",
+          "label": "Chapter 11 lecture · Part 2",
           "section": "Suction catheter measurement using the OPA sizing method"
         }
       ],
@@ -6480,7 +7136,7 @@
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH11(1).docx",
           "label": "Chapter 11 outline",
-          "section": "Patient Assessment \u00b7 Adult apnea with a pulse"
+          "section": "Patient Assessment · Adult apnea with a pulse"
         }
       ],
       "contentBasis": "Uploaded course materials only",
@@ -6504,7 +7160,952 @@
         "six"
       ],
       "explanation": "An apneic adult with a pulse needs approximately 10 breaths/min, using gentle breaths sufficient for chest rise."
+    },
+    {
+      "id": "CH11-Q010",
+      "version": 1,
+      "chapter": 11,
+      "topic": "Abnormal respiratory patterns",
+      "conceptId": "CH11-C010",
+      "learningObjectiveId": "CH11-LO04",
+      "questionType": "recall",
+      "difficulty": "moderate",
+      "question": "Which pattern consists of progressively increasing respiratory depth and rate followed by apnea?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Cheyne–Stokes respirations"
+        },
+        {
+          "id": "B",
+          "text": "Kussmaul respirations"
+        },
+        {
+          "id": "C",
+          "text": "Ataxic respirations"
+        },
+        {
+          "id": "D",
+          "text": "Agonal gasps"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Cheyne–Stokes breathing has a cyclical increase followed by an apneic interval.",
+      "incorrectChoiceExplanations": {
+        "B": "Kussmaul respirations are deep and rapid, associated with metabolic acidosis.",
+        "C": "Ataxic respirations are irregular without this recognizable cycle.",
+        "D": "Agonal gasps are ineffective isolated gasping efforts."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "V.C. Recognizing abnormal breathing"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Abnormal respiratory patterns",
+      "reviewFocus": "Abnormal respiratory patterns",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH11(1).docx",
+          "label": "Chapter 11 outline",
+          "section": "Patient Assessment · Abnormal respiratory patterns"
+        }
+      ]
+    },
+    {
+      "id": "CH11-Q012",
+      "version": 2,
+      "chapter": 11,
+      "topic": "Pediatric apnea with a pulse",
+      "conceptId": "CH11-C012",
+      "learningObjectiveId": "CH11-LO05",
+      "questionType": "recall",
+      "difficulty": "moderate",
+      "question": "A child is apneic, has a pulse, and has an open airway. Which timing fits assisted ventilation?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "One breath every 2–3 seconds"
+        },
+        {
+          "id": "B",
+          "text": "One breath every 6 seconds"
+        },
+        {
+          "id": "C",
+          "text": "One breath every 10 seconds"
+        },
+        {
+          "id": "D",
+          "text": "Two breaths after every 30 compressions"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "The supplied airway guidance uses one breath every 2–3 seconds for children and infants with a pulse.",
+      "incorrectChoiceExplanations": {
+        "B": "This is the supplied adult interval.",
+        "C": "This is slower than the supplied pediatric interval.",
+        "D": "The definite pulse does not call for routine pulseless CPR cycles."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "V. Patient Assessment; XII.B. Artificial ventilation"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Pediatric apnea with a pulse",
+      "reviewFocus": "Pediatric apnea with a pulse",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH11(1).docx",
+          "label": "Chapter 11 outline",
+          "section": "Patient Assessment · Pediatric apnea with a pulse"
+        }
+      ]
+    },
+    {
+      "id": "CH11-Q013",
+      "version": 1,
+      "chapter": 11,
+      "topic": "Pulse oximetry versus ventilation",
+      "conceptId": "CH11-C013",
+      "learningObjectiveId": "CH11-LO06",
+      "questionType": "best_answer",
+      "difficulty": "challenging",
+      "question": "An oxygen-treated patient has SpO2 97%, but respirations are 6/min, shallow, and accompanied by declining alertness. What should guide immediate care?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Assist ventilation based on inadequate air movement"
+        },
+        {
+          "id": "B",
+          "text": "Continue oxygen alone because the displayed saturation is normal"
+        },
+        {
+          "id": "C",
+          "text": "Reduce oxygen to stimulate deeper breathing before assisting"
+        },
+        {
+          "id": "D",
+          "text": "Delay intervention until SpO2 falls below 94%"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Pulse oximetry measures oxygen saturation, not ventilation; slow shallow breathing and declining alertness require ventilatory support.",
+      "incorrectChoiceExplanations": {
+        "B": "A normal saturation does not exclude inadequate ventilation.",
+        "C": "Needed ventilation should not be delayed by withholding oxygen.",
+        "D": "Oximetry may lag and cannot replace assessment of ventilation."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "V.D. Assessment of respiration, pulse oximetry, and end-tidal CO2"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Pulse oximetry versus ventilation",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Oxygen is already improving saturation, but it does not provide the missing air movement.",
+      "whyNotBest": "A normal saturation does not exclude inadequate ventilation.",
+      "keyDistinction": "Pulse oximetry measures oxygen saturation, not ventilation; slow shallow breathing and declining alertness require ventilatory support.",
+      "reviewFocus": "Pulse oximetry versus ventilation",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH11(1).docx",
+          "label": "Chapter 11 outline",
+          "section": "Patient Assessment · Pulse oximetry versus ventilation"
+        }
+      ]
+    },
+    {
+      "id": "CH11-Q015",
+      "version": 1,
+      "chapter": 11,
+      "topic": "Poor peripheral perfusion",
+      "conceptId": "CH11-C015",
+      "learningObjectiveId": "CH11-LO06",
+      "questionType": "best_answer",
+      "difficulty": "challenging",
+      "question": "A cold, poorly perfused patient has an unstable pulse-oximeter reading. Which approach is most appropriate?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Evaluate the reading’s reliability while assessing breathing, mental status, and skin findings"
+        },
+        {
+          "id": "B",
+          "text": "Treat the displayed number as the sole determinant of oxygen and ventilation needs"
+        },
+        {
+          "id": "C",
+          "text": "Use the unstable reading to confirm carbon monoxide poisoning"
+        },
+        {
+          "id": "D",
+          "text": "Wait for a stable reading before addressing clearly inadequate respirations"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Cold vasoconstriction and hypoperfusion can impair pulse-oximeter reliability; clinical assessment remains essential.",
+      "incorrectChoiceExplanations": {
+        "B": "The number can be inaccurate and should not replace assessment.",
+        "C": "This situation does not specifically establish carbon monoxide poisoning.",
+        "D": "An unreliable monitor must not delay treatment of obvious inadequate ventilation."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "V.D. Assessment of respiration, pulse oximetry, and end-tidal CO2"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Poor peripheral perfusion",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Pulse oximetry can help guide care when reliable, but these conditions undermine confidence in the number.",
+      "whyNotBest": "The number can be inaccurate and should not replace assessment.",
+      "keyDistinction": "Cold vasoconstriction and hypoperfusion can impair pulse-oximeter reliability; clinical assessment remains essential.",
+      "reviewFocus": "Poor peripheral perfusion",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH11(1).docx",
+          "label": "Chapter 11 outline",
+          "section": "Patient Assessment · Poor peripheral perfusion"
+        }
+      ]
+    },
+    {
+      "id": "CH11-Q027",
+      "version": 1,
+      "chapter": 11,
+      "topic": "OPA tolerance",
+      "conceptId": "CH11-C027",
+      "learningObjectiveId": "CH11-LO11",
+      "questionType": "best_answer",
+      "difficulty": "challenging",
+      "question": "An unresponsive patient begins gagging as an OPA is inserted. What should you do first?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Remove the OPA and be prepared to suction"
+        },
+        {
+          "id": "B",
+          "text": "Finish inserting the OPA because the patient is unresponsive"
+        },
+        {
+          "id": "C",
+          "text": "Choose a larger OPA to suppress the gag reflex"
+        },
+        {
+          "id": "D",
+          "text": "Leave it in place and increase ventilation pressure"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "A gag reflex contraindicates OPA use even when the patient is unresponsive; remove it to limit vomiting and aspiration risk.",
+      "incorrectChoiceExplanations": {
+        "B": "Unresponsiveness alone does not establish tolerance.",
+        "C": "Increasing size does not safely suppress gagging.",
+        "D": "Higher pressure does not resolve intolerance."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "VIII.B. Oropharyngeal airways"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "OPA tolerance",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "An OPA can help an unresponsive patient, but only when the gag reflex is absent.",
+      "whyNotBest": "Unresponsiveness alone does not establish tolerance.",
+      "keyDistinction": "A gag reflex contraindicates OPA use even when the patient is unresponsive; remove it to limit vomiting and aspiration risk.",
+      "reviewFocus": "OPA tolerance",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH11(1).docx",
+          "label": "Chapter 11 outline",
+          "section": "Basic Airway Adjuncts · OPA tolerance"
+        }
+      ]
+    },
+    {
+      "id": "CH11-Q031",
+      "version": 1,
+      "chapter": 11,
+      "topic": "OPA versus NPA selection",
+      "conceptId": "CH11-C031",
+      "learningObjectiveId": "CH11-LO12",
+      "questionType": "best_answer",
+      "difficulty": "challenging",
+      "question": "A semi-conscious patient cannot maintain the airway, has an intact gag reflex, and has no signs of head or nasal trauma. Which adjunct is better suited?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A lubricated NPA inserted gently"
+        },
+        {
+          "id": "B",
+          "text": "An OPA because it provides a more rigid airway"
+        },
+        {
+          "id": "C",
+          "text": "No adjunct solely because some responsiveness remains"
+        },
+        {
+          "id": "D",
+          "text": "An OPA inserted forcefully to overcome gagging"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "An NPA can support the airway in a patient with an intact gag reflex who cannot tolerate an OPA.",
+      "incorrectChoiceExplanations": {
+        "B": "The gag reflex makes the OPA unsuitable despite its rigidity.",
+        "C": "Reduced responsiveness with poor patency may require an adjunct.",
+        "D": "Force does not make an OPA safe in a gagging patient."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "VIII.C. Nasopharyngeal airways"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "OPA versus NPA selection",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Both devices support patency, but gag tolerance determines the appropriate choice.",
+      "whyNotBest": "The gag reflex makes the OPA unsuitable despite its rigidity.",
+      "keyDistinction": "An NPA can support the airway in a patient with an intact gag reflex who cannot tolerate an OPA.",
+      "reviewFocus": "OPA versus NPA selection",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH11(1).docx",
+          "label": "Chapter 11 outline",
+          "section": "Basic Airway Adjuncts · OPA versus NPA selection"
+        }
+      ]
+    },
+    {
+      "id": "CH11-Q033",
+      "version": 1,
+      "chapter": 11,
+      "topic": "NPA resistance",
+      "conceptId": "CH11-C033",
+      "learningObjectiveId": "CH11-LO12",
+      "questionType": "best_answer",
+      "difficulty": "challenging",
+      "question": "During gentle insertion of a lubricated NPA, you meet resistance and bleeding begins. What should happen next?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Stop insertion and reassess the airway plan"
+        },
+        {
+          "id": "B",
+          "text": "Apply more pressure while keeping the same trajectory"
+        },
+        {
+          "id": "C",
+          "text": "Finish seating it quickly before more blood accumulates"
+        },
+        {
+          "id": "D",
+          "text": "Rotate repeatedly against the resistance until the flange reaches the nostril"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Resistance or bleeding calls for stopping and reassessing, rather than forcing the device.",
+      "incorrectChoiceExplanations": {
+        "B": "Lubrication does not justify forcing against resistance.",
+        "C": "Completing insertion despite bleeding can worsen injury.",
+        "D": "Repeated manipulation against resistance can cause further trauma."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "transcript2",
+          "locator": "NPA precautions and gentle insertion"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "NPA resistance",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Completing an adjunct may help patency, but new bleeding makes continued forceful insertion inappropriate.",
+      "whyNotBest": "Lubrication does not justify forcing against resistance.",
+      "keyDistinction": "Resistance or bleeding calls for stopping and reassessing, rather than forcing the device.",
+      "reviewFocus": "NPA resistance",
+      "reviewReferences": [
+        {
+          "sourceId": "transcript2",
+          "filename": "Airway Management Part II-English.txt",
+          "label": "Chapter 11 lecture · Part 2",
+          "section": "NPA precautions and gentle insertion"
+        }
+      ]
+    },
+    {
+      "id": "CH11-Q034",
+      "version": 1,
+      "chapter": 11,
+      "topic": "Recovery position",
+      "conceptId": "CH11-C034",
+      "learningObjectiveId": "CH11-LO13",
+      "questionType": "best_answer",
+      "difficulty": "challenging",
+      "question": "An uninjured unresponsive patient is breathing regularly with adequate depth and equal chest rise. Which positioning choice helps maintain the airway?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Place the patient on the side in the recovery position and continue reassessment"
+        },
+        {
+          "id": "B",
+          "text": "Keep the patient supine solely because all unresponsive patients need bag-mask ventilation"
+        },
+        {
+          "id": "C",
+          "text": "Sit the patient upright without support despite unresponsiveness"
+        },
+        {
+          "id": "D",
+          "text": "Use recovery positioning as a substitute for ventilation if breathing later becomes inadequate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "The recovery position helps maintain drainage and patency in an uninjured unconscious patient breathing adequately.",
+      "incorrectChoiceExplanations": {
+        "B": "Supine positioning is useful for procedures, but adequate breathing does not itself require assisted ventilation.",
+        "C": "An unresponsive patient cannot reliably maintain unsupported upright posture.",
+        "D": "Inadequate breathing requires ventilatory support, not positioning alone."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "IX. Maintaining the Airway"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Recovery position",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Supine positioning facilitates ventilation when needed, but this patient currently breathes adequately.",
+      "whyNotBest": "Supine positioning is useful for procedures, but adequate breathing does not itself require assisted ventilation.",
+      "keyDistinction": "The recovery position helps maintain drainage and patency in an uninjured unconscious patient breathing adequately.",
+      "reviewFocus": "Recovery position",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH11(1).docx",
+          "label": "Chapter 11 outline",
+          "section": "Maintaining the Airway · Recovery position"
+        }
+      ]
+    },
+    {
+      "id": "CH11-Q035",
+      "version": 1,
+      "chapter": 11,
+      "topic": "Hypoxia with adequate ventilation",
+      "conceptId": "CH11-C035",
+      "learningObjectiveId": "CH11-LO14",
+      "questionType": "best_answer",
+      "difficulty": "challenging",
+      "question": "A patient has adequate spontaneous rate and depth but reliable SpO2 of 88%. Which intervention directly addresses the identified deficit?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Give supplemental oxygen and reassess oxygenation and breathing"
+        },
+        {
+          "id": "B",
+          "text": "Begin assisted breaths solely because saturation is low, without evidence of inadequate air movement"
+        },
+        {
+          "id": "C",
+          "text": "Withhold oxygen until cyanosis becomes visible"
+        },
+        {
+          "id": "D",
+          "text": "Treat the adequate rate as proof that no respiratory care is needed"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hypoxia requires supplemental oxygen even when spontaneous ventilation is adequate.",
+      "incorrectChoiceExplanations": {
+        "B": "Assisted ventilation is selected for inadequate air movement; low saturation alone does not establish that need.",
+        "C": "Cyanosis is not required before treating documented hypoxia.",
+        "D": "Adequate air movement does not guarantee adequate oxygenation."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "X.A, D. Supplemental oxygen and oxygen toxicity"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Hypoxia with adequate ventilation",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Bag-mask ventilation can provide oxygen and air movement, but this presentation identifies oxygenation rather than inadequate ventilation.",
+      "whyNotBest": "Assisted ventilation is selected for inadequate air movement; low saturation alone does not establish that need.",
+      "keyDistinction": "Hypoxia requires supplemental oxygen even when spontaneous ventilation is adequate.",
+      "reviewFocus": "Hypoxia with adequate ventilation",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH11(1).docx",
+          "label": "Chapter 11 outline",
+          "section": "Supplemental Oxygen · Hypoxia with adequate ventilation"
+        }
+      ]
+    },
+    {
+      "id": "CH11-Q048",
+      "version": 1,
+      "chapter": 11,
+      "topic": "Gastric distention prevention",
+      "conceptId": "CH11-C048",
+      "learningObjectiveId": "CH11-LO21",
+      "questionType": "best_answer",
+      "difficulty": "challenging",
+      "question": "The abdomen begins to inflate during bag-mask ventilation, and the operator is squeezing rapidly and forcefully. Which correction best reduces the contributing problem?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Recheck airway position and deliver slower, gentler breaths only to visible chest rise"
+        },
+        {
+          "id": "B",
+          "text": "Increase oxygen flow while keeping the same force and rate"
+        },
+        {
+          "id": "C",
+          "text": "Squeeze the full bag volume to force more air into the lungs"
+        },
+        {
+          "id": "D",
+          "text": "Continue unchanged because abdominal rise confirms effective ventilation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Poor airway position, excess pressure, and rapid breaths contribute to gastric distention; correct technique.",
+      "incorrectChoiceExplanations": {
+        "B": "Oxygen flow does not correct excessive rate or force.",
+        "C": "Larger volumes can worsen gastric inflation.",
+        "D": "Abdominal rise is not the desired evidence of lung ventilation."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "XII.B. Artificial ventilation and gastric distention"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Gastric distention prevention",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Oxygen supply matters, but technique is the identified cause of the distention.",
+      "whyNotBest": "Oxygen flow does not correct excessive rate or force.",
+      "keyDistinction": "Poor airway position, excess pressure, and rapid breaths contribute to gastric distention; correct technique.",
+      "reviewFocus": "Gastric distention prevention",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH11(1).docx",
+          "label": "Chapter 11 outline",
+          "section": "Assisted and Artificial Ventilation · Gastric distention prevention"
+        }
+      ]
+    },
+    {
+      "id": "CH11-Q054",
+      "version": 1,
+      "chapter": 11,
+      "topic": "CPAP intolerance",
+      "conceptId": "CH11-C054",
+      "learningObjectiveId": "CH11-LO22",
+      "questionType": "best_answer",
+      "difficulty": "challenging",
+      "question": "An otherwise suitable CPAP patient becomes anxious about the mask but remains alert and breathing adequately enough to cooperate. What is the best initial approach?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Explain, reassure, and coach the patient while monitoring tolerance"
+        },
+        {
+          "id": "B",
+          "text": "Secure the straps more firmly before discussing the patient’s anxiety"
+        },
+        {
+          "id": "C",
+          "text": "Increase pressure to overcome the patient’s resistance to breathing through the mask"
+        },
+        {
+          "id": "D",
+          "text": "Continue CPAP without reassessing if the patient becomes unable to cooperate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Coaching can improve acceptance; CPAP should not be forced on a patient who cannot tolerate it.",
+      "incorrectChoiceExplanations": {
+        "B": "A seal is important, but coaching rather than forcing is the initial response to anxiety.",
+        "C": "Higher pressure is not a correction for mask-related anxiety.",
+        "D": "Loss of cooperation can make CPAP unsuitable and requires reassessment."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "XIII. Continuous Positive Airway Pressure"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "CPAP intolerance",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "A good seal matters, but tightening against active resistance does not address anxiety safely.",
+      "whyNotBest": "A seal is important, but coaching rather than forcing is the initial response to anxiety.",
+      "keyDistinction": "Coaching can improve acceptance; CPAP should not be forced on a patient who cannot tolerate it.",
+      "reviewFocus": "CPAP intolerance",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH11(1).docx",
+          "label": "Chapter 11 outline",
+          "section": "Continuous Positive Airway Pressure · CPAP intolerance"
+        }
+      ]
+    },
+    {
+      "id": "CH11-Q066",
+      "version": 1,
+      "chapter": 11,
+      "topic": "Ongoing tube monitoring",
+      "conceptId": "CH11-C066",
+      "learningObjectiveId": "CH11-LO27",
+      "questionType": "best_answer",
+      "difficulty": "challenging",
+      "question": "An ET tube was confirmed and secured before movement. Why must the EMT continue checking ventilation, perfusion, and tube position?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Movement and evolving problems can cause dislodgement or ineffective ventilation after initial confirmation"
+        },
+        {
+          "id": "B",
+          "text": "The securing device makes repeat airway assessment unnecessary"
+        },
+        {
+          "id": "C",
+          "text": "A normal earlier SpO2 guarantees that later ventilation remains adequate"
+        },
+        {
+          "id": "D",
+          "text": "Only the time of placement matters when interpreting later ETCO2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Confirmation is not a one-time guarantee; the patient and airway must be monitored continuously.",
+      "incorrectChoiceExplanations": {
+        "B": "Securement reduces movement risk but does not eliminate complications.",
+        "C": "An earlier saturation cannot establish current ventilation.",
+        "D": "A new ETCO2 change may indicate a developing complication."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "XVI.B.1.e. Monitoring an intubated patient"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Ongoing tube monitoring",
+      "secondMostPlausibleAnswer": "B",
+      "whyTempting": "Securement helps preserve position, but it cannot replace ongoing assessment.",
+      "whyNotBest": "Securement reduces movement risk but does not eliminate complications.",
+      "keyDistinction": "Confirmation is not a one-time guarantee; the patient and airway must be monitored continuously.",
+      "reviewFocus": "Ongoing tube monitoring",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH11(1).docx",
+          "label": "Chapter 11 outline",
+          "section": "Assisting with ALS Airway Procedures · Ongoing tube monitoring"
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "topic": "Ventilation definition",
+      "learningObjectiveId": "CH11-LO02",
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "III. Physiology of Breathing"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH11(1).docx",
+          "label": "Chapter 11 outline",
+          "section": "III. Physiology of Breathing"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "id": "CH11-FB001",
+      "version": 2,
+      "format": "mcq",
+      "questionType": "recall",
+      "question": "The physical movement of air into and out of the lungs is _____.",
+      "conceptId": "CH11-C074",
+      "reviewFocus": "Ventilation definition",
+      "includeInCourseExam": true,
+      "includeInLearning": false,
+      "sourceQuestionIds": [
+        "CH11-Q074"
+      ],
+      "difficulty": "moderate",
+      "correctAnswer": "A",
+      "explanation": "Ventilation is air movement. Oxygenation, respiration, and perfusion describe the other processes.",
+      "blankMultipleChoice": true,
+      "choices": [
+        {
+          "id": "A",
+          "text": "ventilation"
+        },
+        {
+          "id": "B",
+          "text": "oxygenation"
+        },
+        {
+          "id": "C",
+          "text": "respiration"
+        },
+        {
+          "id": "D",
+          "text": "perfusion"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "Oxygenation is loading oxygen onto hemoglobin.",
+        "C": "Respiration refers to gas exchange.",
+        "D": "Perfusion is blood flow through tissues sufficient for their needs."
+      },
+      "retirementReason": "Duplicate recall of a fact already tested by a retained question."
+    },
+    {
+      "chapter": 11,
+      "topic": "Capnography versus capnometry",
+      "learningObjectiveId": "CH11-LO06",
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "V.D. Assessment of respiration, pulse oximetry, and end-tidal CO2"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH11(1).docx",
+          "label": "Chapter 11 outline",
+          "section": "Patient Assessment · Capnography versus capnometry"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "id": "CH11-FB002",
+      "version": 2,
+      "format": "mcq",
+      "questionType": "recall",
+      "question": "Monitoring that supplies both an end-tidal CO₂ number and a waveform is _____.",
+      "conceptId": "CH11-C067",
+      "reviewFocus": "Capnography versus capnometry",
+      "includeInCourseExam": true,
+      "includeInLearning": false,
+      "sourceQuestionIds": [
+        "CH11-Q067"
+      ],
+      "difficulty": "moderate",
+      "correctAnswer": "A",
+      "explanation": "Capnography displays a waveform as well as a numeric value; capnometry supplies the number.",
+      "blankMultipleChoice": true,
+      "choices": [
+        {
+          "id": "A",
+          "text": "capnography"
+        },
+        {
+          "id": "B",
+          "text": "capnometry"
+        },
+        {
+          "id": "C",
+          "text": "pulse oximetry"
+        },
+        {
+          "id": "D",
+          "text": "an oxygen flowmeter"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "Capnometry provides a number without the waveform.",
+        "C": "Pulse oximetry estimates oxygen saturation.",
+        "D": "A flowmeter indicates oxygen flow, not exhaled CO₂ or a waveform."
+      },
+      "retirementReason": "Duplicate recall of a fact already tested by a retained question."
+    },
+    {
+      "chapter": 11,
+      "topic": "OPA measurement",
+      "learningObjectiveId": "CH11-LO11",
+      "sourceReferences": [
+        {
+          "sourceId": "transcript2",
+          "locator": "Suction catheter measurement using the OPA sizing method"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "transcript2",
+          "filename": "Airway Management Part II-English.txt",
+          "label": "Chapter 11 lecture · Part 2",
+          "section": "Suction catheter measurement using the OPA sizing method"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "id": "CH11-FB003",
+      "version": 2,
+      "format": "mcq",
+      "questionType": "recall",
+      "question": "An OPA is measured from the corner of the mouth to the _____.",
+      "conceptId": "CH11-C028",
+      "reviewFocus": "OPA measurement",
+      "includeInCourseExam": true,
+      "includeInLearning": false,
+      "sourceQuestionIds": [
+        "CH11-Q028"
+      ],
+      "difficulty": "moderate",
+      "correctAnswer": "A",
+      "explanation": "The lecture describes measuring from the corner of the mouth to the earlobe or jaw angle for an oral airway.",
+      "blankMultipleChoice": true,
+      "choices": [
+        {
+          "id": "A",
+          "text": "earlobe"
+        },
+        {
+          "id": "B",
+          "text": "tip of the chin"
+        },
+        {
+          "id": "C",
+          "text": "opposite mouth corner"
+        },
+        {
+          "id": "D",
+          "text": "sternal notch"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "This distance does not measure the required OPA length.",
+        "C": "Mouth width does not establish OPA length.",
+        "D": "The sternal notch is not the supplied OPA measurement endpoint."
+      },
+      "retirementReason": "Duplicate recall of a fact already tested by a retained question."
+    },
+    {
+      "chapter": 11,
+      "topic": "Adult apnea with a pulse",
+      "learningObjectiveId": "CH11-LO05",
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "V. Patient Assessment; XII.B. Artificial ventilation"
+        }
+      ],
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH11(1).docx",
+          "label": "Chapter 11 outline",
+          "section": "Patient Assessment · Adult apnea with a pulse"
+        }
+      ],
+      "contentBasis": "Uploaded course materials only",
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "id": "CH11-FB004",
+      "version": 2,
+      "format": "mcq",
+      "questionType": "recall",
+      "question": "An apneic adult with a definite pulse receives one breath every _____ seconds.",
+      "conceptId": "CH11-C011",
+      "reviewFocus": "Adult apnea with a pulse",
+      "includeInCourseExam": true,
+      "includeInLearning": false,
+      "sourceQuestionIds": [
+        "CH11-Q011"
+      ],
+      "difficulty": "moderate",
+      "correctAnswer": "A",
+      "explanation": "An apneic adult with a pulse needs approximately 10 breaths/min, using gentle breaths sufficient for chest rise.",
+      "blankMultipleChoice": true,
+      "choices": [
+        {
+          "id": "A",
+          "text": "6"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "10"
+        },
+        {
+          "id": "D",
+          "text": "15"
+        }
+      ],
+      "incorrectChoiceExplanations": {
+        "B": "This is within the supplied pediatric interval, not the adult interval.",
+        "C": "This is longer than the supplied adult interval.",
+        "D": "This is longer than the supplied adult interval."
+      },
+      "retirementReason": "Duplicate recall of a fact already tested by a retained question."
     }
   ],
-  "auditDate": "2026-10-08"
+  "auditDate": "2026-10-08",
+  "reviewStatus": "Question-quality audit completed; course-specific ranges identified; conflicting BLS items withheld."
 }
