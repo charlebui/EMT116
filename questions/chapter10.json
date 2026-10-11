@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "bankVersion": "1.2.0",
+  "bankVersion": "1.2.1",
   "chapter": 10,
   "title": "Patient Assessment",
-  "updated": "2026-10-10",
+  "updated": "2026-10-11",
   "sources": [
     {
       "id": "outline",
@@ -5748,14 +5748,14 @@
     },
     {
       "id": "CH10-Q072",
-      "version": 1,
+      "version": 2,
       "chapter": 10,
       "topic": "SAMPLE: past history, intake, and events",
       "conceptId": "CH10-C072",
       "learningObjectiveId": "CH10-LO22",
-      "questionType": "conceptual",
+      "questionType": "recall",
       "difficulty": "moderate",
-      "question": "Allergies and medications have been recorded. Which question set fills the past-history, last-intake, and event portions of SAMPLE?",
+      "question": "After asking about symptoms, allergies, and medications, which questions complete the SAMPLE history?",
       "choices": [
         {
           "id": "A",
@@ -5801,7 +5801,7 @@
         }
       ],
       "qualityAudit": {
-        "date": "2026-10-10",
+        "date": "2026-10-11",
         "status": "reviewed",
         "criteria": [
           "clear stem",
@@ -9586,6 +9586,73 @@
         "D": "An intervention is an action taken to provide care."
       },
       "retirementReason": "Duplicate recall of a fact already tested by a retained question."
+    },
+    {
+      "id": "CH10-Q072",
+      "version": 1,
+      "chapter": 10,
+      "topic": "SAMPLE: past history, intake, and events",
+      "conceptId": "CH10-C072",
+      "learningObjectiveId": "CH10-LO22",
+      "questionType": "conceptual",
+      "difficulty": "moderate",
+      "question": "Allergies and medications have been recorded. Which question set fills the past-history, last-intake, and event portions of SAMPLE?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "What medical problems do you have, when did you last eat or drink, and what happened before this began?"
+        },
+        {
+          "id": "B",
+          "text": "What does the pain feel like, how severe is it, and where does it travel?"
+        },
+        {
+          "id": "C",
+          "text": "What relieves the discomfort, when did it begin, and is it constant?"
+        },
+        {
+          "id": "D",
+          "text": "What is your name, current location, and today’s date?"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "SAMPLE includes pertinent past history, last oral intake, and events leading to the illness or injury, as well as signs/symptoms, allergies, and medications.",
+      "incorrectChoiceExplanations": {
+        "B": "These questions address OPQRST symptom features.",
+        "C": "These questions address symptom onset and behavior.",
+        "D": "These questions assess orientation."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "slides",
+          "locator": "Obtain a SAMPLE History"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded class material; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "SAMPLE: past history, intake, and events",
+      "reviewFocus": "SAMPLE: past history, intake, and events",
+      "reviewReferences": [
+        {
+          "sourceId": "slides",
+          "filename": "Lecture Slides- Patient Assessment.pdf",
+          "label": "Chapter 10 slides",
+          "section": "Obtain a SAMPLE History"
+        }
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "SAMPLE: past history, intake, and events"
+      }
     }
   ],
   "auditDate": "2026-10-08",

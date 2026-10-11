@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "bankVersion": "1.2.0",
+  "bankVersion": "1.2.1",
   "chapter": 12,
   "title": "Principles of Pharmacology",
-  "updated": "2026-10-10",
+  "updated": "2026-10-11",
   "sources": [
     {
       "id": "outline",
@@ -1801,60 +1801,64 @@
     },
     {
       "id": "CH12-Q019",
-      "version": 1,
+      "version": 2,
       "chapter": 12,
-      "topic": "Transdermal duration",
+      "topic": "Transdermal route",
       "conceptId": "CH12-C019",
       "learningObjectiveId": "CH12-LO05",
-      "questionType": "conceptual",
-      "difficulty": "moderate",
-      "question": "A medication patch is designed to deliver a drug through the skin over time. Which expectation fits that form?",
+      "questionType": "recall",
+      "difficulty": "foundational",
+      "question": "Which description defines the transdermal route of medication administration?",
       "choices": [
         {
           "id": "A",
-          "text": "A prolonged systemic effect rather than an immediate bolus into a vein"
+          "text": "Through the skin for absorption into the bloodstream"
         },
         {
           "id": "B",
-          "text": "An effect limited to the patch adhesive without absorption"
+          "text": "Onto the skin surface to act at the application site"
         },
         {
           "id": "C",
-          "text": "The same delivery path and timing as a swallowed tablet"
+          "text": "Under the skin by injection into fatty tissue"
         },
         {
           "id": "D",
-          "text": "No possibility of absorption by a rescuer who touches the drug"
+          "text": "Through the digestive tract after being swallowed"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Transdermal medication can produce sustained systemic effects and can also expose an unprotected rescuer.",
+      "explanation": "Transdermal medication is absorbed through the skin and can produce systemic effects. This differs from a topical medication used for an effect at the application site.",
       "incorrectChoiceExplanations": {
-        "B": "The drug crosses skin and may act throughout the body.",
-        "C": "Its delivery path differs from gastrointestinal absorption.",
-        "D": "Rescuer skin can absorb the medication."
+        "B": "This describes topical medication applied for a local effect.",
+        "C": "This describes a subcutaneous injection.",
+        "D": "This describes the oral route."
       },
       "sourceReferences": [
         {
           "sourceId": "outline",
-          "locator": "II.C.4. Common routes of administration"
+          "locator": "II.C.4.i; III.E–F. Topical and transcutaneous medications"
+        },
+        {
+          "sourceId": "slides1",
+          "locator": "Common routes of administration; Topical and Transcutaneous Medications"
         }
       ],
       "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
       "includeInCourseExam": true,
       "contentBasis": "Uploaded course materials only",
-      "diagnosticIntent": "Transdermal duration",
-      "reviewFocus": "Transdermal duration",
+      "diagnosticIntent": "Distinguish transdermal absorption from topical, subcutaneous, and oral delivery.",
+      "reviewFocus": "Transdermal route",
       "reviewReferences": [
         {
           "sourceId": "outline",
           "filename": "9781284243796_LOUT_CH12(1).docx",
           "label": "Chapter 12 outline",
-          "section": "How Medications Work · Transdermal duration"
+          "section": "How Medications Work · Transdermal route"
         }
       ],
       "qualityAudit": {
-        "date": "2026-10-10",
+        "date": "2026-10-11",
         "status": "reviewed",
         "criteria": [
           "clear stem",
@@ -1863,7 +1867,7 @@
           "objective alignment",
           "explanation consistency"
         ],
-        "learningTarget": "Transdermal duration"
+        "learningTarget": "Transdermal route"
       }
     },
     {
@@ -6900,6 +6904,73 @@
         "D": "Elimination describes removal of the medication from the body."
       },
       "retirementReason": "Duplicate recall of a fact already tested by a retained question."
+    },
+    {
+      "id": "CH12-Q019",
+      "version": 1,
+      "chapter": 12,
+      "topic": "Transdermal duration",
+      "conceptId": "CH12-C019",
+      "learningObjectiveId": "CH12-LO05",
+      "questionType": "conceptual",
+      "difficulty": "moderate",
+      "question": "A medication patch is designed to deliver a drug through the skin over time. Which expectation fits that form?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A prolonged systemic effect rather than an immediate bolus into a vein"
+        },
+        {
+          "id": "B",
+          "text": "An effect limited to the patch adhesive without absorption"
+        },
+        {
+          "id": "C",
+          "text": "The same delivery path and timing as a swallowed tablet"
+        },
+        {
+          "id": "D",
+          "text": "No possibility of absorption by a rescuer who touches the drug"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Transdermal medication can produce sustained systemic effects and can also expose an unprotected rescuer.",
+      "incorrectChoiceExplanations": {
+        "B": "The drug crosses skin and may act throughout the body.",
+        "C": "Its delivery path differs from gastrointestinal absorption.",
+        "D": "Rescuer skin can absorb the medication."
+      },
+      "sourceReferences": [
+        {
+          "sourceId": "outline",
+          "locator": "II.C.4. Common routes of administration"
+        }
+      ],
+      "verificationStatus": "Reviewed against uploaded course materials; not independently verified",
+      "includeInCourseExam": true,
+      "contentBasis": "Uploaded course materials only",
+      "diagnosticIntent": "Transdermal duration",
+      "reviewFocus": "Transdermal duration",
+      "reviewReferences": [
+        {
+          "sourceId": "outline",
+          "filename": "9781284243796_LOUT_CH12(1).docx",
+          "label": "Chapter 12 outline",
+          "section": "How Medications Work · Transdermal duration"
+        }
+      ],
+      "qualityAudit": {
+        "date": "2026-10-10",
+        "status": "reviewed",
+        "criteria": [
+          "clear stem",
+          "one defensible keyed answer",
+          "relevant distractors",
+          "objective alignment",
+          "explanation consistency"
+        ],
+        "learningTarget": "Transdermal duration"
+      }
     }
   ],
   "auditDate": "2026-10-08",
